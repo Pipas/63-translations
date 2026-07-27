@@ -1,0 +1,1355 @@
+{
+  "name": "General",
+  "cards": [
+    {
+      "description": "A long term skin disease that affects about 80% of teenagers in the western world. Misconceptions about its cause are common, and up until the 20th century masturbation was believed to be one.",
+      "id": "b15166bdb3a88482",
+      "title": "Acne",
+      "points": 1
+    },
+    {
+      "description": "Japanese fictional character, created in 1974, that consists of a mouthless white cat wearing a red bow. It has rapidly grown into a global phenomenon and is one of the biggest media franchises in the world.",
+      "id": "d5b0dc39299f12d9",
+      "title": "Hello Kitty",
+      "points": 1
+    },
+    {
+      "description": "A food myth that states that there is a defined window where it is permissible to pick up and eat food after it has been dropped on the floor. Many studies have been conducted on the subject with no consensus reached on the veracity of the claim.",
+      "id": "66bdb3a884826a85",
+      "title": "The 5 Second Rule",
+      "points": 2
+    },
+    {
+      "description": "A poker hand consisting of an Ace, King, Queen, Jack and 10 of the same suit. The odds of having this combination of cards is 1 in 649,739, only slightly more likely than getting struck by lightning.",
+      "id": "26a85346d84e5d84",
+      "title": "Royal Flush",
+      "points": 1
+    },
+    {
+      "description": "Worldwide youth organization based in Switzerland that aims to develop Christian principles. Perhaps better known as the song of the same name released by the Village People in 1978.",
+      "id": "ab9ada8e35619dc9",
+      "title": "YMCA",
+      "points": 1
+    },
+    {
+      "description": "A very short hair style, where the hair is clipped very close to the head with a razor or electric clippers. In many countries military recruits are forced to adopt this style, originally to prevent head lice, but nowadays usually for uniformity.",
+      "id": "6d84e5d84ee4fd2b",
+      "title": "Buzz Cut",
+      "points": 1
+    },
+    {
+      "description": "According to Einstein's theory of relativity, the fastest that any given particle can travel. In a vacuum, the exact value is defined as 299,792,458 m/s. Don't blink or you'll miss it!",
+      "id": "4e5d84ee4fd2b865",
+      "title": "The Speed of Light",
+      "points": 2
+    },
+    {
+      "description": "Fashion accessory worn by U2's frontman. Although many assumed his insistence on wearing the item was a rockstar's affectation, in an interview he revealed they help with a glaucoma-related vision problem.",
+      "id": "4a02d6ad5b0dc392",
+      "title": "Bono's Sunglasses",
+      "points": 2
+    },
+    {
+      "description": "A common national personification of the U.S. federal government or the country in general. He is most widely known for starring in the iconic 1917 U.S. Army \"I WANT YOU\" poster.",
+      "id": "85346d84e5d84ee4",
+      "title": "Uncle Sam",
+      "points": 1
+    },
+    {
+      "description": "Children's animated television series created by Keith Chapman, broadcast between 1998 and 2008, starring a construction worker and his anthropomorphic work-vehicles. Can we fix it!?",
+      "id": "b68a945311fc0874",
+      "title": "Bob the Builder",
+      "points": 2
+    },
+    {
+      "description": "Transition of identity and self-confidence that can occur in middle-aged individuals. Often triggered by events that highlight a person's growing age, inevitable mortality, or possibly lack of accomplishments in life.",
+      "id": "a38b15166bdb3a88",
+      "title": "A Midlife Crisis",
+      "points": 2
+    },
+    {
+      "description": "A situation in which one member of a platonic pairing wishes to enter into a romantic or sexual relationship, while the other does not. Alternate names are: Ally Area, Buddy Belt, Sidekick Sector, Homie Hexagon, Pal Precinct or Mate Municipality.",
+      "id": "6bdb3a884826a853",
+      "title": "The Friendzone",
+      "points": 2
+    },
+    {
+      "description": "The game you're playing right now!",
+      "id": "2b6371df91904ba6",
+      "title": "63",
+      "points": 1
+    },
+    {
+      "description": "An idiom used to describe an important or controversial issue that is obvious, but that no-one wants to discuss. It originates from a fable in which a man goes to a museum and notes lots of small things but fails to notice a large trunked mammal.",
+      "id": "d84ee4fd2b8656cd",
+      "title": "The Elephant in the Room",
+      "points": 2
+    },
+    {
+      "description": "Hit Latin-pop single released by Luis Fonsi and Daddy Yankee in 2017. The song became a viral sensation partly thanks to the release of a remix featuring Justin Bieber and was once the most viewed video on YouTube.",
+      "id": "71df91904ba61d67",
+      "title": "Despacito",
+      "points": 1
+    },
+    {
+      "description": "The number one cause of injury amongst cartoon animals. The victim will usually emerge from the rubble with a large bump on their head and their teeth replaced with black and white keys.",
+      "id": "bdb3a884826a8534",
+      "title": "A Falling Piano",
+      "points": 2
+    },
+    {
+      "description": "The giant, slug-like alien that held Han Solo captive in the third movie of the Star Wars franchise. He was planned to make an appearance in the first movie, envisioned as comic relief, but didn't make the edit.",
+      "id": "a02d6ad5b0dc3929",
+      "title": "Jabba the Hutt",
+      "points": 2
+    },
+    {
+      "description": "Phrase referring to the start and end time of a regular office job. Also the title of a Dolly Parton song written for a 1980 movie of the same name.",
+      "id": "15166bdb3a884826",
+      "title": "9 to 5",
+      "points": 2
+    },
+    {
+      "description": "Common name for a coin container normally used by children. Traditionally a person would have to break the item open to retrieve the savings stashed inside.",
+      "id": "4ee4fd2b8656cda7",
+      "title": "Piggy Bank",
+      "points": 1
+    },
+    {
+      "description": "The anthropomorphic cat protagonist of an Italian literary fairy tale who uses trickery and deceit for his owner's gain. He has become more popular in recent years due to being part of the \"Shrek\" universe.",
+      "id": "ad5b0dc39299f12d",
+      "title": "Puss in Boots",
+      "points": 1
+    },
+    {
+      "description": "The organ self-amputated by the post-impressionist Dutch painter, most known for his works of rough beauty and emotional honesty. Despite being one of the most influential figures of western art, he only sold one painting during his lifetime.",
+      "id": "311fc0874d0a38b1",
+      "title": "Van Gogh's Ear",
+      "points": 2
+    },
+    {
+      "description": "The first of the three spirits to haunt Ebenezer Scrooge in Charles Dickens' famous festive tale. This story has been adapted countless times in different contexts such as cartoons, TV and film.",
+      "id": "4ba61d67f4bab9ad",
+      "title": "The Ghost of Christmas Past",
+      "points": 2
+    },
+    {
+      "description": "",
+      "id": "346d84e5d84ee4fd",
+      "title": "Nothing",
+      "points": 1
+    },
+    {
+      "description": "A disorder that happens when a person in a state of low consciousness performs activities as if they were awake. Since these behaviours occur without volition, it can be used as a legal defence.",
+      "id": "c4a02d6ad5b0dc39",
+      "title": "Sleepwalking",
+      "points": 1
+    },
+    {
+      "description": "A female name, commonly used as slang for Marijuana. Also known in popular culture as the love interest of Peter Parker, the original Spider-Man.",
+      "id": "371df91904ba61d6",
+      "title": "Mary Jane",
+      "points": 2
+    },
+    {
+      "description": "One of the four fuzzy creatures, with television screens implemented on their abdomens, that starred in the 1997 BBC show of the same name. Their names are Tinky Winky, Dipsy, Laa-Laa… Po!",
+      "id": "99f12d9bb68a9453",
+      "title": "A Teletubby",
+      "points": 1
+    },
+    {
+      "description": "Italian organized crime syndicate that originated on the country's largest island back in the 19th century. Still operating today, it is believed that about 70% of all businesses on the island still pay protection money to the organisation.",
+      "id": "a945311fc0874d0a",
+      "title": "The Sicilian Mafia",
+      "points": 3
+    },
+    {
+      "description": "The action taken by one of the twelve disciples of Jesus Christ that revealed to the multitude of people wanting to arrest the prophet his identity. It has become a phrase that refers to a fake act of kindness.",
+      "id": "0dc39299f12d9bb6",
+      "title": "Kiss of Judas",
+      "points": 1
+    },
+    {
+      "description": "The response you're likely to get when asking the fictional British spy created by Ian Fleming what his name is.",
+      "id": "1d67f4bab9ada8e3",
+      "title": "Bond, James Bond",
+      "points": 2
+    },
+    {
+      "description": "A way of personalising pictures sent in the popular ghost-branded social media application. Amongst the most popular choices are the flower crown, the rainbow vomit and the dog ears and nose.",
+      "id": "fc0874d0a38b1516",
+      "title": "Snapchat Filters",
+      "points": 2
+    },
+    {
+      "description": "The iconic, garishly-coloured feline used as the mascot for a series of films centred around the inept French police detective, Inspector Jacques Clouseau. It slinks around to the sound of its own, instantly recognisable theme tune.",
+      "id": "1904ba61d67f4bab",
+      "title": "Pink Panther",
+      "points": 1
+    },
+    {
+      "description": "A symbol adapted in the Russian Revolution to represent solidarity between the peasantry and the working class. It's most commonly used as a shorthand for Communism and featured prominently on the flag of the Soviet Union.",
+      "id": "84826a85346d84e5",
+      "title": "The Hammer and Sickle",
+      "points": 3
+    },
+    {
+      "description": "The protagonist of the TV show of the same name, who uses his intellect and engineering skills to escape from sticky situations. His name is now synonymous with finding a simple yet elegant solution to a problem.",
+      "id": "948632cc4a02d6ad",
+      "title": "MacGyver",
+      "points": 2
+    },
+    {
+      "description": "The female parent of one's spouse.",
+      "id": "8a945311fc0874d0",
+      "title": "A Mother-in-Law",
+      "points": 1
+    },
+    {
+      "description": "That awkward situation when the zipper on your trousers is left undone.",
+      "id": "8b15166bdb3a8848",
+      "title": "An Open Fly",
+      "points": 2
+    },
+    {
+      "description": "One of the distinctive characteristics of the 47th President of the United States. Famed for its artificial colour and strange shape.",
+      "id": "1df91904ba61d67f",
+      "title": "Trump's Hair",
+      "points": 2
+    },
+    {
+      "description": "A highly classified United States Air Force facility located in Nevada that some believe hides proof of the existence of UFOs. In July 2019 a joke Facebook event prompted people to raid the facility to uncover its secrets.",
+      "id": "a8e35619dc9c3948",
+      "title": "Area 51",
+      "points": 2
+    },
+    {
+      "description": "A winter sport in which two teams take it in turns to slide stones towards a target area. The players use brooms to sweep the ice in front of the stones, altering their speed and trajectory.",
+      "id": "f4bab9ada8e35619",
+      "title": "Curling",
+      "points": 2
+    },
+    {
+      "description": "The red-haired, freckled main character of the series of children's books written by Swedish author Astrid Lindgren. The books have been translated into 77 different languages and made into several TV shows and movies.",
+      "id": "19dc9c3948632cc4",
+      "title": "Pippi Longstocking",
+      "points": 3
+    },
+    {
+      "description": "A toy line of fantasy equines created by the American company Hasbro that spawned an animated TV series of the same name. Despite its target demographic being young girls, the show has garnered a cult online following of adult males.",
+      "id": "1fc0874d0a38b151",
+      "title": "My Little Pony",
+      "points": 1
+    },
+    {
+      "description": "Children's song about a family of large marine fish going hunting, which went viral and has amassed over 13 billion views on YouTube. Its appeal comes from its simple and catchy lyrics: \"doo doo doo doo doo doo\".",
+      "id": "2d6ad5b0dc39299f",
+      "title": "Baby Shark",
+      "points": 2
+    },
+    {
+      "description": "The physical reaction from the current host of the Tonight Show that some consider to be fake. You're likely to hear this whenever a guest of the show says anything that could be considered even slightly humorous.",
+      "id": "da8e35619dc9c394",
+      "title": "Jimmy Fallon's Laugh",
+      "points": 3
+    },
+    {
+      "description": "Upper-body piece of clothing that exposes the abdomen, which has achieved widespread acceptance since the late '60s. As of the mid-2010s, male-oriented variants have seen a resurgence in popularity.",
+      "id": "874d0a38b15166bd",
+      "title": "A Crop Top",
+      "points": 2
+    },
+    {
+      "description": "Can either refer to the deceased relative of Peter Parker who motivated him to become the web slinger Spider-Man or the purveyor of microwaveable rice and other delicacies. Take your pick!",
+      "id": "61d67f4bab9ada8e",
+      "title": "Uncle Ben",
+      "points": 2
+    },
+    {
+      "description": "The third instalment of the Dreamworks animation movie franchise that follows Po, an anthropomorphic bear voiced by Jack Black, who has to reunite with his biological family to learn the power of Chi.",
+      "id": "4bab9ada8e35619d",
+      "title": "Kung Fu Panda 3",
+      "points": 2
+    },
+    {
+      "description": "A business model that recruits members via a promise of payment when enrolling others in the business. Since this practice is illegal in most countries, names like multi-level marketing are used to disguise such operations.",
+      "id": "0a38b15166bdb3a8",
+      "title": "A Pyramid Scheme",
+      "points": 2
+    },
+    {
+      "description": "Fictional squire to the protagonist of the book Don Quixote, written by Miguel de Cervantes in 1605. He's known for his dry humour, wit and Spanish proverbs commonly referred to as \"sanchismos\".",
+      "id": "9f12d9bb68a94531",
+      "title": "Sancho Panza",
+      "points": 3
+    },
+    {
+      "description": "A sentient piece of interior decor from a Disney animation set in the Middle East. It was one of the first computer-animated characters in a feature film.",
+      "id": "82b6371df91904ba",
+      "title": "Aladdin's Magic Carpet",
+      "points": 1
+    },
+    {
+      "description": "A chance card featured in the popular real-estate board game \"Monopoly\" that moves the player to a specific place on the board.",
+      "id": "e35619dc9c394863",
+      "title": "Go Directly to Jail",
+      "points": 3
+    },
+    {
+      "description": "A person who deceives others in order to gain money, fame or other advantages. One of the most famous examples of this is a medical doctor that sold petroleum-based mineral oil or \"snake oil\" as a cure-all elixir.",
+      "id": "2d9bb68a945311fc",
+      "title": "A Charlatan",
+      "points": 3
+    },
+    {
+      "description": "A slang term describing watching movies from a popular streaming service, often used as a euphemism for sexual activity. The website has since embraced the phrase, using it in promotional material and on social media.",
+      "id": "c3948632cc4a02d6",
+      "title": "Netflix and Chill",
+      "points": 2
+    },
+    {
+      "description": "A magic trick that has become synonymous with stage magic, where the performer produces an animal from an item of headwear. The phrase can also be used as an idiom to describe a surprising or seemingly impossible action.",
+      "id": "d67f4bab9ada8e35",
+      "title": "Pull a Rabbit Out of a Hat",
+      "points": 1
+    },
+    {
+      "description": "A peasant girl that lived in medieval France who believed she was chosen by God to lead the French troops to battle with England. After the French forces' momentous victory over the English she was captured and burned at the stake.",
+      "id": "8632cc4a02d6ad5b",
+      "title": "Joan of Arc",
+      "points": 2
+    },
+    {
+      "description": "A verbal party game where players choose between honestly answering a question or completing a challenge given by another player. Evidence of this game has been found as early as 1712, then known as \"Questions and Commands\".",
+      "id": "619dc9c3948632cc",
+      "title": "Truth or Dare",
+      "points": 1
+    },
+    {
+      "description": "The six main characters from the popular American sitcom created in 1994. The show spawned a spin-off sitcom called \"Joey\" that proved to be much less successful and was abruptly cancelled halfway through its second season.",
+      "id": "3948632cc4a02d6a",
+      "title": "The Friends from Friends",
+      "points": 2
+    },
+    {
+      "description": "An acronym to a famous expression that is a call to live life to its fullest extent, along the same lines as \"Carpe Diem\". Despite its existential implications, the phrase is mostly used by teenagers before engaging in unnecessarily reckless behaviour.",
+      "id": "904ba61d67f4bab9",
+      "title": "YOLO (You Only Live Once)",
+      "points": 2
+    },
+    {
+      "description": "An impossible mathematical operation. NaN!",
+      "id": "12d9bb68a945311f",
+      "title": "Dividing by Zero",
+      "points": 2
+    },
+    {
+      "description": "An idiom used to describe an odd or disreputable member of a group, especially within a family, which tends to be treated differently or excluded. In nature these are caused by a recessive gene in the parents, much like hair colour in humans.",
+      "id": "35619dc9c3948632",
+      "title": "A Black Sheep",
+      "points": 2
+    },
+    {
+      "description": "Plastic horn, popularised during the 2010 FIFA World Cup, that produces a loud monotone sound when blown. Due to its annoying nature, audio filtration technology was used by broadcasters to mitigate its sound during games.",
+      "id": "74d0a38b15166bdb",
+      "title": "Vuvuzela",
+      "points": 2
+    },
+    {
+      "description": "Song by Bryan Adams released in 1985 about a young man trying to become a rock star. Adams later revealed the song was actually about making love during that time of year, alluding to the innuendo title.",
+      "id": "9ada8e35619dc9c3",
+      "title": "Summer of '69",
+      "points": 1
+    },
+    {
+      "description": "A CGI-animated amphibian that became famous after releasing a remix of the song \"Axel F\" in 2005. The character was mostly used to market ringtones and faced controversy for having exposed genitals in commercials.",
+      "id": "632cc4a02d6ad5b0",
+      "title": "Crazy Frog",
+      "points": 1
+    },
+    {
+      "description": "A fictional faun who lives in the fantasy world of Narnia, created by C. S. Lewis in 1950. He is the first character introduced in the fictional world and is described in the book as having \"a strange but pleasant little face\".",
+      "id": "39299f12d9bb68a9",
+      "title": "Mr. Tumnus",
+      "points": 3
+    },
+    {
+      "description": "The wooden four-legged animal shaped structure in which Greek soldiers hid to infiltrate a besieged ancient city. The term is also used in computing for malware that disguises its true intent.",
+      "id": "5346d84e5d84ee4f",
+      "title": "Trojan Horse",
+      "points": 1
+    },
+    {
+      "description": "The large yellow-feathered character from the children's cartoon Sesame Street. While not based on any real life animal, the placement of his eyes on the front of his head imply that this giant avian is a predator.",
+      "id": "9dc9c3948632cc4a",
+      "title": "Big Bird",
+      "points": 1
+    },
+    {
+      "description": "The headmaster of Hogwarts, the fictional school of witchcraft and wizardry featured in JK Rowling's series of fantasy books. He resides in the headmaster's office with his pet phoenix, Fawkes.",
+      "id": "9c3948632cc4a02d",
+      "title": "Albus Dumbledore",
+      "points": 2
+    },
+    {
+      "description": "A mobile game where the player helps a flying animal to navigate between vertical green pipes. After a surge in popularity in 2014 it was removed from app stores by its creator, who cited concerns over its addictive nature.",
+      "id": "b6371df91904ba61",
+      "title": "Flappy Bird",
+      "points": 2
+    },
+    {
+      "description": "Game played between two people who simultaneously form one of three shapes using their hands. Variants of the game exist with additional shapes like Well, Spock and Lizard as well as a variant with up to 101 shapes!",
+      "id": "e5d84ee4fd2b8656",
+      "title": "Rock, Paper, Scissors",
+      "points": 1
+    },
+    {
+      "description": "Reality TV Show, first broadcast in the Netherlands, where contestants live together in a house isolated from the outside world. The name originates from George Orwell's novel 1984 that tackles themes of oppressive surveillance.",
+      "id": "45311fc0874d0a38",
+      "title": "Big Brother",
+      "points": 2
+    },
+    {
+      "description": "A delicacy consisting of salt-cured fish eggs, considered one of the world's most luxurious foods. It's believed that silver utensils affect the flavour, so it's recommended to be eaten with spoons made from mother of pearl.",
+      "id": "d0a38b15166bdb3a",
+      "title": "Caviar",
+      "points": 2
+    },
+    {
+      "description": "A questionable stylistic choice found in the suit of the caped crusader for the movies directed by Joel Schumacher in 1995 and 1997. The reason given for this costuming decision was that the suit was based on ancient Greek statues.",
+      "id": "5619dc9c3948632c",
+      "title": "Batman's Nipples",
+      "points": 3
+    },
+    {
+      "description": "An ancient Egyptian pharaoh whose tomb was believed to be lost for centuries. In 1922 his tomb was rediscovered and contained over 5000 precious items, including a solid gold coffin and multiple trumpets.",
+      "id": "dc9c3948632cc4a0",
+      "title": "Tutankhamun",
+      "points": 2
+    },
+    {
+      "description": "Swahili saying that translates to No Worries, made famous by the 1994 Disney animated movie The Lion King. In 2018, Disney's trademark of the phrase in the US caused controversy in East Africa.",
+      "id": "b0dc39299f12d9bb",
+      "title": "Hakuna Matata",
+      "points": 1
+    },
+    {
+      "description": "Internet famous feline, known for having a perpetually frowning face, that amassed over 8 million followers on multiple social media pages. In 2014 she starred in her own Christmas movie, voiced by Aubrey Plaza.",
+      "id": "68a945311fc0874d",
+      "title": "Grumpy Cat",
+      "points": 2
+    },
+    {
+      "description": "A short period of sleep typically taken during daytime hours. It's traditional in countries with warm climates such as Spain, where a national \"Siesta\" competition was once held in Madrid.",
+      "id": "5166bdb3a884826a",
+      "title": "A Nap",
+      "points": 1
+    },
+    {
+      "description": "A natural light display in the Earth's sky found in high-latitude regions, also known as the Northern Lights. The Inuit people believed the lights were spirits of their ancestors playing a game with a walrus skull used as the ball.",
+      "id": "166bdb3a884826a8",
+      "title": "Aurora Borealis",
+      "points": 3
+    },
+    {
+      "description": "Device that attempts to deduce whether or not a person is telling the truth by measuring several physiological indicators whilst the subject answers a series of questions. Its effectiveness is, however, disputed by the scientific community.",
+      "id": "84ee4fd2b8656cda",
+      "title": "A Polygraph",
+      "points": 2
+    },
+    {
+      "description": "A supernatural deity considered sacred or divine. In monotheistic religions He is considered to be the creator of the world.",
+      "id": "df91904ba61d67f4",
+      "title": "God",
+      "points": 1
+    },
+    {
+      "description": "A controversial fashion combination that involves wearing a piece of warm clothing with footwear commonly used in summer. The creators of this game do not condone this practice.",
+      "id": "6371df91904ba61d",
+      "title": "Socks and Sandals",
+      "points": 2
+    },
+    {
+      "description": "A common tactic used by websites to lure in users, often having outlandish claims about the content of the article. What happens next may surprise you!",
+      "id": "db3a884826a85346",
+      "title": "Clickbait",
+      "points": 2
+    },
+    {
+      "description": "The large block of frozen water that, in 1912, doomed one of the biggest passenger vessels of the era. Ironically, the ship was considered one of the safest afloat and was widely believed it could never go down.",
+      "id": "682b6371df91904b",
+      "title": "The Iceberg That Sank the Titanic",
+      "points": 2
+    },
+    {
+      "description": "The iconic weapon used by the protagonist of George Lucas' 1981 film franchise that follows the adventures of a professor of archaeology. One of the replicas used for filming was sold at auction in 2014 for $140,000.",
+      "id": "c39299f12d9bb68a",
+      "title": "Indiana Jones' Whip",
+      "points": 2
+    },
+    {
+      "description": "Fictional masked vigilante created by Johnston McCulley in 1919, who defends the people of California against evil tyrants. He is an acrobat and expert with weapons, most prominently his rapier with which he carves his initial on defeated foes.",
+      "id": "dc39299f12d9bb68",
+      "title": "Zorro",
+      "points": 1
+    },
+    {
+      "description": "Fictional Belgian detective created by Agatha Christie who is the protagonist of most of her crime stories. He has been portrayed by several actors over the years and always sports his signature moustache.",
+      "id": "ba61d67f4bab9ada",
+      "title": "Hercule Poirot",
+      "points": 2
+    },
+    {
+      "description": "The 1943 book, written by French aviator Antoine de Saint-Exupéry, that tells the story of a stranded pilot who meets a peculiar young boy. It has been adapted countless times and is one of the most translated books of all time.",
+      "id": "32cc4a02d6ad5b0d",
+      "title": "The Little Prince",
+      "points": 1
+    },
+    {
+      "description": "A style of facial hair made infamous by the leader of Germany and the Axis powers during the second world war. Also famously adorned the face of Charlie Chaplin!",
+      "id": "91904ba61d67f4ba",
+      "title": "A Hitler Moustache",
+      "points": 1
+    },
+    {
+      "description": "Handheld digital pet created in Japan in the 1990s, which became one of the most popular toy fads of the era. There were concerns about children becoming overly attached to their pets, with reports of teenagers burying them when they passed.",
+      "id": "d84e5d84ee4fd2b8",
+      "title": "Tamagotchi",
+      "points": 3
+    },
+    {
+      "description": "A fictitious Kazakh journalist created and played by Sasha Baron Cohen in the 2006 movie of the same name. The film was highly controversial and many participants took legal action against Cohen and the film's producers.",
+      "id": "ada8e35619dc9c39",
+      "title": "Borat",
+      "points": 2
+    },
+    {
+      "description": "Term used for the Indian Hindi-language film industry located in Mumbai. Its most popular genre is the Masala film, which freely mixes different elements including action, comedy, romance and drama alongside musical numbers.",
+      "id": "11fc0874d0a38b15",
+      "title": "Bollywood",
+      "points": 2
+    },
+    {
+      "description": "Founder and first emperor of the Mongol Empire, originating in 1206, which later became the largest contiguous empire in history. A 2003 study found that about 1 in every 200 men are direct descendants of him.",
+      "id": "c0874d0a38b15166",
+      "title": "Genghis Khan",
+      "points": 3
+    },
+    {
+      "description": "A 1996 sports-comedy that brings together the characters from Looney Tunes and legendary sportsman Michael Jordan to play in an intergalactic basketball game.",
+      "id": "cc4a02d6ad5b0dc3",
+      "title": "Space Jam",
+      "points": 1
+    },
+    {
+      "description": "One of the original suspects from the famous detective board game series Cluedo.",
+      "id": "826a85346d84e5d8",
+      "title": "Colonel Mustard",
+      "points": 2
+    },
+    {
+      "description": "A historic region, located in central Romania, known for being the setting for the 1897 Bram Stoker gothic novel Dracula. It has since become synonymous with the genre and is the setting for over 40 vampire movies.",
+      "id": "5311fc0874d0a38b",
+      "title": "Transylvania",
+      "points": 2
+    },
+    {
+      "description": "This mysterious mineral is Superman's only weakness and has become a synonym for anything that makes someone susceptible to harm. Though it's most commonly portrayed as green, it was coloured red in its original appearance on a comic book page.",
+      "id": "3a884826a85346d8",
+      "title": "Kryptonite",
+      "points": 2
+    },
+    {
+      "description": "The fictional swashbuckler portrayed by Johnny Depp in the Pirates of the Caribbean series. His characterisation is based on a combination of Keith Richards and the Looney Tunes character Pepé Le Pew.",
+      "id": "d6ad5b0dc39299f1",
+      "title": "Captain Jack Sparrow",
+      "points": 1
+    },
+    {
+      "description": "An elderly gentleman who, due to hot weather or an exhibitionist streak, has forgone the need to cover his torso, leaving his chest open for the world to see. Pictures of such gentlemen may also be posted on social media sites as a flippant response to political arguments.",
+      "id": "38b15166bdb3a884",
+      "title": "Shirtless Old Man",
+      "points": 3
+    },
+    {
+      "description": "A simple dance move in which a person drops their head into their bent arm and raises the other. In Saudi Arabia it was made illegal as it was deemed to allude to cannabis and other illicit drugs.",
+      "id": "b9ada8e35619dc9c",
+      "title": "The Dab",
+      "points": 1
+    },
+    {
+      "description": "An idiom used to describe someone with a singular talent or skill. The term originates from an old joke about an exceptionally bad circus with a small horse whose only \"talent\" was playing dead.",
+      "id": "46d84e5d84ee4fd2",
+      "title": "One-Trick Pony",
+      "points": 1
+    },
+    {
+      "description": "💩",
+      "id": "c9c3948632cc4a02",
+      "title": "The Poo Emoji",
+      "points": 2
+    },
+    {
+      "description": "Region in the solar system located between the orbit of Mars and Jupiter, occupied by 'space rocks' of varying size and shape. Contrary to popular imagery, if you were to fly through in a spaceship the chances of a collision would be minimal.",
+      "id": "884826a85346d84e",
+      "title": "The Asteroid Belt",
+      "points": 2
+    },
+    {
+      "description": "Online dating app that allows users to anonymously swipe to like or dislike other profiles. It pioneered the swiping method of user interface now common in most dating apps as well as other apps like this one!",
+      "id": "d9bb68a945311fc0",
+      "title": "Tinder",
+      "points": 1
+    },
+    {
+      "description": "Self-given nickname of the American rapper and producer Pitbull. This tag line is often exclaimed at the beginning of his tracks, originating from a song of the same name.",
+      "id": "5b0dc39299f12d9b",
+      "title": "Mr. Worldwide",
+      "points": 2
+    },
+    {
+      "description": "The removal of all pubic hair from the pelvic region, vulva, labia and anus. Its name comes from a Manhattan salon founded in 1987 by a group of sisters from South America.",
+      "id": "a884826a85346d84",
+      "title": "Brazilian Wax",
+      "points": 3
+    },
+    {
+      "description": "A regular man that looks suspiciously like Superman.",
+      "id": "02d6ad5b0dc39299",
+      "title": "Clark Kent Without Glasses",
+      "points": 3
+    },
+    {
+      "description": "A 1990 comedy film starring Macaulay Culkin that follows a left behind child fending off burglars from his family residence. The movie is considered by many to be a staple Christmas watch.",
+      "id": "a61d67f4bab9ada8",
+      "title": "Home Alone",
+      "points": 1
+    },
+    {
+      "description": "A hypothesis that our planet resembles the shape of a disc instead of a sphere. In an attempt to prove this idea and see the truth for himself, an American daredevil manned a homemade rocket resulting in his own demise.",
+      "id": "4d0a38b15166bdb3",
+      "title": "The Flat Earth Theory",
+      "points": 2
+    },
+    {
+      "description": "Underwater superhero member of DC Comics' Justice League who wields a trident and can command sea creatures. Despite being one of the most popular superheroes, he's often joked about for his perceived weak powers.",
+      "id": "bb68a945311fc087",
+      "title": "Aquaman",
+      "points": 1
+    },
+    {
+      "description": "Brand of miniature toy cars created in 1968 by American toy manufacturer Mattel. The franchise is now a worldwide success, with over 6 billion cars produced and 20 thousand different variations. Beat that!",
+      "id": "945311fc0874d0a3",
+      "title": "Hot Wheels",
+      "points": 2
+    },
+    {
+      "description": "A species of lizard often kept as a pet named Pogona, more commonly referred to by this name. The name refers to the underside of its throat, which can turn black as a result of stress.",
+      "id": "04ba61d67f4bab9a",
+      "title": "Bearded Dragon",
+      "points": 2
+    },
+    {
+      "description": "The 1981 musical composed by Andrew Lloyd Webber that tells the story of a tribe of felines called the Jellicles. The musical's big screen adaptation was panned by critics and viewers alike when it was released in 2019.",
+      "id": "2cc4a02d6ad5b0dc",
+      "title": "Cats",
+      "points": 1
+    },
+    {
+      "description": "A person that claims to use paranormal abilities to perform acts that are inexplicable by natural law, usually communicating with the dead. While there are many believers, there is no scientific proof of these powers.",
+      "id": "67f4bab9ada8e356",
+      "title": "A Psychic",
+      "points": 1
+    },
+    {
+      "description": "Two iconic Gaulish heroes from a beloved French comic series set during Roman times. The smaller one drinks a magic potion for strength which the larger fell into a cauldron of as a baby.",
+      "id": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+      "title": "Asterix and Obelix",
+      "points": 2
+    },
+    {
+      "description": "Microsoft's first widely-used web browser, infamous for being slow and outdated. It was so unloved that its main use, by the end, was downloading alternative browsers.",
+      "id": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+      "title": "Internet Explorer",
+      "points": 2
+    },
+    {
+      "description": "Tesla's angular stainless-steel electric pickup. It was unveiled in 2019 when a stunt designed to show its strength ended with two of its windows broken live on stage.",
+      "id": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+      "title": "Cybertruck",
+      "points": 2
+    },
+    {
+      "description": "A famous line from a 1999 cult film with Brad Pitt and Edward Norton, based on a Chuck Palahniuk novel. This instruction is suspiciously similar to the second one!",
+      "id": "1226b2cb-facb-4ea2-ab2a-474011445d67",
+      "title": "The First Rule of Fight Club",
+      "points": 2
+    },
+    {
+      "description": "A 1993 Bill Murray film in which a grumpy weatherman relives the same 24-hour period over and over. Director Harold Ramis estimated the protagonist is trapped in the loop for roughly 10 years of subjective time.",
+      "id": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+      "title": "Groundhog Day",
+      "points": 2
+    },
+    {
+      "description": "Prehistoric sea monster awakened by nuclear testing that first appeared in Japanese cinema in 1954. The character has starred in 38 films, making it the longest-running franchise featuring a single monster.",
+      "id": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+      "title": "Godzilla",
+      "points": 1
+    },
+    {
+      "description": "A nonsense catchphrase from a 2024 rap track that became inescapable playground slang among schoolchildren worldwide. Originally it referred to the height of a basketball player in feet and inches.",
+      "id": "d1a72910-2258-4d3f-80d4-9be8ee86e8ce",
+      "title": "6-7",
+      "points": 1
+    },
+    {
+      "description": "Classic fairy tale where a trio of siblings build homes from different materials to escape a hungry wolf. The story has been told in countless variations, but the wolf's catchphrase \"I'll huff and I'll puff\" remains iconic.",
+      "id": "69337803-074d-4e31-8418-747bd7da56a2",
+      "title": "The Three Little Pigs",
+      "points": 1
+    },
+    {
+      "description": "The bulletproof vehicle used by the head of the Catholic Church to greet crowds during outdoor visits. It was redesigned with armoured glass after the 1981 assassination attempt on John Paul II in Saint Peter's Square.",
+      "id": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+      "title": "Popemobile",
+      "points": 1
+    },
+    {
+      "description": "The first mammal ever cloned from an adult somatic cell, born at a Scottish research institute in 1996. She was named after a famous American country singer because the cell came from a mammary gland.",
+      "id": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
+      "title": "Dolly, the Sheep",
+      "points": 1
+    },
+    {
+      "description": "A classic ethical dilemma where you must decide whether to divert a runaway vehicle to kill one person instead of five. Over the years variants of it have been created with increasingly ridiculous scenarios.",
+      "id": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
+      "title": "The Trolley Problem",
+      "points": 2
+    },
+    {
+      "description": "A daily online puzzle in which players have six attempts to guess a hidden five-letter solution. The New York Times bought it from its creator in 2022 for a price in the low seven figures.",
+      "id": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+      "title": "Wordle",
+      "points": 1
+    },
+    {
+      "description": "The idea from chaos theory that a tiny event, like an insect flapping its wings, can cause enormous distant consequences. Meteorologist Edward Lorenz coined the term in 1972 after noticing weather models behaved wildly differently with minor adjustments.",
+      "id": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+      "title": "The Butterfly Effect",
+      "points": 2
+    },
+    {
+      "description": "The instinct to wave a freshly developed instant photo through the air, famously referred to by an OutKast song. The manufacturer has officially asked people to stop doing this, as it can actually damage the developing image.",
+      "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
+      "title": "Shaking a Polaroid Picture",
+      "points": 2
+    },
+    {
+      "description": "Handheld toy with ball bearings that became a global craze in 2017, marketed as a stress-relief device. Despite claims of helping with focus, studies found no evidence they actually improved attention or reduced anxiety.",
+      "id": "7b27a365-2f05-403a-baba-d6c151585293",
+      "title": "A Fidget Spinner",
+      "points": 1
+    },
+    {
+      "description": "The famous advertising claim used to suggest that almost every tooth professional endorses a particular toothpaste. I wonder what the last one thinks...",
+      "id": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef",
+      "title": "9 out of 10 Dentists",
+      "points": 2
+    },
+    {
+      "description": "The social force that makes a young person try a cigarette, a haircut, or a questionable trend just to fit in. Studies show even adults will agree with an obviously wrong group answer just to conform.",
+      "id": "4d8dae45-828a-4242-a217-0c0227c4789a",
+      "title": "Peer Pressure",
+      "points": 2
+    },
+    {
+      "description": "The little online test where you must identify traffic lights or buses to prove you are a human being. It was co-invented by the same person who later created Duolingo.",
+      "id": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+      "title": "A CAPTCHA",
+      "points": 2
+    },
+    {
+      "description": "A famous physics thought experiment involving a feline trapped in a box with a vial of poison. Until the box is opened, the animal is considered both alive and dead simultaneously.",
+      "id": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+      "title": "Schrödinger's Cat",
+      "points": 3
+    },
+    {
+      "description": "A 3D combination puzzle invented in 1974 by a Hungarian sculptor and architecture professor. The current world record for solving it is under 3 seconds, held by a child.",
+      "id": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+      "title": "Rubik's Cube",
+      "points": 1
+    },
+    {
+      "description": "A cultural concept describing harmful traditional male behaviours, like suppressing emotions or aggressive dominance. Common signs include refusing to cry at funerals, or insisting that pink is exclusively for girls.",
+      "id": "902799b4-18f2-48c9-92f4-78547c02520f",
+      "title": "Toxic Masculinity",
+      "points": 2
+    },
+    {
+      "description": "The giant space rock that struck Earth roughly 66 million years ago, ending the Cretaceous period. Its impact crater lies buried beneath the Yucatán Peninsula in Mexico, measuring around 180 km wide.",
+      "id": "bf10ceba-8762-4244-8023-457eb20adb1d",
+      "title": "The Asteroid That Killed the Dinosaurs",
+      "points": 3
+    },
+    {
+      "description": "The mid-game musical performance during America's biggest annual sporting event, watched by over 100 million viewers. Janet Jackson's 2004 appearance caused a wardrobe malfunction so notorious it indirectly inspired the creation of YouTube.",
+      "id": "f9ff4c01-b6e0-46c5-8863-b29222eadecf",
+      "title": "Super Bowl Halftime Show",
+      "points": 2
+    },
+    {
+      "description": "A viral confection from the United Arab Emirates filled with pistachio cream and crispy kataifi pastry. Its sudden popularity caused a worldwide pistachio shortage, driving up prices for bakers everywhere.",
+      "id": "c62de87f-30ec-4909-a35c-104375f280cb",
+      "title": "Dubai Chocolate",
+      "points": 1
+    },
+    {
+      "description": "A packaging material invented in 1957, originally intended to be textured wallpaper. The satisfying popping sound it makes has led to dedicated appreciation days, mobile apps simulating the experience, and countless hours of stress relief.",
+      "id": "c8161658-fa59-4488-b151-50d8bfe969f1",
+      "title": "Bubble Wrap",
+      "points": 2
+    },
+    {
+      "description": "A casual, rounded typeface designed in 1994, originally intended for a cartoon dog assistant in Microsoft software. Despite the hate it receives, it may actually help dyslexic readers process text more easily.",
+      "id": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+      "title": "Comic Sans",
+      "points": 2
+    },
+    {
+      "description": "The act of deliberately jumping into someone else's picture as it is being taken, ruining the shot. It became a defining cultural verb of the 2010s, added to the Oxford Dictionary in 2014.",
+      "id": "5097406e-7daa-43a3-90f0-b3e6a78592a0",
+      "title": "Photobombing",
+      "points": 1
+    },
+    {
+      "description": "A gym session dedicated entirely to lower body exercises such as squats, lunges, and calf raises. Statistically, it is the most frequently skipped gym session.",
+      "id": "61ccc086534df11f",
+      "title": "Leg Day",
+      "points": 1
+    },
+    {
+      "description": "A proprietary condiment served on a famous fast food burger, responsible for much of its distinctive flavour. In 2012, a former employee posted the supposed recipe on Reddit, and the company essentially confirmed its authenticity.",
+      "id": "85361ccc086534df",
+      "title": "Big Mac's Secret Sauce",
+      "points": 3
+    },
+    {
+      "description": "A phrase describing trivial inconveniences that are only genuine concerns for people living in wealthy, developed nations. It highlights the absurd chasm between genuine hardship and the minor inconveniences of modern existence.",
+      "id": "4fd2b8656cda7f9e",
+      "title": "First World Problems",
+      "points": 2
+    },
+    {
+      "description": "A person who looks strikingly like another completely unrelated individual, sharing their facial features without sharing their genes. The word comes from German, literally meaning 'double walker', and was historically considered a terrible omen.",
+      "id": "83b89a12daab64be",
+      "title": "A Doppelganger",
+      "points": 1
+    },
+    {
+      "description": "A neurotransmitter produced in the brain that plays a key role in feelings of pleasure, reward, and motivation. It's what you will get when you finally guess this card!",
+      "id": "69d83b89a12daab6",
+      "title": "Dopamine",
+      "points": 2
+    },
+    {
+      "description": "A running gag in which children stack on each other's shoulders and share an oversized outfit to impersonate a single grown-up. A beloved internet trope, most often deployed to sneak into R-rated films, buy alcohol, or infiltrate a board meeting.",
+      "id": "2b8656cda7f9e5af",
+      "title": "3 Kids in a Trenchcoat",
+      "points": 2
+    },
+    {
+      "description": "A classic childhood fear of a terrifying creature lurking inside the bedroom closet, waiting to emerge after lights-out. The concept appears in folklore across virtually every culture worldwide, suggesting a deeply universal dread of dark, enclosed spaces.",
+      "id": "b64bea85361ccc08",
+      "title": "The Monster in the Wardrobe",
+      "points": 3
+    },
+    {
+      "description": "A term for the wealthiest fraction of humanity, who collectively control a disproportionate share of global wealth. According to Oxfam, this group owns more wealth than the remaining proportion of humanity combined.",
+      "id": "f9e5afff1669d83b",
+      "title": "The 1%",
+      "points": 2
+    },
+    {
+      "description": "An underground shelter built to protect its occupants from catastrophic events such as nuclear war or civilisation collapse. Several Silicon Valley billionaires have reportedly purchased fortified retreats in New Zealand to wait out any potential societal collapse.",
+      "id": "fff1669d83b89a12",
+      "title": "A Doomsday Bunker",
+      "points": 2
+    },
+    {
+      "description": "The soft, fluffy accumulation of fabric fibres that collects inside the human navel over time. Australian researcher Karl Kruszelnicki wrote a paper investigating why it is almost always blue.",
+      "id": "4bea85361ccc0865",
+      "title": "Belly Button Lint",
+      "points": 2
+    },
+    {
+      "description": "A police interrogation technique where one officer is harsh and aggressive while the other is warm and sympathetic. One officer offers you a cigarette, the other offers you a lifetime in prison. Works surprisingly often.",
+      "id": "a7f9e5afff1669d8",
+      "title": "Good Cop, Bad Cop",
+      "points": 2
+    },
+    {
+      "description": "A fantasy tabletop role-playing game first published in 1974, where players create characters and go on collaborative quests. It directly inspired the creators of landmark video games including Baldur's Gate, World of Warcraft, and countless others.",
+      "id": "cda7f9e5afff1669",
+      "title": "Dungeons & Dragons",
+      "points": 1
+    },
+    {
+      "description": "A person with a large social media following who earns money by promoting brands and products to their audience. The industry is now worth over $20 billion globally, with top earners charging thousands per sponsored post.",
+      "id": "7f9e5afff1669d83",
+      "title": "An Instagram Influencer",
+      "points": 2
+    },
+    {
+      "description": "A K-pop song by South Korean artist PSY, released in 2012, featuring a now-iconic horse-riding dance move. It was the first YouTube video to reach one billion views, and temporarily broke the site's view counter.",
+      "id": "602973b2-e044-4261-b6ca-367ea000e503",
+      "title": "Gangnam Style",
+      "points": 1
+    },
+    {
+      "description": "An award given to every competitor in a contest, regardless of how well they performed. Critics argue they undermine achievement; supporters say they encourage young people to keep showing up.",
+      "id": "d2057c81-2f1f-4f38-8186-317e609f5eb4",
+      "title": "A Participation Trophy",
+      "points": 1
+    },
+    {
+      "description": "A classic American toy consisting of a plastic vegetable body with interchangeable facial features and accessories. He became the first toy ever advertised on American television, in a commercial that aired in 1952.",
+      "id": "cb4759da-ce62-4506-8293-0f00cc47a145",
+      "title": "Mr. Potato Head",
+      "points": 2
+    },
+    {
+      "description": "A fast-paced children's board game where each player operates a lever to collect marbles faster than their opponents. The game was first released by Milton Bradley in 1978 and has remained a noisy household staple ever since.",
+      "id": "b5a973c3-ef94-415c-9441-9fb4e2b267b3",
+      "title": "Hungry Hungry Hippos",
+      "points": 2
+    },
+    {
+      "description": "A brief, sharp headache caused by eating or drinking something very cold too quickly. The pain is actually a reflexive response to protect the blood vessels in the roof of your mouth from cooling.",
+      "id": "6aa1a744-ca02-4d49-ba46-e534b97f8a77",
+      "title": "Brain Freeze",
+      "points": 1
+    },
+    {
+      "description": "A loosely defined region of the North Atlantic Ocean where ships and aircraft have allegedly disappeared without explanation. Despite the legend, research has found it to be no more dangerous than any other stretch of ocean.",
+      "id": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+      "title": "The Bermuda Triangle",
+      "points": 2
+    },
+    {
+      "description": "Generic, inoffensive background audio played in lifts and waiting areas to fill silence. The genre is formally called 'Muzak', named after the company that pioneered piping it into public spaces in the 1930s.",
+      "id": "a0030c6e-d024-489e-ae71-047c8022a094",
+      "title": "Elevator Music",
+      "points": 1
+    },
+    {
+      "description": "A short, punny witticism typically told by a father figure. A collective groan is usually \"Pa\" for the course.",
+      "id": "a27438ca-5e4c-46df-8343-4f5a5b59af89",
+      "title": "A Dad Joke",
+      "points": 1
+    },
+    {
+      "description": "The famously confusing assembly guides provided with flat-pack furniture, featuring only diagrams and no words. The brand deliberately uses only illustrations, so a single guide works in every market worldwide.",
+      "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
+      "title": "IKEA Instructions",
+      "points": 2
+    },
+    {
+      "description": "The first working period of the week, universally dreaded at the end of the weekend. Studies show this period sees a bigger spike in heart attacks than any other point in the week.",
+      "id": "64a54249-b462-448d-9d50-280588737740",
+      "title": "Monday Morning",
+      "points": 1
+    },
+    {
+      "description": "A hairstyle characterised by short hair at the front and sides, and long at the back. Often described as 'business in the front, party in the back', it was especially popular in the 1980s.",
+      "id": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6",
+      "title": "A Mullet",
+      "points": 1
+    },
+    {
+      "description": "A German loanword describing the pleasure one feels at witnessing the misfortune of others. The word literally translates as 'harm-joy', combining the German terms for damage and pleasure.",
+      "id": "2dfbec4e-8dac-43c4-939b-0b98e3525c4b",
+      "title": "Schadenfreude",
+      "points": 2
+    },
+    {
+      "description": "A type of clothing that individually wraps each foot digit, much like a glove does for hands. Despite looking absurd, they have a loyal following among distance runners, who claim they prevent blisters effectively.",
+      "id": "fd73e068-af0c-4f73-bec6-6792139fe927",
+      "title": "Toe Socks",
+      "points": 2
+    },
+    {
+      "description": "An unnecessarily convened group work session where all relevant information could simply have been shared in writing. Surveys suggest office workers waste about a third of their working week attending such gatherings.",
+      "id": "908f592a-5281-44cc-aa69-794a92979c15",
+      "title": "A Meeting That Could Have Been an Email",
+      "points": 3
+    },
+    {
+      "description": "A famous Latin pop song from the mid-1990s with an iconic accompanying line dance. The popular remix version spent 14 consecutive weeks at No. 1 in the US, one of the longest chart runs ever.",
+      "id": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+      "title": "The Macarena",
+      "points": 1
+    },
+    {
+      "description": "A legendary cryptid said to inhabit a large freshwater lake in the Scottish Highlands. The most famous photograph, taken in 1934, was later revealed to be a hoax involving a toy submarine.",
+      "id": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+      "title": "The Loch Ness Monster",
+      "points": 1
+    },
+    {
+      "description": "A psychological phenomenon where a current experience feels as though it has happened before. A psychological phenomenon where a current experience feels as though it has happened before.",
+      "id": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+      "title": "Déjà Vu",
+      "points": 1
+    },
+    {
+      "description": "A folklore figure who collects fallen baby molars and leaves coins under the pillow in their place. In many Latin American and European countries, a small mouse plays the same role.",
+      "id": "497380b0-3425-4201-bf27-7981d7b98c68",
+      "title": "The Tooth Fairy",
+      "points": 1
+    },
+    {
+      "description": "A signature dance move where the performer appears to glide backwards while their feet move forwards. It was popularised by Michael Jackson during a 1983 performance of 'Billie Jean' on the Motown 25 television special.",
+      "id": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+      "title": "The Moonwalk",
+      "points": 1
+    },
+    {
+      "description": "Classic conspiracy theorist headgear made from aluminium sheeting to supposedly block government mind-reading signals. A 2005 MIT study found that such headgear actually amplifies certain frequency bands rather than blocking them.",
+      "id": "d4a12b6e-4358-4150-8d5e-83ac197c8db5",
+      "title": "A Tin Foil Hat",
+      "points": 2
+    },
+    {
+      "description": "A popular children's game where players must avoid touching the ground, pretending it is molten rock. The game has one rule, requires no equipment, and can spontaneously break out anywhere.",
+      "id": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+      "title": "The Floor Is Lava",
+      "points": 2
+    },
+    {
+      "description": "The socially frowned-upon act of biting a snack and plunging it back into the communal sauce. The concept was popularised in an episode of 'Seinfeld' with George Costanza being called out for the practice.",
+      "id": "15c25db5-3caf-4f17-bf3f-780fa859afb1",
+      "title": "Double Dipping",
+      "points": 2
+    },
+    {
+      "description": "A masculine hairstyle where long hair is gathered and knotted at the back of the head, favoured by hipsters. Stylists warn that wearing one too tightly can cause hair loss from the constant tension.",
+      "id": "fb730839-9f97-4976-904f-cbd53cdfdfc7",
+      "title": "A Man Bun",
+      "points": 2
+    },
+    {
+      "description": "A facial feature where the hair above both eyes meets in the middle, forming one continuous strip. Frida Kahlo famously embraced hers as a symbol of natural beauty and Mexican identity, making it her artistic trademark.",
+      "id": "7fb16c34-2dbe-4309-8b65-814920d138fb",
+      "title": "A Unibrow",
+      "points": 1
+    },
+    {
+      "description": "An accidental phone call triggered by sitting on your device or by pressure in your pocket. The phenomenon became less common once lock screens were standard, but occasionally still causes social embarrassment today.",
+      "id": "ccb895d4-50a0-4877-8088-409cbb4ed821",
+      "title": "A Butt Dial",
+      "points": 2
+    },
+    {
+      "description": "A Caribbean party game where players must pass beneath a progressively lowered horizontal bar without falling. The world record stands at a jaw-dropping 21.59 cm from the ground.",
+      "id": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+      "title": "Limbo",
+      "points": 1
+    },
+    {
+      "description": "A classic philosophical paradox about which of two interdependent things came into existence first. Aristotle considered it in ancient Greece, concluding both must have always coexisted, neatly sidestepping the entire debate.",
+      "id": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+      "title": "The Chicken or the Egg",
+      "points": 1
+    },
+    {
+      "description": "A crowd phenomenon in sports stadiums where spectators stand, raise their arms, and sit back down in sequence. Popularised globally at the 1986 FIFA World Cup, the host nation conveniently lent the spectacle its name.",
+      "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+      "title": "The Mexican Wave",
+      "points": 2
+    },
+    {
+      "description": "An emergency first-aid technique that clears a blocked airway by delivering sharp upward thrusts to the abdomen. The doctor who invented it didn't have to use it on a person until he was 96 years old.",
+      "id": "a2737d5c-387e-485c-8891-333278cef79d",
+      "title": "The Heimlich Maneuver",
+      "points": 3
+    },
+    {
+      "description": "A long, cylindrical foam float used for buoyancy and play in water. Children worldwide have discovered its primary function is not flotation, but as a weapon to hit siblings with.",
+      "id": "11f95020-812c-418e-9c21-874e4fbe24fd",
+      "title": "A Pool Noodle",
+      "points": 2
+    },
+    {
+      "description": "A hybrid eating utensil that combines the bowl of a spoon with the tines of a fork. The concept was patented as far back as 1874, though its modern plastic form is most linked to fast-food chains.",
+      "id": "0a3b865b-8b04-4f61-8d6e-95c3b42ef847",
+      "title": "A Spork",
+      "points": 2
+    },
+    {
+      "description": "The universally dreaded experience of treading barefoot on a small plastic building brick. The sole of the foot contains more nerve endings per square centimetre than almost any other part of the body, explaining the pain.",
+      "id": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+      "title": "Stepping on Lego",
+      "points": 2
+    },
+    {
+      "description": "The maddening sensation where a nasal reflex builds to its peak, then simply refuses to fire. No reliable cure exists, though popular folk remedies include staring at a light or tickling the roof of the mouth.",
+      "id": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+      "title": "A Sneeze That Won't Come",
+      "points": 3
+    },
+    {
+      "description": "The practice of applauding the pilot after a commercial aircraft touches down safely on a runway. The only thing worse is doing this at the cinema, or at a funeral.",
+      "id": "6074accc-37a1-4ddd-8707-54807fa01406",
+      "title": "Clapping When the Plane Lands",
+      "points": 3
+    },
+    {
+      "description": "The universal kitchen frustration of forcing a cover onto a container it was never meant for. I could have sworn this was the correct one...",
+      "id": "7a495018-9642-4d79-b88b-4ec138b229b6",
+      "title": "A Tupperware Lid That Doesn't Match",
+      "points": 3
+    },
+    {
+      "description": "The cool, untouched surface of a sleeping cushion, revealed by flipping it over in the night. Unfortunately an ephemeral state that never lasts as long as you would want.",
+      "id": "6704a583-9897-485e-9945-1507734e5dd5",
+      "title": "The Cold Side of the Pillow",
+      "points": 3
+    },
+    {
+      "description": "The least desirable position in an aeroplane or the back of a car. Still better than going in the boot.",
+      "id": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
+      "title": "The Middle Seat",
+      "points": 2
+    },
+    {
+      "description": "The moment a utensil slips from the hand and into a bowl of hot liquid. Recovering said utensil entails dipping a finger in the broth or fishing it with another one.",
+      "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+      "title": "A Spoon Falling Into the Soup",
+      "points": 3
+    },
+    {
+      "description": "A loose carrier tumbling through the air on a breezy day, often spotted drifting across car parks. Despite being a symbol of pollution, its aimless dance is oddly mesmerising to watch.",
+      "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+      "title": "A Plastic Bag in the Wind",
+      "points": 2
+    },
+    {
+      "description": "Reheating seafood in a shared office appliance, universally regarded as a social crime in any communal kitchen. The smell lingers in the break room for hours, long after the culprit has fled the scene.",
+      "id": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+      "title": "Microwaving Fish at Work",
+      "points": 2
+    },
+    {
+      "description": "A personal collection of experiences or achievements someone hopes to accomplish before they die. The name comes from a well-known expression for dying, one that involves kicking its own namesake.",
+      "id": "e7306cba-643c-4065-9a6f-755f705736ea",
+      "title": "A Bucket List",
+      "points": 2
+    },
+    {
+      "description": "British puzzle books requiring readers to find a striped, bespectacled figure hidden within densely crowded illustrated scenes. An editor suggested the hidden character concept after the creator had already been commissioned to make the book.",
+      "id": "bf9ec332-4873-4b6c-90d3-92f211c349f0",
+      "title": "Where's Wally?",
+      "points": 1
+    },
+    {
+      "description": "An English idiom for the minor, final incident that tips a person over the edge of their patience. It comes from an old proverb about a single piece of hay breaking a camel's back.",
+      "id": "97d61403-9d62-4a94-af01-8113f18f408d",
+      "title": "The Last Straw",
+      "points": 1
+    },
+    {
+      "description": "A curved throwing implement originally crafted by Aboriginal Australians, designed to return to the thrower when cast correctly. The world record for a returning throw stands at 238 metres, roughly two football pitches placed end to end.",
+      "id": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+      "title": "A Boomerang",
+      "points": 1
+    },
+    {
+      "description": "A fictional childhood companion, given a name and distinct personality, yet visible and real only to their creator. Psychologists consider them entirely healthy, children who develop one tend to show stronger social empathy and problem-solving skills.",
+      "id": "e1a303ac-4247-4f82-b443-e2e31daea751",
+      "title": "An Imaginary Friend",
+      "points": 2
+    },
+    {
+      "description": "A storytelling device where a plot ends abruptly at a peak moment of tension, leaving the audience in suspense. It's such an effective trick that even news broadcasts use a version of it right before the ad break.",
+      "id": "7efae148-2cc5-463a-8d51-19d649131976",
+      "title": "A Cliffhanger",
+      "points": 1
+    },
+    {
+      "description": "Something a person secretly enjoys while feeling mildly ashamed of themselves for doing so. Now is as good a time as any to reveal yours to your friends, do it!",
+      "id": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+      "title": "A Guilty Pleasure",
+      "points": 1
+    },
+    {
+      "description": "The pillowy white mascot of a famous French tyre company, recognisable worldwide since 1898. The company behind him also decides which restaurants deserve the world's most coveted culinary stars.",
+      "id": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc",
+      "title": "The Michelin Man",
+      "points": 2
+    },
+    {
+      "description": "A humanoid figure used to measure the forces on a human body during a vehicle collision. Early versions were crude, repurposed medical skeletons, but modern ones are packed with over 100 different sensors.",
+      "id": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+      "title": "A Crash Test Dummy",
+      "points": 1
+    },
+    {
+      "description": "The final remaining piece of a shared Italian dish that nobody at the table dares to take. Only a brave soul daring to ask 'is anyone going to eat that?' can end the impasse.",
+      "id": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+      "title": "The Last Slice of Pizza",
+      "points": 2
+    },
+    {
+      "description": "A contagious involuntary reflex in which witnessing someone's deep open-mouthed inhalation triggers the same response in others. Even reading about it is enough to trigger it in most people. Sorry about that.",
+      "id": "312f14af-1fdb-4040-9b5c-85167a3889b4",
+      "title": "The Yawn That Spreads",
+      "points": 3
+    },
+    {
+      "description": "A narrative trope in which a protagonist is mirrored by an identical counterpart with a sinister disposition. If I had one, it would be '36'.",
+      "id": "fb504832-5170-40be-900c-b19d0d53c2b4",
+      "title": "An Evil Twin",
+      "points": 1
+    },
+    {
+      "description": "An involuntary diaphragm spasm that produces a sudden intake of breath and a sharp, repetitive sound. One American farmer suffered them for 68 straight years, amounting to an astonishing 430 million estimated spasms.",
+      "id": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+      "title": "Hiccups",
+      "points": 1
+    },
+    {
+      "description": "A silent performer who communicates entirely through exaggerated gestures and facial expressions. Frequently spotted trapped inside an invisible box.",
+      "id": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+      "title": "A Mime",
+      "points": 1
+    },
+    {
+      "description": "The socially oblivious person who lingers at a gathering long after everyone else has gone home. As a host, if yawning or clearing away the dishes doesn't work, try turning off the lights.",
+      "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
+      "title": "The Party Guest Who Won't Leave",
+      "points": 3
+    },
+    {
+      "description": "A common childhood slip of the tongue where a student addresses their educator by a parental name. Cute in primary school, deeply concerning in university.",
+      "id": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
+      "title": "Calling the Teacher \"Mum\"",
+      "points": 2
+    },
+    {
+      "description": "The deliberate fashion choice of keeping tinted eyewear on one's face whilst remaining within an enclosed space. Usually worn by those who want to look cool, important, or can't be bothered to take them off.",
+      "id": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+      "title": "Wearing Sunglasses Indoors",
+      "points": 2
+    },
+    {
+      "description": "The universal experience of applying force in the wrong direction to an entrance requiring the opposite action. Experts believe this to be a design flaw rather than user error.",
+      "id": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
+      "title": "Pushing a Pull Door",
+      "points": 2
+    },
+    {
+      "description": "A release of intestinal gas that produces no auditory signal, relying entirely on odour for detection. Might be worse than its loud relative, which at least has the decency of announcing its arrival.",
+      "id": "e058babc-7311-4426-a552-cb87ea01158d",
+      "title": "A Silent Fart",
+      "points": 1
+    },
+    {
+      "description": "An infant in distress aboard an aircraft, widely regarded as the most dreaded fellow passenger. Some Asian airlines have experimented with quiet zones to spare other passengers the ordeal.",
+      "id": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+      "title": "A Crying Baby on a Plane",
+      "points": 2
+    },
+    {
+      "description": "A sacred cup from Christian legend, believed to be the chalice used at the Last Supper. Thought to have been found in 1910, but studies concluded it was actually just a really ornate oil lamp.",
+      "id": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+      "title": "The Holy Grail",
+      "points": 1
+    },
+    {
+      "description": "An oil-burning light source from Arabian folklore that, when rubbed, releases a powerful wish-granting spirit. Asking for more wishes is strictly forbidden, though asking for more of these seems like a suspicious loophole.",
+      "id": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+      "title": "A Magic Lamp",
+      "points": 1
+    },
+    {
+      "description": "The leading scientific theory describing the origin of the universe, approximately 13.8 billion years ago. The name was mockingly coined by astronomer Fred Hoyle, who preferred a competing theory.",
+      "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+      "title": "The Big Bang",
+      "points": 1
+    },
+    {
+      "description": "A real 18th-century secret society that evolved into one of the most enduring conspiracy theories in modern culture. The original group, founded in Bavaria in 1776, was actually disbanded by the government within a decade.",
+      "id": "68c97440-7c83-43a3-9838-b5e967d01e38",
+      "title": "The Illuminati",
+      "points": 1
+    },
+    {
+      "description": "The notoriously illegible scrawl produced by physicians, commonly cited as impossible for patients and pharmacists to decipher. Now something of an endangered art, thanks to the shift toward digital prescriptions.",
+      "id": "65d293cc-08a2-4947-9192-44c46c7b69df",
+      "title": "Doctor's Handwriting",
+      "points": 2
+    },
+    {
+      "description": "A chain dance where participants hold the person in front by the hips and shuffle in formation. It started as a Cuban carnival tradition, and was banned by the government at various points for encouraging large gatherings.",
+      "id": "9fd6405d-5827-48f9-a06d-d492a75af32c",
+      "title": "The Conga Line",
+      "points": 2
+    },
+    {
+      "description": "A solemn pledge made by interlocking the little fingers of two people, considered entirely unbreakable by both parties. In Japan, the equivalent gesture traditionally came with a threat to cut off the finger of whoever broke the vow.",
+      "id": "cdb85807-67a8-4564-9151-fbc3a28f0203",
+      "title": "A Pinky Promise",
+      "points": 2
+    },
+    {
+      "description": "A feature on alarm clocks that delays the alarm for several more minutes before it rings again. Sleep experts say those extra minutes do more harm than good, often leaving people groggier than before.",
+      "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+      "title": "The Snooze Button",
+      "points": 1
+    },
+    {
+      "description": "A face-off in which two people hold eye contact without blinking until one looks away. World records exist for this, with competitors sustaining unbroken eye contact for almost an hour through sheer determination.",
+      "id": "5474f906-59a9-4cb8-b999-3efe8b86985c",
+      "title": "A Staring Contest",
+      "points": 2
+    },
+    {
+      "description": "A metaphor for the inner voice that tempts a person towards mischief, poor decisions, or moral shortcuts. In cartoons, it is always paired with an angelic counterpart on the opposite side, offering contradictory moral advice.",
+      "id": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
+      "title": "The Devil on Your Shoulder",
+      "points": 3
+    },
+    {
+      "description": "A dried-out plant that detaches from its roots and rolls across arid ground propelled by the wind. American towns have occasionally been buried under metres of them after particularly fierce seasonal windstorms.",
+      "id": "56356062-8f33-4b6a-8432-df0ba194b725",
+      "title": "A Tumbleweed",
+      "points": 2
+    },
+    {
+      "description": "An informal competition in which participants propel themselves across a flat surface while seated in wheeled desk furniture. There are several of these contests around the world, including a 2-hour endurance one in Kyoto, where the winner takes home 90kg of rice.",
+      "id": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+      "title": "An Office Chair Race",
+      "points": 3
+    },
+    {
+      "description": "A trio of motivational words commonly printed on decorative wall signs found in suburban homes and kitchens. Variants on the phrase have appeared on framed posters, wall decals, ornaments, cushions, mugs, bed linen, jewellery and even on coffins.",
+      "id": "568eae83-05d3-47c1-bc31-e3ddfd7d6fdc",
+      "title": "Live, Laugh, Love",
+      "points": 2
+    },
+    {
+      "description": "A competitive food event where participants consume as many sausages in buns as possible in a fixed time. The world record belongs to Joey Chestnut, who once consumed over 75 sandwiches in a single ten-minute sitting.",
+      "id": "ebadbed1-8a05-4e22-95e1-ba166e66e490",
+      "title": "A Hot Dog Eating Contest",
+      "points": 2
+    },
+    {
+      "description": "A component in a popular family game that flips the direction of play. It might be the only rule in the game that stays consistent over the thousands of different variants people play with.",
+      "id": "722617cd-07d6-454f-918a-3469e6167a19",
+      "title": "The Uno Reverse Card",
+      "points": 2
+    }
+  ]
+}
