@@ -9,9 +9,8 @@ You don't need to install anything or know how to code. Every file here is plain
 
 1. Fork the repo and make a branch.
 2. Edit the JSON. Keep the keys, change only the values.
-3. Check your JSON is valid and the keys still match. See [Checking your work](#checking-your-work).
-4. Open a pull request describing what you changed and why.
-5. Add yourself to [CONTRIBUTORS.md](CONTRIBUTORS.md).
+3. Open a pull request describing what you changed and why.
+4. Add yourself to [CONTRIBUTORS.md](CONTRIBUTORS.md).
 
 ## Before you translate anything
 
@@ -20,8 +19,8 @@ Read [GLOSSARY.md](GLOSSARY.md). 63 has a handful of terms (*pack*, *deck*, *rou
 every single time. A player who sees *baralho* on one screen and *maço* on the next thinks
 they're two different things.
 
-Then read the `README.md` inside the folder you're editing. The two folders use different
-JSON shapes and have different rules.
+Then read the `README.md` inside the folder you're editing. The folders don't all use the
+same JSON shape or the same rules.
 
 ## Fixing or improving an existing translation
 
@@ -33,24 +32,39 @@ Open the file, find the key, change the value. That's it. A few rules:
 **Never delete a key.** Even if a string looks unused, something references it. If you
 believe a key is dead, say so in the PR instead of removing it.
 
-**Keep placeholders exactly as they are.** They get replaced with real values at runtime:
+**Adding a key is allowed in exactly one case: plurals.** Keys in `packs.63.pt/` ending in
+`_one` and `_other` are plural forms, and languages don't all have two of them. If yours
+needs `_few`, `_many`, `_zero` or `_two`, add them next to the ones already there. This is
+the only exception; see [`packs.63.pt/README.md`](packs.63.pt/README.md).
 
-In `63/` they look like `{count}` and `{name}`, single braces:
+**Keep placeholders exactly as they are.** They get replaced with real values at runtime.
+**The string folders don't all use the same braces**, because different libraries read them.
+
+In `63/`, single braces:
 
 ```json
 "cards_left": "{count} cards left"     →     "{count} cartas restantes"
 ```
 
-You can move a placeholder within the sentence if your language needs a different word
-order. You cannot rename it, translate it, or drop it.
+In `packs.63.pt/` and `emails/`, double braces:
+
+```json
+"cardCount_other": "{{count}} cards"   →     "{{count}} cartas"
+```
+
+Copy whatever the English row has. Never convert one style into the other. You can move a
+placeholder within the sentence if your language needs a different word order, but you
+cannot rename it, translate it, or drop it.
 
 **Keep the escapes.** `\n` is a real line break in the app. `•` bullets and emoji are all
 deliberate, so copy them through.
 
-**Watch the length.** These strings live in buttons and cards on a phone screen, and a
-translation 40% longer than the English overflows. When in doubt, match the English length.
-Some strings have hard constraints documented in the folder README; `63/README.md` has a
-list.
+**Watch the length.** In `63/` these strings live in buttons and cards on a phone screen,
+and a translation 40% longer than the English overflows. When in doubt, match the English
+length. `63/README.md` lists the tightest spots. `packs.63.pt/` is a web page where long
+text wraps instead of being truncated, so there's more room — but not unlimited. `emails/`
+is looser still, except for subject lines, which a phone inbox cuts off around 40
+characters.
 
 **Match the register.** 63 talks to players casually and directly. In `pt-PT` that means
 *tu*, never *você*: *"Tens a certeza que queres sair?"*, not *"Tem a certeza que deseja sair?"*
@@ -61,72 +75,30 @@ Pick the right code. Use `<lang>-<REGION>`, matching the existing files: `es-ES`
 `pt-BR`. Region matters. Portuguese for Portugal and Portuguese for Brazil are separate
 languages as far as this repo is concerned.
 
-For `63/`:
+**Do `63/` first.** It's the game, and it's what a language needs before it can ship.
+`packs.63.pt/` is a website and `emails/` is 51 strings; a language is perfectly usable
+without either.
 
-1. Copy `en-UK.json` to `<your-code>.json`.
+For `63/`, `packs.63.pt/` and `emails/`:
+
+1. Copy `en-GB.json` to `<your-code>.json`.
 2. Translate every value, leaving every key untouched.
-3. Run the key check (below) against `en-UK.json`.
 
-For `general_packs/`, translate `en-UK.json` card by card, and drop any card that won't play
+For `general_packs/`, translate `en-GB.json` card by card, and drop any card that won't play
 well in your language: the wordplay doesn't survive, there's no common word for the thing,
 or it simply falls flat once translated. Your judgement on that last one is enough. Record
 every drop in [`general_packs/DROPPED.md`](general_packs/DROPPED.md) with the reason. Don't
 add cards that only make sense in your country; those belong in a community pack. See
 [`general_packs/README.md`](general_packs/README.md).
 
-A new language also needs a change inside the app itself, to register the locale and add it
-to the language picker. That's handled by a maintainer, so open your PR here first and
-don't worry about it.
+A new language also needs a change inside the app and the website themselves, to register
+the locale and add it to the language pickers. That's handled by a maintainer, so open your
+PR here first and don't worry about it.
 
 Partial translations are welcome as a starting point, but a language only ships once `63/`
-is complete. A half-translated app is worse than an English one.
-
-## Checking your work
-
-Two things must hold: the JSON must parse, and the keys must match `en-UK.json` exactly.
-
-Validate the JSON, every file at once:
-
-```bash
-find . -name "*.json" -exec sh -c 'python3 -m json.tool "$1" > /dev/null && echo "ok  $1" || echo "BAD $1"' _ {} \;
-```
-
-Compare the app strings against the source language:
-
-```bash
-python3 - <<'EOF'
-import json, sys, pathlib
-
-def flatten(obj, prefix=""):
-    if isinstance(obj, dict):
-        for k, v in obj.items():
-            yield from flatten(v, f"{prefix}.{k}" if prefix else k)
-    else:
-        yield prefix
-
-ok = True
-src = set(flatten(json.load(open("63/en-UK.json"))))
-for path in sorted(pathlib.Path("63").glob("*.json")):
-    if path.name == "en-UK.json":
-        continue
-    keys = set(flatten(json.load(path.open())))
-    missing, extra = sorted(src - keys), sorted(keys - src)
-    if missing or extra:
-        ok = False
-        print(path)
-        for k in missing: print(f"  missing: {k}")
-        for k in extra:   print(f"  extra:   {k}")
-    else:
-        print(f"ok  {path}")
-sys.exit(0 if ok else 1)
-EOF
-```
-
-Both should come back clean before you open the PR. `general_packs/` is deliberately left
-out of the key check, because those decks aren't supposed to match.
-
-Finally, read your translation out loud. Most bad translations are grammatically correct
-and sound like nothing a person would say.
+is complete. A half-translated app is worse than an English one. `packs.63.pt/`, `emails/`
+and `general_packs/` don't hold a language back — the website falls back to English string by
+string, and a shorter deck is a normal deck.
 
 ## Opening the pull request
 

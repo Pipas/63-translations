@@ -40,7 +40,7 @@ The eight top-level namespaces:
 | `packs` | Pack selection and the "make your own" CTA. |
 | `post_game` | End-of-game results. |
 
-Keep the nesting identical to `en-UK.json`. A flattened or re-grouped file won't resolve.
+Keep the nesting identical to `en-GB.json`. A flattened or re-grouped file won't resolve.
 
 ## Placeholders and markup
 

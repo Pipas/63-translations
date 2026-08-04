@@ -12,7 +12,7 @@ Translating the app.
 
 | Name | Languages |
 | --- | --- |
-| Oliver Evans | `en-UK` |
+| Oliver Evans | `en-GB` |
 | Maria João Neves | `pt-PT` |
 
 ## Cards
