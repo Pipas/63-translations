@@ -39,6 +39,12 @@ They're database identities, assigned per card row, not shared keys. So you can'
 languages by ID or use IDs to work out what's missing. Match by meaning, or use
 `DROPPED.md`.
 
+If you need the pairing itself — which Portuguese card is which English one —
+[`card-map.json`](card-map.json) has it: one entry per card, one id per language, plus the
+two Portuguese cards with no English original. It's maintained by the CSV scripts in
+[`scripts/`](../scripts), and it's a lookup table, not something to hand-edit while
+translating.
+
 **You don't have to do anything about this.** When you translate a card, keep whatever `id`
 the English card had. Two cards in two files carrying the same ID is expected and causes no
 problem here. When the translation is imported into the app, the maintainer generates fresh
