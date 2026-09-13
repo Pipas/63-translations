@@ -1,5 +1,89 @@
 # Dropped cards
 
+## `es-ES`
+
+**21 of the 230 English cards have no Spanish (Spain) counterpart.** The remaining 209 are
+direct translations of English cards.
+
+### English-specific idiom, wordplay or slang
+
+| Card |
+| --- |
+| 9 to 5 |
+| A Bucket List |
+| A Butt Dial |
+| A Dad Joke |
+| A Pinky Promise |
+| Brain Freeze |
+| Double Dipping |
+| Live, Laugh, Love |
+| Mary Jane |
+| One-Trick Pony |
+| The Elephant in the Room |
+| The Friendzone |
+
+### No common, recognisable Spanish title
+
+| Card |
+| --- |
+| 6-7 |
+| A Spork |
+| A Tumbleweed |
+| Big Bird |
+| Schadenfreude |
+
+### Reference would not play well
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| A Participation Trophy |
+| Jimmy Fallon's Laugh |
+| Super Bowl Halftime Show |
+
+## `es-419`
+
+**22 of the 230 English cards have no Latin American Spanish counterpart.** The remaining
+208 are derived from the `es-ES` translations, with regional vocabulary and locally used
+titles.
+
+### English-specific idiom, wordplay or slang
+
+| Card |
+| --- |
+| 9 to 5 |
+| A Bucket List |
+| A Butt Dial |
+| A Dad Joke |
+| A Pinky Promise |
+| Brain Freeze |
+| Double Dipping |
+| Live, Laugh, Love |
+| Mary Jane |
+| One-Trick Pony |
+| The Elephant in the Room |
+| The Friendzone |
+
+### No common, recognisable Latin American title
+
+| Card |
+| --- |
+| 6-7 |
+| A Pool Noodle |
+| A Spork |
+| A Tumbleweed |
+| Big Bird |
+| Hungry Hungry Hippos |
+| Schadenfreude |
+
+### Reference would not play well
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| A Participation Trophy |
+| Jimmy Fallon's Laugh |
+
 ## `pt-PT`
 
 **45 of the 230 English cards have no Portuguese counterpart.** The remaining 185 are

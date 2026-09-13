@@ -603,6 +603,7 @@
     "language": "Language",
     "english": "English",
     "portuguese": "Portuguese",
+    "spanish": "Spanish",
     "dangerZone": "Danger zone",
     "dangerDescription": "Deleting your account is permanent and cannot be undone.",
     "deleteAccount": "Delete account",

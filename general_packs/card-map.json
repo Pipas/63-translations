@@ -2,83 +2,107 @@
   "source": "en-GB",
   "languages": [
     "en-GB",
-    "pt-PT"
+    "pt-PT",
+    "es-ES",
+    "es-419"
   ],
   "cards": [
     {
       "title": "Acne",
       "ids": {
         "en-GB": "b15166bdb3a88482",
-        "pt-PT": "82a3e9c1cd0e288d"
+        "pt-PT": "82a3e9c1cd0e288d",
+        "es-ES": "b15166bdb3a88482",
+        "es-419": "b15166bdb3a88482"
       }
     },
     {
       "title": "Hello Kitty",
       "ids": {
         "en-GB": "d5b0dc39299f12d9",
-        "pt-PT": "36ef24054ad2a521"
+        "pt-PT": "36ef24054ad2a521",
+        "es-ES": "d5b0dc39299f12d9",
+        "es-419": "d5b0dc39299f12d9"
       }
     },
     {
       "title": "The 5 Second Rule",
       "ids": {
         "en-GB": "66bdb3a884826a85",
-        "pt-PT": "e9c1cd0e288d4914"
+        "pt-PT": "e9c1cd0e288d4914",
+        "es-ES": "66bdb3a884826a85",
+        "es-419": "66bdb3a884826a85"
       }
     },
     {
       "title": "Royal Flush",
       "ids": {
         "en-GB": "26a85346d84e5d84",
-        "pt-PT": "d4914a6c7ffa4cd2"
+        "pt-PT": "d4914a6c7ffa4cd2",
+        "es-ES": "26a85346d84e5d84",
+        "es-419": "26a85346d84e5d84"
       }
     },
     {
       "title": "YMCA",
       "ids": {
         "en-GB": "ab9ada8e35619dc9",
-        "pt-PT": "73092180b72beb6b"
+        "pt-PT": "73092180b72beb6b",
+        "es-ES": "ab9ada8e35619dc9",
+        "es-419": "ab9ada8e35619dc9"
       }
     },
     {
       "title": "Buzz Cut",
       "ids": {
         "en-GB": "6d84e5d84ee4fd2b",
-        "pt-PT": "6c7ffa4cd209f1c0"
+        "pt-PT": "6c7ffa4cd209f1c0",
+        "es-ES": "6d84e5d84ee4fd2b",
+        "es-419": "6d84e5d84ee4fd2b"
       }
     },
     {
       "title": "The Speed of Light",
       "ids": {
         "en-GB": "4e5d84ee4fd2b865",
-        "pt-PT": "ffa4cd209f1c04ff"
+        "pt-PT": "ffa4cd209f1c04ff",
+        "es-ES": "4e5d84ee4fd2b865",
+        "es-419": "4e5d84ee4fd2b865"
       }
     },
     {
       "title": "Bono's Sunglasses",
       "ids": {
         "en-GB": "4a02d6ad5b0dc392",
-        "pt-PT": "37fb17c36ef24054"
+        "pt-PT": "37fb17c36ef24054",
+        "es-ES": "4a02d6ad5b0dc392",
+        "es-419": "4a02d6ad5b0dc392"
       }
     },
     {
       "title": "Uncle Sam",
       "ids": {
-        "en-GB": "85346d84e5d84ee4"
+        "en-GB": "85346d84e5d84ee4",
+        "es-ES": "85346d84e5d84ee4",
+        "es-419": "85346d84e5d84ee4"
       }
     },
     {
       "title": "Bob the Builder",
       "ids": {
         "en-GB": "b68a945311fc0874",
-        "pt-PT": "d62d7c273fde7c7b"
+        "pt-PT": "d62d7c273fde7c7b",
+        "es-ES": "b68a945311fc0874",
+        "es-419": "b68a945311fc0874"
       }
     },
     {
       "title": "A Midlife Crisis",
       "ids": {
         "en-GB": "a38b15166bdb3a88",
-        "pt-PT": "1e882a3e9c1cd0e2"
+        "pt-PT": "1e882a3e9c1cd0e2",
+        "es-ES": "a38b15166bdb3a88",
+        "es-419": "a38b15166bdb3a88"
       }
     },
     {
@@ -91,7 +115,9 @@
       "title": "63",
       "ids": {
         "en-GB": "2b6371df91904ba6",
-        "pt-PT": "f11f05ef34112460"
+        "pt-PT": "f11f05ef34112460",
+        "es-ES": "2b6371df91904ba6",
+        "es-419": "2b6371df91904ba6"
       }
     },
     {
@@ -104,21 +130,27 @@
       "title": "Despacito",
       "ids": {
         "en-GB": "71df91904ba61d67",
-        "pt-PT": "05ef34112460fcd0"
+        "pt-PT": "05ef34112460fcd0",
+        "es-ES": "71df91904ba61d67",
+        "es-419": "71df91904ba61d67"
       }
     },
     {
       "title": "A Falling Piano",
       "ids": {
         "en-GB": "bdb3a884826a8534",
-        "pt-PT": "c1cd0e288d4914a6"
+        "pt-PT": "c1cd0e288d4914a6",
+        "es-ES": "bdb3a884826a8534",
+        "es-419": "bdb3a884826a8534"
       }
     },
     {
       "title": "Jabba the Hutt",
       "ids": {
         "en-GB": "a02d6ad5b0dc3929",
-        "pt-PT": "7fb17c36ef24054a"
+        "pt-PT": "7fb17c36ef24054a",
+        "es-ES": "a02d6ad5b0dc3929",
+        "es-419": "a02d6ad5b0dc3929"
       }
     },
     {
@@ -131,42 +163,54 @@
       "title": "Piggy Bank",
       "ids": {
         "en-GB": "4ee4fd2b8656cda7",
-        "pt-PT": "4cd209f1c04ffc45"
+        "pt-PT": "4cd209f1c04ffc45",
+        "es-ES": "4ee4fd2b8656cda7",
+        "es-419": "4ee4fd2b8656cda7"
       }
     },
     {
       "title": "Puss in Boots",
       "ids": {
         "en-GB": "ad5b0dc39299f12d",
-        "pt-PT": "c36ef24054ad2a52"
+        "pt-PT": "c36ef24054ad2a52",
+        "es-ES": "ad5b0dc39299f12d",
+        "es-419": "ad5b0dc39299f12d"
       }
     },
     {
       "title": "Van Gogh's Ear",
       "ids": {
         "en-GB": "311fc0874d0a38b1",
-        "pt-PT": "73fde7c7b6f1e882"
+        "pt-PT": "73fde7c7b6f1e882",
+        "es-ES": "311fc0874d0a38b1",
+        "es-419": "311fc0874d0a38b1"
       }
     },
     {
       "title": "The Ghost of Christmas Past",
       "ids": {
         "en-GB": "4ba61d67f4bab9ad",
-        "pt-PT": "2460fcd00b773092"
+        "pt-PT": "2460fcd00b773092",
+        "es-ES": "4ba61d67f4bab9ad",
+        "es-419": "4ba61d67f4bab9ad"
       }
     },
     {
       "title": "Nothing",
       "ids": {
         "en-GB": "346d84e5d84ee4fd",
-        "pt-PT": "a6c7ffa4cd209f1c"
+        "pt-PT": "a6c7ffa4cd209f1c",
+        "es-ES": "346d84e5d84ee4fd",
+        "es-419": "346d84e5d84ee4fd"
       }
     },
     {
       "title": "Sleepwalking",
       "ids": {
         "en-GB": "c4a02d6ad5b0dc39",
-        "pt-PT": "937fb17c36ef2405"
+        "pt-PT": "937fb17c36ef2405",
+        "es-ES": "c4a02d6ad5b0dc39",
+        "es-419": "c4a02d6ad5b0dc39"
       }
     },
     {
@@ -179,112 +223,144 @@
       "title": "A Teletubby",
       "ids": {
         "en-GB": "99f12d9bb68a9453",
-        "pt-PT": "ad2a521cd62d7c27"
+        "pt-PT": "ad2a521cd62d7c27",
+        "es-ES": "99f12d9bb68a9453",
+        "es-419": "99f12d9bb68a9453"
       }
     },
     {
       "title": "The Sicilian Mafia",
       "ids": {
         "en-GB": "a945311fc0874d0a",
-        "pt-PT": "d7c273fde7c7b6f1"
+        "pt-PT": "d7c273fde7c7b6f1",
+        "es-ES": "a945311fc0874d0a",
+        "es-419": "a945311fc0874d0a"
       }
     },
     {
       "title": "Kiss of Judas",
       "ids": {
         "en-GB": "0dc39299f12d9bb6",
-        "pt-PT": "f24054ad2a521cd6"
+        "pt-PT": "f24054ad2a521cd6",
+        "es-ES": "0dc39299f12d9bb6",
+        "es-419": "0dc39299f12d9bb6"
       }
     },
     {
       "title": "Bond, James Bond",
       "ids": {
         "en-GB": "1d67f4bab9ada8e3",
-        "pt-PT": "fcd00b773092180b"
+        "pt-PT": "fcd00b773092180b",
+        "es-ES": "1d67f4bab9ada8e3",
+        "es-419": "1d67f4bab9ada8e3"
       }
     },
     {
       "title": "Snapchat Filters",
       "ids": {
         "en-GB": "fc0874d0a38b1516",
-        "pt-PT": "de7c7b6f1e882a3e"
+        "pt-PT": "de7c7b6f1e882a3e",
+        "es-ES": "fc0874d0a38b1516",
+        "es-419": "fc0874d0a38b1516"
       }
     },
     {
       "title": "Pink Panther",
       "ids": {
         "en-GB": "1904ba61d67f4bab",
-        "pt-PT": "4112460fcd00b773"
+        "pt-PT": "4112460fcd00b773",
+        "es-ES": "1904ba61d67f4bab",
+        "es-419": "1904ba61d67f4bab"
       }
     },
     {
       "title": "The Hammer and Sickle",
       "ids": {
         "en-GB": "84826a85346d84e5",
-        "pt-PT": "288d4914a6c7ffa4"
+        "pt-PT": "288d4914a6c7ffa4",
+        "es-ES": "84826a85346d84e5",
+        "es-419": "84826a85346d84e5"
       }
     },
     {
       "title": "MacGyver",
       "ids": {
         "en-GB": "948632cc4a02d6ad",
-        "pt-PT": "cf155bb937fb17c3"
+        "pt-PT": "cf155bb937fb17c3",
+        "es-ES": "948632cc4a02d6ad",
+        "es-419": "948632cc4a02d6ad"
       }
     },
     {
       "title": "A Mother-in-Law",
       "ids": {
         "en-GB": "8a945311fc0874d0",
-        "pt-PT": "2d7c273fde7c7b6f"
+        "pt-PT": "2d7c273fde7c7b6f",
+        "es-ES": "8a945311fc0874d0",
+        "es-419": "8a945311fc0874d0"
       }
     },
     {
       "title": "An Open Fly",
       "ids": {
         "en-GB": "8b15166bdb3a8848",
-        "pt-PT": "882a3e9c1cd0e288"
+        "pt-PT": "882a3e9c1cd0e288",
+        "es-ES": "8b15166bdb3a8848",
+        "es-419": "8b15166bdb3a8848"
       }
     },
     {
       "title": "Trump's Hair",
       "ids": {
         "en-GB": "1df91904ba61d67f",
-        "pt-PT": "5ef34112460fcd00"
+        "pt-PT": "5ef34112460fcd00",
+        "es-ES": "1df91904ba61d67f",
+        "es-419": "1df91904ba61d67f"
       }
     },
     {
       "title": "Area 51",
       "ids": {
         "en-GB": "a8e35619dc9c3948",
-        "pt-PT": "180b72beb6b61cf1"
+        "pt-PT": "180b72beb6b61cf1",
+        "es-ES": "a8e35619dc9c3948",
+        "es-419": "a8e35619dc9c3948"
       }
     },
     {
       "title": "Curling",
       "ids": {
         "en-GB": "f4bab9ada8e35619",
-        "pt-PT": "0b773092180b72be"
+        "pt-PT": "0b773092180b72be",
+        "es-ES": "f4bab9ada8e35619",
+        "es-419": "f4bab9ada8e35619"
       }
     },
     {
       "title": "Pippi Longstocking",
       "ids": {
         "en-GB": "19dc9c3948632cc4",
-        "pt-PT": "beb6b61cf155bb93"
+        "pt-PT": "beb6b61cf155bb93",
+        "es-ES": "19dc9c3948632cc4",
+        "es-419": "19dc9c3948632cc4"
       }
     },
     {
       "title": "My Little Pony",
       "ids": {
         "en-GB": "1fc0874d0a38b151",
-        "pt-PT": "fde7c7b6f1e882a3"
+        "pt-PT": "fde7c7b6f1e882a3",
+        "es-ES": "1fc0874d0a38b151",
+        "es-419": "1fc0874d0a38b151"
       }
     },
     {
       "title": "Baby Shark",
       "ids": {
         "en-GB": "2d6ad5b0dc39299f",
-        "pt-PT": "b17c36ef24054ad2"
+        "pt-PT": "b17c36ef24054ad2",
+        "es-ES": "2d6ad5b0dc39299f",
+        "es-419": "2d6ad5b0dc39299f"
       }
     },
     {
@@ -297,145 +373,187 @@
       "title": "A Crop Top",
       "ids": {
         "en-GB": "874d0a38b15166bd",
-        "pt-PT": "c7b6f1e882a3e9c1"
+        "pt-PT": "c7b6f1e882a3e9c1",
+        "es-ES": "874d0a38b15166bd",
+        "es-419": "874d0a38b15166bd"
       }
     },
     {
       "title": "Uncle Ben",
       "ids": {
         "en-GB": "61d67f4bab9ada8e",
-        "pt-PT": "0fcd00b773092180"
+        "pt-PT": "0fcd00b773092180",
+        "es-ES": "61d67f4bab9ada8e",
+        "es-419": "61d67f4bab9ada8e"
       }
     },
     {
       "title": "Kung Fu Panda 3",
       "ids": {
         "en-GB": "4bab9ada8e35619d",
-        "pt-PT": "b773092180b72beb"
+        "pt-PT": "b773092180b72beb",
+        "es-ES": "4bab9ada8e35619d",
+        "es-419": "4bab9ada8e35619d"
       }
     },
     {
       "title": "A Pyramid Scheme",
       "ids": {
         "en-GB": "0a38b15166bdb3a8",
-        "pt-PT": "f1e882a3e9c1cd0e"
+        "pt-PT": "f1e882a3e9c1cd0e",
+        "es-ES": "0a38b15166bdb3a8",
+        "es-419": "0a38b15166bdb3a8"
       }
     },
     {
       "title": "Sancho Panza",
       "ids": {
         "en-GB": "9f12d9bb68a94531",
-        "pt-PT": "d2a521cd62d7c273"
+        "pt-PT": "d2a521cd62d7c273",
+        "es-ES": "9f12d9bb68a94531",
+        "es-419": "9f12d9bb68a94531"
       }
     },
     {
       "title": "Aladdin's Magic Carpet",
       "ids": {
         "en-GB": "82b6371df91904ba",
-        "pt-PT": "df11f05ef3411246"
+        "pt-PT": "df11f05ef3411246",
+        "es-ES": "82b6371df91904ba",
+        "es-419": "82b6371df91904ba"
       }
     },
     {
       "title": "Go Directly to Jail",
       "ids": {
         "en-GB": "e35619dc9c394863",
-        "pt-PT": "0b72beb6b61cf155"
+        "pt-PT": "0b72beb6b61cf155",
+        "es-ES": "e35619dc9c394863",
+        "es-419": "e35619dc9c394863"
       }
     },
     {
       "title": "A Charlatan",
       "ids": {
         "en-GB": "2d9bb68a945311fc",
-        "pt-PT": "521cd62d7c273fde"
+        "pt-PT": "521cd62d7c273fde",
+        "es-ES": "2d9bb68a945311fc",
+        "es-419": "2d9bb68a945311fc"
       }
     },
     {
       "title": "Netflix and Chill",
       "ids": {
-        "en-GB": "c3948632cc4a02d6"
+        "en-GB": "c3948632cc4a02d6",
+        "es-ES": "c3948632cc4a02d6",
+        "es-419": "c3948632cc4a02d6"
       }
     },
     {
       "title": "Pull a Rabbit Out of a Hat",
       "ids": {
         "en-GB": "d67f4bab9ada8e35",
-        "pt-PT": "cd00b773092180b7"
+        "pt-PT": "cd00b773092180b7",
+        "es-ES": "d67f4bab9ada8e35",
+        "es-419": "d67f4bab9ada8e35"
       }
     },
     {
       "title": "Joan of Arc",
       "ids": {
         "en-GB": "8632cc4a02d6ad5b",
-        "pt-PT": "155bb937fb17c36e"
+        "pt-PT": "155bb937fb17c36e",
+        "es-ES": "8632cc4a02d6ad5b",
+        "es-419": "8632cc4a02d6ad5b"
       }
     },
     {
       "title": "Truth or Dare",
       "ids": {
         "en-GB": "619dc9c3948632cc",
-        "pt-PT": "2beb6b61cf155bb9"
+        "pt-PT": "2beb6b61cf155bb9",
+        "es-ES": "619dc9c3948632cc",
+        "es-419": "619dc9c3948632cc"
       }
     },
     {
       "title": "The Friends from Friends",
       "ids": {
         "en-GB": "3948632cc4a02d6a",
-        "pt-PT": "1cf155bb937fb17c"
+        "pt-PT": "1cf155bb937fb17c",
+        "es-ES": "3948632cc4a02d6a",
+        "es-419": "3948632cc4a02d6a"
       }
     },
     {
       "title": "YOLO (You Only Live Once)",
       "ids": {
-        "en-GB": "904ba61d67f4bab9"
+        "en-GB": "904ba61d67f4bab9",
+        "es-ES": "904ba61d67f4bab9",
+        "es-419": "904ba61d67f4bab9"
       }
     },
     {
       "title": "Dividing by Zero",
       "ids": {
         "en-GB": "12d9bb68a945311f",
-        "pt-PT": "a521cd62d7c273fd"
+        "pt-PT": "a521cd62d7c273fd",
+        "es-ES": "12d9bb68a945311f",
+        "es-419": "12d9bb68a945311f"
       }
     },
     {
       "title": "A Black Sheep",
       "ids": {
         "en-GB": "35619dc9c3948632",
-        "pt-PT": "b72beb6b61cf155b"
+        "pt-PT": "b72beb6b61cf155b",
+        "es-ES": "35619dc9c3948632",
+        "es-419": "35619dc9c3948632"
       }
     },
     {
       "title": "Vuvuzela",
       "ids": {
         "en-GB": "74d0a38b15166bdb",
-        "pt-PT": "7b6f1e882a3e9c1c"
+        "pt-PT": "7b6f1e882a3e9c1c",
+        "es-ES": "74d0a38b15166bdb",
+        "es-419": "74d0a38b15166bdb"
       }
     },
     {
       "title": "Summer of '69",
       "ids": {
         "en-GB": "9ada8e35619dc9c3",
-        "pt-PT": "092180b72beb6b61"
+        "pt-PT": "092180b72beb6b61",
+        "es-ES": "9ada8e35619dc9c3",
+        "es-419": "9ada8e35619dc9c3"
       }
     },
     {
       "title": "Crazy Frog",
       "ids": {
         "en-GB": "632cc4a02d6ad5b0",
-        "pt-PT": "55bb937fb17c36ef"
+        "pt-PT": "55bb937fb17c36ef",
+        "es-ES": "632cc4a02d6ad5b0",
+        "es-419": "632cc4a02d6ad5b0"
       }
     },
     {
       "title": "Mr. Tumnus",
       "ids": {
         "en-GB": "39299f12d9bb68a9",
-        "pt-PT": "054ad2a521cd62d7"
+        "pt-PT": "054ad2a521cd62d7",
+        "es-ES": "39299f12d9bb68a9",
+        "es-419": "39299f12d9bb68a9"
       }
     },
     {
       "title": "Trojan Horse",
       "ids": {
         "en-GB": "5346d84e5d84ee4f",
-        "pt-PT": "4a6c7ffa4cd209f1"
+        "pt-PT": "4a6c7ffa4cd209f1",
+        "es-ES": "5346d84e5d84ee4f",
+        "es-419": "5346d84e5d84ee4f"
       }
     },
     {
@@ -449,224 +567,288 @@
       "title": "Albus Dumbledore",
       "ids": {
         "en-GB": "9c3948632cc4a02d",
-        "pt-PT": "b61cf155bb937fb1"
+        "pt-PT": "b61cf155bb937fb1",
+        "es-ES": "9c3948632cc4a02d",
+        "es-419": "9c3948632cc4a02d"
       }
     },
     {
       "title": "Flappy Bird",
       "ids": {
         "en-GB": "b6371df91904ba61",
-        "pt-PT": "11f05ef34112460f"
+        "pt-PT": "11f05ef34112460f",
+        "es-ES": "b6371df91904ba61",
+        "es-419": "b6371df91904ba61"
       }
     },
     {
       "title": "Rock, Paper, Scissors",
       "ids": {
         "en-GB": "e5d84ee4fd2b8656",
-        "pt-PT": "fa4cd209f1c04ffc"
+        "pt-PT": "fa4cd209f1c04ffc",
+        "es-ES": "e5d84ee4fd2b8656",
+        "es-419": "e5d84ee4fd2b8656"
       }
     },
     {
       "title": "Big Brother",
       "ids": {
         "en-GB": "45311fc0874d0a38",
-        "pt-PT": "c273fde7c7b6f1e8"
+        "pt-PT": "c273fde7c7b6f1e8",
+        "es-ES": "45311fc0874d0a38",
+        "es-419": "45311fc0874d0a38"
       }
     },
     {
       "title": "Caviar",
       "ids": {
         "en-GB": "d0a38b15166bdb3a",
-        "pt-PT": "6f1e882a3e9c1cd0"
+        "pt-PT": "6f1e882a3e9c1cd0",
+        "es-ES": "d0a38b15166bdb3a",
+        "es-419": "d0a38b15166bdb3a"
       }
     },
     {
       "title": "Batman's Nipples",
       "ids": {
         "en-GB": "5619dc9c3948632c",
-        "pt-PT": "72beb6b61cf155bb"
+        "pt-PT": "72beb6b61cf155bb",
+        "es-ES": "5619dc9c3948632c",
+        "es-419": "5619dc9c3948632c"
       }
     },
     {
       "title": "Tutankhamun",
       "ids": {
         "en-GB": "dc9c3948632cc4a0",
-        "pt-PT": "b6b61cf155bb937f"
+        "pt-PT": "b6b61cf155bb937f",
+        "es-ES": "dc9c3948632cc4a0",
+        "es-419": "dc9c3948632cc4a0"
       }
     },
     {
       "title": "Hakuna Matata",
       "ids": {
         "en-GB": "b0dc39299f12d9bb",
-        "pt-PT": "ef24054ad2a521cd"
+        "pt-PT": "ef24054ad2a521cd",
+        "es-ES": "b0dc39299f12d9bb",
+        "es-419": "b0dc39299f12d9bb"
       }
     },
     {
       "title": "Grumpy Cat",
       "ids": {
         "en-GB": "68a945311fc0874d",
-        "pt-PT": "62d7c273fde7c7b6"
+        "pt-PT": "62d7c273fde7c7b6",
+        "es-ES": "68a945311fc0874d",
+        "es-419": "68a945311fc0874d"
       }
     },
     {
       "title": "A Nap",
       "ids": {
         "en-GB": "5166bdb3a884826a",
-        "pt-PT": "a3e9c1cd0e288d49"
+        "pt-PT": "a3e9c1cd0e288d49",
+        "es-ES": "5166bdb3a884826a",
+        "es-419": "5166bdb3a884826a"
       }
     },
     {
       "title": "Aurora Borealis",
       "ids": {
         "en-GB": "166bdb3a884826a8",
-        "pt-PT": "3e9c1cd0e288d491"
+        "pt-PT": "3e9c1cd0e288d491",
+        "es-ES": "166bdb3a884826a8",
+        "es-419": "166bdb3a884826a8"
       }
     },
     {
       "title": "A Polygraph",
       "ids": {
         "en-GB": "84ee4fd2b8656cda",
-        "pt-PT": "a4cd209f1c04ffc4"
+        "pt-PT": "a4cd209f1c04ffc4",
+        "es-ES": "84ee4fd2b8656cda",
+        "es-419": "84ee4fd2b8656cda"
       }
     },
     {
       "title": "God",
       "ids": {
         "en-GB": "df91904ba61d67f4",
-        "pt-PT": "ef34112460fcd00b"
+        "pt-PT": "ef34112460fcd00b",
+        "es-ES": "df91904ba61d67f4",
+        "es-419": "df91904ba61d67f4"
       }
     },
     {
       "title": "Socks and Sandals",
       "ids": {
         "en-GB": "6371df91904ba61d",
-        "pt-PT": "1f05ef34112460fc"
+        "pt-PT": "1f05ef34112460fc",
+        "es-ES": "6371df91904ba61d",
+        "es-419": "6371df91904ba61d"
       }
     },
     {
       "title": "Clickbait",
       "ids": {
         "en-GB": "db3a884826a85346",
-        "pt-PT": "1cd0e288d4914a6c"
+        "pt-PT": "1cd0e288d4914a6c",
+        "es-ES": "db3a884826a85346",
+        "es-419": "db3a884826a85346"
       }
     },
     {
       "title": "The Iceberg That Sank the Titanic",
       "ids": {
         "en-GB": "682b6371df91904b",
-        "pt-PT": "4df11f05ef341124"
+        "pt-PT": "4df11f05ef341124",
+        "es-ES": "682b6371df91904b",
+        "es-419": "682b6371df91904b"
       }
     },
     {
       "title": "Indiana Jones' Whip",
       "ids": {
         "en-GB": "c39299f12d9bb68a",
-        "pt-PT": "4054ad2a521cd62d"
+        "pt-PT": "4054ad2a521cd62d",
+        "es-ES": "c39299f12d9bb68a",
+        "es-419": "c39299f12d9bb68a"
       }
     },
     {
       "title": "Zorro",
       "ids": {
         "en-GB": "dc39299f12d9bb68",
-        "pt-PT": "24054ad2a521cd62"
+        "pt-PT": "24054ad2a521cd62",
+        "es-ES": "dc39299f12d9bb68",
+        "es-419": "dc39299f12d9bb68"
       }
     },
     {
       "title": "Hercule Poirot",
       "ids": {
         "en-GB": "ba61d67f4bab9ada",
-        "pt-PT": "460fcd00b7730921"
+        "pt-PT": "460fcd00b7730921",
+        "es-ES": "ba61d67f4bab9ada",
+        "es-419": "ba61d67f4bab9ada"
       }
     },
     {
       "title": "The Little Prince",
       "ids": {
         "en-GB": "32cc4a02d6ad5b0d",
-        "pt-PT": "5bb937fb17c36ef2"
+        "pt-PT": "5bb937fb17c36ef2",
+        "es-ES": "32cc4a02d6ad5b0d",
+        "es-419": "32cc4a02d6ad5b0d"
       }
     },
     {
       "title": "A Hitler Moustache",
       "ids": {
         "en-GB": "91904ba61d67f4ba",
-        "pt-PT": "34112460fcd00b77"
+        "pt-PT": "34112460fcd00b77",
+        "es-ES": "91904ba61d67f4ba",
+        "es-419": "91904ba61d67f4ba"
       }
     },
     {
       "title": "Tamagotchi",
       "ids": {
         "en-GB": "d84e5d84ee4fd2b8",
-        "pt-PT": "c7ffa4cd209f1c04"
+        "pt-PT": "c7ffa4cd209f1c04",
+        "es-ES": "d84e5d84ee4fd2b8",
+        "es-419": "d84e5d84ee4fd2b8"
       }
     },
     {
       "title": "Borat",
       "ids": {
         "en-GB": "ada8e35619dc9c39",
-        "pt-PT": "92180b72beb6b61c"
+        "pt-PT": "92180b72beb6b61c",
+        "es-ES": "ada8e35619dc9c39",
+        "es-419": "ada8e35619dc9c39"
       }
     },
     {
       "title": "Bollywood",
       "ids": {
         "en-GB": "11fc0874d0a38b15",
-        "pt-PT": "3fde7c7b6f1e882a"
+        "pt-PT": "3fde7c7b6f1e882a",
+        "es-ES": "11fc0874d0a38b15",
+        "es-419": "11fc0874d0a38b15"
       }
     },
     {
       "title": "Genghis Khan",
       "ids": {
         "en-GB": "c0874d0a38b15166",
-        "pt-PT": "e7c7b6f1e882a3e9"
+        "pt-PT": "e7c7b6f1e882a3e9",
+        "es-ES": "c0874d0a38b15166",
+        "es-419": "c0874d0a38b15166"
       }
     },
     {
       "title": "Space Jam",
       "ids": {
         "en-GB": "cc4a02d6ad5b0dc3",
-        "pt-PT": "b937fb17c36ef240"
+        "pt-PT": "b937fb17c36ef240",
+        "es-ES": "cc4a02d6ad5b0dc3",
+        "es-419": "cc4a02d6ad5b0dc3"
       }
     },
     {
       "title": "Colonel Mustard",
       "ids": {
         "en-GB": "826a85346d84e5d8",
-        "pt-PT": "8d4914a6c7ffa4cd"
+        "pt-PT": "8d4914a6c7ffa4cd",
+        "es-ES": "826a85346d84e5d8",
+        "es-419": "826a85346d84e5d8"
       }
     },
     {
       "title": "Transylvania",
       "ids": {
         "en-GB": "5311fc0874d0a38b",
-        "pt-PT": "273fde7c7b6f1e88"
+        "pt-PT": "273fde7c7b6f1e88",
+        "es-ES": "5311fc0874d0a38b",
+        "es-419": "5311fc0874d0a38b"
       }
     },
     {
       "title": "Kryptonite",
       "ids": {
         "en-GB": "3a884826a85346d8",
-        "pt-PT": "d0e288d4914a6c7f"
+        "pt-PT": "d0e288d4914a6c7f",
+        "es-ES": "3a884826a85346d8",
+        "es-419": "3a884826a85346d8"
       }
     },
     {
       "title": "Captain Jack Sparrow",
       "ids": {
         "en-GB": "d6ad5b0dc39299f1",
-        "pt-PT": "17c36ef24054ad2a"
+        "pt-PT": "17c36ef24054ad2a",
+        "es-ES": "d6ad5b0dc39299f1",
+        "es-419": "d6ad5b0dc39299f1"
       }
     },
     {
       "title": "Shirtless Old Man",
       "ids": {
         "en-GB": "38b15166bdb3a884",
-        "pt-PT": "e882a3e9c1cd0e28"
+        "pt-PT": "e882a3e9c1cd0e28",
+        "es-ES": "38b15166bdb3a884",
+        "es-419": "38b15166bdb3a884"
       }
     },
     {
       "title": "The Dab",
       "ids": {
         "en-GB": "b9ada8e35619dc9c",
-        "pt-PT": "3092180b72beb6b6"
+        "pt-PT": "3092180b72beb6b6",
+        "es-ES": "b9ada8e35619dc9c",
+        "es-419": "b9ada8e35619dc9c"
       }
     },
     {
@@ -679,130 +861,168 @@
       "title": "The Poo Emoji",
       "ids": {
         "en-GB": "c9c3948632cc4a02",
-        "pt-PT": "6b61cf155bb937fb"
+        "pt-PT": "6b61cf155bb937fb",
+        "es-ES": "c9c3948632cc4a02",
+        "es-419": "c9c3948632cc4a02"
       }
     },
     {
       "title": "The Asteroid Belt",
       "ids": {
         "en-GB": "884826a85346d84e",
-        "pt-PT": "e288d4914a6c7ffa"
+        "pt-PT": "e288d4914a6c7ffa",
+        "es-ES": "884826a85346d84e",
+        "es-419": "884826a85346d84e"
       }
     },
     {
       "title": "Tinder",
       "ids": {
         "en-GB": "d9bb68a945311fc0",
-        "pt-PT": "21cd62d7c273fde7"
+        "pt-PT": "21cd62d7c273fde7",
+        "es-ES": "d9bb68a945311fc0",
+        "es-419": "d9bb68a945311fc0"
       }
     },
     {
       "title": "Mr. Worldwide",
       "ids": {
         "en-GB": "5b0dc39299f12d9b",
-        "pt-PT": "6ef24054ad2a521c"
+        "pt-PT": "6ef24054ad2a521c",
+        "es-ES": "5b0dc39299f12d9b",
+        "es-419": "5b0dc39299f12d9b"
       }
     },
     {
       "title": "Brazilian Wax",
       "ids": {
         "en-GB": "a884826a85346d84",
-        "pt-PT": "0e288d4914a6c7ff"
+        "pt-PT": "0e288d4914a6c7ff",
+        "es-ES": "a884826a85346d84",
+        "es-419": "a884826a85346d84"
       }
     },
     {
       "title": "Clark Kent Without Glasses",
       "ids": {
         "en-GB": "02d6ad5b0dc39299",
-        "pt-PT": "fb17c36ef24054ad"
+        "pt-PT": "fb17c36ef24054ad",
+        "es-ES": "02d6ad5b0dc39299",
+        "es-419": "02d6ad5b0dc39299"
       }
     },
     {
       "title": "Home Alone",
       "ids": {
         "en-GB": "a61d67f4bab9ada8",
-        "pt-PT": "60fcd00b77309218"
+        "pt-PT": "60fcd00b77309218",
+        "es-ES": "a61d67f4bab9ada8",
+        "es-419": "a61d67f4bab9ada8"
       }
     },
     {
       "title": "The Flat Earth Theory",
       "ids": {
         "en-GB": "4d0a38b15166bdb3",
-        "pt-PT": "b6f1e882a3e9c1cd"
+        "pt-PT": "b6f1e882a3e9c1cd",
+        "es-ES": "4d0a38b15166bdb3",
+        "es-419": "4d0a38b15166bdb3"
       }
     },
     {
       "title": "Aquaman",
       "ids": {
         "en-GB": "bb68a945311fc087",
-        "pt-PT": "cd62d7c273fde7c7"
+        "pt-PT": "cd62d7c273fde7c7",
+        "es-ES": "bb68a945311fc087",
+        "es-419": "bb68a945311fc087"
       }
     },
     {
       "title": "Hot Wheels",
       "ids": {
         "en-GB": "945311fc0874d0a3",
-        "pt-PT": "7c273fde7c7b6f1e"
+        "pt-PT": "7c273fde7c7b6f1e",
+        "es-ES": "945311fc0874d0a3",
+        "es-419": "945311fc0874d0a3"
       }
     },
     {
       "title": "Bearded Dragon",
       "ids": {
         "en-GB": "04ba61d67f4bab9a",
-        "pt-PT": "12460fcd00b77309"
+        "pt-PT": "12460fcd00b77309",
+        "es-ES": "04ba61d67f4bab9a",
+        "es-419": "04ba61d67f4bab9a"
       }
     },
     {
       "title": "Cats",
       "ids": {
         "en-GB": "2cc4a02d6ad5b0dc",
-        "pt-PT": "bb937fb17c36ef24"
+        "pt-PT": "bb937fb17c36ef24",
+        "es-ES": "2cc4a02d6ad5b0dc",
+        "es-419": "2cc4a02d6ad5b0dc"
       }
     },
     {
       "title": "A Psychic",
       "ids": {
         "en-GB": "67f4bab9ada8e356",
-        "pt-PT": "d00b773092180b72"
+        "pt-PT": "d00b773092180b72",
+        "es-ES": "67f4bab9ada8e356",
+        "es-419": "67f4bab9ada8e356"
       }
     },
     {
       "title": "Asterix and Obelix",
       "ids": {
         "en-GB": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
-        "pt-PT": "4632fec12f39beb2"
+        "pt-PT": "4632fec12f39beb2",
+        "es-ES": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+        "es-419": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0"
       }
     },
     {
       "title": "Internet Explorer",
       "ids": {
         "en-GB": "32cbbad2-19cf-4465-a86a-678d8993f70a",
-        "pt-PT": "c8d3b03fc9a35e5d"
+        "pt-PT": "c8d3b03fc9a35e5d",
+        "es-ES": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+        "es-419": "32cbbad2-19cf-4465-a86a-678d8993f70a"
       }
     },
     {
       "title": "Cybertruck",
       "ids": {
         "en-GB": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
-        "pt-PT": "0a9675583ef9aab1"
+        "pt-PT": "0a9675583ef9aab1",
+        "es-ES": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+        "es-419": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7"
       }
     },
     {
       "title": "The First Rule of Fight Club",
       "ids": {
-        "en-GB": "1226b2cb-facb-4ea2-ab2a-474011445d67"
+        "en-GB": "1226b2cb-facb-4ea2-ab2a-474011445d67",
+        "es-ES": "1226b2cb-facb-4ea2-ab2a-474011445d67",
+        "es-419": "1226b2cb-facb-4ea2-ab2a-474011445d67"
       }
     },
     {
       "title": "Groundhog Day",
       "ids": {
-        "en-GB": "dcc862d2-743b-426b-b309-a7dbc62c797d"
+        "en-GB": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+        "es-ES": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+        "es-419": "dcc862d2-743b-426b-b309-a7dbc62c797d"
       }
     },
     {
       "title": "Godzilla",
       "ids": {
-        "en-GB": "13fb1833-ea19-4d05-8433-dd042c4b3a3a"
+        "en-GB": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+        "es-ES": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+        "es-419": "13fb1833-ea19-4d05-8433-dd042c4b3a3a"
       }
     },
     {
@@ -816,167 +1036,216 @@
       "title": "The Three Little Pigs",
       "ids": {
         "en-GB": "69337803-074d-4e31-8418-747bd7da56a2",
-        "pt-PT": "7e8caec646d07de4"
+        "pt-PT": "7e8caec646d07de4",
+        "es-ES": "69337803-074d-4e31-8418-747bd7da56a2",
+        "es-419": "69337803-074d-4e31-8418-747bd7da56a2"
       }
     },
     {
       "title": "Popemobile",
       "ids": {
         "en-GB": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
-        "pt-PT": "c74aa35f157a9c98"
+        "pt-PT": "c74aa35f157a9c98",
+        "es-ES": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+        "es-419": "182942e7-a2f2-495f-ae19-fc09ce2439fc"
       }
     },
     {
       "title": "Dolly, the Sheep",
       "ids": {
         "en-GB": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
-        "pt-PT": "b1fbe42907c837af"
+        "pt-PT": "b1fbe42907c837af",
+        "es-ES": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
+        "es-419": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30"
       }
     },
     {
       "title": "The Trolley Problem",
       "ids": {
-        "en-GB": "76880b3a-fca8-4820-b8c7-decf28e54aaa"
+        "en-GB": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
+        "es-ES": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
+        "es-419": "76880b3a-fca8-4820-b8c7-decf28e54aaa"
       }
     },
     {
       "title": "Wordle",
       "ids": {
-        "en-GB": "a770f7a8-2755-42ab-a2a6-156e75a206f7"
+        "en-GB": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+        "es-ES": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+        "es-419": "a770f7a8-2755-42ab-a2a6-156e75a206f7"
       }
     },
     {
       "title": "The Butterfly Effect",
       "ids": {
         "en-GB": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
-        "pt-PT": "3796bd10fb00478e"
+        "pt-PT": "3796bd10fb00478e",
+        "es-ES": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+        "es-419": "7ad1c4fc-27ef-4df2-a39a-3636c220c717"
       }
     },
     {
       "title": "Shaking a Polaroid Picture",
       "ids": {
         "en-GB": "763fa3b6-7427-434e-ad02-0563e73def0e",
-        "pt-PT": "1eded0afacb2765c"
+        "pt-PT": "1eded0afacb2765c",
+        "es-ES": "763fa3b6-7427-434e-ad02-0563e73def0e",
+        "es-419": "763fa3b6-7427-434e-ad02-0563e73def0e"
       }
     },
     {
       "title": "A Fidget Spinner",
       "ids": {
-        "en-GB": "7b27a365-2f05-403a-baba-d6c151585293"
+        "en-GB": "7b27a365-2f05-403a-baba-d6c151585293",
+        "es-ES": "7b27a365-2f05-403a-baba-d6c151585293",
+        "es-419": "7b27a365-2f05-403a-baba-d6c151585293"
       }
     },
     {
       "title": "9 out of 10 Dentists",
       "ids": {
         "en-GB": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef",
-        "pt-PT": "cc47bb6f764bfafa"
+        "pt-PT": "cc47bb6f764bfafa",
+        "es-ES": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef",
+        "es-419": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef"
       }
     },
     {
       "title": "Peer Pressure",
       "ids": {
-        "en-GB": "4d8dae45-828a-4242-a217-0c0227c4789a"
+        "en-GB": "4d8dae45-828a-4242-a217-0c0227c4789a",
+        "es-ES": "4d8dae45-828a-4242-a217-0c0227c4789a",
+        "es-419": "4d8dae45-828a-4242-a217-0c0227c4789a"
       }
     },
     {
       "title": "A CAPTCHA",
       "ids": {
         "en-GB": "fe5f96a7-1b60-485b-b232-ad649c927d87",
-        "pt-PT": "b63c16fb829100b6"
+        "pt-PT": "b63c16fb829100b6",
+        "es-ES": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+        "es-419": "fe5f96a7-1b60-485b-b232-ad649c927d87"
       }
     },
     {
       "title": "Schrödinger's Cat",
       "ids": {
         "en-GB": "d91c5e50-8b25-43f9-b63e-e07f26494489",
-        "pt-PT": "ffc451d6b1cd8b22"
+        "pt-PT": "ffc451d6b1cd8b22",
+        "es-ES": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+        "es-419": "d91c5e50-8b25-43f9-b63e-e07f26494489"
       }
     },
     {
       "title": "Rubik's Cube",
       "ids": {
         "en-GB": "4dbe92cf-83da-4530-9f10-73c3285021b5",
-        "pt-PT": "4ffc451d6b1cd8b2"
+        "pt-PT": "4ffc451d6b1cd8b2",
+        "es-ES": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+        "es-419": "4dbe92cf-83da-4530-9f10-73c3285021b5"
       }
     },
     {
       "title": "Toxic Masculinity",
       "ids": {
         "en-GB": "902799b4-18f2-48c9-92f4-78547c02520f",
-        "pt-PT": "8483deca3b9b36a6"
+        "pt-PT": "8483deca3b9b36a6",
+        "es-ES": "902799b4-18f2-48c9-92f4-78547c02520f",
+        "es-419": "902799b4-18f2-48c9-92f4-78547c02520f"
       }
     },
     {
       "title": "The Asteroid That Killed the Dinosaurs",
       "ids": {
         "en-GB": "bf10ceba-8762-4244-8023-457eb20adb1d",
-        "pt-PT": "54d3b48c9c1609de"
+        "pt-PT": "54d3b48c9c1609de",
+        "es-ES": "bf10ceba-8762-4244-8023-457eb20adb1d",
+        "es-419": "bf10ceba-8762-4244-8023-457eb20adb1d"
       }
     },
     {
       "title": "Super Bowl Halftime Show",
       "ids": {
-        "en-GB": "f9ff4c01-b6e0-46c5-8863-b29222eadecf"
+        "en-GB": "f9ff4c01-b6e0-46c5-8863-b29222eadecf",
+        "es-419": "f9ff4c01-b6e0-46c5-8863-b29222eadecf"
       }
     },
     {
       "title": "Dubai Chocolate",
       "ids": {
         "en-GB": "c62de87f-30ec-4909-a35c-104375f280cb",
-        "pt-PT": "09560d2409c17f3b"
+        "pt-PT": "09560d2409c17f3b",
+        "es-ES": "c62de87f-30ec-4909-a35c-104375f280cb",
+        "es-419": "c62de87f-30ec-4909-a35c-104375f280cb"
       }
     },
     {
       "title": "Bubble Wrap",
       "ids": {
-        "en-GB": "c8161658-fa59-4488-b151-50d8bfe969f1"
+        "en-GB": "c8161658-fa59-4488-b151-50d8bfe969f1",
+        "es-ES": "c8161658-fa59-4488-b151-50d8bfe969f1",
+        "es-419": "c8161658-fa59-4488-b151-50d8bfe969f1"
       }
     },
     {
       "title": "Comic Sans",
       "ids": {
         "en-GB": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
-        "pt-PT": "d173543cbb8163dc"
+        "pt-PT": "d173543cbb8163dc",
+        "es-ES": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+        "es-419": "dce9159f-8c96-4935-9e15-1cf348aec5a7"
       }
     },
     {
       "title": "Photobombing",
       "ids": {
         "en-GB": "5097406e-7daa-43a3-90f0-b3e6a78592a0",
-        "pt-PT": "cc04e3d5a181690c"
+        "pt-PT": "cc04e3d5a181690c",
+        "es-ES": "5097406e-7daa-43a3-90f0-b3e6a78592a0",
+        "es-419": "5097406e-7daa-43a3-90f0-b3e6a78592a0"
       }
     },
     {
       "title": "Leg Day",
       "ids": {
-        "en-GB": "61ccc086534df11f"
+        "en-GB": "61ccc086534df11f",
+        "es-ES": "61ccc086534df11f",
+        "es-419": "61ccc086534df11f"
       }
     },
     {
       "title": "Big Mac's Secret Sauce",
       "ids": {
         "en-GB": "85361ccc086534df",
-        "pt-PT": "a4a532b99cdfee95"
+        "pt-PT": "a4a532b99cdfee95",
+        "es-ES": "85361ccc086534df",
+        "es-419": "85361ccc086534df"
       }
     },
     {
       "title": "First World Problems",
       "ids": {
         "en-GB": "4fd2b8656cda7f9e",
-        "pt-PT": "209f1c04ffc451d6"
+        "pt-PT": "209f1c04ffc451d6",
+        "es-ES": "4fd2b8656cda7f9e",
+        "es-419": "4fd2b8656cda7f9e"
       }
     },
     {
       "title": "A Doppelganger",
       "ids": {
-        "en-GB": "83b89a12daab64be"
+        "en-GB": "83b89a12daab64be",
+        "es-ES": "83b89a12daab64be",
+        "es-419": "83b89a12daab64be"
       }
     },
     {
       "title": "Dopamine",
       "ids": {
         "en-GB": "69d83b89a12daab6",
-        "pt-PT": "8b2261b08b57ade9"
+        "pt-PT": "8b2261b08b57ade9",
+        "es-ES": "69d83b89a12daab6",
+        "es-419": "69d83b89a12daab6"
       }
     },
     {
@@ -989,54 +1258,70 @@
       "title": "The Monster in the Wardrobe",
       "ids": {
         "en-GB": "b64bea85361ccc08",
-        "pt-PT": "5e7c49a92fd26fb3"
+        "pt-PT": "5e7c49a92fd26fb3",
+        "es-ES": "b64bea85361ccc08",
+        "es-419": "b64bea85361ccc08"
       }
     },
     {
       "title": "The 1%",
       "ids": {
-        "en-GB": "f9e5afff1669d83b"
+        "en-GB": "f9e5afff1669d83b",
+        "es-ES": "f9e5afff1669d83b",
+        "es-419": "f9e5afff1669d83b"
       }
     },
     {
       "title": "A Doomsday Bunker",
       "ids": {
         "en-GB": "fff1669d83b89a12",
-        "pt-PT": "6b1cd8b2261b08b5"
+        "pt-PT": "6b1cd8b2261b08b5",
+        "es-ES": "fff1669d83b89a12",
+        "es-419": "fff1669d83b89a12"
       }
     },
     {
       "title": "Belly Button Lint",
       "ids": {
         "en-GB": "4bea85361ccc0865",
-        "pt-PT": "439944f69c04798e"
+        "pt-PT": "439944f69c04798e",
+        "es-ES": "4bea85361ccc0865",
+        "es-419": "4bea85361ccc0865"
       }
     },
     {
       "title": "Good Cop, Bad Cop",
       "ids": {
-        "en-GB": "a7f9e5afff1669d8"
+        "en-GB": "a7f9e5afff1669d8",
+        "es-ES": "a7f9e5afff1669d8",
+        "es-419": "a7f9e5afff1669d8"
       }
     },
     {
       "title": "Dungeons & Dragons",
       "ids": {
         "en-GB": "cda7f9e5afff1669",
-        "pt-PT": "fc451d6b1cd8b226"
+        "pt-PT": "fc451d6b1cd8b226",
+        "es-ES": "cda7f9e5afff1669",
+        "es-419": "cda7f9e5afff1669"
       }
     },
     {
       "title": "An Instagram Influencer",
       "ids": {
         "en-GB": "7f9e5afff1669d83",
-        "pt-PT": "23ff65b7242f7960"
+        "pt-PT": "23ff65b7242f7960",
+        "es-ES": "7f9e5afff1669d83",
+        "es-419": "7f9e5afff1669d83"
       }
     },
     {
       "title": "Gangnam Style",
       "ids": {
         "en-GB": "602973b2-e044-4261-b6ca-367ea000e503",
-        "pt-PT": "c3dc3d04c62eb471"
+        "pt-PT": "c3dc3d04c62eb471",
+        "es-ES": "602973b2-e044-4261-b6ca-367ea000e503",
+        "es-419": "602973b2-e044-4261-b6ca-367ea000e503"
       }
     },
     {
@@ -1049,13 +1334,16 @@
       "title": "Mr. Potato Head",
       "ids": {
         "en-GB": "cb4759da-ce62-4506-8293-0f00cc47a145",
-        "pt-PT": "3edc3f40aba5008f"
+        "pt-PT": "3edc3f40aba5008f",
+        "es-ES": "cb4759da-ce62-4506-8293-0f00cc47a145",
+        "es-419": "cb4759da-ce62-4506-8293-0f00cc47a145"
       }
     },
     {
       "title": "Hungry Hungry Hippos",
       "ids": {
-        "en-GB": "b5a973c3-ef94-415c-9441-9fb4e2b267b3"
+        "en-GB": "b5a973c3-ef94-415c-9441-9fb4e2b267b3",
+        "es-ES": "b5a973c3-ef94-415c-9441-9fb4e2b267b3"
       }
     },
     {
@@ -1068,14 +1356,18 @@
       "title": "The Bermuda Triangle",
       "ids": {
         "en-GB": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
-        "pt-PT": "3e594f740c8935c9"
+        "pt-PT": "3e594f740c8935c9",
+        "es-ES": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+        "es-419": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4"
       }
     },
     {
       "title": "Elevator Music",
       "ids": {
         "en-GB": "a0030c6e-d024-489e-ae71-047c8022a094",
-        "pt-PT": "cd200614d5a2087f"
+        "pt-PT": "cd200614d5a2087f",
+        "es-ES": "a0030c6e-d024-489e-ae71-047c8022a094",
+        "es-419": "a0030c6e-d024-489e-ae71-047c8022a094"
       }
     },
     {
@@ -1089,19 +1381,25 @@
       "title": "IKEA Instructions",
       "ids": {
         "en-GB": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
-        "pt-PT": "7c5f22f92007a803"
+        "pt-PT": "7c5f22f92007a803",
+        "es-ES": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
+        "es-419": "8c1f4599-62f7-4b3e-8c8f-fbf093054363"
       }
     },
     {
       "title": "Monday Morning",
       "ids": {
-        "en-GB": "64a54249-b462-448d-9d50-280588737740"
+        "en-GB": "64a54249-b462-448d-9d50-280588737740",
+        "es-ES": "64a54249-b462-448d-9d50-280588737740",
+        "es-419": "64a54249-b462-448d-9d50-280588737740"
       }
     },
     {
       "title": "A Mullet",
       "ids": {
-        "en-GB": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6"
+        "en-GB": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6",
+        "es-ES": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6",
+        "es-419": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6"
       }
     },
     {
@@ -1114,62 +1412,80 @@
       "title": "Toe Socks",
       "ids": {
         "en-GB": "fd73e068-af0c-4f73-bec6-6792139fe927",
-        "pt-PT": "ef748cbc66707690"
+        "pt-PT": "ef748cbc66707690",
+        "es-ES": "fd73e068-af0c-4f73-bec6-6792139fe927",
+        "es-419": "fd73e068-af0c-4f73-bec6-6792139fe927"
       }
     },
     {
       "title": "A Meeting That Could Have Been an Email",
       "ids": {
         "en-GB": "908f592a-5281-44cc-aa69-794a92979c15",
-        "pt-PT": "39303b30ff5601c0"
+        "pt-PT": "39303b30ff5601c0",
+        "es-ES": "908f592a-5281-44cc-aa69-794a92979c15",
+        "es-419": "908f592a-5281-44cc-aa69-794a92979c15"
       }
     },
     {
       "title": "The Macarena",
       "ids": {
         "en-GB": "af0b206e-1057-495f-a4cf-b6d084c437d9",
-        "pt-PT": "c711d3818fd207f5"
+        "pt-PT": "c711d3818fd207f5",
+        "es-ES": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+        "es-419": "af0b206e-1057-495f-a4cf-b6d084c437d9"
       }
     },
     {
       "title": "The Loch Ness Monster",
       "ids": {
         "en-GB": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
-        "pt-PT": "6a3cde2a98df963a"
+        "pt-PT": "6a3cde2a98df963a",
+        "es-ES": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+        "es-419": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1"
       }
     },
     {
       "title": "Déjà Vu",
       "ids": {
         "en-GB": "33aac4ba-3d26-405d-b537-6ed071ea83da",
-        "pt-PT": "a44151e865694d5a"
+        "pt-PT": "a44151e865694d5a",
+        "es-ES": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+        "es-419": "33aac4ba-3d26-405d-b537-6ed071ea83da"
       }
     },
     {
       "title": "The Tooth Fairy",
       "ids": {
         "en-GB": "497380b0-3425-4201-bf27-7981d7b98c68",
-        "pt-PT": "ea72aace55f59a2e"
+        "pt-PT": "ea72aace55f59a2e",
+        "es-ES": "497380b0-3425-4201-bf27-7981d7b98c68",
+        "es-419": "497380b0-3425-4201-bf27-7981d7b98c68"
       }
     },
     {
       "title": "The Moonwalk",
       "ids": {
         "en-GB": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
-        "pt-PT": "0991452be09bca96"
+        "pt-PT": "0991452be09bca96",
+        "es-ES": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+        "es-419": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15"
       }
     },
     {
       "title": "A Tin Foil Hat",
       "ids": {
-        "en-GB": "d4a12b6e-4358-4150-8d5e-83ac197c8db5"
+        "en-GB": "d4a12b6e-4358-4150-8d5e-83ac197c8db5",
+        "es-ES": "d4a12b6e-4358-4150-8d5e-83ac197c8db5",
+        "es-419": "d4a12b6e-4358-4150-8d5e-83ac197c8db5"
       }
     },
     {
       "title": "The Floor Is Lava",
       "ids": {
         "en-GB": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
-        "pt-PT": "23c26dd558d097bc"
+        "pt-PT": "23c26dd558d097bc",
+        "es-ES": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+        "es-419": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd"
       }
     },
     {
@@ -1181,14 +1497,18 @@
     {
       "title": "A Man Bun",
       "ids": {
-        "en-GB": "fb730839-9f97-4976-904f-cbd53cdfdfc7"
+        "en-GB": "fb730839-9f97-4976-904f-cbd53cdfdfc7",
+        "es-ES": "fb730839-9f97-4976-904f-cbd53cdfdfc7",
+        "es-419": "fb730839-9f97-4976-904f-cbd53cdfdfc7"
       }
     },
     {
       "title": "A Unibrow",
       "ids": {
         "en-GB": "7fb16c34-2dbe-4309-8b65-814920d138fb",
-        "pt-PT": "00230b16e71ef566"
+        "pt-PT": "00230b16e71ef566",
+        "es-ES": "7fb16c34-2dbe-4309-8b65-814920d138fb",
+        "es-419": "7fb16c34-2dbe-4309-8b65-814920d138fb"
       }
     },
     {
@@ -1201,35 +1521,44 @@
       "title": "Limbo",
       "ids": {
         "en-GB": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
-        "pt-PT": "b4a67e574965d0e1"
+        "pt-PT": "b4a67e574965d0e1",
+        "es-ES": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+        "es-419": "6af7c52d-bb69-4400-bfe9-0f04027a35d9"
       }
     },
     {
       "title": "The Chicken or the Egg",
       "ids": {
         "en-GB": "ce2f8431-b0c2-4301-808d-4681a542c71f",
-        "pt-PT": "57e5845278d9272e"
+        "pt-PT": "57e5845278d9272e",
+        "es-ES": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+        "es-419": "ce2f8431-b0c2-4301-808d-4681a542c71f"
       }
     },
     {
       "title": "The Mexican Wave",
       "ids": {
         "en-GB": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
-        "pt-PT": "dffd96afb60311fc"
+        "pt-PT": "dffd96afb60311fc",
+        "es-ES": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+        "es-419": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73"
       }
     },
     {
       "title": "The Heimlich Maneuver",
       "ids": {
         "en-GB": "a2737d5c-387e-485c-8891-333278cef79d",
-        "pt-PT": "9c0969d1b0df1cc2"
+        "pt-PT": "9c0969d1b0df1cc2",
+        "es-ES": "a2737d5c-387e-485c-8891-333278cef79d",
+        "es-419": "a2737d5c-387e-485c-8891-333278cef79d"
       }
     },
     {
       "title": "A Pool Noodle",
       "ids": {
         "en-GB": "11f95020-812c-418e-9c21-874e4fbe24fd",
-        "pt-PT": "a30c97483507dbc5"
+        "pt-PT": "a30c97483507dbc5",
+        "es-ES": "11f95020-812c-418e-9c21-874e4fbe24fd"
       }
     },
     {
@@ -1242,63 +1571,81 @@
       "title": "Stepping on Lego",
       "ids": {
         "en-GB": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
-        "pt-PT": "ba121d2e0371ca16"
+        "pt-PT": "ba121d2e0371ca16",
+        "es-ES": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+        "es-419": "bcae31cd-72d0-4d47-a49b-6b9d828811a1"
       }
     },
     {
       "title": "A Sneeze That Won't Come",
       "ids": {
         "en-GB": "30714b4b-d80a-471f-895c-f1448fc5cce7",
-        "pt-PT": "7747c990b9f41d48"
+        "pt-PT": "7747c990b9f41d48",
+        "es-ES": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+        "es-419": "30714b4b-d80a-471f-895c-f1448fc5cce7"
       }
     },
     {
       "title": "Clapping When the Plane Lands",
       "ids": {
         "en-GB": "6074accc-37a1-4ddd-8707-54807fa01406",
-        "pt-PT": "0b018421a773e6f5"
+        "pt-PT": "0b018421a773e6f5",
+        "es-ES": "6074accc-37a1-4ddd-8707-54807fa01406",
+        "es-419": "6074accc-37a1-4ddd-8707-54807fa01406"
       }
     },
     {
       "title": "A Tupperware Lid That Doesn't Match",
       "ids": {
         "en-GB": "7a495018-9642-4d79-b88b-4ec138b229b6",
-        "pt-PT": "8a6004dcd51dc0e1"
+        "pt-PT": "8a6004dcd51dc0e1",
+        "es-ES": "7a495018-9642-4d79-b88b-4ec138b229b6",
+        "es-419": "7a495018-9642-4d79-b88b-4ec138b229b6"
       }
     },
     {
       "title": "The Cold Side of the Pillow",
       "ids": {
         "en-GB": "6704a583-9897-485e-9945-1507734e5dd5",
-        "pt-PT": "7d2241efbb0a085f"
+        "pt-PT": "7d2241efbb0a085f",
+        "es-ES": "6704a583-9897-485e-9945-1507734e5dd5",
+        "es-419": "6704a583-9897-485e-9945-1507734e5dd5"
       }
     },
     {
       "title": "The Middle Seat",
       "ids": {
         "en-GB": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
-        "pt-PT": "16984634ddb40933"
+        "pt-PT": "16984634ddb40933",
+        "es-ES": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
+        "es-419": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b"
       }
     },
     {
       "title": "A Spoon Falling Into the Soup",
       "ids": {
         "en-GB": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
-        "pt-PT": "397f41d8a92d8619"
+        "pt-PT": "397f41d8a92d8619",
+        "es-ES": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+        "es-419": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa"
       }
     },
     {
       "title": "A Plastic Bag in the Wind",
       "ids": {
         "en-GB": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
-        "pt-PT": "c0d0828d19e67cde"
+        "pt-PT": "c0d0828d19e67cde",
+        "es-ES": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+        "es-419": "642503b4-f3cf-4ef7-86f9-d57af49b24a0"
       }
     },
     {
       "title": "Microwaving Fish at Work",
       "ids": {
         "en-GB": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
-        "pt-PT": "c81b74d458be4b56"
+        "pt-PT": "c81b74d458be4b56",
+        "es-ES": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+        "es-419": "d97d6aef-a83e-447c-b6c4-385dbe10228d"
       }
     },
     {
@@ -1311,169 +1658,219 @@
       "title": "Where's Wally?",
       "ids": {
         "en-GB": "bf9ec332-4873-4b6c-90d3-92f211c349f0",
-        "pt-PT": "195f80afc03ddcdf"
+        "pt-PT": "195f80afc03ddcdf",
+        "es-ES": "bf9ec332-4873-4b6c-90d3-92f211c349f0",
+        "es-419": "bf9ec332-4873-4b6c-90d3-92f211c349f0"
       }
     },
     {
       "title": "The Last Straw",
       "ids": {
-        "en-GB": "97d61403-9d62-4a94-af01-8113f18f408d"
+        "en-GB": "97d61403-9d62-4a94-af01-8113f18f408d",
+        "es-ES": "97d61403-9d62-4a94-af01-8113f18f408d",
+        "es-419": "97d61403-9d62-4a94-af01-8113f18f408d"
       }
     },
     {
       "title": "A Boomerang",
       "ids": {
         "en-GB": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
-        "pt-PT": "7c39a2afe0e48cd9"
+        "pt-PT": "7c39a2afe0e48cd9",
+        "es-ES": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+        "es-419": "20833986-fe5e-4a66-9ff4-fa58a88838b0"
       }
     },
     {
       "title": "An Imaginary Friend",
       "ids": {
         "en-GB": "e1a303ac-4247-4f82-b443-e2e31daea751",
-        "pt-PT": "ce5834e6e3e5dd5d"
+        "pt-PT": "ce5834e6e3e5dd5d",
+        "es-ES": "e1a303ac-4247-4f82-b443-e2e31daea751",
+        "es-419": "e1a303ac-4247-4f82-b443-e2e31daea751"
       }
     },
     {
       "title": "A Cliffhanger",
       "ids": {
-        "en-GB": "7efae148-2cc5-463a-8d51-19d649131976"
+        "en-GB": "7efae148-2cc5-463a-8d51-19d649131976",
+        "es-ES": "7efae148-2cc5-463a-8d51-19d649131976",
+        "es-419": "7efae148-2cc5-463a-8d51-19d649131976"
       }
     },
     {
       "title": "A Guilty Pleasure",
       "ids": {
-        "en-GB": "ac5bdc92-5ad7-42c3-a698-c566686be822"
+        "en-GB": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+        "es-ES": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+        "es-419": "ac5bdc92-5ad7-42c3-a698-c566686be822"
       }
     },
     {
       "title": "The Michelin Man",
       "ids": {
         "en-GB": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc",
-        "pt-PT": "14f3a613c8fb61b4"
+        "pt-PT": "14f3a613c8fb61b4",
+        "es-ES": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc",
+        "es-419": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc"
       }
     },
     {
       "title": "A Crash Test Dummy",
       "ids": {
-        "en-GB": "6e600a4a-ccfd-4600-bb98-0e536af49647"
+        "en-GB": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+        "es-ES": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+        "es-419": "6e600a4a-ccfd-4600-bb98-0e536af49647"
       }
     },
     {
       "title": "The Last Slice of Pizza",
       "ids": {
         "en-GB": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
-        "pt-PT": "395790a867ff004e"
+        "pt-PT": "395790a867ff004e",
+        "es-ES": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+        "es-419": "d320bf06-e8ab-4a6c-b8f6-0094d578b396"
       }
     },
     {
       "title": "The Yawn That Spreads",
       "ids": {
         "en-GB": "312f14af-1fdb-4040-9b5c-85167a3889b4",
-        "pt-PT": "4ee08bf4ec051cc5"
+        "pt-PT": "4ee08bf4ec051cc5",
+        "es-ES": "312f14af-1fdb-4040-9b5c-85167a3889b4",
+        "es-419": "312f14af-1fdb-4040-9b5c-85167a3889b4"
       }
     },
     {
       "title": "An Evil Twin",
       "ids": {
-        "en-GB": "fb504832-5170-40be-900c-b19d0d53c2b4"
+        "en-GB": "fb504832-5170-40be-900c-b19d0d53c2b4",
+        "es-ES": "fb504832-5170-40be-900c-b19d0d53c2b4",
+        "es-419": "fb504832-5170-40be-900c-b19d0d53c2b4"
       }
     },
     {
       "title": "Hiccups",
       "ids": {
         "en-GB": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
-        "pt-PT": "ac0a5d30c4d51df4"
+        "pt-PT": "ac0a5d30c4d51df4",
+        "es-ES": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+        "es-419": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8"
       }
     },
     {
       "title": "A Mime",
       "ids": {
         "en-GB": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
-        "pt-PT": "b7a73d3154eba5be"
+        "pt-PT": "b7a73d3154eba5be",
+        "es-ES": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+        "es-419": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232"
       }
     },
     {
       "title": "The Party Guest Who Won't Leave",
       "ids": {
         "en-GB": "d101142f-c63b-4225-a798-d207cb0e1c68",
-        "pt-PT": "b3279da1852fec85"
+        "pt-PT": "b3279da1852fec85",
+        "es-ES": "d101142f-c63b-4225-a798-d207cb0e1c68",
+        "es-419": "d101142f-c63b-4225-a798-d207cb0e1c68"
       }
     },
     {
       "title": "Calling the Teacher \"Mum\"",
       "ids": {
         "en-GB": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
-        "pt-PT": "88e310b469a4dd28"
+        "pt-PT": "88e310b469a4dd28",
+        "es-ES": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
+        "es-419": "c0aacaf3-d288-4ca6-a682-42319b7f01fa"
       }
     },
     {
       "title": "Wearing Sunglasses Indoors",
       "ids": {
         "en-GB": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
-        "pt-PT": "641ebfae791f6877"
+        "pt-PT": "641ebfae791f6877",
+        "es-ES": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+        "es-419": "8e35145a-f226-44a3-94c7-9a811bfd6f22"
       }
     },
     {
       "title": "Pushing a Pull Door",
       "ids": {
         "en-GB": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
-        "pt-PT": "69dd976cf0bfc152"
+        "pt-PT": "69dd976cf0bfc152",
+        "es-ES": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
+        "es-419": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0"
       }
     },
     {
       "title": "A Silent Fart",
       "ids": {
         "en-GB": "e058babc-7311-4426-a552-cb87ea01158d",
-        "pt-PT": "3d00e5d5425358fc"
+        "pt-PT": "3d00e5d5425358fc",
+        "es-ES": "e058babc-7311-4426-a552-cb87ea01158d",
+        "es-419": "e058babc-7311-4426-a552-cb87ea01158d"
       }
     },
     {
       "title": "A Crying Baby on a Plane",
       "ids": {
         "en-GB": "0492031b-272f-494e-8a04-7c673f1e2ad7",
-        "pt-PT": "4c32348235b363e5"
+        "pt-PT": "4c32348235b363e5",
+        "es-ES": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+        "es-419": "0492031b-272f-494e-8a04-7c673f1e2ad7"
       }
     },
     {
       "title": "The Holy Grail",
       "ids": {
         "en-GB": "7642767e-e36d-402a-bb6c-71d7be72b06c",
-        "pt-PT": "b21fccc79a3dc1a6"
+        "pt-PT": "b21fccc79a3dc1a6",
+        "es-ES": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+        "es-419": "7642767e-e36d-402a-bb6c-71d7be72b06c"
       }
     },
     {
       "title": "A Magic Lamp",
       "ids": {
         "en-GB": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
-        "pt-PT": "809c73949843a7d4"
+        "pt-PT": "809c73949843a7d4",
+        "es-ES": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+        "es-419": "0244a3cd-29d2-451c-804b-3aa44d38b2e8"
       }
     },
     {
       "title": "The Big Bang",
       "ids": {
         "en-GB": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
-        "pt-PT": "8b14c625380f2065"
+        "pt-PT": "8b14c625380f2065",
+        "es-ES": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+        "es-419": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e"
       }
     },
     {
       "title": "The Illuminati",
       "ids": {
         "en-GB": "68c97440-7c83-43a3-9838-b5e967d01e38",
-        "pt-PT": "d483058f79baf5d7"
+        "pt-PT": "d483058f79baf5d7",
+        "es-ES": "68c97440-7c83-43a3-9838-b5e967d01e38",
+        "es-419": "68c97440-7c83-43a3-9838-b5e967d01e38"
       }
     },
     {
       "title": "Doctor's Handwriting",
       "ids": {
         "en-GB": "65d293cc-08a2-4947-9192-44c46c7b69df",
-        "pt-PT": "57dc79e7a92e5161"
+        "pt-PT": "57dc79e7a92e5161",
+        "es-ES": "65d293cc-08a2-4947-9192-44c46c7b69df",
+        "es-419": "65d293cc-08a2-4947-9192-44c46c7b69df"
       }
     },
     {
       "title": "The Conga Line",
       "ids": {
-        "en-GB": "9fd6405d-5827-48f9-a06d-d492a75af32c"
+        "en-GB": "9fd6405d-5827-48f9-a06d-d492a75af32c",
+        "es-ES": "9fd6405d-5827-48f9-a06d-d492a75af32c",
+        "es-419": "9fd6405d-5827-48f9-a06d-d492a75af32c"
       }
     },
     {
@@ -1485,21 +1882,27 @@
     {
       "title": "The Snooze Button",
       "ids": {
-        "en-GB": "8c26c3b6-6f16-47be-ad13-70d13ee738d4"
+        "en-GB": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+        "es-ES": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+        "es-419": "8c26c3b6-6f16-47be-ad13-70d13ee738d4"
       }
     },
     {
       "title": "A Staring Contest",
       "ids": {
         "en-GB": "5474f906-59a9-4cb8-b999-3efe8b86985c",
-        "pt-PT": "a763691de7c57902"
+        "pt-PT": "a763691de7c57902",
+        "es-ES": "5474f906-59a9-4cb8-b999-3efe8b86985c",
+        "es-419": "5474f906-59a9-4cb8-b999-3efe8b86985c"
       }
     },
     {
       "title": "The Devil on Your Shoulder",
       "ids": {
         "en-GB": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
-        "pt-PT": "487e9e0cfe0edf7e"
+        "pt-PT": "487e9e0cfe0edf7e",
+        "es-ES": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
+        "es-419": "9a6a8200-d2cc-495f-af5e-2250ea254ed8"
       }
     },
     {
@@ -1512,7 +1915,9 @@
       "title": "An Office Chair Race",
       "ids": {
         "en-GB": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
-        "pt-PT": "54b5b1afb41a749b"
+        "pt-PT": "54b5b1afb41a749b",
+        "es-ES": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+        "es-419": "1eb66ccc-a565-479d-8f86-93be0e5d6e13"
       }
     },
     {
@@ -1525,49 +1930,63 @@
       "title": "A Hot Dog Eating Contest",
       "ids": {
         "en-GB": "ebadbed1-8a05-4e22-95e1-ba166e66e490",
-        "pt-PT": "43f4079c59c9fc9b"
+        "pt-PT": "43f4079c59c9fc9b",
+        "es-ES": "ebadbed1-8a05-4e22-95e1-ba166e66e490",
+        "es-419": "ebadbed1-8a05-4e22-95e1-ba166e66e490"
       }
     },
     {
       "title": "The Uno Reverse Card",
       "ids": {
         "en-GB": "722617cd-07d6-454f-918a-3469e6167a19",
-        "pt-PT": "1c04ffc451d6b1cd"
+        "pt-PT": "1c04ffc451d6b1cd",
+        "es-ES": "722617cd-07d6-454f-918a-3469e6167a19",
+        "es-419": "722617cd-07d6-454f-918a-3469e6167a19"
       }
     },
     {
       "title": "The Algorithm",
       "ids": {
         "en-GB": "85eabdcd250a7a4e",
-        "pt-PT": "0f92b86f0c07170f"
+        "pt-PT": "0f92b86f0c07170f",
+        "es-ES": "85eabdcd250a7a4e",
+        "es-419": "85eabdcd250a7a4e"
       }
     },
     {
       "title": "The Last Supper",
       "ids": {
         "en-GB": "980cb9f08ba2166e",
-        "pt-PT": "ca5a96a190161416"
+        "pt-PT": "ca5a96a190161416",
+        "es-ES": "980cb9f08ba2166e",
+        "es-419": "980cb9f08ba2166e"
       }
     },
     {
       "title": "Hide and Seek",
       "ids": {
         "en-GB": "4607ef0f3ce0830c",
-        "pt-PT": "30105375f3ec2592"
+        "pt-PT": "30105375f3ec2592",
+        "es-ES": "4607ef0f3ce0830c",
+        "es-419": "4607ef0f3ce0830c"
       }
     },
     {
       "title": "A Rubber Duck",
       "ids": {
         "en-GB": "514087352f094b1a",
-        "pt-PT": "f9aea66102a15c6d"
+        "pt-PT": "f9aea66102a15c6d",
+        "es-ES": "514087352f094b1a",
+        "es-419": "514087352f094b1a"
       }
     },
     {
       "title": "A Tongue Twister",
       "ids": {
         "en-GB": "87f40d1838be97a1",
-        "pt-PT": "0e5964df2be53dad"
+        "pt-PT": "0e5964df2be53dad",
+        "es-ES": "87f40d1838be97a1",
+        "es-419": "87f40d1838be97a1"
       }
     }
   ]

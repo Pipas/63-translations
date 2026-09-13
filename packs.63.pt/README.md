@@ -42,7 +42,7 @@ The 25 namespaces, largest first:
 | `collaboration` | 23 | Inviting people to edit a pack together. |
 | `validation` | 14 | Inline form errors. |
 | `submit` | 14 | Submitting a pack for review, including the KIDS mode question. |
-| `account` | 11 | Account settings. |
+| `account` | 12 | Account settings. |
 | `home` | 9 | The pack list. |
 | `join` | 9 | Opening someone else's invite link. |
 | `common` | 6 | Buttons shared across the site. |

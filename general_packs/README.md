@@ -8,11 +8,13 @@ Read this bit before anything else.
 
 **English is the master list.** Every other language is a translation of it, minus the
 cards that don't make the trip. So the decks overlap heavily, but not perfectly, and the
-overlap only runs one way: nearly every Portuguese card exists in English, while plenty of
-English cards have no Portuguese counterpart.
+overlap only runs one way: cards in a translated deck come from English, while some English
+cards have no counterpart in a given language.
 
-Right now, all 185 Portuguese cards are translations of an English card. Of the 230 English
-cards, 45 were dropped from Portuguese.
+Right now, the English deck has 230 cards, the Portuguese deck has 185, the Spanish (Spain)
+draft has 209, and the Latin American Spanish draft has 208. Every retained card is a
+translation of an English card: 45 were dropped from Portuguese, 21 from Spanish (Spain)
+and 22 from Latin American Spanish.
 
 Cards get dropped when:
 
@@ -29,7 +31,7 @@ That last one is deliberately loose. A shorter deck that plays well beats a comp
 padded with cards nobody enjoys, so don't force a card through out of a sense of duty to
 the English list.
 
-Everything dropped from Portuguese is listed in [`DROPPED.md`](DROPPED.md), with the
+Everything dropped from any translation is listed in [`DROPPED.md`](DROPPED.md), with the
 reasoning.
 
 ### The card IDs don't line up, and that's fine
@@ -39,7 +41,7 @@ They're database identities, assigned per card row, not shared keys. So you can'
 languages by ID or use IDs to work out what's missing. Match by meaning, or use
 `DROPPED.md`.
 
-If you need the pairing itself — which Portuguese card is which English one —
+If you need the pairing itself — which translated card is which English one —
 [`card-map.json`](card-map.json) has it: one entry per card, one id per language. It's maintained by the CSV scripts in
 [`scripts/`](../scripts), and it's a lookup table, not something to hand-edit while
 translating.
