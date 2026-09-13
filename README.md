@@ -13,6 +13,7 @@ a language you speak, this is the only repo you need.
 | Code | Language | Status |
 | --- | --- | --- |
 | `en-GB` | English (British) | Complete, source language |
+| `en-US` | English (United States) | Complete |
 | `pt-PT` | Portuguese (Portugal) | Complete |
 
 Adding a new language means adding one file per folder below, named with the same

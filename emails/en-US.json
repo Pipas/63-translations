@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "\"{{packName}}\" is live in the community",
+    "preheader": "Your pack \"{{packName}}\" was approved.",
+    "heading": "Approved!",
+    "intro": "<strong>{{packName}}</strong> has been approved and is now available to everyone in 63.",
+    "cta": "View community pack",
+    "reviewerNote": "A note from the reviewer:",
+    "caption": "Players can find it in the community packs section of the app.",
+    "text": "Approved!\n\n\"{{packName}}\" has been approved and is now available to everyone in 63.\n\nView: {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "\"{{packName}}\" is now featured",
+    "preheader": "We picked \"{{packName}}\" as a featured community pack.",
+    "heading": "Now featured!",
+    "intro": "We picked <strong>{{packName}}</strong> as a featured community pack.",
+    "cta": "View featured pack",
+    "caption": "Featured packs get top placement in the community section.",
+    "text": "We picked \"{{packName}}\" as a featured community pack.\n\nView: {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "Update to \"{{packName}}\" was not approved",
+      "new": "Update on \"{{packName}}\""
+    },
+    "preheader": {
+      "update": "Your update to \"{{packName}}\" was not approved — the previous version is still live.",
+      "new": "Your pack \"{{packName}}\" was not approved this time."
+    },
+    "heading": "Update on your submission",
+    "intro": {
+      "update": "We reviewed your update to <strong>{{packName}}</strong> and it was not approved. Here is the reviewer's note:",
+      "new": "We reviewed <strong>{{packName}}</strong> and it was not approved this time. Here is the reviewer's note:"
+    },
+    "stillLive": "Good news: the previously approved version is still live in the community library — nothing was taken down.",
+    "cta": "Edit and resubmit",
+    "text": {
+      "opener": {
+        "update": "We reviewed your update to \"{{packName}}\" and it was not approved. The previously approved version is still live in the community library — nothing was taken down.",
+        "new": "We reviewed \"{{packName}}\" and it was not approved this time."
+      },
+      "reviewerNote": "Reviewer note:",
+      "invite": "You can edit the pack and submit it again whenever you are ready."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "\"{{packName}}\" was removed from the community",
+    "preheader": "Your pack \"{{packName}}\" was taken down by a moderator.",
+    "heading": "Pack removed",
+    "intro": {
+      "withoutReason": "We removed <strong>{{packName}}</strong> from the community library.",
+      "withReason": "We removed <strong>{{packName}}</strong> from the community library. Here is the reason:"
+    },
+    "cta": "Open pack",
+    "caption": "You can edit your pack and submit it again whenever you are ready.",
+    "text": {
+      "withoutReason": "We removed \"{{packName}}\" from the community library.\n\nYou can edit your pack and submit it again whenever you are ready.\n{{url}}\n",
+      "withReason": "We removed \"{{packName}}\" from the community library.\n\nReason:\n{{reason}}\n\nYou can edit your pack and submit it again whenever you are ready.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "\"{{packName}}\" submitted for review",
+    "preheader": "We received your community pack submission.",
+    "heading": "Submission received",
+    "intro": "We received your submission of <strong>{{packName}}</strong> for community review.",
+    "cta": "View pack",
+    "caption": "We will email you as soon as there is an update.",
+    "text": "We received your submission of \"{{packName}}\" for community review. We will email you when there is an update.\n\nView pack: {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "Reset your packs.63.pt password",
+    "preheader": "Tap the button to choose a new password.",
+    "heading": "Reset your password",
+    "intro": "We received a request to reset the password for your packs.63.pt account. Tap the button below to choose a new one.",
+    "cta": "Reset password",
+    "caption": "If you didn't request this, you can safely ignore this email — your password won't change.",
+    "text": "Reset your password\n\nWe received a request to reset the password for your packs.63.pt account. Open this link to choose a new one:\n\n{{url}}\n\nIf you didn't request this, you can safely ignore this email — your password won't change.\n"
+  }
+}

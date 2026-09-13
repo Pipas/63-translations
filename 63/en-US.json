@@ -1,0 +1,378 @@
+{
+  "common": {
+    "game_mode": "Game mode",
+    "teams": "Teams",
+    "team": "Team",
+    "add_team": "Add team",
+    "skipping": "Skipping",
+    "skipping_tooltip": "When enabled, players can skip cards by pressing the skip button or swiping left.",
+    "penalty": "Penalty",
+    "penalty_tooltip": "How many seconds are deducted from the turn timer each time a card is skipped.",
+    "seconds": "Seconds",
+    "options": "Options",
+    "rounds": "Rounds",
+    "rounds_tooltip": "How many rounds the game has.\n\nYou can create custom rounds like:\n• Drawing the cards\n• Arms from behind the couch\n• Head only from behind the couch\n• Charades under a bedsheet\n• Interpretive dance",
+    "time": "Time",
+    "time_tooltip": "How long each player's turn lasts, in seconds.",
+    "loop_skipped_cards": "Redraw skipped cards",
+    "loop_skipped_cards_tooltip": "When enabled, skipped cards can be drawn again later in the same player's turn.",
+    "preview_score": "Preview score",
+    "preview_score_tooltip": "When enabled, the current game score is shown at the end of each turn.\nWhen disabled, the score is only revealed at the end of the game.",
+    "hide_descriptions": "Hide descriptions",
+    "hide_descriptions_tooltip": "When enabled, card descriptions are hidden during the game.",
+    "deck": "Deck",
+    "size": "Size",
+    "packs": "Packs",
+    "new_badge": "NEW",
+    "cards": "Cards",
+    "short_game": "Short game",
+    "regular_game": "Regular game",
+    "long_game": "Long game",
+    "settings": "Settings",
+    "language": "Language",
+    "about": "About",
+    "credits": "Credits",
+    "legal_stuff": "Legal stuff",
+    "privacy_policy": "Privacy policy",
+    "terms_and_conditions": "Terms and conditions",
+    "licences": "Licenses",
+    "ad_privacy": "Ad privacy",
+    "contact_us": "Contact us",
+    "sound": "Sound",
+    "sound_tooltip": "When enabled, the game plays sound effects.",
+    "show_rule_tooltips": "Show rules",
+    "show_rule_tooltips_tooltip": "When enabled, the rules are shown as small reminders during play.",
+    "accessibility": "Accessibility",
+    "app_size": "App size",
+    "app_size_tooltip": "Makes text and buttons bigger across the whole app.",
+    "card_text_size": "Card text size",
+    "card_text_size_tooltip": "Makes the title and description on the cards bigger during a game.",
+    "high_contrast": "High contrast",
+    "high_contrast_tooltip": "Darkens faint text and forces pack and team colors to use the most readable text color on top of them.",
+    "legible_font": "Legible font",
+    "legible_font_tooltip": "Swaps the app text for Atkinson Hyperlegible, a font designed so letters and numbers that look alike stay easy to tell apart.",
+    "leave": "Leave",
+    "rules": "Rules",
+    "resume": "Resume",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "round": "Round",
+    "start_turn": "Start turn",
+    "skip": "Skip",
+    "game_paused": "Game paused",
+    "leave_game": "Leave game",
+    "leave_game_tooltip": "Are you sure you want to leave the game? Game progress will be lost.",
+    "end_turn": "End turn",
+    "end_round": "End round",
+    "end_game": "End game",
+    "game_over": "Game over",
+    "its_a_tie": "It's a tie!",
+    "times_up": "Time's up!",
+    "no_more_cards": "No more cards!",
+    "exit": "Exit",
+    "play": "Play",
+    "start_game": "Start game",
+    "continue": "Continue",
+    "support_button": "Support",
+    "rate_title": "Enjoying 63?",
+    "rate_subtitle": "Rate the game to help us reach more people",
+    "back": "Back",
+    "ok": "Ok",
+    "recover_game_title": "Resume game",
+    "recover_game_description": "Your last game was not finished. Do you want to resume it?",
+    "recover_game_resume": "Resume",
+    "recover_game_ignore": "Ignore",
+    "cards_left": "{count} cards left",
+    "see_more": "See more",
+    "see_less": "See less"
+  },
+  "mode": {
+    "classic": {
+      "title": "Classic",
+      "description": "Standard 63 ruleset. Three rounds, two teams and one winner!"
+    },
+    "chill": {
+      "title": "Chill",
+      "description": "No points, no penalties and everyone plays together!"
+    },
+    "competitive": {
+      "title": "Competitive",
+      "description": "For those who like competition.\nSkipping has a penalty."
+    },
+    "blitz": {
+      "title": "Blitz",
+      "description": "Fewer cards, less time and you can't skip!"
+    },
+    "custom": {
+      "title": "Custom",
+      "description": "Why play by our rules?\nCreate your own mode."
+    }
+  },
+  "rules": {
+    "skip": "Skip",
+    "start": "Start",
+    "next": "Next",
+    "lets_go": "Let's go!",
+    "know_more": "Read more...",
+    "home": {
+      "call_to_action": "Welcome to"
+    },
+    "deck": {
+      "title": "63 is a game about guessing cards",
+      "text": "Teams compete to see who can score the most points.",
+      "info": "Every game generates a brand-new deck with cards from various packs."
+    },
+    "example_card": {
+      "title": "An example card",
+      "description": "Just an example. Real cards are people, movies and things to guess. And they usually have a second line of description with a fun fact or a little joke."
+    },
+    "example_card_2": {
+      "title": "A blur on the screen",
+      "description": "Gone before you could read it, right? I hate when that happens, I could've sworn there was something there!"
+    },
+    "example_card_3": {
+      "title": "Another example card",
+      "description": "You weren't meant to read this one. But since you did, let me know what you thought."
+    },
+    "example_card_4": {
+      "title": "Did you catch that?",
+      "description": "No? It went by a bit too fast. What was it? Nobody knows, but maybe it was important."
+    },
+    "example_card_5": {
+      "title": "A funny card",
+      "description": "The funniest card ever written, yet no one will read it because it flies by so fast. Ironic, isn't it?"
+    },
+    "cards": {
+      "title": "Each card represents a concept",
+      "text": "This could be anything from historical figures to pop culture references",
+      "points": "Points",
+      "card_title": "Title",
+      "card_description": "Description",
+      "info": "A card only counts if its full title is said, in the right order.",
+      "more_info": "Each card has a short description to help if you don't know the concept. Use it as a starting point for your clues, but don't just read it out.\n\nIt's your game, so be as strict or relaxed with the rules as you like."
+    },
+    "default_card": {
+      "title": "Home Alone",
+      "description": "A 1990 comedy film starring Macaulay Culkin that follows a left behind child fending off burglars from his family residence."
+    },
+    "teams": {
+      "title": "Two teams take turns guessing cards",
+      "text": "One player gives clues while their team tries to guess the card's title",
+      "info": "Everyone has to take a turn giving clues before anyone goes twice."
+    },
+    "turn": {
+      "title": "Each turn is 63 seconds long",
+      "text": "During a **turn**, the team in play guesses as many cards as they can",
+      "info": "The player giving clues holds the phone."
+    },
+    "rounds": {
+      "title": "The game has 3 rounds",
+      "text": "Each **round** is made up of many **turns**, and ends when every card in the deck has been guessed",
+      "current_round": "Current\nround",
+      "info": "All three rounds are played with the same deck.",
+      "more_info": "At the start of each round the deck is shuffled and played again.\n\nPay attention on your opponents' turns, as the cards they guess come back in later rounds."
+    },
+    "round1": {
+      "title": "Round 1",
+      "subtitle": "Forbidden words",
+      "text": "Describe the card however you like, but you can't say any word from its title",
+      "clue1": "Christmas movie about being left solo in a house",
+      "clue2": "With Macaulay Culkin!",
+      "info": "For \"Home Alone\", you can't say \"home\" or \"alone\".",
+      "more_info": "Prepositions don't count as forbidden words.\n\nIf a forbidden word is said and the card is guessed, the other team can contest it and it's marked incorrect at the end of the turn.",
+      "note": "Forbidden words",
+      "note_description": "You can't use words from the card's title"
+    },
+    "round2": {
+      "title": "Round 2",
+      "subtitle": "One word only",
+      "text": "You can give just a single word as your clue, no sounds, no gestures",
+      "clue": "Kevin!",
+      "info": "Remember: every card was already revealed back in round 1.",
+      "more_info": "To reach round 2, every card has to have been guessed in round 1.\n\nThe cards stay the same, but the clue-giver's job gets harder each round!",
+      "note": "One word",
+      "note_description": "You can only give one word clues."
+    },
+    "round3": {
+      "title": "Round 3",
+      "subtitle": "Charades",
+      "text": "No words at all, only gestures and sounds!",
+      "clue": "😱",
+      "note": "Charades",
+      "note_description": "Words are forbidden, only gestures and sounds!"
+    },
+    "controls": {
+      "guess_text": "If your team guesses the card, press the guess button **CHECK_ICON**",
+      "skip_text": "Don't know what to say, or want a new card? Press **Skip**",
+      "info": "You can also mark cards guessed or skipped by swiping.",
+      "more_info": "Swipe right to mark it guessed, left to skip. Skipped cards stay in the deck and come back later in the same round, so you'll get another shot.\n\nIn Classic mode skipping is free, so don't just watch the clock tick!"
+    },
+    "post_turn": {
+      "summary_text": "After your **turn** you'll see a summary of every card you guessed and skipped",
+      "controls_text": "You can toggle any card's result here if a rule was broken or there was a mistake during play",
+      "note": "Turn summary",
+      "note_description": "Here you can toggle the result of the cards if you made a mistake or broke any rules during play."
+    },
+    "end_turn": {
+      "end_turn_text": "Press **End turn** to pass play to the next team, then hand over the phone.",
+      "round_text": "The **current round**, and its rules, continue until every card in the deck has been guessed.",
+      "info": "Don't forget to end your turn before passing the phone!",
+      "more_info": "If you don't, the next player might see cards that were skipped this round and are still in play."
+    },
+    "end_game": {
+      "title": "The game ends after round 3",
+      "subtitle": "The team with the most points wins, but you already knew that!"
+    }
+  },
+  "support": {
+    "title": "Remove ads and support 63!",
+    "description": "63 is an independent project and your contribution helps with its maintenance and development.",
+    "select_option": "Select option",
+    "standard": {
+      "title": "Standard",
+      "description": "Removes all ads from the game, forever."
+    },
+    "fan": {
+      "title": "63 fan",
+      "description": "Removes all ads forever and shows your appreciation for the project."
+    },
+    "contribute": "Contribute",
+    "thank_you": {
+      "card_title": "Thank you",
+      "card_description": "63 is an independent side project made entirely during my free time. I've poured a lot of care and attention into trying to make this game the best experience possible. My sincere thanks, and I hope you enjoy playing 63 as much as I did creating it!",
+      "author": "Paulo Correia"
+    },
+    "no_internet": {
+      "title": "No internet",
+      "description": "Please check your internet connection"
+    },
+    "error": {
+      "title": "Something went wrong",
+      "description": "We couldn't load the support options, please try again",
+      "retry": "Try again"
+    },
+    "restore_purchases": "Restore purchases",
+    "restore_purchases_error": "Error restoring purchases"
+  },
+  "credits": {
+    "created_by": "Created by",
+    "sound": "Sound",
+    "cards": "Cards",
+    "localisation": "Localization",
+    "design_help": "Design help",
+    "special_thanks": "Special thanks",
+    "everyone_who_believed": "and everyone who\nbelieved in me",
+    "font": "Font",
+    "by": "by",
+    "developed_with": "Developed with",
+    "made_in": "Made in",
+    "portugal": "Portugal 🇵🇹",
+    "and_thank_you": "...and thank you,",
+    "for_playing": "for playing"
+  },
+  "deck": {
+    "use_only_unplayed": "Only unplayed cards",
+    "use_only_unplayed_tooltip": "Only cards that haven't appeared in a previous game will be used. If there aren't enough, the game starts with fewer cards.",
+    "kids_mode": "KIDS mode",
+    "kids_mode_label": "{kids} mode",
+    "kids_mode_tooltip": "Hides cards and community packs that aren't suitable for kids. Private packs are always shown.",
+    "distribution": "Card distribution",
+    "not_enough_cards": "Deck will only contain {count} cards",
+    "no_cards_available": "No cards available to create a deck",
+    "all_cards_played": "All cards played",
+    "only_n_available": "Only {count} available",
+    "unassigned": "Unassigned: {count}",
+    "reset": "Reset"
+  },
+  "packs": {
+    "add_packs": "Add packs",
+    "create_packs_title": "Create your own packs",
+    "create_packs_description": "Write cards, collaborate with friends and share your packs with the world!",
+    "featured_title": "Featured",
+    "community_title": "Community",
+    "community_empty": "No packs yet, be the first to submit one!",
+    "filter_popular": "Popular",
+    "filter_new": "New",
+    "filter_language": "Language",
+    "language_picker_title": "Language",
+    "language_any": "Any language",
+    "by_author": "by {name}",
+    "by_author_plus": "by {name} +{count}",
+    "code_input_placeholder": "Have a pack code?",
+    "details_title": "Detail",
+    "pack_not_found": "This pack is no longer available.",
+    "featured_pill": "Featured",
+    "official_pill": "Official",
+    "info_language": "Language",
+    "info_cards": "Cards",
+    "info_likes": "Likes",
+    "about_section": "About this pack",
+    "contributors_section": "Contributors",
+    "sample_cards_title": "Sample cards",
+    "all_cards_title": "All cards",
+    "sample_cards_count": "{shown} of {total}",
+    "spoiler_warning_title": "Heads up, these may be spoilers",
+    "spoiler_warning_body": "You can peek at a few cards before adding, but you'll lose the surprise during the game.",
+    "spoiler_reveal": "Show anyway",
+    "see_all_cards": "See all {count} cards",
+    "reveal_all_title": "Reveal every card?",
+    "reveal_all_body": "You'll see all {count} cards in this pack. Handy for picking a pack, but it spoils the surprise if you're going to play.",
+    "reveal_all_confirm": "Reveal",
+    "announcement_title": "Create your own packs!",
+    "announcement_body": "You can now build packs with your own cards, collaborate with friends and share them with the world!\n\nHead to {link} to start creating.",
+    "code_hint": "ABC123",
+    "add_pack_button": "Add pack",
+    "already_added": "Already in collection",
+    "pack_added_hidden_kids": "{name} added. It's hidden while KIDS mode is on.",
+    "watch_ad_title": "Time for a commercial break",
+    "watch_ad_body": "Free accounts must watch a short ad before adding a new pack. This helps keep 63 running and free for all.",
+    "watch_ad_button": "Watch ad",
+    "watch_ad_remove_cta": "Remove ads",
+    "pack_added": "{name} added!",
+    "error_empty_code": "Enter a Pack Code",
+    "error_not_found": "Pack not found. Check the code and try again.",
+    "error_network": "Network error. Please check your connection.",
+    "load_error": "Couldn't load community packs.",
+    "load_retry": "Try again",
+    "load_more": "Load more",
+    "updated": "Updated",
+    "played_count": "{played}/{total} played",
+    "delete_pack_button": "Delete",
+    "delete_pack_description": "You can always re-add it later.",
+    "pack_deleted": "{name} deleted",
+    "report_pack_title": "Report this pack",
+    "report_pack_description": "Let us know what's wrong so we can take a look.",
+    "report_reason_inappropriate": "Inappropriate content",
+    "report_reason_spam": "Spam",
+    "report_reason_copyright": "Copyright violation",
+    "report_reason_other": "Other",
+    "report_note_hint": "Add a note (optional)",
+    "report_submit": "Submit",
+    "report_submitted": "Pack reported",
+    "report_already_submitted": "You've already reported this pack",
+    "report_failed": "Couldn't submit report. Please try again."
+  },
+  "post_game": {
+    "liked_packs_title": "Enjoyed these packs?",
+    "leave_a_like": "Leave a like so more people can find them",
+    "stats_title": "Game stats",
+    "game_time": "Game time",
+    "turns": "Turns played",
+    "cards_title": "Cards",
+    "col_guesses": "Guessed",
+    "col_skips": "Skipped",
+    "points_per_round_title": "Points per round",
+    "round_short": "R{round}",
+    "total": "Total",
+    "best_turn": "Best turn",
+    "worst_turn": "Worst turn",
+    "cards_unit": "cards",
+    "skips_unit": "skips",
+    "points_unit": "points",
+    "in_round": "in R{round}",
+    "toughest_card": "Toughest card",
+    "easiest_card": "Easiest card",
+    "skipped_n_times": "Skipped {count}×",
+    "easiest_subtitle": "Skipped {skips}× · {avg}s average"
+  }
+}
