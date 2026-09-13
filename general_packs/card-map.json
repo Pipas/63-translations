@@ -769,7 +769,8 @@
     {
       "title": "Asterix and Obelix",
       "ids": {
-        "en-GB": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0"
+        "en-GB": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+        "pt-PT": "4632fec12f39beb2"
       }
     },
     {
@@ -814,7 +815,8 @@
     {
       "title": "The Three Little Pigs",
       "ids": {
-        "en-GB": "69337803-074d-4e31-8418-747bd7da56a2"
+        "en-GB": "69337803-074d-4e31-8418-747bd7da56a2",
+        "pt-PT": "7e8caec646d07de4"
       }
     },
     {
@@ -1534,15 +1536,38 @@
       }
     },
     {
-      "title": "O Algoritmo",
+      "title": "The Algorithm",
       "ids": {
+        "en-GB": "85eabdcd250a7a4e",
         "pt-PT": "0f92b86f0c07170f"
       }
     },
     {
-      "title": "A Última Ceia",
+      "title": "The Last Supper",
       "ids": {
+        "en-GB": "980cb9f08ba2166e",
         "pt-PT": "ca5a96a190161416"
+      }
+    },
+    {
+      "title": "Hide and Seek",
+      "ids": {
+        "en-GB": "4607ef0f3ce0830c",
+        "pt-PT": "30105375f3ec2592"
+      }
+    },
+    {
+      "title": "A Rubber Duck",
+      "ids": {
+        "en-GB": "514087352f094b1a",
+        "pt-PT": "f9aea66102a15c6d"
+      }
+    },
+    {
+      "title": "A Tongue Twister",
+      "ids": {
+        "en-GB": "87f40d1838be97a1",
+        "pt-PT": "0e5964df2be53dad"
       }
     }
   ]

@@ -11,8 +11,8 @@ cards that don't make the trip. So the decks overlap heavily, but not perfectly,
 overlap only runs one way: nearly every Portuguese card exists in English, while plenty of
 English cards have no Portuguese counterpart.
 
-Right now, of the 180 Portuguese cards, 178 are translations of an English card. Of the 225
-English cards, 47 were dropped from Portuguese.
+Right now, all 185 Portuguese cards are translations of an English card. Of the 230 English
+cards, 45 were dropped from Portuguese.
 
 Cards get dropped when:
 
@@ -40,8 +40,7 @@ languages by ID or use IDs to work out what's missing. Match by meaning, or use
 `DROPPED.md`.
 
 If you need the pairing itself — which Portuguese card is which English one —
-[`card-map.json`](card-map.json) has it: one entry per card, one id per language, plus the
-two Portuguese cards with no English original. It's maintained by the CSV scripts in
+[`card-map.json`](card-map.json) has it: one entry per card, one id per language. It's maintained by the CSV scripts in
 [`scripts/`](../scripts), and it's a lookup table, not something to hand-edit while
 translating.
 
@@ -97,10 +96,27 @@ Two fields: the pack name and the cards.
 | `description` | A short description of the card, usually with a kicker. See below. |
 | `points` | 1, 2 or 3. How hard the card is. Change it if the card lands differently in your language. |
 | `id` | The card's row in the database. Leave it as you found it; the maintainer reissues these on import. See [above](#the-card-ids-dont-line-up-and-thats-fine). |
+| `notForKids` | Optional. `true` hides the card while the app is in KIDS mode. Left out on every other card. See [below](#kids-mode). |
 
 Everything else the app stores about a pack (colours, cover emoji, version, author,
 language flags) has been stripped out. None of it is words, and it just gets in the way of
 reading the deck.
+
+## KIDS mode
+
+The app has a KIDS mode for playing with children. General stays in the deck, minus the
+cards marked `"notForKids": true`.
+
+The bar is higher than "playable in a living room". Mark a card if its title **or its
+description** involves sex or innuendo, drugs, alcohol, gambling, graphic violence, or
+films and people meant for adults. The description counts because the clue-giver reads it,
+and in KIDS mode the clue-giver might be ten. *Acne* is marked for its description alone.
+
+When in doubt, mark it. A card hidden from kids costs nothing; a card that shouldn't have
+been shown costs an awkward conversation.
+
+**Translating a card?** Keep the flag the English card has. If your translation changes
+what the card is about, add or remove it and say why in the notes.
 
 ## Titles
 

@@ -5,7 +5,8 @@
       "description": "A long term skin disease that affects about 80% of teenagers in the western world. Misconceptions about its cause are common, and up until the 20th century masturbation was believed to be one.",
       "id": "b15166bdb3a88482",
       "title": "Acne",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Japanese fictional character, created in 1974, that consists of a mouthless white cat wearing a red bow. It has rapidly grown into a global phenomenon and is one of the biggest media franchises in the world.",
@@ -23,7 +24,8 @@
       "description": "A poker hand consisting of an Ace, King, Queen, Jack and 10 of the same suit. The odds of having this combination of cards is 1 in 649,739, only slightly more likely than getting struck by lightning.",
       "id": "26a85346d84e5d84",
       "title": "Royal Flush",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Worldwide youth organization based in Switzerland that aims to develop Christian principles. Perhaps better known as the song of the same name released by the Village People in 1978.",
@@ -65,13 +67,15 @@
       "description": "Transition of identity and self-confidence that can occur in middle-aged individuals. Often triggered by events that highlight a person's growing age, inevitable mortality, or possibly lack of accomplishments in life.",
       "id": "a38b15166bdb3a88",
       "title": "A Midlife Crisis",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A situation in which one member of a platonic pairing wishes to enter into a romantic or sexual relationship, while the other does not. Alternate names are: Ally Area, Buddy Belt, Sidekick Sector, Homie Hexagon, Pal Precinct or Mate Municipality.",
       "id": "6bdb3a884826a853",
       "title": "The Friendzone",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "The game you're playing right now!",
@@ -125,7 +129,8 @@
       "description": "The organ self-amputated by the post-impressionist Dutch painter, most known for his works of rough beauty and emotional honesty. Despite being one of the most influential figures of western art, he only sold one painting during his lifetime.",
       "id": "311fc0874d0a38b1",
       "title": "Van Gogh's Ear",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "The first of the three spirits to haunt Ebenezer Scrooge in Charles Dickens' famous festive tale. This story has been adapted countless times in different contexts such as cartoons, TV and film.",
@@ -149,7 +154,8 @@
       "description": "A female name, commonly used as slang for Marijuana. Also known in popular culture as the love interest of Peter Parker, the original Spider-Man.",
       "id": "371df91904ba61d6",
       "title": "Mary Jane",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "One of the four fuzzy creatures, with television screens implemented on their abdomens, that starred in the 1997 BBC show of the same name. Their names are Tinky Winky, Dipsy, Laa-Laa… Po!",
@@ -161,7 +167,8 @@
       "description": "Italian organized crime syndicate that originated on the country's largest island back in the 19th century. Still operating today, it is believed that about 70% of all businesses on the island still pay protection money to the organisation.",
       "id": "a945311fc0874d0a",
       "title": "The Sicilian Mafia",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "The action taken by one of the twelve disciples of Jesus Christ that revealed to the multitude of people wanting to arrest the prophet his identity. It has become a phrase that refers to a fake act of kindness.",
@@ -209,7 +216,8 @@
       "description": "That awkward situation when the zipper on your trousers is left undone.",
       "id": "8b15166bdb3a8848",
       "title": "An Open Fly",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "One of the distinctive characteristics of the 47th President of the United States. Famed for its artificial colour and strange shape.",
@@ -305,7 +313,8 @@
       "description": "A slang term describing watching movies from a popular streaming service, often used as a euphemism for sexual activity. The website has since embraced the phrase, using it in promotional material and on social media.",
       "id": "c3948632cc4a02d6",
       "title": "Netflix and Chill",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A magic trick that has become synonymous with stage magic, where the performer produces an animal from an item of headwear. The phrase can also be used as an idiom to describe a surprising or seemingly impossible action.",
@@ -359,13 +368,15 @@
       "description": "Song by Bryan Adams released in 1985 about a young man trying to become a rock star. Adams later revealed the song was actually about making love during that time of year, alluding to the innuendo title.",
       "id": "9ada8e35619dc9c3",
       "title": "Summer of '69",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "A CGI-animated amphibian that became famous after releasing a remix of the song \"Axel F\" in 2005. The character was mostly used to market ringtones and faced controversy for having exposed genitals in commercials.",
       "id": "632cc4a02d6ad5b0",
       "title": "Crazy Frog",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "A fictional faun who lives in the fantasy world of Narnia, created by C. S. Lewis in 1950. He is the first character introduced in the fictional world and is described in the book as having \"a strange but pleasant little face\".",
@@ -419,7 +430,8 @@
       "description": "A questionable stylistic choice found in the suit of the caped crusader for the movies directed by Joel Schumacher in 1995 and 1997. The reason given for this costuming decision was that the suit was based on ancient Greek statues.",
       "id": "5619dc9c3948632c",
       "title": "Batman's Nipples",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "An ancient Egyptian pharaoh whose tomb was believed to be lost for centuries. In 1922 his tomb was rediscovered and contained over 5000 precious items, including a solid gold coffin and multiple trumpets.",
@@ -509,7 +521,8 @@
       "description": "A style of facial hair made infamous by the leader of Germany and the Axis powers during the second world war. Also famously adorned the face of Charlie Chaplin!",
       "id": "91904ba61d67f4ba",
       "title": "A Hitler Moustache",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Handheld digital pet created in Japan in the 1990s, which became one of the most popular toy fads of the era. There were concerns about children becoming overly attached to their pets, with reports of teenagers burying them when they passed.",
@@ -521,7 +534,8 @@
       "description": "A fictitious Kazakh journalist created and played by Sasha Baron Cohen in the 2006 movie of the same name. The film was highly controversial and many participants took legal action against Cohen and the film's producers.",
       "id": "ada8e35619dc9c39",
       "title": "Borat",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "Term used for the Indian Hindi-language film industry located in Mumbai. Its most popular genre is the Masala film, which freely mixes different elements including action, comedy, romance and drama alongside musical numbers.",
@@ -569,13 +583,15 @@
       "description": "An elderly gentleman who, due to hot weather or an exhibitionist streak, has forgone the need to cover his torso, leaving his chest open for the world to see. Pictures of such gentlemen may also be posted on social media sites as a flippant response to political arguments.",
       "id": "38b15166bdb3a884",
       "title": "Shirtless Old Man",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "A simple dance move in which a person drops their head into their bent arm and raises the other. In Saudi Arabia it was made illegal as it was deemed to allude to cannabis and other illicit drugs.",
       "id": "b9ada8e35619dc9c",
       "title": "The Dab",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "An idiom used to describe someone with a singular talent or skill. The term originates from an old joke about an exceptionally bad circus with a small horse whose only \"talent\" was playing dead.",
@@ -599,7 +615,8 @@
       "description": "Online dating app that allows users to anonymously swipe to like or dislike other profiles. It pioneered the swiping method of user interface now common in most dating apps as well as other apps like this one!",
       "id": "d9bb68a945311fc0",
       "title": "Tinder",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Self-given nickname of the American rapper and producer Pitbull. This tag line is often exclaimed at the beginning of his tracks, originating from a song of the same name.",
@@ -611,7 +628,8 @@
       "description": "The removal of all pubic hair from the pelvic region, vulva, labia and anus. Its name comes from a Manhattan salon founded in 1987 by a group of sisters from South America.",
       "id": "a884826a85346d84",
       "title": "Brazilian Wax",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "A regular man that looks suspiciously like Superman.",
@@ -683,7 +701,8 @@
       "description": "A famous line from a 1999 cult film with Brad Pitt and Edward Norton, based on a Chuck Palahniuk novel. This instruction is suspiciously similar to the second one!",
       "id": "1226b2cb-facb-4ea2-ab2a-474011445d67",
       "title": "The First Rule of Fight Club",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A 1993 Bill Murray film in which a grumpy weatherman relives the same 24-hour period over and over. Director Harold Ramis estimated the protagonist is trapped in the loop for roughly 10 years of subjective time.",
@@ -725,7 +744,8 @@
       "description": "A classic ethical dilemma where you must decide whether to divert a runaway vehicle to kill one person instead of five. Over the years variants of it have been created with increasingly ridiculous scenarios.",
       "id": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
       "title": "The Trolley Problem",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A daily online puzzle in which players have six attempts to guess a hidden five-letter solution. The New York Times bought it from its creator in 2022 for a price in the low seven figures.",
@@ -761,7 +781,8 @@
       "description": "The social force that makes a young person try a cigarette, a haircut, or a questionable trend just to fit in. Studies show even adults will agree with an obviously wrong group answer just to conform.",
       "id": "4d8dae45-828a-4242-a217-0c0227c4789a",
       "title": "Peer Pressure",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "The little online test where you must identify traffic lights or buses to prove you are a human being. It was co-invented by the same person who later created Duolingo.",
@@ -785,7 +806,8 @@
       "description": "A cultural concept describing harmful traditional male behaviours, like suppressing emotions or aggressive dominance. Common signs include refusing to cry at funerals, or insisting that pink is exclusively for girls.",
       "id": "902799b4-18f2-48c9-92f4-78547c02520f",
       "title": "Toxic Masculinity",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "The giant space rock that struck Earth roughly 66 million years ago, ending the Cretaceous period. Its impact crater lies buried beneath the Yucatán Peninsula in Mexico, measuring around 180 km wide.",
@@ -797,7 +819,8 @@
       "description": "The mid-game musical performance during America's biggest annual sporting event, watched by over 100 million viewers. Janet Jackson's 2004 appearance caused a wardrobe malfunction so notorious it indirectly inspired the creation of YouTube.",
       "id": "f9ff4c01-b6e0-46c5-8863-b29222eadecf",
       "title": "Super Bowl Halftime Show",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A viral confection from the United Arab Emirates filled with pistachio cream and crispy kataifi pastry. Its sudden popularity caused a worldwide pistachio shortage, driving up prices for bakers everywhere.",
@@ -857,7 +880,8 @@
       "description": "A running gag in which children stack on each other's shoulders and share an oversized outfit to impersonate a single grown-up. A beloved internet trope, most often deployed to sneak into R-rated films, buy alcohol, or infiltrate a board meeting.",
       "id": "2b8656cda7f9e5af",
       "title": "3 Kids in a Trenchcoat",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A classic childhood fear of a terrifying creature lurking inside the bedroom closet, waiting to emerge after lights-out. The concept appears in folklore across virtually every culture worldwide, suggesting a deeply universal dread of dark, enclosed spaces.",
@@ -875,7 +899,8 @@
       "description": "An underground shelter built to protect its occupants from catastrophic events such as nuclear war or civilisation collapse. Several Silicon Valley billionaires have reportedly purchased fortified retreats in New Zealand to wait out any potential societal collapse.",
       "id": "fff1669d83b89a12",
       "title": "A Doomsday Bunker",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "The soft, fluffy accumulation of fabric fibres that collects inside the human navel over time. Australian researcher Karl Kruszelnicki wrote a paper investigating why it is almost always blue.",
@@ -887,7 +912,8 @@
       "description": "A police interrogation technique where one officer is harsh and aggressive while the other is warm and sympathetic. One officer offers you a cigarette, the other offers you a lifetime in prison. Works surprisingly often.",
       "id": "a7f9e5afff1669d8",
       "title": "Good Cop, Bad Cop",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A fantasy tabletop role-playing game first published in 1974, where players create characters and go on collaborative quests. It directly inspired the creators of landmark video games including Baldur's Gate, World of Warcraft, and countless others.",
@@ -1019,7 +1045,8 @@
       "description": "Classic conspiracy theorist headgear made from aluminium sheeting to supposedly block government mind-reading signals. A 2005 MIT study found that such headgear actually amplifies certain frequency bands rather than blocking them.",
       "id": "d4a12b6e-4358-4150-8d5e-83ac197c8db5",
       "title": "A Tin Foil Hat",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A popular children's game where players must avoid touching the ground, pretending it is molten rock. The game has one rule, requires no equipment, and can spontaneously break out anywhere.",
@@ -1049,7 +1076,8 @@
       "description": "An accidental phone call triggered by sitting on your device or by pressure in your pocket. The phenomenon became less common once lock screens were standard, but occasionally still causes social embarrassment today.",
       "id": "ccb895d4-50a0-4877-8088-409cbb4ed821",
       "title": "A Butt Dial",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A Caribbean party game where players must pass beneath a progressively lowered horizontal bar without falling. The world record stands at a jaw-dropping 21.59 cm from the ground.",
@@ -1253,7 +1281,8 @@
       "description": "A release of intestinal gas that produces no auditory signal, relying entirely on odour for detection. Might be worse than its loud relative, which at least has the decency of announcing its arrival.",
       "id": "e058babc-7311-4426-a552-cb87ea01158d",
       "title": "A Silent Fart",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "An infant in distress aboard an aircraft, widely regarded as the most dreaded fellow passenger. Some Asian airlines have experimented with quiet zones to spare other passengers the ordeal.",
@@ -1283,7 +1312,8 @@
       "description": "A real 18th-century secret society that evolved into one of the most enduring conspiracy theories in modern culture. The original group, founded in Bavaria in 1776, was actually disbanded by the government within a decade.",
       "id": "68c97440-7c83-43a3-9838-b5e967d01e38",
       "title": "The Illuminati",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "The notoriously illegible scrawl produced by physicians, commonly cited as impossible for patients and pharmacists to decipher. Now something of an endangered art, thanks to the shift toward digital prescriptions.",
@@ -1349,6 +1379,36 @@
       "description": "A component in a popular family game that flips the direction of play. It might be the only rule in the game that stays consistent over the thousands of different variants people play with.",
       "id": "722617cd-07d6-454f-918a-3469e6167a19",
       "title": "The Uno Reverse Card",
+      "points": 2
+    },
+    {
+      "description": "The set of rules social media platforms use to decide what content each user gets to see. The best friend and worst enemy of influencers all over the world.",
+      "id": "85eabdcd250a7a4e",
+      "title": "The Algorithm",
+      "points": 1
+    },
+    {
+      "description": "The meal Jesus Christ shared with the twelve apostles on the eve of his crucifixion. Da Vinci's painting of it narrowly survived a bombing during the Second World War.",
+      "id": "980cb9f08ba2166e",
+      "title": "The Last Supper",
+      "points": 2
+    },
+    {
+      "description": "A children's game where one player counts with their eyes closed while everyone else finds somewhere to stay out of sight. There was once an adult world championship, held in an abandoned ghost town in northern Italy.",
+      "id": "4607ef0f3ce0830c",
+      "title": "Hide and Seek",
+      "points": 1
+    },
+    {
+      "description": "A small yellow bath toy shaped like a waterbird. In 1992, thousands of them fell off a cargo ship into the Pacific, and scientists have used their journey to study ocean currents ever since.",
+      "id": "514087352f094b1a",
+      "title": "A Rubber Duck",
+      "points": 1
+    },
+    {
+      "description": "A phrase built to be hard to say out loud quickly without tripping over the sounds. Guinness World Records once named 'the sixth sick sheikh's sixth sheep's sick' the most difficult one in the English language.",
+      "id": "87f40d1838be97a1",
+      "title": "A Tongue Twister",
       "points": 2
     }
   ]

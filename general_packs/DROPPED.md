@@ -2,8 +2,8 @@
 
 ## `pt-PT`
 
-**47 of the 225 English cards have no Portuguese counterpart.** The remaining 178 are
-translated, which is the whole Portuguese deck bar two.
+**45 of the 230 English cards have no Portuguese counterpart.** The remaining 185 are
+translated, which is the whole Portuguese deck.
 
 
 ### English idiom or wordplay
@@ -70,19 +70,6 @@ translated title just reads badly enough that the card stops being worth playing
 | The First Rule of Fight Club |
 | Uncle Sam |
 | An Evil Twin |
-| Asterix and Obelix |
 | Godzilla |
 | Good Cop, Bad Cop |
-| The Three Little Pigs |
 | The Trolley Problem |
-
-### Portuguese cards with no English counterpart
-
-Two cards exist only in `pt-PT`. Neither is Portugal-specific, so both are candidates for
-the English deck rather than examples of local content:
-
-| Portuguese | English |
-| --- | --- |
-| A Última Ceia | The Last Supper |
-| O Algoritmo | The Algorithm |
-

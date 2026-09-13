@@ -83,7 +83,8 @@
       "description": "Um anfíbio animado que ficou conhecido depois do lançamento de um remix da música \"Axel F\" em 2005. O personagem é conhecido maioritariamente pelos seus reclames a publicitar toques polifónicos.",
       "id": "55bb937fb17c36ef",
       "title": "Crazy Frog",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Um jogo de grupo verbal em que um jogador decide entre responder honestamente a uma questão ou completar um desafio proposto por outro jogador. Está documentado que este já existia em 1712 sob o nome \"Questões e Comandos\".",
@@ -95,7 +96,8 @@
       "description": "O órgão amputado pelo pintor pós-impressionista holandês, reconhecido pelas suas obras de beleza crua e honestidade emocional. Apesar de ser uma das mais influentes figuras da arte ocidental, vendeu apenas um quadro durante a sua vida.",
       "id": "73fde7c7b6f1e882",
       "title": "A orelha de Van Gogh",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "O vigilante mascarado criado por Johnston McCulley em 1919, que defende a população californiana contra homens tiranos. Um acrobata e espadachim, usa um florete para gravar a sua inicial nos seus adversários.",
@@ -119,7 +121,8 @@
       "description": "Um passo de dança viral em que uma pessoa curva a cabeça entre um braço dobrado ao mesmo tempo que estica o outro. O movimento foi banido na Arábia Saudita por ser acreditado que alude a substâncias ilícitas.",
       "id": "3092180b72beb6b6",
       "title": "O Dab",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Comédia desportiva de 1996, que junta as personagens animadas dos Looney Tunes com o lendário atleta Michael Jordan na disputa de um jogo de basquetebol intergalático.",
@@ -167,7 +170,8 @@
       "description": "Uma mão de poker que consiste no Ás, Rei, Dama, Valete e 10 do mesmo naipe. As chances de ter esta combinação de cartas são de 1 em 649.739, apenas um bocado mais provável do que ser atingido por um relâmpago.",
       "id": "d4914a6c7ffa4cd2",
       "title": "Royal Flush",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Programa infantil da BBC de 1997 sobre quatro criaturas felpudas com ecrãs no abdómen. Os seus nomes são Tinky Winky, Dipsy, Laa-Laa… Po!",
@@ -209,7 +213,8 @@
       "description": "Canção de Bryan Adams lançada em 1985 sobre um jovem a tentar singrar no mundo da música. Foi mais tarde revelado por Adams que a música é, na verdade, sobre fazer amor no verão, daí o seu título sugestivo.",
       "id": "092180b72beb6b61",
       "title": "Summer of '69",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Personagem fictícia representada por Johnny Depp na série de filmes Piratas das Caraíbas. A sua caracterização baseia-se numa combinação do guitarrista Keith Richards e a personagem dos Looney Tunes Pepé Le Pew.",
@@ -233,7 +238,8 @@
       "description": "Período de questionamento existencial que pode ocorrer em indivíduos na fase madura da vida. Normalmente é despertada por pensamentos sobre mortalidade, objetivos por alcançar e grandes mudanças.",
       "id": "1e882a3e9c1cd0e2",
       "title": "Crise de meia-idade",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "",
@@ -257,7 +263,8 @@
       "description": "Método de remoção completa de pêlos púbicos das zonas íntimas. A técnica surgiu num salão em Nova Iorque, fundado em 1987 por sete irmãs sul americanas.",
       "id": "0e288d4914a6c7ff",
       "title": "Depilação brasileira",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "Dispositivo que tenta deduzir se uma pessoa está ou não a dizer a verdade, medindo vários indicadores fisiológicos, enquanto o sujeito responde a uma série de questões. Contudo, a eficácia do mesmo é contestada pela comunidade científica.",
@@ -287,7 +294,8 @@
       "description": "A situação embaraçosa quando o fecho ou botões das calças não estão apertados. \"Andar a apanhar ar\" e \"portinhola escancarada\" são expressões que transmitem a mesma ideia.",
       "id": "882a3e9c1cd0e288",
       "title": "Breguilha aberta",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "O grande pássaro amarelo da popular série de animação infantil \"Rua Sésamo\", uma das personagens mais marcantes desde o seu primeiro episódio. É capaz de patinar, dançar, cantar, nadar, escrever poesia e até andar de monociclo!",
@@ -311,7 +319,8 @@
       "description": "Organização criminosa italiana que teve origem na maior ilha do país no século XIX. Ainda operacional, acredita-se que cerca de 70% dos negócios na ilha ainda pagam por proteção a esta instituição.",
       "id": "d7c273fde7c7b6f1",
       "title": "Máfia siciliana",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "Linha de brinquedos de equídeos mágicos da empresa Hasbro, que deu origem aos populares desenhos animados com o mesmo nome. Apesar do seu público-alvo ser meninas, a série ganhou um culto online maioritariamente composto por homens adultos.",
@@ -395,7 +404,8 @@
       "description": "Uma doença de pele que afeta cerca de 80% dos adolescentes no mundo ocidental. São comuns várias explicações erróneas para a origem da mesma, sendo que no século XIX a masturbação era apontada como uma das culpadas.",
       "id": "82a3e9c1cd0e288d",
       "title": "Acne",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Um período de sono de curta duração gozado durante o dia, normalmente após o almoço. É tradição em Espanha, onde uma competição nacional do ato é organizada anualmente em Madrid.",
@@ -419,7 +429,8 @@
       "description": "Aplicação de relacionamentos online que permite aos utilizadores fazer \"swipe\" para gostar ou passar perfis de outros. Esta foi pioneira a introduzir este tipo de interação que é agora comum em muitas outras aplicações, inclusive esta!",
       "id": "21cd62d7c273fde7",
       "title": "Tinder",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Felino famoso na internet, conhecido pelo seu focinho constantemente carrancudo, que arrecadou mais de 8 milhões de seguidores nas suas redes sociais. Em 2014, foi estrela do seu próprio filme de Natal, com voz de Aubrey Plaza.",
@@ -437,7 +448,8 @@
       "description": "Um idoso que por alguma razão decidiu não cobrir a parte superior do seu corpo, deixando esta descoberta para o mundo ver.",
       "id": "e882a3e9c1cd0e28",
       "title": "Um velho em tronco nu",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "O felino antropomórfico, protagonista de um antigo conto de fadas italiano, que usa diversas artimanhas para proveito do seu dono. A sua popularidade aumentou mais recentemente com a aparição nos filmes do \"Shrek\".",
@@ -497,13 +509,15 @@
       "description": "Uma questionável escolha estilística presente no fato do Cavaleiro das Trevas nos filmes realizados por Joel Schumacher na década de 90. Esta deve-se ao facto do fato ser inspirado em antigas estátuas gregas.",
       "id": "72beb6b61cf155bb",
       "title": "Os mamilos do Batman",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "Jornalista fictício do Cazaquistão criado e interpretado por Sasha Baron Cohen no filme de 2006 com o mesmo nome. Gerou controvérsia, o que levou a que vários participantes do filme tomassem ações legais contra Cohen e a produção.",
       "id": "92180b72beb6b61c",
       "title": "Borat",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "Personagem japonesa, criada em 1974, que consiste num felino sem boca que usa um laçarote vermelho. Rapidamente tornou-se num fenómeno global e é agora um dos franchises mais lucrativos do mundo.",
@@ -521,7 +535,8 @@
       "description": "Um estilo de pelo facial tornado famoso por ser usado pelo líder da Alemanha durante a Segunda Guerra Mundial. Também usado pelo comediante Charlie Chaplin.",
       "id": "34112460fcd00b77",
       "title": "Bigode à Hitler",
-      "points": 1
+      "points": 1,
+      "notForKids": true
     },
     {
       "description": "Um mito que afirma haver uma janela de tempo permissível para apanhar e comer algo após ter caído ao chão. Vários estudos foram feitos sobre a veracidade desta hipótese, mas nenhum consenso foi alcançado.",
@@ -641,7 +656,8 @@
       "description": "Um conceito cultural que descreve comportamentos tradicionais nocivos nos homens, como reprimir emoções ou impor domínio agressivo. Sinais comuns incluem recusar-se a chorar em funerais ou insistir que o cor-de-rosa é exclusivo das meninas.",
       "id": "8483deca3b9b36a6",
       "title": "Masculinidade tóxica",
-      "points": 3
+      "points": 3,
+      "notForKids": true
     },
     {
       "description": "A refeição que Jesus Cristo partilhou com os doze apóstolos na véspera da sua crucificação. A obra de da Vinci que a representa sobreviveu por pouco a um bombardeamento na Segunda Guerra Mundial.",
@@ -947,7 +963,8 @@
       "description": "A libertação discreta de gases intestinais que não faz qualquer ruído, mas costuma denunciar-se pelo cheiro. Talvez pior que o seu primo barulhento que pelo menos tem a decência de anunciar a sua presença.",
       "id": "3d00e5d5425358fc",
       "title": "Um peido silencioso",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "O pequeno passageiro que desata aos berros a meio de um voo, para desespero de toda a cabine. Algumas companhias asiáticas têm zonas sem crianças para os que preferem uma viagem sossegada.",
@@ -977,7 +994,8 @@
       "description": "A alegada sociedade secreta que, segundo várias teorias da conspiração, controla o mundo nos bastidores. Existiu de facto uma ordem com este nome na Baviera do século XVIII, mas foi proibida pouco depois.",
       "id": "d483058f79baf5d7",
       "title": "Illuminati",
-      "points": 2
+      "points": 2,
+      "notForKids": true
     },
     {
       "description": "A caligrafia notoriamente ilegível com que os profissionais de saúde costumam rabiscar as receitas. Nos dias de hoje encontra-se em vias de extinção devido à passagem para receitas eletrónicas.",
@@ -1079,7 +1097,38 @@
       "description": "Um abrigo construído debaixo do solo para proteger os ocupantes de eventos catastróficos. Vários bilionários de Silicon Valley terão comprado refúgios fortificados na Nova Zelândia, para aguentar um eventual colapso da civilização.",
       "id": "6b1cd8b2261b08b5",
       "title": "Um bunker subterrâneo",
-      "points": 3
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Um jogo infantil em que um jogador conta de olhos fechados enquanto os outros procuram um sítio onde seja difícil encontrá-los. Houve em tempos um campeonato mundial para adultos, disputado numa vila abandonada no norte de Itália.",
+      "id": "30105375f3ec2592",
+      "title": "As Escondidas",
+      "points": 1
+    },
+    {
+      "description": "Um pequeno brinquedo amarelo para a banheira em forma de ave aquática. Em 1992, milhares caíram de um navio de carga no Pacífico, e desde então os cientistas usam a sua viagem para estudar as correntes oceânicas.",
+      "id": "f9aea66102a15c6d",
+      "title": "Um Pato de Borracha",
+      "points": 1
+    },
+    {
+      "description": "Uma frase feita para ser difícil de dizer em voz alta e depressa sem tropeçar nos sons. Um dos mais famosos em português é \"O rato roeu a rolha da garrafa do rei da Rússia\".",
+      "id": "0e5964df2be53dad",
+      "title": "Um Trava-Línguas",
+      "points": 2
+    },
+    {
+      "description": "Um conto infantil clássico em que uns irmãos constroem casas de palha, madeira e tijolo para escapar a um lobo esfomeado. A história já foi contada em inúmeras versões, mas a ameaça do lobo de soprar até deitar a casa abaixo continua a ser a mais famosa.",
+      "id": "7e8caec646d07de4",
+      "title": "Os Três Porquinhos",
+      "points": 1
+    },
+    {
+      "description": "Dois heróis gauleses icónicos de uma famosa banda desenhada francesa, passada no tempo dos romanos. O mais pequeno bebe uma poção mágica para ganhar força, e o maior caiu num caldeirão dela quando era bebé.",
+      "id": "4632fec12f39beb2",
+      "title": "Astérix e Obélix",
+      "points": 2
     }
   ]
 }
