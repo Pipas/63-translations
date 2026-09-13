@@ -52,6 +52,10 @@ Keep the nesting identical to `en-GB.json`. A flattened or re-grouped file won't
 
 Reorder within the sentence if your grammar needs it. Never rename, translate, or drop one.
 
+**`{kids}` in `deck.kids_mode_label`.** Swapped for the *KIDS* wordmark on the deck
+screen. Keep it exactly once, wherever the word belongs in your language: `"{kids} mode"` →
+`"Modo {kids}"`.
+
 **`**bold**` in `rules.*`.** Renders as bold in the tutorial. Put the emphasis on the
 equivalent word in your language, and keep the asterisks paired:
 

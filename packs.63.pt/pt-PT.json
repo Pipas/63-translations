@@ -131,6 +131,78 @@
       "packCover": "Capa",
       "packColours": "Cores"
     },
+    "transfer": {
+      "title": "Importar e exportar",
+      "description": "Guarda as cartas num ficheiro, ou importa cartas de um.",
+      "exportPack": {
+        "title": "Exportar pack",
+        "subtitle": "Descarrega o pack e as suas cartas num ficheiro .json."
+      },
+      "exportCards": {
+        "title": "Exportar cartas",
+        "subtitle": "Descarrega as cartas num .csv que podes abrir numa folha de cálculo."
+      },
+      "importCards": {
+        "title": "Importar cartas",
+        "subtitle": "Adiciona cartas a partir de um ficheiro .csv ou .json."
+      },
+      "import": {
+        "title": "Importar cartas",
+        "intro": "Escolhe um ficheiro .csv ou .json.",
+        "importing": "A importar cartas...",
+        "templateHint": "Não sabes o formato? Descarrega um <csv>modelo .csv</csv> ou um <json>modelo .json</json>.",
+        "template": {
+          "packName": "Nome do pack",
+          "packDescription": "Sobre que o que é este pack",
+          "cardTitle": "Carta {{number}}",
+          "cardDescription": "Descrição {{number}}"
+        },
+        "chooseFile": "Escolher ficheiro",
+        "chooseAnother": "Escolher outro",
+        "found_one": "{{count}} carta neste ficheiro",
+        "found_other": "{{count}} cartas neste ficheiro",
+        "cardsOnlyNote": "Só as cartas são importadas. Este pack mantém o nome e o aspeto.",
+        "detailsOwnerOnlyNote": "Só o dono do pack pode mudar o nome e o aspeto, por isso só as cartas são importadas.",
+        "previewSection": "Cartas a importar",
+        "duplicateBadge": "Já no pack",
+        "andMore_one": "e mais {{count}}",
+        "andMore_other": "e mais {{count}}",
+        "skippedSection_one": "{{count}} carta ignorada",
+        "skippedSection_other": "{{count}} cartas ignoradas",
+        "untitledRow": "Sem título",
+        "rowNumber": "Linha {{row}}",
+        "skipReason": {
+          "missingTitle": "Esta carta não tem título.",
+          "invalidPoints": "Os pontos têm de ser 1, 2 ou 3.",
+          "titleTooLong": "Este título tem mais de {{max}} caracteres.",
+          "descriptionTooLong": "Esta descrição tem mais de {{max}} caracteres."
+        },
+        "optionsSection": "Opções de importação",
+        "modeSection": "Como importar",
+        "modeAdd": "Adicionar ao pack",
+        "modeAddDescription_one": "Mantém a carta que já está no pack",
+        "modeAddDescription_other": "Mantém as {{count}} cartas que já estão no pack",
+        "modeReplace": "Substituir todas as cartas",
+        "modeReplaceDescription_one": "Elimina primeiro a carta que já está no pack",
+        "modeReplaceDescription_other": "Elimina primeiro as {{count}} cartas que já estão no pack",
+        "skipDuplicates_one": "Ignorar {{count}} carta que já está no pack",
+        "skipDuplicates_other": "Ignorar {{count}} cartas que já estão no pack",
+        "applyDetails": "Usar também o nome e o aspeto do ficheiro",
+        "confirm_one": "Importar {{count}} carta",
+        "confirm_other": "Importar {{count}} cartas",
+        "confirmDetailsOnly": "Aplicar nome e aspeto"
+      },
+      "error": {
+        "empty": "Não há cartas neste ficheiro.",
+        "invalidJson": "Este ficheiro não é JSON válido.",
+        "notAPackFile": "Isto não parece um ficheiro de pack do 63.",
+        "unsupportedVersion": "Este ficheiro vem de uma versão mais recente do site. Recarrega a página e tenta outra vez.",
+        "unsupportedFile": "Só podes importar ficheiros .csv e .json.",
+        "unreadable": "Não foi possível ler este ficheiro.",
+        "tooManyCards": "Isso daria {{total}} cartas. Um pack só pode ter {{max}}.",
+        "tooLarge": "Esta importação é demasiado grande. Divide-a em ficheiros mais pequenos, ou encurta as descrições."
+      }
+    },
     "dangerZone": "Zona de perigo",
     "dangerDescription": "Eliminar este pack é permanente e irreversível.",
     "deletePack": "Eliminar pack",
@@ -259,6 +331,11 @@
       "subtitle": "O idioma em que a maioria das cartas está escrita.",
       "placeholder": "Escolhe um idioma"
     },
+    "kids": {
+      "title": "Modo KIDS",
+      "subtitle": "O modo KIDS da app só mostra packs adequados para crianças. Um moderador vai confirmar a tua resposta.",
+      "checkbox": "Este pack é adequado para crianças"
+    },
     "agreement": "Confirmo que este pack segue as <guidelines>regras da comunidade 63</guidelines> e não contém discurso de ódio, dados pessoais de pessoas privadas ou texto protegido por direitos de autor.",
     "cta": {
       "submit": "Submeter para revisão",
@@ -283,11 +360,13 @@
   "card": {
     "newCard": "Nova carta",
     "editCard": "Editar carta",
+    "viewCard": "Detalhes da carta",
     "saveCard": "Guardar carta",
     "addCard": "Adicionar carta",
     "title": "Título",
     "description": "Descrição",
     "noCards": "Ainda sem cartas",
+    "importFromFile": "Importar de um ficheiro",
     "points_one": "ponto",
     "points_other": "pontos",
     "difficulty": {
@@ -311,6 +390,7 @@
       "dateDesc": "Mais recentes",
       "dateAsc": "Mais antigos",
       "sortOptions": "Opções de ordenação",
+      "label": "Ordenar",
       "sortBy": "Ordenar por"
     },
     "draft": "Rascunho",
@@ -320,7 +400,15 @@
       "myCards": "As minhas cartas",
       "allCards": "Todas as cartas",
       "myDrafts": "Os meus rascunhos",
-      "allDrafts": "Todos os rascunhos"
+      "allDrafts": "Todos os rascunhos",
+      "label": "Filtros",
+      "missingDescription": "Cartas sem descrição",
+      "noMissingDescriptions": "Todas as cartas têm descrição.",
+      "description": "Descrição",
+      "difficulty": "Dificuldade",
+      "author": "Autor",
+      "clearAll": "Limpar tudo",
+      "noResults": "Nenhuma carta corresponde a estes filtros."
     },
     "groupBy": {
       "label": "Agrupar por",
@@ -329,7 +417,24 @@
       "points": "Pontos"
     },
     "pointsGroup_one": "{{count}} Ponto",
-    "pointsGroup_other": "{{count}} Pontos"
+    "pointsGroup_other": "{{count}} Pontos",
+    "search": {
+      "label": "Procurar",
+      "placeholder": "Procurar cartas",
+      "clear": "Limpar pesquisa",
+      "noResults": "Nenhuma carta corresponde a \"{{query}}\"."
+    },
+    "selection": {
+      "label": "Selecionar cartas",
+      "count_one": "{{count}} carta selecionada",
+      "count_other": "{{count}} cartas selecionadas",
+      "empty": "Escolhe as cartas a alterar",
+      "selectAll": "Selecionar tudo",
+      "deselectAll": "Desselecionar tudo",
+      "setPoints": "Definir pontos",
+      "delete": "Eliminar cartas selecionadas",
+      "cancel": "Cancelar seleção"
+    }
   },
   "collaboration": {
     "accessMode": "Edição",
@@ -360,6 +465,12 @@
     "deleteCard": {
       "title": "Eliminar carta",
       "description": "Tens a certeza que queres eliminar esta carta? Esta ação é irreversível."
+    },
+    "deleteCards": {
+      "title_one": "Eliminar carta",
+      "title_other": "Eliminar {{count}} cartas",
+      "description_one": "Tens a certeza que queres eliminar esta carta? Esta ação é irreversível.",
+      "description_other": "Tens a certeza que queres eliminar estas {{count}} cartas? Esta ação é irreversível."
     },
     "deletePack": {
       "title": "Eliminar pack",
@@ -404,6 +515,8 @@
     "failedToAddCard": "Erro a adicionar carta",
     "failedToUpdateCard": "Erro a atualizar carta",
     "failedToDeleteCard": "Erro a eliminar carta",
+    "failedToUpdateCards": "Falha ao atualizar as cartas",
+    "failedToDeleteCards": "Falha ao eliminar as cartas",
     "collaboratorRemoved": "Colaborador removido",
     "failedToRemoveCollaborator": "Erro a remover colaborador",
     "failedToUpdateSettings": "Erro a atualizar definições",
@@ -421,7 +534,11 @@
     "failedToUpdateUsername": "Falha ao atualizar nome de utilizador",
     "accountDeleted": "Conta eliminada",
     "failedToDeleteAccount": "Falha ao eliminar conta",
-    "nameUpdatedInPack": "O teu nome foi atualizado neste pack"
+    "nameUpdatedInPack": "O teu nome foi atualizado neste pack",
+    "cardsImported_one": "{{count}} carta importada",
+    "cardsImported_other": "{{count}} cartas importadas",
+    "packUpdatedFromFile": "Pack atualizado a partir do ficheiro",
+    "failedToImportCards": "Não foi possível importar as cartas"
   },
   "join": {
     "joinPack": "Juntar ao pack",

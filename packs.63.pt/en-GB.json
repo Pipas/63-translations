@@ -131,6 +131,78 @@
       "packCover": "Cover",
       "packColours": "Colours"
     },
+    "transfer": {
+      "title": "Import and export",
+      "description": "Save your cards to a file, or import cards from one.",
+      "exportPack": {
+        "title": "Export pack",
+        "subtitle": "Download the pack and its cards as a .json file."
+      },
+      "exportCards": {
+        "title": "Export cards",
+        "subtitle": "Download the cards as a .csv you can open in a spreadsheet."
+      },
+      "importCards": {
+        "title": "Import cards",
+        "subtitle": "Add cards from a .csv or .json file."
+      },
+      "import": {
+        "title": "Import cards",
+        "intro": "Choose a .csv or .json file.",
+        "importing": "Importing cards...",
+        "templateHint": "Not sure what one should look like? Download a <csv>.csv template</csv> or a <json>.json template</json>.",
+        "template": {
+          "packName": "Pack name",
+          "packDescription": "What this pack is about",
+          "cardTitle": "Card {{number}}",
+          "cardDescription": "Description {{number}}"
+        },
+        "chooseFile": "Choose a file",
+        "chooseAnother": "Choose another",
+        "found_one": "{{count}} card in this file",
+        "found_other": "{{count}} cards in this file",
+        "cardsOnlyNote": "Only the cards are imported. This pack keeps its own name and look.",
+        "detailsOwnerOnlyNote": "Only the pack's owner can change its name and look, so only the cards are imported.",
+        "previewSection": "Cards to import",
+        "duplicateBadge": "Already in pack",
+        "andMore_one": "and {{count}} more",
+        "andMore_other": "and {{count}} more",
+        "skippedSection_one": "{{count}} card skipped",
+        "skippedSection_other": "{{count}} cards skipped",
+        "untitledRow": "Untitled",
+        "rowNumber": "Row {{row}}",
+        "skipReason": {
+          "missingTitle": "This card has no title.",
+          "invalidPoints": "Points must be 1, 2 or 3.",
+          "titleTooLong": "This title is longer than {{max}} characters.",
+          "descriptionTooLong": "This description is longer than {{max}} characters."
+        },
+        "optionsSection": "Import options",
+        "modeSection": "How to import",
+        "modeAdd": "Add to pack",
+        "modeAddDescription_one": "Keep the card already in the pack",
+        "modeAddDescription_other": "Keep the {{count}} cards already in the pack",
+        "modeReplace": "Replace all cards",
+        "modeReplaceDescription_one": "Delete the card already in the pack first",
+        "modeReplaceDescription_other": "Delete the {{count}} cards already in the pack first",
+        "skipDuplicates_one": "Skip {{count}} card that's already in the pack",
+        "skipDuplicates_other": "Skip {{count}} cards that are already in the pack",
+        "applyDetails": "Also use this file's name and look",
+        "confirm_one": "Import {{count}} card",
+        "confirm_other": "Import {{count}} cards",
+        "confirmDetailsOnly": "Apply name and look"
+      },
+      "error": {
+        "empty": "There are no cards in this file.",
+        "invalidJson": "This file isn't valid JSON.",
+        "notAPackFile": "This doesn't look like a 63 pack file.",
+        "unsupportedVersion": "This file comes from a newer version of the site. Reload the page and try again.",
+        "unsupportedFile": "Only .csv and .json files can be imported.",
+        "unreadable": "This file couldn't be read.",
+        "tooManyCards": "That would make {{total}} cards. A pack can hold {{max}}.",
+        "tooLarge": "This import is too big. Split it into smaller files, or shorten the descriptions."
+      }
+    },
     "dangerZone": "Danger zone",
     "dangerDescription": "Deleting this pack is permanent and cannot be undone.",
     "deletePack": "Delete pack",
@@ -259,6 +331,11 @@
       "subtitle": "The language most cards are written in.",
       "placeholder": "Choose a language"
     },
+    "kids": {
+      "title": "KIDS mode",
+      "subtitle": "KIDS mode in the app only shows packs that are suitable for children. A moderator will check your answer.",
+      "checkbox": "This pack is suitable for kids"
+    },
     "agreement": "I agree this pack follows the <guidelines>63 community guidelines</guidelines> and doesn't contain hate speech, doxxing of private people or copyrighted card text.",
     "cta": {
       "submit": "Submit for review",
@@ -283,11 +360,13 @@
   "card": {
     "newCard": "New card",
     "editCard": "Edit card",
+    "viewCard": "Card details",
     "saveCard": "Save card",
     "addCard": "Add card",
     "title": "Title",
     "description": "Description",
     "noCards": "No cards yet",
+    "importFromFile": "Import from a file",
     "points_one": "point",
     "points_other": "points",
     "difficulty": {
@@ -311,6 +390,7 @@
       "dateDesc": "Newest first",
       "dateAsc": "Oldest first",
       "sortOptions": "Sort options",
+      "label": "Sort",
       "sortBy": "Sort by"
     },
     "draft": "Draft",
@@ -320,7 +400,15 @@
       "myCards": "My cards",
       "allCards": "All cards",
       "myDrafts": "My drafts",
-      "allDrafts": "All drafts"
+      "allDrafts": "All drafts",
+      "label": "Filters",
+      "missingDescription": "Cards without a description",
+      "noMissingDescriptions": "Every card has a description.",
+      "description": "Description",
+      "difficulty": "Difficulty",
+      "author": "Author",
+      "clearAll": "Clear all",
+      "noResults": "No cards match these filters."
     },
     "groupBy": {
       "label": "Group by",
@@ -329,7 +417,24 @@
       "points": "Points"
     },
     "pointsGroup_one": "{{count}} Point",
-    "pointsGroup_other": "{{count}} Points"
+    "pointsGroup_other": "{{count}} Points",
+    "search": {
+      "label": "Search",
+      "placeholder": "Search cards",
+      "clear": "Clear search",
+      "noResults": "No cards match \"{{query}}\"."
+    },
+    "selection": {
+      "label": "Select cards",
+      "count_one": "{{count}} card selected",
+      "count_other": "{{count}} cards selected",
+      "empty": "Pick the cards to change",
+      "selectAll": "Select all",
+      "deselectAll": "Deselect all",
+      "setPoints": "Set points",
+      "delete": "Delete selected cards",
+      "cancel": "Cancel selection"
+    }
   },
   "collaboration": {
     "accessMode": "Edit mode",
@@ -360,6 +465,12 @@
     "deleteCard": {
       "title": "Delete card",
       "description": "Are you sure you want to delete this card? This action cannot be undone."
+    },
+    "deleteCards": {
+      "title_one": "Delete card",
+      "title_other": "Delete {{count}} cards",
+      "description_one": "Are you sure you want to delete this card? This action cannot be undone.",
+      "description_other": "Are you sure you want to delete these {{count}} cards? This action cannot be undone."
     },
     "deletePack": {
       "title": "Delete pack",
@@ -404,6 +515,8 @@
     "failedToAddCard": "Failed to add card",
     "failedToUpdateCard": "Failed to update card",
     "failedToDeleteCard": "Failed to delete card",
+    "failedToUpdateCards": "Failed to update cards",
+    "failedToDeleteCards": "Failed to delete cards",
     "collaboratorRemoved": "Collaborator removed",
     "failedToRemoveCollaborator": "Failed to remove collaborator",
     "failedToUpdateSettings": "Failed to update settings",
@@ -421,7 +534,11 @@
     "failedToUpdateUsername": "Failed to update username",
     "accountDeleted": "Account deleted",
     "failedToDeleteAccount": "Failed to delete account",
-    "nameUpdatedInPack": "Your name has been updated in this pack"
+    "nameUpdatedInPack": "Your name has been updated in this pack",
+    "cardsImported_one": "{{count}} card imported",
+    "cardsImported_other": "{{count}} cards imported",
+    "packUpdatedFromFile": "Pack updated from file",
+    "failedToImportCards": "Failed to import cards"
   },
   "join": {
     "joinPack": "Join pack",
