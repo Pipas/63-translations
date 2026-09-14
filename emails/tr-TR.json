@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "“{{packName}}” toplulukta yayında",
+    "preheader": "“{{packName}}” adlı paket onaylandı.",
+    "heading": "Onaylandı!",
+    "intro": "<strong>{{packName}}</strong> adlı paket onaylandı ve artık 63'te herkesin kullanımına açık.",
+    "cta": "Topluluk paketini gör",
+    "reviewerNote": "Moderatörün notu:",
+    "caption": "Oyuncular paketi uygulamadaki topluluk paketleri bölümünde bulabilir.",
+    "text": "Onaylandı!\n\n“{{packName}}” adlı paket onaylandı ve artık 63'te herkesin kullanımına açık.\n\nGörüntüle: {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "“{{packName}}” artık öne çıkanlarda",
+    "preheader": "“{{packName}}” adlı paketi öne çıkan topluluk paketlerinden biri olarak seçtik.",
+    "heading": "Artık öne çıkanlarda!",
+    "intro": "<strong>{{packName}}</strong> adlı paketi öne çıkan topluluk paketlerinden biri olarak seçtik.",
+    "cta": "Öne çıkan paketi gör",
+    "caption": "Öne çıkan paketler topluluk bölümünün en üstünde gösterilir.",
+    "text": "“{{packName}}” adlı paketi öne çıkan topluluk paketlerinden biri olarak seçtik.\n\nGörüntüle: {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "“{{packName}}” güncellemesi onaylanmadı",
+      "new": "“{{packName}}” başvurun hakkında"
+    },
+    "preheader": {
+      "update": "“{{packName}}” adlı paket için yaptığın güncelleme onaylanmadı; önceki sürüm hâlâ yayında.",
+      "new": "“{{packName}}” adlı paketin bu kez onaylanmadı."
+    },
+    "heading": "Başvurunla ilgili güncelleme",
+    "intro": {
+      "update": "<strong>{{packName}}</strong> adlı paket için yaptığın güncellemeyi inceledik ancak güncelleme onaylanmadı. Moderatörün notu:",
+      "new": "<strong>{{packName}}</strong> adlı paketi inceledik ancak paket bu kez onaylanmadı. Moderatörün notu:"
+    },
+    "stillLive": "İyi haber: Daha önce onaylanan sürüm topluluk kitaplığında hâlâ yayında; hiçbir şey kaldırılmadı.",
+    "cta": "Düzenle ve tekrar gönder",
+    "text": {
+      "opener": {
+        "update": "“{{packName}}” adlı paket için yaptığın güncellemeyi inceledik ancak güncelleme onaylanmadı. Daha önce onaylanan sürüm topluluk kitaplığında hâlâ yayında; hiçbir şey kaldırılmadı.",
+        "new": "“{{packName}}” adlı paketi inceledik ancak paket bu kez onaylanmadı."
+      },
+      "reviewerNote": "Moderatörün notu:",
+      "invite": "Hazır olduğunda paketi düzenleyip tekrar gönderebilirsin."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "“{{packName}}” topluluktan kaldırıldı",
+    "preheader": "Bir moderatör “{{packName}}” adlı paketini kaldırdı.",
+    "heading": "Paket kaldırıldı",
+    "intro": {
+      "withoutReason": "<strong>{{packName}}</strong> adlı paketi topluluk kitaplığından kaldırdık.",
+      "withReason": "<strong>{{packName}}</strong> adlı paketi topluluk kitaplığından kaldırdık. Nedeni:"
+    },
+    "cta": "Paketi aç",
+    "caption": "Hazır olduğunda paketini düzenleyip tekrar gönderebilirsin.",
+    "text": {
+      "withoutReason": "“{{packName}}” adlı paketi topluluk kitaplığından kaldırdık.\n\nHazır olduğunda paketini düzenleyip tekrar gönderebilirsin.\n{{url}}\n",
+      "withReason": "“{{packName}}” adlı paketi topluluk kitaplığından kaldırdık.\n\nNedeni:\n{{reason}}\n\nHazır olduğunda paketini düzenleyip tekrar gönderebilirsin.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "“{{packName}}” incelemeye gönderildi",
+    "preheader": "Topluluk paketi başvurunu aldık.",
+    "heading": "Başvurun alındı",
+    "intro": "<strong>{{packName}}</strong> adlı paket için yaptığın topluluk başvurusunu aldık.",
+    "cta": "Paketi gör",
+    "caption": "Bir güncelleme olduğunda hemen e-posta göndereceğiz.",
+    "text": "“{{packName}}” adlı paket için yaptığın topluluk başvurusunu aldık. Bir güncelleme olduğunda e-posta göndereceğiz.\n\nPaketi gör: {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "packs.63.pt şifreni sıfırla",
+    "preheader": "Yeni bir şifre seçmek için düğmeye dokun.",
+    "heading": "Şifreni sıfırla",
+    "intro": "packs.63.pt hesabının şifresini sıfırlama isteği aldık. Yeni bir şifre seçmek için aşağıdaki düğmeye dokun.",
+    "cta": "Şifreyi sıfırla",
+    "caption": "Bu isteği sen göndermediysen e-postayı yok sayabilirsin; şifren değişmez.",
+    "text": "Şifreni sıfırla\n\npacks.63.pt hesabının şifresini sıfırlama isteği aldık. Yeni bir şifre seçmek için bu bağlantıyı aç:\n\n{{url}}\n\nBu isteği sen göndermediysen e-postayı yok sayabilirsin; şifren değişmez.\n"
+  }
+}

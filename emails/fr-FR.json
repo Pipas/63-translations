@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "« {{packName}} » est dans la communauté",
+    "preheader": "Ton pack « {{packName}} » a été approuvé.",
+    "heading": "Approuvé !",
+    "intro": "Le pack <strong>{{packName}}</strong> a été approuvé et est maintenant accessible à tous dans 63.",
+    "cta": "Voir le pack communautaire",
+    "reviewerNote": "Note du modérateur :",
+    "caption": "Les joueurs peuvent le trouver dans la rubrique des packs communautaires de l'app.",
+    "text": "Approuvé !\n\nLe pack « {{packName}} » a été approuvé et est maintenant accessible à tous dans 63.\n\nVoir : {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "« {{packName}} » est maintenant à la une",
+    "preheader": "Nous avons mis « {{packName}} » à la une des packs communautaires.",
+    "heading": "À la une !",
+    "intro": "Nous avons mis <strong>{{packName}}</strong> à la une des packs communautaires.",
+    "cta": "Voir le pack à la une",
+    "caption": "Les packs à la une sont affichés en premier dans la rubrique Communauté.",
+    "text": "Nous avons mis « {{packName}} » à la une des packs communautaires.\n\nVoir : {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "Mise à jour refusée : « {{packName}} »",
+      "new": "Des nouvelles de « {{packName}} »"
+    },
+    "preheader": {
+      "update": "La mise à jour du pack « {{packName}} » n'a pas été approuvée, mais la version précédente reste en ligne.",
+      "new": "Ton pack « {{packName}} » n'a pas été approuvé cette fois."
+    },
+    "heading": "Des nouvelles de ta proposition",
+    "intro": {
+      "update": "Nous avons examiné la mise à jour du pack <strong>{{packName}}</strong>, mais elle n'a pas été approuvée. Voici la note du modérateur :",
+      "new": "Nous avons examiné <strong>{{packName}}</strong>, mais le pack n'a pas été approuvé cette fois. Voici la note du modérateur :"
+    },
+    "stillLive": "Bonne nouvelle : la version approuvée précédemment reste en ligne dans la bibliothèque communautaire. Rien n'a été retiré.",
+    "cta": "Modifier et proposer à nouveau",
+    "text": {
+      "opener": {
+        "update": "Nous avons examiné la mise à jour du pack « {{packName}} », mais elle n'a pas été approuvée. La version approuvée précédemment reste en ligne dans la bibliothèque communautaire. Rien n'a été retiré.",
+        "new": "Nous avons examiné « {{packName}} », mais le pack n'a pas été approuvé cette fois."
+      },
+      "reviewerNote": "Note du modérateur :",
+      "invite": "Tu peux modifier le pack et le proposer à nouveau quand tu veux."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "« {{packName}} » retiré de la communauté",
+    "preheader": "Un modérateur a retiré ton pack « {{packName}} ».",
+    "heading": "Pack retiré",
+    "intro": {
+      "withoutReason": "Nous avons retiré <strong>{{packName}}</strong> de la bibliothèque communautaire.",
+      "withReason": "Nous avons retiré <strong>{{packName}}</strong> de la bibliothèque communautaire. Voici pourquoi :"
+    },
+    "cta": "Ouvrir le pack",
+    "caption": "Tu peux modifier ton pack et le proposer à nouveau quand tu veux.",
+    "text": {
+      "withoutReason": "Nous avons retiré « {{packName}} » de la bibliothèque communautaire.\n\nTu peux modifier ton pack et le proposer à nouveau quand tu veux.\n{{url}}\n",
+      "withReason": "Nous avons retiré « {{packName}} » de la bibliothèque communautaire.\n\nMotif :\n{{reason}}\n\nTu peux modifier ton pack et le proposer à nouveau quand tu veux.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "« {{packName}} » proposé pour examen",
+    "preheader": "Nous avons reçu ta proposition de pack communautaire.",
+    "heading": "Proposition reçue",
+    "intro": "Nous avons reçu le pack <strong>{{packName}}</strong> pour examen avant sa publication dans la communauté.",
+    "cta": "Voir le pack",
+    "caption": "Nous t'enverrons un e-mail dès qu'il y aura du nouveau.",
+    "text": "Nous avons reçu le pack « {{packName}} » pour examen avant sa publication dans la communauté. Nous t'enverrons un e-mail dès qu'il y aura du nouveau.\n\nVoir le pack : {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "Réinitialise ton mot de passe packs.63.pt",
+    "preheader": "Appuie sur le bouton pour choisir un nouveau mot de passe.",
+    "heading": "Réinitialise ton mot de passe",
+    "intro": "Nous avons reçu une demande de réinitialisation du mot de passe de ton compte packs.63.pt. Appuie sur le bouton ci-dessous pour en choisir un nouveau.",
+    "cta": "Réinitialiser le mot de passe",
+    "caption": "Si tu n'es pas à l'origine de cette demande, tu peux ignorer cet e-mail. Ton mot de passe ne changera pas.",
+    "text": "Réinitialise ton mot de passe\n\nNous avons reçu une demande de réinitialisation du mot de passe de ton compte packs.63.pt. Ouvre ce lien pour en choisir un nouveau :\n\n{{url}}\n\nSi tu n'es pas à l'origine de cette demande, tu peux ignorer cet e-mail. Ton mot de passe ne changera pas.\n"
+  }
+}

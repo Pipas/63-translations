@@ -1,0 +1,614 @@
+{
+  "common": {
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "close": "Kapat",
+    "delete": "Sil",
+    "or": "veya",
+    "loading": "Yükleniyor..."
+  },
+  "auth": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi doğrula",
+    "username": "Kullanıcı adı",
+    "login": {
+      "title": "Giriş yap",
+      "action": "Giriş yap"
+    },
+    "register": {
+      "title": "Kaydol",
+      "action": "Kaydol"
+    },
+    "continueWithGoogle": "Google ile devam et",
+    "continueWithEmail": "E-posta ile devam et",
+    "continueWithoutAccount": "Hesap açmadan devam et",
+    "dontHaveAccount": "Hesabın yok mu?",
+    "alreadyHaveAccount": "Zaten hesabın var mı?",
+    "createAccount": {
+      "title": "Hesap oluştur",
+      "action": "Hesap oluştur"
+    },
+    "placeholder": {
+      "email": "sen@ornek.com",
+      "password": "••••••••",
+      "confirmPassword": "Şifreni tekrar yaz",
+      "username": "Adın"
+    },
+    "forgotPassword": "Şifreni mi unuttun?",
+    "resetPassword": {
+      "title": "Şifreyi sıfırla",
+      "action": "Şifreyi sıfırla"
+    },
+    "newPassword": "Yeni şifre",
+    "sendResetEmail": "Sıfırlama e-postası gönder",
+    "resetEmailSent": "E-postanı kontrol et",
+    "resetEmailSentDescription": "{{email}} adresine bir şifre sıfırlama bağlantısı gönderdik. Gelen kutunu kontrol et ve şifreni sıfırlamak için bağlantıyı aç.",
+    "resetPasswordSuccess": "Şifren sıfırlandı. Artık yeni şifrenle giriş yapabilirsin.",
+    "backToLogin": "Geri",
+    "errors": {
+      "userNotFound": "Bu e-posta adresiyle eşleşen hesap yok.",
+      "wrongPassword": "Şifre yanlış.",
+      "invalidEmail": "E-posta adresi geçersiz.",
+      "networkError": "Ağ hatası. Bağlantını kontrol et.",
+      "invalidCredential": "E-posta veya şifre yanlış.",
+      "popupCancelled": "Giriş iptal edildi.",
+      "accountExists": "Aynı e-posta adresini kullanan bir hesap zaten var.",
+      "loginFailed": "Giriş yapılamadı. Tekrar dene.",
+      "emailInUse": "Bu e-posta adresini kullanan bir hesap zaten var.",
+      "weakPassword": "Şifre çok zayıf.",
+      "registrationFailed": "Kayıt başarısız oldu. Tekrar dene.",
+      "credentialInUse": "Bu giriş bilgileri zaten başka bir hesapla ilişkilendirilmiş.",
+      "providerAlreadyLinked": "Bu hesap zaten bir sağlayıcıya bağlı.",
+      "upgradeFailed": "Hesap yükseltilemedi. Tekrar dene.",
+      "continueFailed": "Devam edilemedi. Tekrar dene.",
+      "expiredActionCode": "Bu sıfırlama bağlantısının süresi dolmuş. Yeni bir bağlantı iste.",
+      "invalidActionCode": "Bu sıfırlama bağlantısı geçersiz veya daha önce kullanılmış.",
+      "resetFailed": "Şifre sıfırlanamadı. Tekrar dene.",
+      "userDisabled": "Bu hesap devre dışı bırakılmış."
+    }
+  },
+  "validation": {
+    "required": {
+      "email": "E-posta gerekli",
+      "password": "Şifre gerekli",
+      "username": "Kullanıcı adı gerekli",
+      "name": "Ad gerekli",
+      "packName": "Paket adı gerekli",
+      "confirmPassword": "Şifreni doğrula"
+    },
+    "invalidEmail": "E-posta adresi geçersiz",
+    "passwordMinLength": "Şifre en az 6 karakter olmalı",
+    "usernameMinLength": "Kullanıcı adı en az 2 karakter olmalı",
+    "usernameMaxLength": "Kullanıcı adı 50 karakterden kısa olmalı",
+    "nameMinLength": "Ad en az 2 karakter olmalı",
+    "nameMaxLength": "Ad 50 karakterden kısa olmalı",
+    "passwordsDoNotMatch": "Şifreler eşleşmiyor",
+    "contrastError": "Metin rengi ile paket rengi arasında yeterli kontrast yok"
+  },
+  "home": {
+    "packs": "Paketler",
+    "myPacks": "Paketlerim",
+    "newPack": "Yeni paket",
+    "newPackSubtitle": "Yeni paket oluştur",
+    "invitedPacks": "Paylaşılanlar",
+    "emptyInvited": "Henüz paylaşılan paket yok. Bir davetle katıl!",
+    "emptyNoAccount": "Henüz paket yok. Davet bağlantısıyla bir pakete katıl veya kendi paketini oluşturmak için hesap aç!",
+    "packAuthor": "{{name}} tarafından",
+    "deployed": "Toplulukta yayınlandı"
+  },
+  "pack": {
+    "cards": "Kartlar",
+    "publish": "Yayınla",
+    "collaboration": "İş birliği",
+    "editPack": "Paketi düzenle",
+    "loadingPack": "Paket yükleniyor...",
+    "kickedMessage": "Artık “{{name}}” adlı pakette ortak çalışan değilsin",
+    "canOnlyEditOwnCards": "Yalnızca kendi kartlarını düzenleyebilirsin",
+    "lockedForReview": "Paket inceleniyor ve düzenlenemez",
+    "newPack": "Yeni paket",
+    "createPack": "Paket oluştur",
+    "savePack": "Paketi kaydet",
+    "details": {
+      "name": "Ad",
+      "description": "Açıklama",
+      "lookAndFeel": "Görünüm"
+    },
+    "appearance": {
+      "back": "Arka yüz",
+      "front": "Ön yüz",
+      "swap": "Ön ve arka yüzü değiştir",
+      "flip": "Çevir",
+      "resetAll": "Tümünü sıfırla",
+      "randomize": "Rastgele seç",
+      "color": "Paket rengi",
+      "accent": "Metin rengi",
+      "shuffleEmojis": "Emojileri karıştır",
+      "shuffleAll": "Emojileri ve renkleri karıştır",
+      "undo": "Son değişikliği geri al",
+      "editPackCover": "Paket kapağını düzenle",
+      "editPackColours": "Paket renklerini düzenle",
+      "packCover": "Kapak",
+      "packColours": "Renkler"
+    },
+    "transfer": {
+      "title": "İçe ve dışa aktarma",
+      "description": "Kartlarını bir dosyaya kaydet veya dosyadan kart içe aktar.",
+      "exportPack": {
+        "title": "Paketi dışa aktar",
+        "subtitle": "Paketi ve kartlarını .json dosyası olarak indir."
+      },
+      "exportCards": {
+        "title": "Kartları dışa aktar",
+        "subtitle": "Kartları, elektronik tabloda açabileceğin bir .csv dosyası olarak indir."
+      },
+      "importCards": {
+        "title": "Kartları içe aktar",
+        "subtitle": ".csv veya .json dosyasından kart ekle."
+      },
+      "import": {
+        "title": "Kartları içe aktar",
+        "intro": "Bir .csv veya .json dosyası seç.",
+        "importing": "Kartlar içe aktarılıyor...",
+        "templateHint": "Dosyanın nasıl olması gerektiğinden emin değil misin? Bir <csv>.csv şablonu</csv> veya <json>.json şablonu</json> indir.",
+        "template": {
+          "packName": "Paket adı",
+          "packDescription": "Bu paketin konusu",
+          "cardTitle": "Kart {{number}}",
+          "cardDescription": "Açıklama {{number}}"
+        },
+        "chooseFile": "Dosya seç",
+        "chooseAnother": "Başka dosya seç",
+        "found_one": "Bu dosyada {{count}} kart var",
+        "found_other": "Bu dosyada {{count}} kart var",
+        "cardsOnlyNote": "Yalnızca kartlar içe aktarılır. Bu paketin adı ve görünümü değişmez.",
+        "detailsOwnerOnlyNote": "Paketin adını ve görünümünü yalnızca sahibi değiştirebildiği için sadece kartlar içe aktarılır.",
+        "previewSection": "İçe aktarılacak kartlar",
+        "duplicateBadge": "Pakette zaten var",
+        "andMore_one": "ve {{count}} tane daha",
+        "andMore_other": "ve {{count}} tane daha",
+        "skippedSection_one": "{{count}} kart atlandı",
+        "skippedSection_other": "{{count}} kart atlandı",
+        "untitledRow": "Başlıksız",
+        "rowNumber": "Satır {{row}}",
+        "skipReason": {
+          "missingTitle": "Bu kartın başlığı yok.",
+          "invalidPoints": "Puan 1, 2 veya 3 olmalı.",
+          "titleTooLong": "Başlık için en fazla {{max}} karakter kullanılabilir.",
+          "descriptionTooLong": "Açıklama için en fazla {{max}} karakter kullanılabilir."
+        },
+        "optionsSection": "İçe aktarma seçenekleri",
+        "modeSection": "İçe aktarma yöntemi",
+        "modeAdd": "Pakete ekle",
+        "modeAddDescription_one": "Paketteki kartı koru",
+        "modeAddDescription_other": "Paketteki {{count}} kartı koru",
+        "modeReplace": "Tüm kartları değiştir",
+        "modeReplaceDescription_one": "Önce paketteki kartı sil",
+        "modeReplaceDescription_other": "Önce paketteki {{count}} kartı sil",
+        "skipDuplicates_one": "Pakette bulunan {{count}} kartı atla",
+        "skipDuplicates_other": "Pakette bulunan {{count}} kartı atla",
+        "applyDetails": "Bu dosyanın adını ve görünümünü de kullan",
+        "confirm_one": "{{count}} kartı içe aktar",
+        "confirm_other": "{{count}} kartı içe aktar",
+        "confirmDetailsOnly": "Adı ve görünümü uygula"
+      },
+      "error": {
+        "empty": "Bu dosyada kart yok.",
+        "invalidJson": "Bu dosya geçerli bir JSON değil.",
+        "notAPackFile": "Bu dosya bir 63 paket dosyasına benzemiyor.",
+        "unsupportedVersion": "Bu dosya sitenin daha yeni bir sürümünden geliyor. Sayfayı yenileyip tekrar dene.",
+        "unsupportedFile": "Yalnızca .csv ve .json dosyaları içe aktarılabilir.",
+        "unreadable": "Bu dosya okunamadı.",
+        "tooManyCards": "Toplam kart sayısı {{total}} olur. Bir pakette en fazla {{max}} kart olabilir.",
+        "tooLarge": "Bu içe aktarma çok büyük. Daha küçük dosyalara böl veya açıklamaları kısalt."
+      }
+    },
+    "dangerZone": "Tehlikeli bölge",
+    "dangerDescription": "Bu paket kalıcı olarak silinir ve işlem geri alınamaz.",
+    "deletePack": "Paketi sil",
+    "summary": {
+      "author": "{{name}} tarafından",
+      "cardCount_one": "{{count}} kart",
+      "cardCount_other": "{{count}} kart",
+      "hint": "Bu pakette birlikte çalışmak için sahibinden düzenleme bağlantısını iste."
+    }
+  },
+  "publish": {
+    "addTo63Section": {
+      "title": "63'e ekle"
+    },
+    "openInApp": {
+      "title": "Uygulamada aç",
+      "subtitle": "Bu paketi koleksiyonuna ekle."
+    },
+    "shareLink": {
+      "title": "Bağlantıyı paylaş",
+      "subtitle": "Bağlantıyı bir arkadaşına gönder.",
+      "byAuthor": "{{author}} tarafından",
+      "tagline": "63 oyunu için bir paket"
+    },
+    "copyCode": {
+      "title": "Kodu kopyala",
+      "subtitle": "Kodu 63'e kendin yapıştır."
+    },
+    "communitySection": {
+      "title": "Topluluk"
+    },
+    "submit": {
+      "title": "Paketini gönder!",
+      "subtitle": "63 topluluğuyla paylaş.",
+      "cta": "Gönder",
+      "minCards": "Bu paketi göndermek için en az {{required}} kart ekle. Şu anda {{current}} kart var."
+    },
+    "community": {
+      "pending": {
+        "title": "Başvuru inceleniyor",
+        "meta": "{{date}} tarihinde gönderildi",
+        "body": "Bir moderatör paketini 1–3 gün içinde inceleyecek.",
+        "withdraw": "Başvuruyu geri çek"
+      },
+      "approved": {
+        "title": "Onaylandı ve yayınlandı",
+        "meta": "{{date}} tarihinde onaylandı",
+        "reviewerNote": "Moderatörün notu:",
+        "stats": {
+          "likes": "Beğeniler",
+          "plays": "Oynanmalar"
+        },
+        "withdraw": "Topluluktan kaldır",
+        "moreActions": "Diğer işlemler"
+      },
+      "update": {
+        "title": "Yayında ama güncel değil",
+        "meta_one": "Onaydan beri {{count}} değişiklik",
+        "meta_other": "Onaydan beri {{count}} değişiklik",
+        "body": "Bu paketi onaylandıktan sonra düzenledin. Yeni sürümü yayınlamak için tekrar gönder.",
+        "cta": "Tekrar gönder"
+      },
+      "rejected": {
+        "title": "Başvuru onaylanmadı",
+        "meta": "{{date}} tarihinde incelendi",
+        "cta": "Tekrar gönder"
+      },
+      "updateRejected": {
+        "title": "Güncelleme onaylanmadı",
+        "meta": "{{date}} tarihinde incelendi",
+        "body": "Son değişikliklerin onaylanmadı ama daha önce onaylanan sürüm topluluk paketlerinde yayında kalmaya devam ediyor.",
+        "liveSince": "{{date}} tarihinden beri yayında",
+        "cta": "Düzenle ve tekrar gönder"
+      },
+      "diff": {
+        "viewChanges": "Değişiklikleri gör",
+        "title": "Son onaylanan sürümden sonraki değişiklikler",
+        "loading": "Yayınlanan sürüm yükleniyor…",
+        "unavailable": "Daha önce onaylanan sürüm yüklenemedi.",
+        "noChanges": "Son onaylanan sürümden beri kart değişikliği yok.",
+        "newSection_one": "{{count}} yeni kart",
+        "newSection_other": "{{count}} yeni kart",
+        "modifiedSection_one": "{{count}} değiştirilmiş kart",
+        "modifiedSection_other": "{{count}} değiştirilmiş kart",
+        "removedSection_one": "{{count}} kaldırılmış kart",
+        "removedSection_other": "{{count}} kaldırılmış kart",
+        "previously": "Önceki",
+        "field": {
+          "title": "Başlık",
+          "description": "Açıklama",
+          "points": "Puan"
+        },
+        "empty": "(boş)"
+      },
+      "removed": {
+        "title": "Topluluktan kaldırıldı",
+        "meta": "{{date}} tarihinde kaldırıldı",
+        "body": "Bir moderatör bu paketi topluluk paketlerinden kaldırdı. Hazır olduğunda düzenleyip tekrar gönderebilirsin.",
+        "cta": "Tekrar gönder"
+      },
+      "withdrawn": {
+        "title": "Topluluktan geri çekildi",
+        "meta": "{{date}} tarihinde geri çekildi",
+        "body": "Bu paketi topluluk paketlerinden geri çektin. İstediğin zaman tekrar gönderebilirsin.",
+        "cta": "Tekrar gönder"
+      },
+      "withdrawConfirm": {
+        "title": "Topluluktan kaldırılsın mı?",
+        "description": "“{{name}}” adlı paket topluluk paketlerinden kaldırılacak. Paketi yükleyen herkes 63'ü bir sonraki açışında paketi cihazından da kaybedecek. Paketi daha sonra tekrar gönderebilirsin.",
+        "confirm": "Kaldır"
+      },
+      "toast": {
+        "withdrawn": "Başvuru geri çekildi",
+        "withdrawFailed": "Başvuru geri çekilemedi",
+        "withdrawnApproved": "Paket topluluktan kaldırıldı",
+        "withdrawApprovedFailed": "Paket topluluktan kaldırılamadı"
+      }
+    }
+  },
+  "submit": {
+    "title": "Topluluğa gönder",
+    "titleResubmit": "Topluluğa tekrar gönder",
+    "infoBanner": "Bu paket onaylanınca 63 topluluk paketlerinde bulunabilecek. Değişikliklerini yayınlamak için istediğin zaman tekrar gönder.",
+    "language": {
+      "title": "Paket dili",
+      "subtitle": "Kartların çoğunun yazıldığı dil.",
+      "placeholder": "Dil seç"
+    },
+    "kids": {
+      "title": "KIDS modu",
+      "subtitle": "Uygulamadaki KIDS modu yalnızca çocuklara uygun paketleri gösterir. Bir moderatör yanıtını kontrol edecek.",
+      "checkbox": "Bu paket çocuklara uygundur"
+    },
+    "agreement": "Bu paketin <guidelines>63 topluluk kurallarına</guidelines> uyduğunu ve nefret söylemi, özel kişilerin bilgilerinin ifşası veya telif hakkıyla korunan kart metinleri içermediğini kabul ediyorum.",
+    "cta": {
+      "submit": "İncelemeye gönder",
+      "resubmit": "Tekrar incelemeye gönder"
+    },
+    "toast": {
+      "submitted": "Paket incelemeye gönderildi!",
+      "failed": "Paket gönderilemedi"
+    }
+  },
+  "share": {
+    "dontHaveApp": "63 henüz sende yok mu?",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "notFound": "Paket bulunamadı",
+    "notFoundDescription": "Bu paket mevcut değil veya artık kullanılamıyor."
+  },
+  "community": {
+    "notFound": "Topluluk paketi bulunamadı",
+    "notFoundDescription": "Bu topluluk paketi mevcut değil veya artık kullanılamıyor."
+  },
+  "card": {
+    "newCard": "Yeni kart",
+    "editCard": "Kartı düzenle",
+    "viewCard": "Kart ayrıntıları",
+    "saveCard": "Kartı kaydet",
+    "addCard": "Kart ekle",
+    "title": "Başlık",
+    "description": "Açıklama",
+    "noCards": "Henüz kart yok",
+    "importFromFile": "Dosyadan içe aktar",
+    "points_one": "puan",
+    "points_other": "puan",
+    "difficulty": {
+      "easy": "kolay",
+      "medium": "orta",
+      "hard": "zor"
+    },
+    "authorCards": "Kartların yazarı: {{name}}",
+    "viewAllCards": "Tüm kartları gör",
+    "viewDrafts": "Taslakları gör",
+    "totals": {
+      "cards": "Yazara göre kartlar",
+      "drafts": "Yazara göre taslaklar",
+      "total": "Toplam"
+    },
+    "sort": {
+      "alphaAsc": "Alfabetik (A → Z)",
+      "alphaDesc": "Alfabetik (Z → A)",
+      "pointsDesc": "Puan (yüksek → düşük)",
+      "pointsAsc": "Puan (düşük → yüksek)",
+      "dateDesc": "Önce en yeniler",
+      "dateAsc": "Önce en eskiler",
+      "sortOptions": "Sıralama seçenekleri",
+      "label": "Sırala",
+      "sortBy": "Sıralama ölçütü"
+    },
+    "draft": "Taslak",
+    "info": "Kart bilgileri",
+    "createdAt": "Oluşturulma tarihi",
+    "filter": {
+      "myCards": "Kartlarım",
+      "allCards": "Tüm kartlar",
+      "myDrafts": "Taslaklarım",
+      "allDrafts": "Tüm taslaklar",
+      "label": "Filtreler",
+      "missingDescription": "Açıklaması olmayan kartlar",
+      "noMissingDescriptions": "Her kartın bir açıklaması var.",
+      "description": "Açıklama",
+      "difficulty": "Zorluk",
+      "author": "Yazar",
+      "clearAll": "Tümünü temizle",
+      "noResults": "Bu filtrelerle eşleşen kart yok."
+    },
+    "groupBy": {
+      "label": "Grupla",
+      "none": "Yok",
+      "author": "Yazar",
+      "points": "Puan"
+    },
+    "pointsGroup_one": "{{count}} puan",
+    "pointsGroup_other": "{{count}} puan",
+    "search": {
+      "label": "Ara",
+      "placeholder": "Kartlarda ara",
+      "clear": "Aramayı temizle",
+      "noResults": "“{{query}}” aramasıyla eşleşen kart yok."
+    },
+    "selection": {
+      "label": "Kartları seç",
+      "count_one": "{{count}} kart seçildi",
+      "count_other": "{{count}} kart seçildi",
+      "empty": "Değiştirilecek kartları seç",
+      "selectAll": "Tümünü seç",
+      "deselectAll": "Tüm seçimleri kaldır",
+      "setPoints": "Puanı ayarla",
+      "delete": "Seçili kartları sil",
+      "cancel": "Seçimi iptal et"
+    }
+  },
+  "collaboration": {
+    "accessMode": "Düzenleme modu",
+    "whoCanEdit": "Bu paketi kim düzenleyebilir?",
+    "private": "Kişisel",
+    "privateDescription": "Yalnızca sen düzenleyebilirsin",
+    "collaborative": "Ortak",
+    "collaborativeDescription": "Bağlantıya sahip olanlar düzenleyebilir",
+    "inviteDescription": "Başkalarının bu pakete katılıp birlikte çalışabilmesi için bağlantıyı paylaş.",
+    "copyEditLink": "Düzenleme bağlantısını kopyala",
+    "permissions": "Ortak çalışan izinleri",
+    "whatCanDo": "Ortak çalışanlar ne yapabilir?",
+    "addCards": "Kart ekleme",
+    "addCardsDescription": "Yalnızca kart ekleyebilir, kendi kartlarını görebilir ve düzenleyebilirler",
+    "fullAccess": "Tam erişim",
+    "fullAccessDescription": "Kart ekleyebilir, tüm kartları ve paket ayarlarını düzenleyebilirler",
+    "collaborators": "Ortak çalışanlar",
+    "noCollaborators": "Henüz ortak çalışan yok. Birilerini davet etmek için düzenleme bağlantısını paylaş.",
+    "noOtherCollaborators": "Başka ortak çalışan yok.",
+    "leavePack": "Paketten ayrıl",
+    "leaveDescription": "Artık bu paketi düzenleyemezsin.",
+    "loadingSettings": "Ayarlar yükleniyor...",
+    "joined": "{{date}} tarihinde katıldı",
+    "ownerRole": "Sahip",
+    "created": "{{date}} tarihinde oluşturuldu"
+  },
+  "dialog": {
+    "deleteCard": {
+      "title": "Kartı sil",
+      "description": "Bu kartı silmek istediğine emin misin? Bu işlem geri alınamaz."
+    },
+    "deleteCards": {
+      "title_one": "Kartı sil",
+      "title_other": "{{count}} kartı sil",
+      "description_one": "Bu kartı silmek istediğine emin misin? Bu işlem geri alınamaz.",
+      "description_other": "Bu {{count}} kartı silmek istediğine emin misin? Bu işlem geri alınamaz."
+    },
+    "deletePack": {
+      "title": "Paketi sil",
+      "description": "“{{name}}” adlı paketi silmek istediğine emin misin? Bu işlem geri alınamaz ve tüm kartlar kaybolur."
+    },
+    "leavePack": {
+      "title": "Paketten ayrıl",
+      "description": "“{{name}}” adlı paketten ayrılmak istediğine emin misin? Artık paketi düzenleyemezsin.",
+      "confirm": "Ayrıl"
+    },
+    "removeCollaborator": {
+      "title": "Ortak çalışanı kaldır",
+      "description": "{{name}} adlı ortak çalışanı bu paketten kaldırmak istediğine emin misin? Artık paketi düzenleyemez.",
+      "confirm": "Kaldır"
+    },
+    "disableCollaboration": {
+      "title": "Ortak çalışmayı kapat",
+      "description": "Tüm ortak çalışanlar paketten kaldırılacak ve ortak çalışma ayarları sıfırlanacak.",
+      "confirm": "Kapat"
+    },
+    "similarCard": {
+      "title": "Benzer kart bulundu",
+      "description": "Benzer bir kart zaten var:",
+      "confirm": "Yine de eklemek istediğine emin misin?",
+      "addAnyway": "Yine de ekle"
+    },
+    "unsavedChanges": {
+      "title": "Kaydedilmemiş değişiklikler",
+      "description": "Kaydedilmemiş değişikliklerin var. Ayrılmak istediğine emin misin? Değişikliklerin kaybolacak.",
+      "confirm": "Ayrıl"
+    },
+    "deleteAccount": {
+      "title": "Hesabı sil",
+      "description": "Hesabını silmek istediğine emin misin? Bu işlem geri alınamaz."
+    }
+  },
+  "toast": {
+    "packSaved": "Paket kaydedildi!",
+    "failedToUpdatePack": "Paket güncellenemedi",
+    "packDeleted": "“{{name}}” silindi",
+    "failedToDeletePack": "Paket silinemedi",
+    "failedToAddCard": "Kart eklenemedi",
+    "failedToUpdateCard": "Kart güncellenemedi",
+    "failedToDeleteCard": "Kart silinemedi",
+    "failedToUpdateCards": "Kartlar güncellenemedi",
+    "failedToDeleteCards": "Kartlar silinemedi",
+    "collaboratorRemoved": "Ortak çalışan kaldırıldı",
+    "failedToRemoveCollaborator": "Ortak çalışan kaldırılamadı",
+    "failedToUpdateSettings": "Ayarlar güncellenemedi",
+    "editLinkCopied": "Düzenleme bağlantısı kopyalandı!",
+    "linkCopied": "Bağlantı kopyalandı!",
+    "failedToCopyLink": "Bağlantı kopyalanamadı",
+    "appNotInstalled": "Bu cihazda 63 yüklü değil",
+    "codeCopied": "Kod kopyalandı!",
+    "failedToCopyCode": "Kod kopyalanamadı",
+    "joinedPack": "Pakete katıldın!",
+    "failedToJoinPack": "Pakete katılınamadı",
+    "leftPack": "“{{name}}” adlı paketten ayrıldın",
+    "failedToLeavePack": "Paketten ayrılamadın",
+    "usernameUpdated": "Kullanıcı adı güncellendi!",
+    "failedToUpdateUsername": "Kullanıcı adı güncellenemedi",
+    "accountDeleted": "Hesap silindi",
+    "failedToDeleteAccount": "Hesap silinemedi",
+    "nameUpdatedInPack": "Bu paketteki adın güncellendi",
+    "cardsImported_one": "{{count}} kart içe aktarıldı",
+    "cardsImported_other": "{{count}} kart içe aktarıldı",
+    "packUpdatedFromFile": "Paket dosyadan güncellendi",
+    "failedToImportCards": "Kartlar içe aktarılamadı"
+  },
+  "join": {
+    "joinPack": "Pakete katıl",
+    "packNotFound": "Paket bulunamadı",
+    "packNotFoundDescription": "Bu paket mevcut değil veya bağlantı geçersiz.",
+    "goToMyPacks": "Paketlerime git",
+    "joiningPack": "Pakete katılınıyor...",
+    "invited": "Bu pakette ortak çalışmaya davet edildin.",
+    "yourName": "Adın",
+    "enterYourName": "Adını yaz",
+    "noAccountNote": "Daha sonra hesap oluşturabilirsin; hiçbir şey kaybolmaz."
+  },
+  "upgrade": {
+    "heading": "Hesap oluştur",
+    "continueWithoutAccount": "Hesap açmadan devam et"
+  },
+  "banner": {
+    "noAccountMessage": "Henüz hesabın yok. Kendi paketlerini oluşturmak için kaydol.",
+    "createAccount": "Hesap oluştur"
+  },
+  "password": {
+    "show": "Şifreyi göster",
+    "hide": "Şifreyi gizle"
+  },
+  "emoji": {
+    "loading": "Yükleniyor...",
+    "empty": "Emoji bulunamadı."
+  },
+  "changelog": {
+    "title": "Değişiklik günlüğü"
+  },
+  "licences": {
+    "title": "Lisanslar",
+    "intro": "63 Packs, açık kaynaklı yazılımlarla geliştirildi ve üçüncü taraf emoji ile simge çizimleri kullanıyor. Bunları kullanıma sunan herkese teşekkür ederiz.",
+    "attributions": "Emoji ve simgeler",
+    "openSource": "Açık kaynaklı yazılımlar",
+    "viewLicence": "Lisansı görüntüle"
+  },
+  "guidelines": {
+    "title": "Topluluk kuralları"
+  },
+  "legal": {
+    "title": "Yasal bilgiler",
+    "guidelinesDescription": "Sevdiğimiz ve izin vermediğimiz şeyler.",
+    "licencesDescription": "Kullandığımız açık kaynaklı yazılımlar ve emoji çizimleri."
+  },
+  "menu": {
+    "legal": "Yasal bilgiler",
+    "feedback": "Geri bildirim"
+  },
+  "cookies": {
+    "ariaLable": "Çerez izni",
+    "message": "63'ü iyileştirmek için çerez kullanıyoruz.",
+    "accept": "Tamam",
+    "decline": "İstemiyorum"
+  },
+  "account": {
+    "title": "Hesap",
+    "username": "Kullanıcı adı",
+    "usernameNote": "Adın yalnızca ziyaret ettiğin paketlerde güncellenir. Eski paketleri ziyaret edene kadar bu paketlerde önceki adın görünür.",
+    "changeUsername": "Kullanıcı adını kaydet",
+    "language": "Dil",
+    "english": "İngilizce",
+    "portuguese": "Portekizce",
+    "spanish": "İspanyolca",
+    "turkish": "Türkçe",
+    "french": "Fransızca",
+    "dangerZone": "Tehlikeli bölge",
+    "dangerDescription": "Hesabın kalıcı olarak silinir ve işlem geri alınamaz.",
+    "deleteAccount": "Hesabı sil",
+    "logout": "Çıkış yap"
+  }
+}

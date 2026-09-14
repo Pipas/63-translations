@@ -19,7 +19,10 @@ until that review is complete.
   file, and unchanged IDs and KIDS flags on every retained General card. Points were lowered
   for *Kuzey Işıkları* and raised for *Papamobil*, *Çarpışma Testi Mankeni* and
   *Dungeons & Dragons* to reflect their difficulty in Turkish.
-- `packs.63.pt/` and `emails/` are intentionally outside this draft's scope.
+- `packs.63.pt/tr-TR.json` and `emails/tr-TR.json` were translated directly from the
+  current `en-GB` sources. Turkish does not pluralise nouns after numbers, so paired
+  plural keys use the same noun forms while preserving every source placeholder. Markup
+  and plain-text email line breaks are also unchanged.
 
 ## Turkish terminology
 
@@ -49,10 +52,12 @@ The draft uses these equivalents consistently:
 
 Register `tr-TR` in the app as **Türkçe** with **🇹🇷**.
 
-Native review should pay particular attention to short mobile labels, the official Turkish
-titles used for films, television programmes, toys and games in the General deck, and the
-playability of newer internet terms. `rules.home.call_to_action` (*Karşında*) should also be
-checked in the actual tutorial layout.
+Native review should pay particular attention to short mobile and website labels, email
+subjects, the official Turkish titles used for films, television programmes, toys and
+games in the General deck, and the playability of newer internet terms. The pack import
+flow, collaboration permissions and community submission states should be checked in
+context. `rules.home.call_to_action` (*Karşında*) should also be checked in the actual
+tutorial layout.
 
 No native reviewer was available, so every General card whose exact Turkish title could not
 be confirmed was dropped rather than shipped with an uncertain title. Those cards are listed
@@ -110,7 +115,9 @@ until that review is complete.
   [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
 - General descriptions keep a useful definition and a separate fact or joke where the
   English card has both. *Rien* intentionally keeps the source card's empty description.
-- `packs.63.pt/` and `emails/` are intentionally outside this draft's scope.
+- `packs.63.pt/fr-FR.json` and `emails/fr-FR.json` were translated directly from the
+  current `en-GB` sources. They keep the website's plural families and markup, and the
+  transactional emails preserve every placeholder and plain-text line break.
 
 ### French terminology
 
@@ -145,8 +152,9 @@ The draft uses casual, direct second-person singular forms and these equivalents
 
 Register `fr-FR` in the app as **Français** with **🇫🇷**.
 
-Native review should pay particular attention to short mobile labels and official French
-titles for films, television, toys and games. The accessibility tooltips and the KIDS-mode
-text should also be checked in the actual phone layout. The official French
-title *Maman, j'ai raté l'avion !* exceeds the usual title-length budget and needs an
-in-context layout check.
+Native review should pay particular attention to short mobile and website labels, email
+subject lengths, and official French titles for films, television, toys and games. The
+accessibility tooltips, the KIDS-mode text, the pack import flow and the community
+submission states should also be checked in context. The official French title *Maman,
+j'ai raté l'avion !* exceeds the usual title-length budget and needs an in-context layout
+check.
