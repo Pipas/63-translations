@@ -1,0 +1,1105 @@
+{
+  "name": "Genel",
+  "cards": [
+    {
+      "description": "Batı dünyasındaki gençlerin yaklaşık %80'ini etkileyen uzun süreli bir cilt hastalığı. Nedeni hakkında çok sayıda yanlış inanış vardır; 20. yüzyıla kadar mastürbasyonun bunlardan biri olduğu sanılıyordu.",
+      "id": "b15166bdb3a88482",
+      "title": "Akne",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "1974'te yaratılan, kırmızı fiyonklu ve ağzı olmayan beyaz bir Japon karakter. Kısa sürede küresel bir fenomene ve dünyanın en büyük medya markalarından birine dönüştü.",
+      "id": "d5b0dc39299f12d9",
+      "title": "Hello Kitty",
+      "points": 1
+    },
+    {
+      "description": "Aynı türden as, papaz, kız, vale ve onludan oluşan poker eli. Gelme olasılığı 649.739'da birdir; yıldırım çarpmasından yalnızca biraz daha muhtemel.",
+      "id": "26a85346d84e5d84",
+      "title": "Royal Floş",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Merkezi İsviçre'de bulunan ve Hristiyanlık ilkelerini geliştirmeyi amaçlayan dünya çapında bir gençlik örgütü. Belki de daha çok Village People'ın 1978 tarihli aynı adlı şarkısıyla tanınır.",
+      "id": "ab9ada8e35619dc9",
+      "title": "YMCA",
+      "points": 1
+    },
+    {
+      "description": "Einstein'ın görelilik kuramına göre herhangi bir parçacığın ulaşabileceği en yüksek sürat. Boşluktaki kesin değeri 299.792.458 m/sn'dir. Gözünü kırparsan kaçırırsın!",
+      "id": "4e5d84ee4fd2b865",
+      "title": "Işık Hızı",
+      "points": 2
+    },
+    {
+      "description": "U2'nun solistinin taktığı ünlü aksesuar. Bir rock yıldızı gösterişi sanılsa da kendisi bunun glokom kaynaklı görme sorununa yardımcı olduğunu açıkladı.",
+      "id": "4a02d6ad5b0dc392",
+      "title": "Bono'nun Güneş Gözlüğü",
+      "points": 2
+    },
+    {
+      "description": "ABD federal hükûmetinin ya da ülkenin yaygın ulusal kişileştirmesi. En çok, 1917 tarihli ABD Ordusu'nun ikonik “I WANT YOU” afişindeki görüntüsüyle tanınır.",
+      "id": "85346d84e5d84ee4",
+      "title": "Sam Amca",
+      "points": 1
+    },
+    {
+      "description": "Keith Chapman'ın yarattığı, 1998-2008 arasında yayımlanan ve bir inşaat işçisiyle insan özellikleri taşıyan çalışma araçlarını konu alan çocuk dizisi. Halledebilir miyiz!?",
+      "id": "b68a945311fc0874",
+      "title": "Bob Usta",
+      "points": 2
+    },
+    {
+      "description": "İnsanların kırklı dönemlerinde görülebilen kimlik ve özgüven değişimi. Zamanın geçişini, kaçınılmaz ölümü ya da hayatta yeterince şey başaramamış olmayı hatırlatan olaylar bunu tetikleyebilir.",
+      "id": "a38b15166bdb3a88",
+      "title": "Orta Yaş Krizi",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Şu anda oynadığın oyun!",
+      "id": "2b6371df91904ba6",
+      "title": "63",
+      "points": 1
+    },
+    {
+      "description": "Herkesin farkında olduğu ama kimsenin konuşmak istemediği önemli ya da tartışmalı konuyu anlatan deyim. Kökeni, müzede ufak ayrıntıları görüp hortumlu dev hayvanı fark etmeyen bir adamın masalına dayanır.",
+      "id": "d84ee4fd2b8656cd",
+      "title": "Odadaki Fil",
+      "points": 2
+    },
+    {
+      "description": "Luis Fonsi ve Daddy Yankee'nin 2017'de yayımladığı Latin pop hiti. Justin Bieber'lı remiksi sayesinde viralleşti ve bir dönem YouTube'un en çok izlenen videosu oldu.",
+      "id": "71df91904ba61d67",
+      "title": "Despacito",
+      "points": 1
+    },
+    {
+      "description": "Çizgi film hayvanlarının bir numaralı yaralanma nedeni. Kurban genellikle başında kocaman bir şişlik, dişlerinin yerindeyse siyah-beyaz tuşlarla enkazdan çıkar.",
+      "id": "bdb3a884826a8534",
+      "title": "Düşen Piyano",
+      "points": 2
+    },
+    {
+      "description": "Star Wars serisinin üçüncü filminde Han Solo'yu esir tutan, sümüklüböceğe benzeyen dev uzaylı. İlk yapımda komedi unsuru olarak görünmesi planlanmış ama kurguya girememişti.",
+      "id": "a02d6ad5b0dc3929",
+      "title": "Jabba the Hutt",
+      "points": 2
+    },
+    {
+      "description": "Çocukların genellikle bozuk para biriktirdiği kap. Eskiden içindeki paraya ulaşmak için kabın kırılması gerekirdi.",
+      "id": "4ee4fd2b8656cda7",
+      "title": "Kumbara",
+      "points": 1
+    },
+    {
+      "description": "İtalyan masalında sahibinin çıkarı için hile ve kurnazlığa başvuran insan özellikli kahraman. Son yıllarda “Shrek” evrenindeki rolüyle daha da popüler oldu.",
+      "id": "ad5b0dc39299f12d",
+      "title": "Çizmeli Kedi",
+      "points": 1
+    },
+    {
+      "description": "Duygusal dürüstlüğü ve sert güzellikteki eserleriyle tanınan Hollandalı post-empresyonist ressamın kendi kestiği organ. Batı sanatının en etkili isimlerinden olmasına rağmen yaşamı boyunca yalnızca bir tablo satabildi.",
+      "id": "311fc0874d0a38b1",
+      "title": "Van Gogh'un Kulağı",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "",
+      "id": "346d84e5d84ee4fd",
+      "title": "Hiçbir Şey",
+      "points": 1
+    },
+    {
+      "description": "Düşük bilinç durumundaki bir kişinin uyanıkmış gibi işler yapmasına yol açan rahatsızlık. Davranışlar istemsiz olduğundan hukukta savunma gerekçesi olarak kullanılabilir.",
+      "id": "c4a02d6ad5b0dc39",
+      "title": "Uyurgezerlik",
+      "points": 1
+    },
+    {
+      "description": "1997 yapımı BBC dizisinde karınlarında ekran taşıyan dört tüylü yaratıktan biri. Adları Tinky Winky, Dipsy, Laa-Laa… Po!",
+      "id": "99f12d9bb68a9453",
+      "title": "Teletabi",
+      "points": 1
+    },
+    {
+      "description": "19. yüzyılda İtalya'nın en büyük adasında doğan organize suç örgütü. Bugün hâlâ faal olduğu ve bölgedeki işletmelerin yaklaşık %70'inin haraç ödediği düşünülüyor.",
+      "id": "a945311fc0874d0a",
+      "title": "Sicilya Mafyası",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Ian Fleming'in yarattığı kurgusal İngiliz casusa adını sorduğunda alacağın muhtemel cevap.",
+      "id": "1d67f4bab9ada8e3",
+      "title": "Bond, James Bond",
+      "points": 2
+    },
+    {
+      "description": "Hayalet logolu popüler sosyal medya uygulamasında gönderilen fotoğrafları kişiselleştirmenin yolu. Çiçek tacı, gökkuşağı kusmuğu ve köpek kulakları en sevilen seçeneklerdendir.",
+      "id": "fc0874d0a38b1516",
+      "title": "Snapchat Filtreleri",
+      "points": 2
+    },
+    {
+      "description": "Beceriksiz Fransız polis Müfettişi Jacques Clouseau'yu konu alan film serisinin parlak renkli, ikonik maskotu. Anında tanınan tema müziği eşliğinde sinsice dolaşır.",
+      "id": "1904ba61d67f4bab",
+      "title": "Pembe Panter",
+      "points": 1
+    },
+    {
+      "description": "Rus Devrimi sırasında köylülerle işçi sınıfının dayanışmasını temsil etmek üzere benimsenen simge. En çok komünizmin kısaltması olarak bilinir ve Sovyetler Birliği bayrağında belirgin biçimde yer alır.",
+      "id": "84826a85346d84e5",
+      "title": "Orak Çekiç",
+      "points": 3
+    },
+    {
+      "description": "Aynı adlı dizide zekâsı ve mühendislik becerileriyle zor durumlardan kurtulan başkahraman. Adı, bir soruna basit ama zarif çözüm bulmakla özdeşleşmiştir.",
+      "id": "948632cc4a02d6ad",
+      "title": "MacGyver",
+      "points": 2
+    },
+    {
+      "description": "Eşinin annesi.",
+      "id": "8a945311fc0874d0",
+      "title": "Kayınvalide",
+      "points": 1
+    },
+    {
+      "description": "Pantolonunun önünü kapatmayı unuttuğunda yaşanan o tuhaf durum.",
+      "id": "8b15166bdb3a8848",
+      "title": "Açık Fermuar",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "ABD'nin 47. başkanının ayırt edici özelliklerinden biri. Yapay rengi ve sıra dışı biçimiyle ünlüdür.",
+      "id": "1df91904ba61d67f",
+      "title": "Trump'ın Saçı",
+      "points": 2
+    },
+    {
+      "description": "Nevada'da bulunan, UFO kanıtlarını sakladığına inanılan çok gizli bir ABD Hava Kuvvetleri tesisi. 2019'da şaka olarak açılan bir Facebook etkinliği, sırlarını ortaya çıkarmak için burayı basma çağrısı yaptı.",
+      "id": "a8e35619dc9c3948",
+      "title": "51. Bölge",
+      "points": 2
+    },
+    {
+      "description": "İki takımın sırayla taşları hedefe doğru kaydırdığı kış sporu. Oyuncular taşların hızını ve yönünü değiştirmek için önlerindeki buzu süpürür.",
+      "id": "f4bab9ada8e35619",
+      "title": "Körling",
+      "points": 2
+    },
+    {
+      "description": "Astrid Lindgren'in çocuk kitaplarındaki kızıl saçlı, çilli başkahraman. Eserler 77 dile çevrildi ve birçok diziyle filme uyarlandı.",
+      "id": "19dc9c3948632cc4",
+      "title": "Pippi Uzunçorap",
+      "points": 3
+    },
+    {
+      "description": "Hasbro'nun yarattığı fantastik at oyuncakları ve bunlardan doğan aynı adlı çizgi dizi. Hedef kitlesi küçük kızlar olsa da yetişkin erkeklerden oluşan kült bir internet takipçi kitlesi edindi.",
+      "id": "1fc0874d0a38b151",
+      "title": "My Little Pony",
+      "points": 1
+    },
+    {
+      "description": "Avlanan büyük deniz balıklarından oluşan bir aileyi anlatan, internette yayılan çocuk şarkısı. Basit ve akılda kalıcı “du du du du du du” sözleriyle YouTube'da 13 milyardan fazla izlendi.",
+      "id": "2d6ad5b0dc39299f",
+      "title": "Baby Shark",
+      "points": 2
+    },
+    {
+      "description": "Karnı açıkta bırakan üst giysisi. 1960'ların sonlarından beri yaygın kabul görüyor; 2010'ların ortasında erkek modelleri de yeniden popülerleşti.",
+      "id": "874d0a38b15166bd",
+      "title": "Crop Top",
+      "points": 2
+    },
+    {
+      "description": "Peter Parker'ın ölümünün ardından Örümcek Adam olmasına ilham veren akrabası. Ona büyük güçle birlikte büyük sorumluluk geldiğini öğretti.",
+      "id": "61d67f4bab9ada8e",
+      "title": "Ben Amca",
+      "points": 2
+    },
+    {
+      "description": "Jack Black'in seslendirdiği Po'nun öz ailesiyle yeniden buluşup Chi'nin gücünü öğrenmesini anlatan DreamWorks animasyon serisinin üçüncü filmi.",
+      "id": "4bab9ada8e35619d",
+      "title": "Kung Fu Panda 3",
+      "points": 2
+    },
+    {
+      "description": "Miguel de Cervantes'in 1605 tarihli Don Kişot romanındaki başkahramanın kurgusal yaveri. Kuru mizahı, zekâsı ve kendine özgü İspanyol atasözleriyle bilinir.",
+      "id": "9f12d9bb68a94531",
+      "title": "Sancho Panza",
+      "points": 3
+    },
+    {
+      "description": "Orta Doğu'da geçen Disney animasyonundaki, kendi bilinci olan uçan bir ev eşyası. Uzun metrajlı bir filmde kullanılan ilk bilgisayar animasyonlu karakterlerden biriydi.",
+      "id": "82b6371df91904ba",
+      "title": "Alaaddin'in Sihirli Halısı",
+      "points": 1
+    },
+    {
+      "description": "Para, ün ya da başka çıkarlar elde etmek için insanları kandıran kişi. En ünlü örneklerden biri, petrol bazlı mineral yağı her derde deva “yılan yağı” diye satan doktordur.",
+      "id": "2d9bb68a945311fc",
+      "title": "Şarlatan",
+      "points": 3
+    },
+    {
+      "description": "Göstericinin bir başlığın içinden canlı hayvan sunduğu, sahne sihriyle özdeşleşen numara. İfade, şaşırtıcı ya da imkânsız görünen bir iş başarmak için de kullanılır.",
+      "id": "d67f4bab9ada8e35",
+      "title": "Şapkadan Tavşan Çıkarmak",
+      "points": 1
+    },
+    {
+      "description": "Orta Çağ Fransa'sında yaşayıp Tanrı'nın kendisini İngiltere'ye karşı birliklere önderlik etmek için seçtiğine inanan köylü kızı. Büyük zaferin ardından yakalanıp kazıkta yakıldı.",
+      "id": "8632cc4a02d6ad5b",
+      "title": "Jeanne d'Arc",
+      "points": 2
+    },
+    {
+      "description": "Oyuncuların bir soruya dürüstçe yanıt vermekle başka bir oyuncunun verdiği görevi yapmak arasında seçim yaptığı sözlü parti oyunu. İzleri 1712'ye, “Sorular ve Emirler” adına kadar uzanır.",
+      "id": "619dc9c3948632cc",
+      "title": "Doğruluk mu Cesaret mi?",
+      "points": 1
+    },
+    {
+      "description": "Matematikte tanımsız bir işlem. NaN!",
+      "id": "12d9bb68a945311f",
+      "title": "Sıfıra Bölmek",
+      "points": 2
+    },
+    {
+      "description": "Özellikle yakınları arasında aykırı ya da kötü şöhretli görülen ve farklı davranılan grup üyesini anlatan deyim. Doğada bu renk, insanlardaki saç rengi gibi çekinik bir genden kaynaklanır.",
+      "id": "35619dc9c3948632",
+      "title": "Ailenin Kara Koyunu",
+      "points": 2
+    },
+    {
+      "description": "2010 FIFA Dünya Kupası'nda popülerleşen, üflendiğinde yüksek ve tekdüze ses çıkaran plastik boru. Rahatsız edici uğultuyu azaltmak için yayıncılar maçlarda ses filtreleme teknolojisi kullandı.",
+      "id": "74d0a38b15166bdb",
+      "title": "Vuvuzela",
+      "points": 2
+    },
+    {
+      "description": "2005'te “Axel F” remiksiyle ünlenen bilgisayar animasyonlu amfibi. Daha çok cep telefonu melodileri satmak için kullanıldı ve reklamlarda cinsel organının görünmesi tartışma yarattı.",
+      "id": "632cc4a02d6ad5b0",
+      "title": "Crazy Frog",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "C. S. Lewis'in 1950'de yarattığı Narnia dünyasında yaşayan kurgusal faun. Okurun bu evrende tanıştığı ilk karakterdir ve kitapta “tuhaf ama hoş, küçük bir yüzü” olduğu söylenir.",
+      "id": "39299f12d9bb68a9",
+      "title": "Bay Tumnus",
+      "points": 3
+    },
+    {
+      "description": "Yunan askerlerinin kuşatma altındaki antik kente sızmak için içinde saklandığı dört ayaklı ahşap yapı. Terim bilgisayarda gerçek amacını gizleyen zararlı yazılımlar için de kullanılır.",
+      "id": "5346d84e5d84ee4f",
+      "title": "Truva Atı",
+      "points": 1
+    },
+    {
+      "description": "Susam Sokağı'ndaki iri, sarı tüylü karakter. Gerçek bir hayvana dayanmasa da gözlerinin başının önünde olması bu dev canlının yırtıcı olabileceğini düşündürüyor.",
+      "id": "9dc9c3948632cc4a",
+      "title": "Minik Kuş",
+      "points": 1
+    },
+    {
+      "description": "J. K. Rowling'in fantastik kitaplarındaki büyücülük okulu Hogwarts'ın müdürü. Evcil anka kuşu Fawkes ile müdür odasında yaşar.",
+      "id": "9c3948632cc4a02d",
+      "title": "Albus Dumbledore",
+      "points": 2
+    },
+    {
+      "description": "Oyuncunun uçan bir hayvanı dikey yeşil borular arasından geçirdiği mobil oyun. 2014'teki ani popülerliğin ardından geliştiricisi, bağımlılık kaygısıyla uygulama mağazalarından kaldırdı.",
+      "id": "b6371df91904ba61",
+      "title": "Flappy Bird",
+      "points": 2
+    },
+    {
+      "description": "İki kişinin aynı anda eliyle üç farklı şekilden birini yaptığı oyun. Kuyu, Spock ve kertenkele gibi ek seçenekli, hatta 101 şekilli çeşitleri bile vardır!",
+      "id": "e5d84ee4fd2b8656",
+      "title": "Taş, Kâğıt, Makas",
+      "points": 1
+    },
+    {
+      "description": "Yarışmacıların dış dünyadan yalıtılmış bir evde birlikte yaşadığı, ilk kez Hollanda'da yayımlanan reality programı. Adı, George Orwell'ın baskıcı denetimi işleyen 1984 romanından gelir.",
+      "id": "45311fc0874d0a38",
+      "title": "Biri Bizi Gözetliyor",
+      "points": 2
+    },
+    {
+      "description": "Tuzla işlenmiş balık yumurtasından yapılan ve dünyanın en lüks yiyeceklerinden sayılan lezzet. Gümüşün tadı bozduğuna inanıldığından sedef kaşıkla yenmesi önerilir.",
+      "id": "d0a38b15166bdb3a",
+      "title": "Havyar",
+      "points": 2
+    },
+    {
+      "description": "Joel Schumacher'ın 1995 ve 1997 tarihli filmlerinde pelerinli kahramanın kostümüne eklenen tartışmalı ayrıntı. Tasarımın antik Yunan heykellerinden esinlendiği söylendi.",
+      "id": "5619dc9c3948632c",
+      "title": "Batman'in Meme Uçları",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Mezarı yüzyıllarca kayıp sanılan antik Mısır firavunu. 1922'de yeniden keşfedilen mezardan som altın tabut ve birkaç trompet dâhil 5.000'den fazla değerli eşya çıktı.",
+      "id": "dc9c3948632cc4a0",
+      "title": "Tutankamon",
+      "points": 2
+    },
+    {
+      "description": "“Dert etme” anlamına gelen ve 1994 yapımı Disney animasyonu Aslan Kral'la ünlenen Svahili deyişi. Disney'in 2018'de ABD'de ifadeyi tescillemesi Doğu Afrika'da tepki çekti.",
+      "id": "b0dc39299f12d9bb",
+      "title": "Hakuna Matata",
+      "points": 1
+    },
+    {
+      "description": "Sürekli kaşlarını çatmış görünen yüzüyle tanınan, sosyal medyada 8 milyondan fazla takipçiye ulaşan internet ünlüsü evcil hayvan. 2014'te Aubrey Plaza'nın seslendirdiği kendi Noel filminde rol aldı.",
+      "id": "68a945311fc0874d",
+      "title": "Grumpy Cat",
+      "points": 2
+    },
+    {
+      "description": "Genellikle gündüz yapılan kısa uyku. İspanya gibi sıcak ülkelerde gelenekseldir; Madrid bir zamanlar ulusal “siesta” yarışmasına bile ev sahipliği yaptı.",
+      "id": "5166bdb3a884826a",
+      "title": "Şekerleme",
+      "points": 1
+    },
+    {
+      "description": "Dünya'nın yüksek enlemlerindeki gökyüzünde görülen doğal renk gösterisi. İnuitler bunların, mors kafatasını top olarak kullanan atalarının ruhları olduğuna inanırdı.",
+      "id": "166bdb3a884826a8",
+      "title": "Kuzey Işıkları",
+      "points": 2
+    },
+    {
+      "description": "Bir kişinin soruları yanıtlarken çeşitli fizyolojik göstergelerini ölçerek doğru söyleyip söylemediğini anlamaya çalışan cihaz. Bilim dünyası ne kadar etkili olduğu konusunda hâlâ şüpheli.",
+      "id": "84ee4fd2b8656cda",
+      "title": "Yalan Makinesi",
+      "points": 2
+    },
+    {
+      "description": "Kutsal ya da ilahi kabul edilen doğaüstü varlık. Tek ilaha inanan dinlerde dünyanın yaratıcısı sayılır.",
+      "id": "df91904ba61d67f4",
+      "title": "Tanrı",
+      "points": 1
+    },
+    {
+      "description": "Sıcak tutan ayak giysisini genellikle yazın kullanılan açık ayakkabıyla birleştiren tartışmalı moda tercihi. Bu oyunun yaratıcıları uygulamayı onaylamıyor.",
+      "id": "6371df91904ba61d",
+      "title": "Çoraplı Sandalet",
+      "points": 2
+    },
+    {
+      "description": "İnternet sitelerinin abartılı iddialarla kullanıcıları içeri çekmek için kullandığı yaygın taktik. Sonra olanlara inanamayacaksınız!",
+      "id": "db3a884826a85346",
+      "title": "Clickbait",
+      "points": 2
+    },
+    {
+      "description": "1912'de dönemin en büyük yolcu gemilerinden birinin sonunu getiren dev donmuş su kütlesi. İronik biçimde bu taşıt en güvenlilerden sayılıyor ve asla suya gömülemeyeceğine inanılıyordu.",
+      "id": "682b6371df91904b",
+      "title": "Titanik'i Batıran Buzdağı",
+      "points": 2
+    },
+    {
+      "description": "George Lucas'ın 1981'de başlayan, bir arkeoloji profesörünün maceralarını anlatan film serisindeki ikonik silah. Çekimlerde kullanılan kopyalardan biri 2014'te açık artırmada 140.000 dolara satıldı.",
+      "id": "c39299f12d9bb68a",
+      "title": "Indiana Jones'un Kırbacı",
+      "points": 2
+    },
+    {
+      "description": "Johnston McCulley'nin 1919'da yarattığı, Kaliforniya halkını zalimlere karşı koruyan maskeli kahraman. Usta bir akrobat ve silahşordur; yenilen düşmanlarına kılıcıyla baş harfini kazır.",
+      "id": "dc39299f12d9bb68",
+      "title": "Zorro",
+      "points": 1
+    },
+    {
+      "description": "Agatha Christie'nin yarattığı ve birçok polisiye hikâyesinde başrolü üstlenen kurgusal Belçikalı dedektif. Yıllar içinde pek çok oyuncu tarafından canlandırıldı ve daima kendine özgü bıyığını taşıdı.",
+      "id": "ba61d67f4bab9ada",
+      "title": "Hercule Poirot",
+      "points": 2
+    },
+    {
+      "description": "Antoine de Saint-Exupéry'nin 1943'te yazdığı, çöle düşen pilotun tuhaf bir çocukla tanışmasını anlatan kitap. Sayısız kez uyarlandı ve tüm zamanların en çok çevrilen eserlerinden biri oldu.",
+      "id": "32cc4a02d6ad5b0d",
+      "title": "Küçük Prens",
+      "points": 1
+    },
+    {
+      "description": "İkinci Dünya Savaşı'nda Almanya ve Mihver güçlerinin lideriyle kötü şöhret kazanan yüz kılı biçimi. Charlie Chaplin'in yüzünü de meşhur biçimde süslemiştir!",
+      "id": "91904ba61d67f4ba",
+      "title": "Hitler Bıyığı",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "1990'larda Japonya'da yaratılan ve dönemin en büyük oyuncak çılgınlıklarından birine dönüşen elde taşınır dijital evcil hayvan. Bazı gençlerin ölen cihazlarını gömdüğü haberleri, çocukların fazla bağlanmasıyla ilgili kaygı yarattı.",
+      "id": "d84e5d84ee4fd2b8",
+      "title": "Tamagotchi",
+      "points": 3
+    },
+    {
+      "description": "Sacha Baron Cohen'in yarattığı ve 2006 tarihli aynı adlı filmde canlandırdığı kurgusal Kazak gazeteci. Yapım büyük tartışma yarattı; birçok katılımcı oyuncuya ve yapımcılara dava açtı.",
+      "id": "ada8e35619dc9c39",
+      "title": "Borat",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Mumbai merkezli Hintçe film endüstrisi için kullanılan ad. En popüler türü; aksiyon, komedi, aşk, dram ve müzikal bölümleri özgürce karıştıran Masala'dır.",
+      "id": "11fc0874d0a38b15",
+      "title": "Bollywood",
+      "points": 2
+    },
+    {
+      "description": "1206'da kurulan ve tarihin en büyük kesintisiz kara imparatorluğuna dönüşen Moğol İmparatorluğu'nun kurucusu ve ilk hükümdarı. 2003 tarihli bir araştırmaya göre her 200 erkekten yaklaşık biri onun doğrudan soyundan geliyor.",
+      "id": "c0874d0a38b15166",
+      "title": "Cengiz Han",
+      "points": 3
+    },
+    {
+      "description": "Looney Tunes karakterleriyle efsane basketbolcu Michael Jordan'ı galaksiler arası bir maçta buluşturan 1996 yapımı spor komedisi.",
+      "id": "cc4a02d6ad5b0dc3",
+      "title": "Space Jam",
+      "points": 1
+    },
+    {
+      "description": "Orta Romanya'da bulunan ve Bram Stoker'ın 1897 tarihli gotik romanı Dracula'ya mekân olan tarihî bölge. Daha sonra türle özdeşleşti ve 40'tan fazla vampir filmine ev sahipliği yaptı.",
+      "id": "5311fc0874d0a38b",
+      "title": "Transilvanya",
+      "points": 2
+    },
+    {
+      "description": "Süpermen'in tek zayıflığı olan gizemli mineral; birini savunmasız bırakan her şeyin simgesine dönüşmüştür. Genellikle yeşil gösterilse de çizgi romandaki ilk görünümünde kırmızıydı.",
+      "id": "3a884826a85346d8",
+      "title": "Kriptonit",
+      "points": 2
+    },
+    {
+      "description": "Karayip Korsanları serisinde Johnny Depp'in canlandırdığı kurgusal deniz maceracısı. Karakter, Keith Richards ile Looney Tunes kahramanı Pepé Le Pew'un karışımından esinlenmiştir.",
+      "id": "d6ad5b0dc39299f1",
+      "title": "Kaptan Jack Sparrow",
+      "points": 1
+    },
+    {
+      "description": "Sıcak hava ya da teşhir hevesi yüzünden gövdesini örtmekten vazgeçmiş ileri çağdaki beyefendi. Böyle kişilerin fotoğrafları sosyal medyada siyasi tartışmalara umursamaz bir cevap olarak da paylaşılır.",
+      "id": "38b15166bdb3a884",
+      "title": "Üstsüz Yaşlı Adam",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Kişinin başını bükülü koluna indirip diğerini yukarı kaldırdığı basit dans hareketi. Suudi Arabistan'da esrar ve yasa dışı uyuşturucuları çağrıştırdığı gerekçesiyle yasaklandı.",
+      "id": "b9ada8e35619dc9c",
+      "title": "Dab",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "💩",
+      "id": "c9c3948632cc4a02",
+      "title": "Kaka Emojisi",
+      "points": 2
+    },
+    {
+      "description": "Güneş Sistemi'nde Mars ile Jüpiter'in yörüngeleri arasında, çeşitli boyut ve biçimlerde uzay kayalarıyla dolu bölge. Filmlerdekinin aksine bir uzay gemisiyle içinden geçerken çarpışma ihtimali çok düşüktür.",
+      "id": "884826a85346d84e",
+      "title": "Asteroit Kuşağı",
+      "points": 2
+    },
+    {
+      "description": "Kullanıcıların profilleri beğenmek ya da reddetmek için anonim biçimde kaydırdığı çevrim içi flört uygulaması. Günümüzde pek çok uygulamada, hatta bunda bile görülen kaydırmalı arayüzü yaygınlaştırdı!",
+      "id": "d9bb68a945311fc0",
+      "title": "Tinder",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Kasık bölgesi, vulva, labia ve anüsteki tüm tüylerin alınması. Adı, 1987'de Güney Amerikalı kız kardeşlerin Manhattan'da açtığı bir salondan gelir.",
+      "id": "a884826a85346d84",
+      "title": "Brezilya Ağdası",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Şüpheli biçimde Süpermen'e benzeyen sıradan bir adam.",
+      "id": "02d6ad5b0dc39299",
+      "title": "Gözlüksüz Clark Kent",
+      "points": 3
+    },
+    {
+      "description": "Macaulay Culkin'in oynadığı, ailesi tarafından geride bırakılan bir çocuğun konutunu hırsızlardan korumasını anlatan 1990 yapımı komedi. Birçok kişi için vazgeçilmez bir Noel klasiğidir.",
+      "id": "a61d67f4bab9ada8",
+      "title": "Evde Tek Başına",
+      "points": 1
+    },
+    {
+      "description": "Gezegenimizin küre yerine disk biçiminde olduğunu öne süren varsayım. Amerikalı bir maceracı bunu kanıtlamak için ev yapımı roketle gerçeği kendi gözleriyle görmek istedi ve hayatını kaybetti.",
+      "id": "4d0a38b15166bdb3",
+      "title": "Düz Dünya Teorisi",
+      "points": 2
+    },
+    {
+      "description": "DC Comics'in Adalet Birliği üyesi, üç dişli mızrak kullanan ve deniz canlılarına hükmeden su altı süper kahramanı. Çok popüler olmasına rağmen güçlerinin zayıf olduğu şakalarına sıkça konu olur.",
+      "id": "bb68a945311fc087",
+      "title": "Aquaman",
+      "points": 1
+    },
+    {
+      "description": "Mattel'in 1968'de yarattığı minyatür oyuncak araba markası. Altı milyardan fazla araç ve 20 bin farklı modelle dünya çapında başarı kazandı. Hadi bunu aş!",
+      "id": "945311fc0874d0a3",
+      "title": "Hot Wheels",
+      "points": 2
+    },
+    {
+      "description": "Evcil hayvan olarak sık beslenen Pogona cinsi kertenkele. Yaygın adı, stres altında siyaha dönebilen boğaz altından gelir.",
+      "id": "04ba61d67f4bab9a",
+      "title": "Sakallı Ejder",
+      "points": 2
+    },
+    {
+      "description": "Andrew Lloyd Webber'ın bestelediği, Jellicle adlı bir kedi topluluğunu anlatan 1981 müzikali. 2019 tarihli sinema uyarlaması hem eleştirmenlerden hem izleyicilerden ağır tepki aldı.",
+      "id": "2cc4a02d6ad5b0dc",
+      "title": "Cats",
+      "points": 1
+    },
+    {
+      "description": "Genellikle ölülerle iletişim kurarak doğa yasalarıyla açıklanamayan işler yaptığını iddia eden kişi. İnanan çok olsa da bu güçlere dair bilimsel kanıt yoktur.",
+      "id": "67f4bab9ada8e356",
+      "title": "Medyum",
+      "points": 1
+    },
+    {
+      "description": "Roma döneminde geçen sevilen Fransız çizgi romanının iki ünlü Galyalı kahramanı. Küçük olan güç için büyülü iksir içer; iri olan ise bebekken kazana düşmüştür.",
+      "id": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+      "title": "Asteriks ve Oburiks",
+      "points": 2
+    },
+    {
+      "description": "Microsoft'un yavaşlığı ve eskimişliğiyle ünlenen ilk yaygın web tarayıcısı. Son zamanlarında en çok başka tarayıcıları indirmek için kullanılıyordu.",
+      "id": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+      "title": "Internet Explorer",
+      "points": 2
+    },
+    {
+      "description": "Tesla'nın köşeli, paslanmaz çelik elektrikli kamyoneti. 2019'daki tanıtımında sağlamlığını göstermesi gereken numara, iki camın sahnede kırılmasıyla sonuçlandı.",
+      "id": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+      "title": "Cybertruck",
+      "points": 2
+    },
+    {
+      "description": "Huysuz bir hava durumu sunucusunun aynı 24 saati tekrar tekrar yaşadığı 1993 yapımı Bill Murray filmi. Yönetmen Harold Ramis, kahramanın döngüde öznel olarak yaklaşık 10 yıl kaldığını tahmin etti.",
+      "id": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+      "title": "Bugün Aslında Dündü",
+      "points": 2
+    },
+    {
+      "description": "Nükleer denemelerle uyanan ve ilk kez 1954'te Japon sinemasında görülen tarih öncesi deniz canavarı. 38 filmle tek bir yaratığa dayanan en uzun soluklu serinin yıldızıdır.",
+      "id": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+      "title": "Godzilla",
+      "points": 1
+    },
+    {
+      "description": "Kardeşlerin aç kurttan kaçmak için farklı malzemelerden evler yaptığı klasik masal. Sayısız çeşidi anlatılsa da kurdun “Üflerim püflerim” sözü hâlâ ikonik.",
+      "id": "69337803-074d-4e31-8418-747bd7da56a2",
+      "title": "Üç Küçük Domuzcuk",
+      "points": 1
+    },
+    {
+      "description": "Katolik Kilisesi liderinin açık hava ziyaretlerinde kalabalığı selamlamak için kullandığı kurşungeçirmez araç. II. Jean Paul'e 1981'de Aziz Petrus Meydanı'nda düzenlenen suikast girişiminden sonra zırhlı camla yeniden tasarlandı.",
+      "id": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+      "title": "Papamobil",
+      "points": 2
+    },
+    {
+      "description": "1996'da İskoçya'daki bir araştırma enstitüsünde, yetişkin bir somatik hücreden klonlanan ilk memeli. Hücre meme bezinden geldiği için ünlü Amerikalı country şarkıcısının adı verildi.",
+      "id": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
+      "title": "Koyun Dolly",
+      "points": 1
+    },
+    {
+      "description": "Oyuncuların gizli beş harfli cevabı bulmak için altı deneme yaptığı günlük çevrim içi bulmaca. New York Times, 2022'de yaratıcısından bir milyon doları biraz aşan bir fiyata satın aldı.",
+      "id": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+      "title": "Wordle",
+      "points": 1
+    },
+    {
+      "description": "Kaos kuramında, bir böceğin kanat çırpması gibi küçücük bir olayın uzakta dev sonuçlar doğurabileceği fikri. Meteorolog Edward Lorenz terimi 1972'de, hava modellerinin ufak değişikliklerle bambaşka davrandığını görünce ortaya attı.",
+      "id": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+      "title": "Kelebek Etkisi",
+      "points": 2
+    },
+    {
+      "description": "Yeni basılmış anlık görüntüyü havada oynatma dürtüsü; OutKast şarkısıyla meşhur oldu. Üretici, oluşmakta olan görsele zarar verebildiği için insanlardan bunu yapmamalarını resmen istedi.",
+      "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
+      "title": "Polaroid Fotoğrafı Sallamak",
+      "points": 2
+    },
+    {
+      "description": "Bilyalı rulmanları olan ve 2017'de rahatlama aracı diye pazarlanarak dünyayı saran el oyuncağı. Araştırmalar odaklanmayı artırdığı ya da kaygıyı azalttığı iddialarına kanıt bulamadı.",
+      "id": "7b27a365-2f05-403a-baba-d6c151585293",
+      "title": "Stres Çarkı",
+      "points": 1
+    },
+    {
+      "description": "Bir gencin gruba uyum sağlamak için sigara, saç modeli ya da şüpheli bir akımı denemesine yol açan sosyal güç. Araştırmalar yetişkinlerin bile yalnızca uyum göstermek için grubun açıkça yanlış cevabına katıldığını gösteriyor.",
+      "id": "4d8dae45-828a-4242-a217-0c0227c4789a",
+      "title": "Akran Baskısı",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "İnternette insan olduğunu kanıtlamak için trafik ışıklarını ya da otobüsleri seçtiğin küçük test. Daha sonra Duolingo'yu yaratan kişi tarafından ortaklaşa geliştirildi.",
+      "id": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+      "title": "CAPTCHA",
+      "points": 2
+    },
+    {
+      "description": "Bir kutuya zehir şişesiyle kapatılan hayvanı içeren ünlü fizik düşünce deneyi. Kutu açılana kadar canlı ve ölü hâllerinin ikisinde birden kabul edilir.",
+      "id": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+      "title": "Schrödinger'in Kedisi",
+      "points": 3
+    },
+    {
+      "description": "Macar heykeltıraş ve mimarlık profesörünün 1974'te icat ettiği üç boyutlu kombinasyon bulmacası. Dünya rekoru üç saniyenin altında ve bir çocuğa ait.",
+      "id": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+      "title": "Rubik Küpü",
+      "points": 1
+    },
+    {
+      "description": "Duyguları bastırmak ve saldırgan baskınlık kurmak gibi zararlı geleneksel maskülen davranışları anlatan kültürel kavram. Cenazede ağlamayı reddetmek ya da pembenin yalnızca kızlara ait olduğunu savunmak yaygın belirtilerdendir.",
+      "id": "902799b4-18f2-48c9-92f4-78547c02520f",
+      "title": "Toksik Erkeklik",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Yaklaşık 66 milyon yıl önce gezegenimize çarpıp Kretase dönemini sona erdiren dev uzay kayası. Meksika'daki Yucatán Yarımadası'nın altında gömülü krateri yaklaşık 180 km genişliğindedir.",
+      "id": "bf10ceba-8762-4244-8023-457eb20adb1d",
+      "title": "Dinozorları Yok Eden Asteroit",
+      "points": 3
+    },
+    {
+      "description": "Birleşik Arap Emirlikleri çıkışlı, Antep fıstığı kreması ve çıtır kadayıfla doldurulan viral tatlı. Ani popülerliği dünya çapında fıstık kıtlığına yol açıp pastacıların maliyetini artırdı.",
+      "id": "c62de87f-30ec-4909-a35c-104375f280cb",
+      "title": "Dubai Çikolatası",
+      "points": 1
+    },
+    {
+      "description": "1957'de icat edilen ve aslında dokulu duvar kâğıdı olması planlanan ambalaj malzemesi. Çıkardığı tatmin edici patlama sesi özel günlere, taklit uygulamalara ve sayısız saatlik stres atmaya ilham verdi.",
+      "id": "c8161658-fa59-4488-b151-50d8bfe969f1",
+      "title": "Balonlu Naylon",
+      "points": 2
+    },
+    {
+      "description": "1994'te Microsoft yazılımındaki çizgi köpek yardımcısı için tasarlanan rahat ve yuvarlak yazı tipi. Bunca nefrete rağmen disleksili okurların metni daha kolay işlemesine yardımcı olabilir.",
+      "id": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+      "title": "Comic Sans",
+      "points": 2
+    },
+    {
+      "description": "Squat, lunge ve baldır kaldırma gibi alt vücut hareketlerine ayrılan spor salonu seansı. İstatistiklere göre en sık atlanan antrenmandır.",
+      "id": "61ccc086534df11f",
+      "title": "Bacak Günü",
+      "points": 1
+    },
+    {
+      "description": "Ünlü fast food burgerine ayırt edici lezzetinin çoğunu veren özel çeşni. Eski bir çalışan 2012'de sözde tarifi Reddit'te paylaştı ve şirket gerçekliğini neredeyse doğruladı.",
+      "id": "85361ccc086534df",
+      "title": "Big Mac'in Gizli Sosu",
+      "points": 3
+    },
+    {
+      "description": "Beyinde üretilen; haz, ödül ve motivasyon duygularında önemli rol oynayan nörotransmitter. Bu kartı sonunda bildiğinde salgılanacak şey!",
+      "id": "69d83b89a12daab6",
+      "title": "Dopamin",
+      "points": 2
+    },
+    {
+      "description": "Yatak odasındaki gardıropta saklanıp ışıklar söndükten sonra çıkmayı bekleyen korkunç yaratığa dair klasik çocukluk korkusu. Neredeyse her kültürün folklorunda görülmesi, karanlık ve kapalı alanlardan duyulan evrensel dehşete işaret eder.",
+      "id": "b64bea85361ccc08",
+      "title": "Dolaptaki Canavar",
+      "points": 3
+    },
+    {
+      "description": "Nükleer savaş ya da uygarlığın çöküşü gibi felaketlerden içindekileri korumak için yapılan yer altı barınağı. Bazı Silikon Vadisi milyarderlerinin toplumsal çöküşü beklemek üzere Yeni Zelanda'da tahkim edilmiş tesisler aldığı bildirildi.",
+      "id": "fff1669d83b89a12",
+      "title": "Kıyamet Sığınağı",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Bir memurun sert ve saldırgan, diğerinin sıcak ve anlayışlı davrandığı sorgu tekniği. Biri sigara, öteki ömür boyu hapis teklif eder. Şaşırtıcı derecede sık işe yarar.",
+      "id": "a7f9e5afff1669d8",
+      "title": "İyi Polis, Kötü Polis",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "İlk kez 1974'te yayımlanan, oyuncuların karakter yaratıp ortak maceralara çıktığı fantastik masaüstü rol yapma oyunu. Baldur's Gate ve World of Warcraft dâhil sayısız önemli video oyununa doğrudan ilham verdi.",
+      "id": "cda7f9e5afff1669",
+      "title": "Dungeons & Dragons",
+      "points": 2
+    },
+    {
+      "description": "Büyük bir sosyal medya kitlesine ürün ve marka tanıtarak para kazanan kişi. Sektörün küresel değeri 20 milyar doları aştı; en çok kazananlar sponsorlu gönderi başına binlerce dolar alıyor.",
+      "id": "7f9e5afff1669d83",
+      "title": "Instagram Fenomeni",
+      "points": 2
+    },
+    {
+      "description": "Güney Koreli sanatçı PSY'ın 2012'de yayımladığı, ikonik at sürme danslı K-pop şarkısı. YouTube'da bir milyar izlenmeye ulaşan ilk video oldu ve sitenin sayacını geçici olarak bozdu.",
+      "id": "602973b2-e044-4261-b6ca-367ea000e503",
+      "title": "Gangnam Style",
+      "points": 1
+    },
+    {
+      "description": "Değiştirilebilir yüz parçaları ve aksesuarları olan plastik sebze gövdeli klasik Amerikan oyuncağı. 1952'de yayımlanan reklamıyla ABD televizyonunda tanıtılan ilk oyuncak oldu.",
+      "id": "cb4759da-ce62-4506-8293-0f00cc47a145",
+      "title": "Bay Patates Kafa",
+      "points": 2
+    },
+    {
+      "description": "Çok soğuk bir şeyi hızla yiyip içmenin yol açtığı kısa ve keskin baş ağrısı. Acı aslında damağındaki damarları soğumaktan koruyan refleks tepkidir.",
+      "id": "6aa1a744-ca02-4d49-ba46-e534b97f8a77",
+      "title": "Beyin Donması",
+      "points": 1
+    },
+    {
+      "description": "Kuzey Atlantik'te gemi ve uçakların açıklanamayan biçimde kaybolduğu iddia edilen sınırları belirsiz bölge. Efsaneye rağmen araştırmalar buranın okyanusun başka yerlerinden daha tehlikeli olmadığını gösterir.",
+      "id": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+      "title": "Bermuda Şeytan Üçgeni",
+      "points": 2
+    },
+    {
+      "description": "Sessizliği doldurmak için kabinlerde ve bekleme alanlarında çalınan genel, zararsız fon ezgisi. Türün resmî adı, 1930'larda kamusal alanlara yayınlayan şirketten gelen “Muzak”tır.",
+      "id": "a0030c6e-d024-489e-ae71-047c8022a094",
+      "title": "Asansör Müziği",
+      "points": 1
+    },
+    {
+      "description": "Hafta sonunun bitiminde herkesin korkuyla beklediği ilk çalışma vakti. Araştırmalar kalp krizlerinin haftanın başka zamanlarına göre bu dönemde daha çok arttığını gösteriyor.",
+      "id": "64a54249-b462-448d-9d50-280588737740",
+      "title": "Pazartesi Sabahı",
+      "points": 1
+    },
+    {
+      "description": "Eldivenin ele yaptığı gibi ayağın beş bölümünü ayrı ayrı saran giysi. Tuhaf görünse de su toplamasını önlediğini söyleyen uzun mesafe koşucuları arasında sadık bir kitlesi vardır.",
+      "id": "fd73e068-af0c-4f73-bec6-6792139fe927",
+      "title": "Parmaklı Çorap",
+      "points": 2
+    },
+    {
+      "description": "Gerekli tüm bilginin yazılı olarak paylaşılabileceği hâlde gereksiz yere düzenlenen iş buluşması. Anketlere göre ofis çalışanları haftalarının yaklaşık üçte birini böyle oturumlarda harcıyor.",
+      "id": "908f592a-5281-44cc-aa69-794a92979c15",
+      "title": "E-postayla Halledilebilecek Toplantı",
+      "points": 3
+    },
+    {
+      "description": "1990'ların ortasından, kendine özgü sıra dansıyla ünlü Latin pop şarkısı. Popüler remiksi ABD'de 14 hafta üst üste bir numarada kaldı; tarihin en uzun zirve serilerinden biri.",
+      "id": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+      "title": "Macarena",
+      "points": 1
+    },
+    {
+      "description": "İskoçya'nın dağlık bölgesindeki büyük tatlı su gölünde yaşadığı söylenen efsanevi yaratık. 1934'te çekilen en ünlü fotoğrafın, oyuncak denizaltıyla yapılmış bir aldatmaca olduğu sonradan ortaya çıktı.",
+      "id": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+      "title": "Loch Ness Canavarı",
+      "points": 1
+    },
+    {
+      "description": "Yaşanan bir anın daha önce olmuş gibi hissedildiği psikolojik olgu. Pek çok kültürde bildirilmesine rağmen kesin nedeni hâlâ bilinmiyor.",
+      "id": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+      "title": "Dejavu",
+      "points": 1
+    },
+    {
+      "description": "Çocukların dökülen süt azılarını toplayıp yerine yastık altında bozuk para bırakan folklor figürü. Birçok Latin Amerika ve Avrupa ülkesinde aynı işi küçük bir fare yapar.",
+      "id": "497380b0-3425-4201-bf27-7981d7b98c68",
+      "title": "Diş Perisi",
+      "points": 1
+    },
+    {
+      "description": "Sanatçının geriye doğru kayıyormuş gibi görünürken tabanlarını ileri hareket ettirdiği imza dans figürü. Michael Jackson bunu 1983'te Motown 25 programında “Billie Jean”i söylerken popülerleştirdi.",
+      "id": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+      "title": "Moonwalk",
+      "points": 1
+    },
+    {
+      "description": "Oyuncuların zemine dokunmayıp erimiş kayanın üstündeymiş gibi davrandığı popüler çocuk oyunu. Tek bir kuralı vardır, ekipman gerektirmez ve her ortamda ansızın başlayabilir.",
+      "id": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+      "title": "Yerler Lav",
+      "points": 2
+    },
+    {
+      "description": "Uzun tellerin başın arkasında toplanıp düğümlendiği ve hipsterların sevdiği maskülen model. Stilistler çok sıkı bağlanırsa sürekli gerilim nedeniyle dökülmeye yol açabileceği konusunda uyarıyor.",
+      "id": "fb730839-9f97-4976-904f-cbd53cdfdfc7",
+      "title": "Erkek Topuzu",
+      "points": 2
+    },
+    {
+      "description": "Oyuncuların düşmeden, giderek alçaltılan yatay bir çubuğun altından geçtiği Karayip kökenli parti oyunu. Dünya rekorunda yerden yalnızca 21,59 cm yükseklikten geçilmiştir.",
+      "id": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+      "title": "Limbo",
+      "points": 1
+    },
+    {
+      "description": "Birbirine bağlı iki şeyden hangisinin önce var olduğunu soran klasik felsefi paradoks. Aristoteles ikisinin de daima birlikte var olması gerektiğini söyleyip tartışmayı ustaca geçiştirdi.",
+      "id": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+      "title": "Tavuk mu Yumurta mı?",
+      "points": 1
+    },
+    {
+      "description": "Stadyumdaki seyircilerin sırayla ayağa kalkıp kollarını kaldırdıktan sonra oturmasıyla oluşan toplu hareket. 1986 FIFA Dünya Kupası'nda dünyaya yayıldı ve ev sahibi ülke gösteriye adını verdi.",
+      "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+      "title": "Meksika Dalgası",
+      "points": 2
+    },
+    {
+      "description": "Karnın üst bölümüne sert ve yukarı doğru basınç uygulayarak tıkanmış solunum yolunu açan acil ilk yardım tekniği. Yöntemi bulan doktor bunu bir insan üzerinde ilk kez 96 yaşındayken kullanmak zorunda kaldı.",
+      "id": "a2737d5c-387e-485c-8891-333278cef79d",
+      "title": "Heimlich Manevrası",
+      "points": 3
+    },
+    {
+      "description": "Suda batmamaya ve oynamaya yarayan uzun, silindir biçimli köpük araç. Dünyadaki çocuklar asıl işlevinin yüzdürmek değil, kardeşlerine vurmak olduğunu keşfetti.",
+      "id": "11f95020-812c-418e-9c21-874e4fbe24fd",
+      "title": "Havuz Makarnası",
+      "points": 2
+    },
+    {
+      "description": "Küçük plastik yapı parçasına çıplak ayakla denk gelmenin evrensel korkusu. Ayak tabanında santimetrekare başına vücudun neredeyse her yerinden daha fazla sinir ucu bulunması acıyı açıklıyor.",
+      "id": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+      "title": "Lego'ya Basmak",
+      "points": 2
+    },
+    {
+      "description": "Burundaki refleksin doruğa ulaşıp bir türlü gerçekleşmediği sinir bozucu his. Kesin çözümü yoktur; ışığa bakmak ya da damağı gıdıklamak gibi halk yöntemleri denenir.",
+      "id": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+      "title": "Gelmeyen Hapşırık",
+      "points": 3
+    },
+    {
+      "description": "Ticari bir hava aracı piste güvenle konunca pilotu tebrik etme alışkanlığı. Bundan daha kötüsü yalnızca sinemada ya da cenazede aynı şeyi yapmak olabilir.",
+      "id": "6074accc-37a1-4ddd-8707-54807fa01406",
+      "title": "Uçak İndiğinde Alkışlamak",
+      "points": 3
+    },
+    {
+      "description": "Yanlış örtüyü ait olmadığı saklama kabına zorla geçirmeye çalışmanın evrensel mutfak sıkıntısı. Bunun doğru parça olduğuna yemin edebilirdim...",
+      "id": "7a495018-9642-4d79-b88b-4ec138b229b6",
+      "title": "Uymayan Tupperware Kapağı",
+      "points": 3
+    },
+    {
+      "description": "Gece ters çevrilince ortaya çıkan serin ve dokunulmamış uyku yüzeyi. Ne yazık ki insanın istediği kadar sürmeyen geçici bir mutluluktur.",
+      "id": "6704a583-9897-485e-9945-1507734e5dd5",
+      "title": "Yastığın Soğuk Tarafı",
+      "points": 3
+    },
+    {
+      "description": "Uçakta ya da arabanın arkasındaki en istenmeyen oturma yeri. Yine de bagajda gitmekten iyidir.",
+      "id": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
+      "title": "Orta Koltuk",
+      "points": 2
+    },
+    {
+      "description": "Bir yemek gerecinin elden kayıp sıcak sıvı dolu kâseye girdiği an. Onu çıkarmak için parmağını yemeğe sokman ya da başka bir gereçle avlaman gerekir.",
+      "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+      "title": "Kaşığın Çorbaya Düşmesi",
+      "points": 3
+    },
+    {
+      "description": "Esintili bir günde havada savrulan ve genellikle otoparklarda görülen boş alışveriş torbası. Kirliliğin simgesi olsa da amaçsız dansını izlemek garip biçimde büyüleyicidir.",
+      "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+      "title": "Rüzgârda Plastik Poşet",
+      "points": 2
+    },
+    {
+      "description": "Ortak ofis mikrodalgasında deniz ürününü yeniden sıcak hâle getirmek; toplu mutfaklarda evrensel bir sosyal suç sayılır. Suçlu çoktan kaçsa da koku dinlenme odasında saatlerce kalır.",
+      "id": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+      "title": "İş Yerinde Balık Isıtmak",
+      "points": 2
+    },
+    {
+      "description": "Sabrı tüketen küçük ama nihai olayı anlatan deyim. Dolu bir kaba tek su tanesi daha eklenmesi görüntüsünden gelir.",
+      "id": "97d61403-9d62-4a94-af01-8113f18f408d",
+      "title": "Bardağı Taşıran Son Damla",
+      "points": 1
+    },
+    {
+      "description": "Avustralya yerlilerinin geliştirdiği, doğru atıldığında sahibine dönen kıvrımlı fırlatma aracı. Geri gelen atışta dünya rekoru 238 metredir; uç uca iki futbol sahası kadar.",
+      "id": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+      "title": "Bumerang",
+      "points": 1
+    },
+    {
+      "description": "Çocuklukta adı ve ayrı bir kişiliği olan ama yalnızca yaratıcısına gerçek görünen kurgusal yoldaş. Psikologlar bunun tamamen sağlıklı olduğunu, böyle bir bağ kuran çocukların sosyal empati ve problem çözmede daha güçlü olabildiğini söylüyor.",
+      "id": "e1a303ac-4247-4f82-b443-e2e31daea751",
+      "title": "Hayalî Arkadaş",
+      "points": 2
+    },
+    {
+      "description": "Kişinin yaparken biraz utanmasına rağmen içten içe hoşlandığı şey. Seninkini arkadaşlarına açıklamak için bundan daha iyi zaman mı olur? Haydi!",
+      "id": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+      "title": "Gizli Zevk",
+      "points": 1
+    },
+    {
+      "description": "Bir araç kazasında insan bedenine binen kuvvetleri ölçmek için kullanılan insan biçimli figür. İlk örnekler yeniden kullanılan kaba tıbbi iskeletlerdi; günümüzdekilerde 100'den fazla sensör bulunur.",
+      "id": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+      "title": "Çarpışma Testi Mankeni",
+      "points": 2
+    },
+    {
+      "description": "Masada kimsenin almaya cesaret edemediği, paylaşılan İtalyan yemeğinden kalan tek parça. Yalnızca “Bunu yiyecek olan var mı?” diye soran cesur biri çıkmazı bitirebilir.",
+      "id": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+      "title": "Pizzanın Son Dilimi",
+      "points": 2
+    },
+    {
+      "description": "Birinin ağzını iyice açarak derin soluk aldığını görünce aynı tepkinin başkasında da tetiklendiği istemsiz refleks. Çoğu kişide yalnızca bunu okumak bile yetiyor. Kusura bakma.",
+      "id": "312f14af-1fdb-4040-9b5c-85167a3889b4",
+      "title": "Bulaşıcı Esneme",
+      "points": 3
+    },
+    {
+      "description": "Başkahramanın, aynı görünüme sahip ama uğursuz karakterli bir benzeriyle karşılaştığı anlatı klişesi. Benimki olsa adı “36” olurdu.",
+      "id": "fb504832-5170-40be-900c-b19d0d53c2b4",
+      "title": "Kötü İkiz",
+      "points": 1
+    },
+    {
+      "description": "Diyaframın istemsiz kasılıp ani nefes alışına ve keskin, tekrarlayan bir sese yol açması. Amerikalı bir çiftçi bunu 68 yıl boyunca yaşadı; tahminen 430 milyon spazm.",
+      "id": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+      "title": "Hıçkırık",
+      "points": 1
+    },
+    {
+      "description": "Yalnızca abartılı hareket ve yüz ifadeleriyle iletişim kuran sessiz sanatçı. Sık sık görünmez bir kutunun içinde mahsur kalmış hâlde görülür.",
+      "id": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+      "title": "Pandomimci",
+      "points": 1
+    },
+    {
+      "description": "Herkes eve döndükten çok sonra bile partide oyalanan, sosyal ipuçlarından habersiz kişi. Ev sahibiysen esnemek ve bulaşıkları toplamak işe yaramazsa ışıkları söndürmeyi dene.",
+      "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
+      "title": "Gitmek Bilmeyen Misafir",
+      "points": 3
+    },
+    {
+      "description": "Bir çocuğun eğitimciye yanlışlıkla ebeveyn adıyla seslendiği yaygın dil sürçmesi. İlkokulda sevimli, üniversitede son derece endişe verici.",
+      "id": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
+      "title": "Öğretmene “Anne” Demek",
+      "points": 2
+    },
+    {
+      "description": "Kapalı mekânda koyu camlı aksesuarı yüzde tutmaya devam etme tercihi. Genellikle havalı ya da önemli görünmek isteyenler veya çıkarmaya üşenenler kullanır.",
+      "id": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+      "title": "İçeride Güneş Gözlüğü Takmak",
+      "points": 2
+    },
+    {
+      "description": "Ters yönde kuvvet uygulanan girişte yaşanan evrensel deneyim. Uzmanlar bunun kullanıcı hatası değil tasarım kusuru olduğuna inanıyor.",
+      "id": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
+      "title": "Çek Yazılı Kapıyı İtmek",
+      "points": 2
+    },
+    {
+      "description": "Hiç gürültü çıkarmayan ve fark edilmek için yalnızca kokusuna güvenen bağırsak gazı. En azından geldiğini haber veren gürültülü akrabasından daha kötü olabilir.",
+      "id": "e058babc-7311-4426-a552-cb87ea01158d",
+      "title": "Sessiz Osuruk",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Hava aracında sıkıntı içindeki küçük çocuk; birçok kişinin en korktuğu yol arkadaşı. Bazı Asya hava yolları diğer yolcuları korumak için sessiz bölgeler denedi.",
+      "id": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+      "title": "Uçakta Ağlayan Bebek",
+      "points": 2
+    },
+    {
+      "description": "Hristiyan efsanesinde İsa'nın son öğününde kullandığına inanılan kap. 1910'da bulunduğu sanıldı ama araştırmalar aslında yalnızca çok süslü bir kandil olduğunu gösterdi.",
+      "id": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+      "title": "Kutsal Kâse",
+      "points": 1
+    },
+    {
+      "description": "Arap folklorunda ovulduğunda dilekleri gerçekleştiren güçlü bir ruh salan, yağla yanan aydınlatma aracı. Daha fazla dilek istemek kesinlikle yasaktır ama bunlardan daha fazlasını istemek şüpheli bir açık olabilir.",
+      "id": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+      "title": "Sihirli Lamba",
+      "points": 1
+    },
+    {
+      "description": "Evrenin yaklaşık 13,8 milyar yıl önceki kökenini açıklayan başlıca bilimsel kuram. Adı, rakip bir modeli savunan astronom Fred Hoyle tarafından alay amacıyla ortaya atıldı.",
+      "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+      "title": "Büyük Patlama",
+      "points": 1
+    },
+    {
+      "description": "18. yüzyılda gerçekten var olan ve modern kültürün en kalıcı komplo teorilerinden birine dönüşen gizli cemiyet. 1776'da Bavyera'da kurulan asıl grup, on yıl geçmeden hükûmet tarafından dağıtıldı.",
+      "id": "68c97440-7c83-43a3-9838-b5e967d01e38",
+      "title": "İlluminati",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Hekimlerin ürettiği ve hastalarla eczacıların çözemediği söylenen meşhur okunaksız karalama. Dijital reçetelere geçiş sayesinde artık nesli tükenmekte olan bir sanat.",
+      "id": "65d293cc-08a2-4947-9192-44c46c7b69df",
+      "title": "Doktor Yazısı",
+      "points": 2
+    },
+    {
+      "description": "Alarmı birkaç dakika geciktirip sonra yeniden çaldıran özellik. Uyku uzmanları bu fazladan dakikaların yarardan çok zarar verdiğini ve insanı daha sersem bıraktığını söylüyor.",
+      "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+      "title": "Erteleme Düğmesi",
+      "points": 1
+    },
+    {
+      "description": "İnsanı yaramazlığa, kötü kararlara ya da ahlaki kestirmelere çağıran iç sesin mecazı. Çizgi filmlerde daima öbür taraftaki melekle eşleşir ve ikisi zıt öğütler verir.",
+      "id": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
+      "title": "Omzundaki Şeytan",
+      "points": 3
+    },
+    {
+      "description": "Katılımcıların tekerlekli çalışma mobilyasında oturarak düz zeminde kendilerini ittiği gayriresmî müsabaka. Kyoto'daki iki saatlik dayanıklılık etkinliği dâhil dünyada birkaç örneği vardır; kazanan 90 kg pirinç alır.",
+      "id": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+      "title": "Ofis Sandalyesi Yarışı",
+      "points": 3
+    },
+    {
+      "description": "Sosyal medya platformlarının her kullanıcıya hangi içeriği göstereceğine karar vermek için kullandığı kurallar bütünü. Dünyadaki tüm fenomenlerin hem en iyi dostu hem en büyük düşmanı.",
+      "id": "85eabdcd250a7a4e",
+      "title": "Algoritma",
+      "points": 1
+    },
+    {
+      "description": "İsa'nın çarmıha gerilmesinden önceki gece on iki havariyle paylaştığı öğün. Da Vinci'nin bunu betimleyen tablosu İkinci Dünya Savaşı'ndaki bir bombardımandan kıl payı kurtuldu.",
+      "id": "980cb9f08ba2166e",
+      "title": "Son Akşam Yemeği",
+      "points": 2
+    },
+    {
+      "description": "Bir oyuncunun gözleri kapalı saydığı, diğer herkesin görünmeyecek bir yer bulduğu çocuk oyunu. Bir zamanlar Kuzey İtalya'daki terk edilmiş hayalet kasabada yetişkinler dünya şampiyonası düzenlendi.",
+      "id": "4607ef0f3ce0830c",
+      "title": "Saklambaç",
+      "points": 1
+    },
+    {
+      "description": "Su kuşu biçimindeki küçük sarı banyo oyuncağı. 1992'de binlercesi bir yük gemisinden Pasifik'e düştü; bilim insanları o günden beri yolculuklarını okyanus akıntılarını incelemek için kullanıyor.",
+      "id": "514087352f094b1a",
+      "title": "Lastik Ördek",
+      "points": 1
+    },
+    {
+      "description": "Hızla seslendirilirken hecelere takılmayı kolaylaştıracak biçimde kurulan ifade. Guinness Rekorlar Kitabı bir zamanlar İngilizcedeki “the sixth sick sheikh's sixth sheep's sick” sözünü en zoru seçti.",
+      "id": "87f40d1838be97a1",
+      "title": "Tekerleme",
+      "points": 2
+    }
+  ]
+}

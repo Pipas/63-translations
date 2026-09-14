@@ -73,3 +73,90 @@ translated title just reads badly enough that the card stops being worth playing
 | Godzilla |
 | Good Cop, Bad Cop |
 | The Trolley Problem |
+
+## `tr-TR`
+
+**50 of the 230 English cards have no Turkish counterpart.** The remaining 180 are
+translated, which is the whole Turkish deck.
+
+### English idiom or wordplay
+
+The title or joke depends on an expression that has no established Turkish equivalent.
+
+| Card |
+| --- |
+| 9 to 5 |
+| Mary Jane |
+| One-Trick Pony |
+| Schadenfreude |
+| Double Dipping |
+| A Butt Dial |
+| Live, Laugh, Love |
+| A Cliffhanger |
+| A Bucket List |
+| First World Problems |
+| 9 out of 10 Dentists |
+| A Pinky Promise |
+| YOLO (You Only Live Once) |
+| Netflix and Chill |
+
+### No common Turkish name for the thing
+
+The subject exists, but Turkish speakers do not have one widely recognised, playable name
+for it.
+
+| Card |
+| --- |
+| Photobombing |
+| A Doppelganger |
+| Hungry Hungry Hippos |
+| A Spork |
+| Belly Button Lint |
+| A Tumbleweed |
+| The Friends from Friends |
+
+### Translation loses the meaning or joke
+
+The reference is culturally specific, weakly recognised, or has no confirmed Turkish
+wording that would play well at a Turkish table.
+
+| Card |
+| --- |
+| Jimmy Fallon's Laugh |
+| 3 Kids in a Trenchcoat |
+| A Participation Trophy |
+| 6-7 |
+| Mr. Worldwide |
+| Super Bowl Halftime Show |
+| The Conga Line |
+| Kiss of Judas |
+| The Ghost of Christmas Past |
+| Go Directly to Jail |
+| Colonel Mustard |
+| The First Rule of Fight Club |
+| The Uno Reverse Card |
+
+### Wording not confirmed by a native speaker
+
+These cards probably work in Turkish, but each depends on an exact title that couldn't be
+confirmed without a native reviewer. The team has to say the whole title, so an uncertain
+title costs a turn. Each can be added back once a native speaker answers its question.
+
+| Card | Turkish draft title | Confirm before adding back |
+| --- | --- | --- |
+| The Friendzone | Friendzone | Is it common enough across age groups for a family table? |
+| A Mullet | Mullet Saç | Do players include *saç*, or simply say *mullet*? |
+| Summer of '69 | Summer of '69 | Is the song widely recognised in Turkey? |
+| The Trolley Problem | Tramvay Problemi | Is the reference familiar at a typical table? |
+| The 5 Second Rule | 5 Saniye Kuralı | Would most players say *3 saniye kuralı* instead? |
+| A Dad Joke | Baba Şakası | Is *Baba Esprisi* the fixed phrase? If so, the description can't use *espri*. |
+| A Unibrow | Tek Kaş | Would players say *Birleşik Kaş* or *Çatık Kaş*? |
+| Where's Wally? | Wally Nerede? | Does the Turkish edition use *Wally* or *Waldo*? |
+| A Hot Dog Eating Contest | Hot Dog Yeme Yarışması | Would players say *Sosisli Yeme Yarışması*? If so, the description can't use *sosis*. |
+| A Tin Foil Hat | Alüminyum Folyo Şapka | Would players shorten it to *Folyo Şapka*? |
+| A Pyramid Scheme | Piramit Sistemi | Is *Saadet Zinciri* the expected term? |
+| Buzz Cut | Üç Numara Tıraş | Would players say *Asker Tıraşı*? If so, the description can't use *askerler*. |
+| The Michelin Man | Michelin Adam | Or *Michelin Adamı*? |
+| A Staring Contest | Bakışma Yarışı | Or *Bakışma Yarışması* / *Bakışma Oyunu*? |
+| IKEA Instructions | IKEA Talimatları | Or *IKEA Kılavuzu*? If so, the description can't use *kılavuzları*. |
+| The 1% | Yüzde Bir | Does *Yüzde Bir* work on its own as a name, or only as *en zengin yüzde bir*? |

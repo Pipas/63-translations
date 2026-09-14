@@ -11,8 +11,9 @@ cards that don't make the trip. So the decks overlap heavily, but not perfectly,
 overlap only runs one way: nearly every Portuguese card exists in English, while plenty of
 English cards have no Portuguese counterpart.
 
-Right now, all 185 Portuguese cards are translations of an English card. Of the 230 English
-cards, 45 were dropped from Portuguese.
+Right now, all 185 Portuguese cards and all 180 Turkish cards are translations of an
+English card. Of the 230 English cards, 45 were dropped from Portuguese and 50 were dropped
+from Turkish.
 
 Cards get dropped when:
 

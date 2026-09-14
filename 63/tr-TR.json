@@ -1,0 +1,378 @@
+{
+  "common": {
+    "game_mode": "Oyun modu",
+    "teams": "Takımlar",
+    "team": "Takım",
+    "add_team": "Takım ekle",
+    "skipping": "Kart geçme",
+    "skipping_tooltip": "Açıkken oyuncular Geç düğmesine basarak veya sola kaydırarak kartları geçebilir.",
+    "penalty": "Ceza",
+    "penalty_tooltip": "Her kart geçildiğinde sıra süresinden düşülecek saniye sayısı.",
+    "seconds": "Saniye",
+    "options": "Seçenekler",
+    "rounds": "Turlar",
+    "rounds_tooltip": "Oyundaki tur sayısı.\n\nŞunlar gibi özel turlar oluşturabilirsin:\n• Kartları çizmek\n• Kanepenin arkasından yalnızca kollar\n• Kanepenin arkasından yalnızca kafa\n• Çarşaf altında sessiz sinema\n• Yorumlayıcı dans",
+    "time": "Süre",
+    "time_tooltip": "Her oyuncunun sırasının saniye cinsinden süresi.",
+    "loop_skipped_cards": "Geçilenleri tekrar çek",
+    "loop_skipped_cards_tooltip": "Açıkken geçilen kartlar aynı oyuncunun sırasında daha sonra yeniden çekilebilir.",
+    "preview_score": "Skoru göster",
+    "preview_score_tooltip": "Açıkken mevcut skor her sıranın sonunda gösterilir.\nKapalıyken skor yalnızca oyun sonunda açıklanır.",
+    "hide_descriptions": "Açıklamaları gizle",
+    "hide_descriptions_tooltip": "Açıkken oyun sırasında kart açıklamaları gizlenir.",
+    "deck": "Deste",
+    "size": "Boyut",
+    "packs": "Paketler",
+    "new_badge": "YENİ",
+    "cards": "Kartlar",
+    "short_game": "Kısa oyun",
+    "regular_game": "Normal oyun",
+    "long_game": "Uzun oyun",
+    "settings": "Ayarlar",
+    "language": "Dil",
+    "about": "Hakkında",
+    "credits": "Emeği geçenler",
+    "legal_stuff": "Yasal bilgiler",
+    "privacy_policy": "Gizlilik politikası",
+    "terms_and_conditions": "Hüküm ve koşullar",
+    "licences": "Lisanslar",
+    "ad_privacy": "Reklam gizliliği",
+    "contact_us": "Bize ulaş",
+    "sound": "Ses",
+    "sound_tooltip": "Açıkken oyun ses efektleri çalar.",
+    "show_rule_tooltips": "Kuralları göster",
+    "show_rule_tooltips_tooltip": "Açıkken kurallar oyun sırasında kısa hatırlatmalar olarak gösterilir.",
+    "accessibility": "Erişilebilirlik",
+    "app_size": "Arayüz boyutu",
+    "app_size_tooltip": "Uygulamadaki tüm metin ve düğmeleri büyütür.",
+    "card_text_size": "Kart yazısı boyutu",
+    "card_text_size_tooltip": "Oyun sırasında kart başlığını ve açıklamasını büyütür.",
+    "high_contrast": "Yüksek kontrast",
+    "high_contrast_tooltip": "Soluk metni koyulaştırır; paket ve takım renklerinde en okunaklı yazı rengini kullanır.",
+    "legible_font": "Okunaklı yazı tipi",
+    "legible_font_tooltip": "Uygulama metnini, birbirine benzeyen harf ve rakamları ayırt etmeyi kolaylaştıran Atkinson Hyperlegible ile değiştirir.",
+    "leave": "Ayrıl",
+    "rules": "Kurallar",
+    "resume": "Devam et",
+    "confirm": "Onayla",
+    "cancel": "İptal",
+    "round": "Tur",
+    "start_turn": "Sırayı başlat",
+    "skip": "Geç",
+    "game_paused": "Oyun duraklatıldı",
+    "leave_game": "Oyundan ayrıl",
+    "leave_game_tooltip": "Oyundan ayrılmak istediğine emin misin? İlerlemen kaybolacak.",
+    "end_turn": "Sırayı bitir",
+    "end_round": "Turu bitir",
+    "end_game": "Oyunu bitir",
+    "game_over": "Oyun bitti",
+    "its_a_tie": "Berabere!",
+    "times_up": "Süre doldu!",
+    "no_more_cards": "Kart kalmadı!",
+    "exit": "Çık",
+    "play": "Oyna",
+    "start_game": "Oyunu başlat",
+    "continue": "Devam et",
+    "support_button": "Destek ol",
+    "rate_title": "63'ü sevdin mi?",
+    "rate_subtitle": "Daha çok kişiye ulaşmamız için oyunu değerlendir",
+    "back": "Geri",
+    "ok": "Tamam",
+    "recover_game_title": "Oyuna devam et",
+    "recover_game_description": "Son oyunun yarım kaldı. Devam etmek ister misin?",
+    "recover_game_resume": "Devam et",
+    "recover_game_ignore": "Yoksay",
+    "cards_left": "{count} kart kaldı",
+    "see_more": "Daha fazla",
+    "see_less": "Daha az"
+  },
+  "mode": {
+    "classic": {
+      "title": "Klasik",
+      "description": "Standart 63 kuralları. Üç tur, iki takım ve tek kazanan!"
+    },
+    "chill": {
+      "title": "Rahat",
+      "description": "Puan yok, ceza yok; herkes birlikte oynar!"
+    },
+    "competitive": {
+      "title": "Rekabetçi",
+      "description": "Rekabeti sevenlere.\nKart geçmenin cezası var."
+    },
+    "blitz": {
+      "title": "Hızlı",
+      "description": "Daha az kart, daha az süre; kart geçmek yok!"
+    },
+    "custom": {
+      "title": "Özel",
+      "description": "Bizim kurallarımız şart mı?\nKendi modunu oluştur."
+    }
+  },
+  "rules": {
+    "skip": "Atla",
+    "start": "Başla",
+    "next": "İleri",
+    "lets_go": "Haydi!",
+    "know_more": "Devamını oku...",
+    "home": {
+      "call_to_action": "Karşında"
+    },
+    "deck": {
+      "title": "63, kart bilme oyunudur",
+      "text": "Takımlar en çok puanı toplamak için yarışır.",
+      "info": "Her oyunda çeşitli paketlerden kartlarla yepyeni bir deste oluşturulur."
+    },
+    "example_card": {
+      "title": "Örnek bir kart",
+      "description": "Sadece bir örnek. Gerçek kartlarda bilinecek kişiler, filmler ve şeyler bulunur. Genellikle eğlenceli bir bilgi ya da küçük bir şaka içeren ikinci bir açıklama satırı da vardır."
+    },
+    "example_card_2": {
+      "title": "Ekrandaki bulanıklık",
+      "description": "Okuyamadan kayboldu, değil mi? Buna sinir oluyorum; orada bir şey olduğuna yemin edebilirdim!"
+    },
+    "example_card_3": {
+      "title": "Başka bir örnek kart",
+      "description": "Bunu okumaman gerekiyordu. Madem okudun, ne düşündüğünü bana söyle."
+    },
+    "example_card_4": {
+      "title": "Gördün mü?",
+      "description": "Hayır mı? Biraz hızlı geçti. Neydi o? Kimse bilmiyor ama belki de önemliydi."
+    },
+    "example_card_5": {
+      "title": "Komik bir kart",
+      "description": "Yazılmış en komik kart ama öyle hızlı uçup gidiyor ki kimse okuyamayacak. Ne kadar ironik, değil mi?"
+    },
+    "cards": {
+      "title": "Her kart bir kavramı temsil eder",
+      "text": "Tarihî kişilerden popüler kültür göndermelerine kadar her şey olabilir",
+      "points": "Puan",
+      "card_title": "Başlık",
+      "card_description": "Açıklama",
+      "info": "Bir kartın sayılması için başlığının tamamı doğru dizilimle söylenmelidir.",
+      "more_info": "Her kartta, kavramı bilmiyorsan yardımcı olacak kısa bir açıklama vardır. İpuçlarına başlarken bundan yararlan ama doğrudan okuma.\n\nBu senin oyunun; kuralları dilediğin kadar katı ya da esnek uygulayabilirsin."
+    },
+    "default_card": {
+      "title": "Evde Tek Başına",
+      "description": "Macaulay Culkin'in oynadığı, geride bırakılan bir çocuğun aile konutunu hırsızlardan korumasını anlatan 1990 yapımı komedi filmi."
+    },
+    "teams": {
+      "title": "İki takım dönüşümlü olarak kart bilmeye çalışır",
+      "text": "Bir oyuncu ipucu verirken takımı kartın başlığını bulmaya çalışır",
+      "info": "Bir kişi ikinci kez ipucu vermeden önce herkes bir kez vermelidir."
+    },
+    "turn": {
+      "title": "Her sıra 63 saniyedir",
+      "text": "Oynayan takım bir **sıra** boyunca olabildiğince çok kart bilmeye çalışır",
+      "info": "İpucu veren oyuncu telefonu tutar."
+    },
+    "rounds": {
+      "title": "Oyunda 3 tur vardır",
+      "text": "Her **tur** birçok **sıradan** oluşur ve destedeki tüm kartlar bilindiğinde biter",
+      "current_round": "Mevcut\ntur",
+      "info": "Üç turda da aynı deste oynanır.",
+      "more_info": "Her turun başında deste karıştırılır ve yeniden oynanır.\n\nRakiplerin sırasını dikkatle izle; bildikleri kartlar sonraki turlarda yeniden gelecek."
+    },
+    "round1": {
+      "title": "1. tur",
+      "subtitle": "Yasak kelimeler",
+      "text": "Kartı istediğin gibi anlat ama başlığındaki hiçbir kelimeyi söyleme",
+      "clue1": "Bir konutta yalnız kalan çocukla ilgili Noel filmi",
+      "clue2": "Macaulay Culkin oynuyor!",
+      "info": "\"Evde Tek Başına\" için \"evde\", \"tek\" veya \"başına\" diyemezsin.",
+      "more_info": "Edatlar yasak kelime sayılmaz.\n\nYasak bir kelime söylenir ve kart bilinirse diğer takım itiraz edebilir; kart sıra sonunda yanlış işaretlenir.",
+      "note": "Yasak kelimeler",
+      "note_description": "Kart başlığındaki kelimeleri kullanamazsın"
+    },
+    "round2": {
+      "title": "2. tur",
+      "subtitle": "Tek kelime",
+      "text": "İpucu olarak yalnızca tek kelime verebilirsin; ses ve hareket yok",
+      "clue": "Kevin!",
+      "info": "Unutma: tüm kartlar 1. turda zaten açıldı.",
+      "more_info": "2. tura geçmek için tüm kartların 1. turda bilinmiş olması gerekir.\n\nKartlar aynı kalır ama ipucu verenin işi her turda zorlaşır!",
+      "note": "Tek kelime",
+      "note_description": "Yalnızca tek kelimelik ipuçları verebilirsin."
+    },
+    "round3": {
+      "title": "3. tur",
+      "subtitle": "Sessiz sinema",
+      "text": "Hiç kelime yok; yalnızca hareket ve ses!",
+      "clue": "😱",
+      "note": "Sessiz sinema",
+      "note_description": "Kelimeler yasak; yalnızca hareket ve ses!"
+    },
+    "controls": {
+      "guess_text": "Takımın kartı bilirse **CHECK_ICON** düğmesine bas",
+      "skip_text": "İpucu bulamadın ya da yeni kart mı istiyorsun? **Geç**'e bas",
+      "info": "Kartları doğru ya da geçildi diye kaydırarak da işaretleyebilirsin.",
+      "more_info": "Doğru saymak için sağa, geçmek için sola kaydır. Geçilen kartlar destede kalır ve aynı turda daha sonra geri gelir; yani bir şansın daha olur.\n\nKlasik modda kart geçmenin cezası yok, öylece saatin işlemesini izleme!"
+    },
+    "post_turn": {
+      "summary_text": "**Sırandan** sonra bildiğin ve geçtiğin tüm kartların özetini göreceksin",
+      "controls_text": "Bir kural çiğnendiyse veya oyun sırasında hata yapıldıysa burada kartın sonucunu değiştirebilirsin",
+      "note": "Sıra özeti",
+      "note_description": "Hata yaptıysan veya oyun sırasında bir kuralı çiğnediysen kartların sonucunu burada değiştirebilirsin."
+    },
+    "end_turn": {
+      "end_turn_text": "Oyunu sonraki takıma vermek için **Sırayı bitir**'e bas, sonra telefonu uzat.",
+      "round_text": "**Mevcut tur** ve kuralları, destedeki tüm kartlar bilininceye kadar sürer.",
+      "info": "Telefonu vermeden önce sıranı bitirmeyi unutma!",
+      "more_info": "Yoksa sonraki oyuncu bu turda geçilmiş ve hâlâ oyunda olan kartları görebilir."
+    },
+    "end_game": {
+      "title": "Oyun 3. turdan sonra biter",
+      "subtitle": "En çok puanı alan takım kazanır ama bunu zaten biliyordun!"
+    }
+  },
+  "support": {
+    "title": "Reklamları kaldır, 63'e destek ol!",
+    "description": "63 bağımsız bir projedir; katkın bakım ve geliştirme çalışmalarına yardımcı olur.",
+    "select_option": "Seçenek belirle",
+    "standard": {
+      "title": "Standart",
+      "description": "Oyundaki tüm reklamları sonsuza dek kaldırır."
+    },
+    "fan": {
+      "title": "63 hayranı",
+      "description": "Tüm reklamları sonsuza dek kaldırır ve projeye desteğini gösterir."
+    },
+    "contribute": "Katkıda bulun",
+    "thank_you": {
+      "card_title": "Teşekkürler",
+      "card_description": "63, tümüyle boş zamanlarımda geliştirdiğim bağımsız bir yan proje. Bu oyunu olabilecek en iyi deneyime dönüştürmek için büyük özen gösterdim. İçten teşekkürler; umarım 63'ü oynarken benim geliştirirken aldığım kadar keyif alırsın!",
+      "author": "Paulo Correia"
+    },
+    "no_internet": {
+      "title": "İnternet yok",
+      "description": "Lütfen internet bağlantını kontrol et"
+    },
+    "error": {
+      "title": "Bir sorun oluştu",
+      "description": "Destek seçeneklerini yükleyemedik, lütfen tekrar dene",
+      "retry": "Tekrar dene"
+    },
+    "restore_purchases": "Alımları geri yükle",
+    "restore_purchases_error": "Alımlar geri yüklenemedi"
+  },
+  "credits": {
+    "created_by": "Oluşturan",
+    "sound": "Ses",
+    "cards": "Kartlar",
+    "localisation": "Yerelleştirme",
+    "design_help": "Tasarım desteği",
+    "special_thanks": "Özel teşekkürler",
+    "everyone_who_believed": "ve bana inanan\nherkese",
+    "font": "Yazı tipi",
+    "by": "Tasarım",
+    "developed_with": "Geliştirme aracı",
+    "made_in": "Yapıldığı yer",
+    "portugal": "Portekiz 🇵🇹",
+    "and_thank_you": "...ve sana teşekkürler,",
+    "for_playing": "oynadığın için"
+  },
+  "deck": {
+    "use_only_unplayed": "Yalnızca oynanmamış kartlar",
+    "use_only_unplayed_tooltip": "Yalnızca önceki oyunlarda çıkmamış kartlar kullanılır. Yeterli kart yoksa oyun daha az kartla başlar.",
+    "kids_mode": "KIDS modu",
+    "kids_mode_label": "{kids} modu",
+    "kids_mode_tooltip": "Çocuklara uygun olmayan kartları ve topluluk paketlerini gizler. Kişisel paketler her zaman gösterilir.",
+    "distribution": "Kart dağılımı",
+    "not_enough_cards": "Destede yalnızca {count} kart olacak",
+    "no_cards_available": "Deste oluşturacak kart yok",
+    "all_cards_played": "Tüm kartlar oynandı",
+    "only_n_available": "Yalnızca {count} tane var",
+    "unassigned": "Atanmamış: {count}",
+    "reset": "Sıfırla"
+  },
+  "packs": {
+    "add_packs": "Paket ekle",
+    "create_packs_title": "Kendi paketlerini oluştur",
+    "create_packs_description": "Kartlar yaz, arkadaşlarınla iş birliği yap ve paketlerini dünyayla paylaş!",
+    "featured_title": "Öne çıkanlar",
+    "community_title": "Topluluk",
+    "community_empty": "Henüz paket yok; ilk gönderen sen ol!",
+    "filter_popular": "Popüler",
+    "filter_new": "Yeni",
+    "filter_language": "Dil",
+    "language_picker_title": "Dil",
+    "language_any": "Herhangi bir dil",
+    "by_author": "{name} tarafından",
+    "by_author_plus": "{name} +{count} tarafından",
+    "code_input_placeholder": "Paket kodun var mı?",
+    "details_title": "Ayrıntı",
+    "pack_not_found": "Bu paket artık mevcut değil.",
+    "featured_pill": "Öne çıkan",
+    "official_pill": "Resmî",
+    "info_language": "Dil",
+    "info_cards": "Kartlar",
+    "info_likes": "Beğeniler",
+    "about_section": "Bu paket hakkında",
+    "contributors_section": "Katkıda bulunanlar",
+    "sample_cards_title": "Örnek kartlar",
+    "all_cards_title": "Tüm kartlar",
+    "sample_cards_count": "{shown}/{total}",
+    "spoiler_warning_title": "Dikkat, spoiler içerebilir",
+    "spoiler_warning_body": "Eklemeden önce birkaç karta bakabilirsin ama oyundaki sürprizi kaçırırsın.",
+    "spoiler_reveal": "Yine de göster",
+    "see_all_cards": "{count} kartın tümünü gör",
+    "reveal_all_title": "Tüm kartlar gösterilsin mi?",
+    "reveal_all_body": "Bu paketteki {count} kartın tümünü göreceksin. Paket seçerken işe yarar ama oynayacaksan sürprizi kaçırır.",
+    "reveal_all_confirm": "Göster",
+    "announcement_title": "Kendi paketlerini oluştur!",
+    "announcement_body": "Kendi kartlarınla paketler oluşturabilir, arkadaşlarınla iş birliği yapıp dünyayla paylaşabilirsin!\n\nBaşlamak için {link} adresine git.",
+    "code_hint": "ABC123",
+    "add_pack_button": "Paketi ekle",
+    "already_added": "Zaten koleksiyonda",
+    "pack_added_hidden_kids": "{name} eklendi. KIDS modu açıkken gizlenecek.",
+    "watch_ad_title": "Reklam arası zamanı",
+    "watch_ad_body": "Ücretsiz hesaplar yeni paket eklemeden önce kısa reklam izler. Böylece 63 herkes için ücretsiz kalır.",
+    "watch_ad_button": "Reklamı izle",
+    "watch_ad_remove_cta": "Reklamları kaldır",
+    "pack_added": "{name} eklendi!",
+    "error_empty_code": "Paket kodu gir",
+    "error_not_found": "Paket bulunamadı. Kodu kontrol edip tekrar dene.",
+    "error_network": "Ağ hatası. Lütfen bağlantını kontrol et.",
+    "load_error": "Topluluk paketleri yüklenemedi.",
+    "load_retry": "Tekrar dene",
+    "load_more": "Daha fazla yükle",
+    "updated": "Güncellendi",
+    "played_count": "{played}/{total} oynandı",
+    "delete_pack_button": "Sil",
+    "delete_pack_description": "Sonra yeniden ekleyebilirsin.",
+    "pack_deleted": "{name} silindi",
+    "report_pack_title": "Bu paketi bildir",
+    "report_pack_description": "Neyin yanlış olduğunu bize bildir, inceleyelim.",
+    "report_reason_inappropriate": "Uygunsuz içerik",
+    "report_reason_spam": "Spam",
+    "report_reason_copyright": "Telif hakkı ihlali",
+    "report_reason_other": "Diğer",
+    "report_note_hint": "Not ekle (isteğe bağlı)",
+    "report_submit": "Gönder",
+    "report_submitted": "Paket bildirildi",
+    "report_already_submitted": "Bu paketi zaten bildirdin",
+    "report_failed": "Bildirim gönderilemedi. Lütfen tekrar dene."
+  },
+  "post_game": {
+    "liked_packs_title": "Bu paketleri sevdin mi?",
+    "leave_a_like": "Daha çok kişi bulabilsin diye beğen",
+    "stats_title": "İstatistikler",
+    "game_time": "Oyun süresi",
+    "turns": "Oynanan sıralar",
+    "cards_title": "Kartlar",
+    "col_guesses": "Bilinen",
+    "col_skips": "Geçilen",
+    "points_per_round_title": "Tur başına puan",
+    "round_short": "T{round}",
+    "total": "Toplam",
+    "best_turn": "En iyi sıra",
+    "worst_turn": "En kötü sıra",
+    "cards_unit": "kart",
+    "skips_unit": "geçme",
+    "points_unit": "puan",
+    "in_round": "{round}. turda",
+    "toughest_card": "En zor kart",
+    "easiest_card": "En kolay kart",
+    "skipped_n_times": "{count}× geçildi",
+    "easiest_subtitle": "{skips}× geçildi · ort. {avg} sn"
+  }
+}
