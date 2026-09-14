@@ -140,26 +140,46 @@ wording that would play well at a Turkish table.
 
 These cards probably work in Turkish, but each depends on an exact title that couldn't be
 confirmed without a native reviewer. The team has to say the whole title, so an uncertain
-title costs a turn. Each can be added back once a native speaker answers its question.
+title costs a turn. Each can be added back once a native speaker answers its question in the
+list below the table.
 
-| Card | Turkish draft title | Confirm before adding back |
-| --- | --- | --- |
-| The Friendzone | Friendzone | Is it common enough across age groups for a family table? |
-| A Mullet | Mullet Saç | Do players include *saç*, or simply say *mullet*? |
-| Summer of '69 | Summer of '69 | Is the song widely recognised in Turkey? |
-| The Trolley Problem | Tramvay Problemi | Is the reference familiar at a typical table? |
-| The 5 Second Rule | 5 Saniye Kuralı | Would most players say *3 saniye kuralı* instead? |
-| A Dad Joke | Baba Şakası | Is *Baba Esprisi* the fixed phrase? If so, the description can't use *espri*. |
-| A Unibrow | Tek Kaş | Would players say *Birleşik Kaş* or *Çatık Kaş*? |
-| Where's Wally? | Wally Nerede? | Does the Turkish edition use *Wally* or *Waldo*? |
-| A Hot Dog Eating Contest | Hot Dog Yeme Yarışması | Would players say *Sosisli Yeme Yarışması*? If so, the description can't use *sosis*. |
-| A Tin Foil Hat | Alüminyum Folyo Şapka | Would players shorten it to *Folyo Şapka*? |
-| A Pyramid Scheme | Piramit Sistemi | Is *Saadet Zinciri* the expected term? |
-| Buzz Cut | Üç Numara Tıraş | Would players say *Asker Tıraşı*? If so, the description can't use *askerler*. |
-| The Michelin Man | Michelin Adam | Or *Michelin Adamı*? |
-| A Staring Contest | Bakışma Yarışı | Or *Bakışma Yarışması* / *Bakışma Oyunu*? |
-| IKEA Instructions | IKEA Talimatları | Or *IKEA Kılavuzu*? If so, the description can't use *kılavuzları*. |
-| The 1% | Yüzde Bir | Does *Yüzde Bir* work on its own as a name, or only as *en zengin yüzde bir*? |
+| Card |
+| --- |
+| The Friendzone |
+| A Mullet |
+| Summer of '69 |
+| The Trolley Problem |
+| The 5 Second Rule |
+| A Dad Joke |
+| A Unibrow |
+| Where's Wally? |
+| A Hot Dog Eating Contest |
+| A Tin Foil Hat |
+| A Pyramid Scheme |
+| Buzz Cut |
+| The Michelin Man |
+| A Staring Contest |
+| IKEA Instructions |
+| The 1% |
+
+Before adding one back, a native speaker should confirm:
+
+- **The Friendzone** (*Friendzone*): Is it common enough across age groups for a family table?
+- **A Mullet** (*Mullet Saç*): Do players include *saç*, or simply say *mullet*?
+- **Summer of '69** (*Summer of '69*): Is the song widely recognised in Turkey?
+- **The Trolley Problem** (*Tramvay Problemi*): Is the reference familiar at a typical table?
+- **The 5 Second Rule** (*5 Saniye Kuralı*): Would most players say *3 saniye kuralı* instead?
+- **A Dad Joke** (*Baba Şakası*): Is *Baba Esprisi* the fixed phrase? If so, the description can't use *espri*.
+- **A Unibrow** (*Tek Kaş*): Would players say *Birleşik Kaş* or *Çatık Kaş*?
+- **Where's Wally?** (*Wally Nerede?*): Does the Turkish edition use *Wally* or *Waldo*?
+- **A Hot Dog Eating Contest** (*Hot Dog Yeme Yarışması*): Would players say *Sosisli Yeme Yarışması*? If so, the description can't use *sosis*.
+- **A Tin Foil Hat** (*Alüminyum Folyo Şapka*): Would players shorten it to *Folyo Şapka*?
+- **A Pyramid Scheme** (*Piramit Sistemi*): Is *Saadet Zinciri* the expected term?
+- **Buzz Cut** (*Üç Numara Tıraş*): Would players say *Asker Tıraşı*? If so, the description can't use *askerler*.
+- **The Michelin Man** (*Michelin Adam*): Or *Michelin Adamı*?
+- **A Staring Contest** (*Bakışma Yarışı*): Or *Bakışma Yarışması* / *Bakışma Oyunu*?
+- **IKEA Instructions** (*IKEA Talimatları*): Or *IKEA Kılavuzu*? If so, the description can't use *kılavuzları*.
+- **The 1%** (*Yüzde Bir*): Does *Yüzde Bir* work on its own as a name, or only as *en zengin yüzde bir*?
 
 ## `es-ES`
 
