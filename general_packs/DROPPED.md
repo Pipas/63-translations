@@ -293,3 +293,60 @@ titles.
 | 3 Kids in a Trenchcoat |
 | A Participation Trophy |
 | Jimmy Fallon's Laugh |
+
+## `fr-FR`
+
+**37 of the 230 English cards have no French counterpart.** The remaining 193 are direct
+translations of English cards.
+
+### English-specific idiom, wordplay or slang
+
+| Card |
+| --- |
+| 6-7 |
+| 9 to 5 |
+| A Butt Dial |
+| A Pinky Promise |
+| Brain Freeze |
+| Double Dipping |
+| Leg Day |
+| Live, Laugh, Love |
+| Mary Jane |
+| Netflix and Chill |
+| One-Trick Pony |
+| Schadenfreude |
+| The Elephant in the Room |
+
+### No single, recognisable French title
+
+| Card |
+| --- |
+| A Bucket List |
+| A Doomsday Bunker |
+| A Man Bun |
+| A Pyramid Scheme |
+| A Spork |
+| A Staring Contest |
+| A Tin Foil Hat |
+| A Tumbleweed |
+| Belly Button Lint |
+| Clickbait |
+| Go Directly to Jail |
+| Photobombing |
+| The Conga Line |
+| The Devil on Your Shoulder |
+| The Friends from Friends |
+| The Ghost of Christmas Past |
+| The Uno Reverse Card |
+| Toe Socks |
+
+### Reference would not play well in France
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| A Participation Trophy |
+| Big Bird |
+| Jimmy Fallon's Laugh |
+| Mr. Worldwide |
+| Super Bowl Halftime Show |

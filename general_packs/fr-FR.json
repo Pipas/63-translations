@@ -1,0 +1,1186 @@
+{
+  "name": "Général",
+  "cards": [
+    {
+      "description": "Maladie de peau qui touche environ 80 % des adolescents du monde occidental. Les idées fausses sur ses causes sont courantes : jusqu'au XXe siècle, on accusait la masturbation.",
+      "id": "b15166bdb3a88482",
+      "title": "L'acné",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Personnage japonais créé en 1974 : une petite chatte blanche sans bouche, avec un nœud rouge. Devenue un phénomène mondial et l'une des plus grosses franchises de la planète.",
+      "id": "d5b0dc39299f12d9",
+      "title": "Hello Kitty",
+      "points": 1
+    },
+    {
+      "description": "Mythe alimentaire selon lequel il existe un court laps de temps pendant lequel on peut ramasser et manger ce qui est tombé par terre. Beaucoup d'études, aucun consensus.",
+      "id": "66bdb3a884826a85",
+      "title": "La règle des 5 secondes",
+      "points": 2
+    },
+    {
+      "description": "Main de poker composée d'un as, un roi, une dame, un valet et un dix de la même couleur. Une chance sur 649 739, à peine plus probable que de se faire foudroyer.",
+      "id": "26a85346d84e5d84",
+      "title": "La quinte flush royale",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Organisation de jeunesse mondiale basée en Suisse, qui promeut des principes chrétiens. Sans doute plus connue pour la chanson du même nom sortie par les Village People en 1978.",
+      "id": "ab9ada8e35619dc9",
+      "title": "YMCA",
+      "points": 1
+    },
+    {
+      "description": "Coupe très courte, réalisée à la tondeuse au ras du crâne. Dans beaucoup d'armées, elle est imposée aux recrues : autrefois contre les poux, aujourd'hui surtout par uniformité.",
+      "id": "6d84e5d84ee4fd2b",
+      "title": "La boule à zéro",
+      "points": 1
+    },
+    {
+      "description": "Selon la théorie de la relativité d'Einstein, aucune particule ne peut dépasser cette limite. Dans le vide, elle vaut exactement 299 792 458 m/s. Ne cligne pas des yeux.",
+      "id": "4e5d84ee4fd2b865",
+      "title": "La vitesse de la lumière",
+      "points": 2
+    },
+    {
+      "description": "L'accessoire fétiche du chanteur de U2. Beaucoup y voyaient une pose de rockstar, mais il a révélé en interview qu'elles soulagent un problème de vue lié au glaucome.",
+      "id": "4a02d6ad5b0dc392",
+      "title": "Les lunettes de Bono",
+      "points": 2
+    },
+    {
+      "description": "La personnification des États-Unis et de leur gouvernement fédéral. Surtout connu pour l'affiche de recrutement de 1917 : « I WANT YOU ».",
+      "id": "85346d84e5d84ee4",
+      "title": "L'Oncle Sam",
+      "points": 1
+    },
+    {
+      "description": "Série animée pour enfants créée par Keith Chapman, diffusée entre 1998 et 2008, avec un entrepreneur en bâtiment et ses engins de chantier qui parlent. Tout se répare, apparemment.",
+      "id": "b68a945311fc0874",
+      "title": "Bob le Bricoleur",
+      "points": 2
+    },
+    {
+      "description": "Remise en question de l'identité et de la confiance en soi chez les gens d'âge mûr. Souvent déclenchée par ce qui rappelle qu'on vieillit, qu'on est mortel, ou qu'on n'a pas fait grand-chose.",
+      "id": "a38b15166bdb3a88",
+      "title": "La crise de la quarantaine",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "La situation où l'un des deux membres d'un duo platonique voudrait plus, romantiquement ou sexuellement, et l'autre non. On y entre facilement, on en sort rarement.",
+      "id": "6bdb3a884826a853",
+      "title": "La friendzone",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Le jeu auquel tu joues en ce moment !",
+      "id": "2b6371df91904ba6",
+      "title": "63",
+      "points": 1
+    },
+    {
+      "description": "Tube latino de Luis Fonsi et Daddy Yankee sorti en 2017. Le morceau est devenu viral grâce au remix avec Justin Bieber et fut un temps la vidéo la plus vue sur YouTube.",
+      "id": "71df91904ba61d67",
+      "title": "Despacito",
+      "points": 1
+    },
+    {
+      "description": "Première cause de blessure chez les animaux de dessin animé. La victime sort des décombres avec une bosse sur le crâne et des touches noires et blanches à la place des dents.",
+      "id": "bdb3a884826a8534",
+      "title": "Un piano qui tombe",
+      "points": 2
+    },
+    {
+      "description": "L'énorme créature extraterrestre en forme de limace qui retenait Han Solo prisonnier dans le troisième film Star Wars. Il devait apparaître dès le premier, mais n'a pas survécu au montage.",
+      "id": "a02d6ad5b0dc3929",
+      "title": "Jabba le Hutt",
+      "points": 2
+    },
+    {
+      "description": "Petit récipient à pièces, surtout entre les mains des enfants. Autrefois, il fallait la casser pour récupérer ses économies.",
+      "id": "4ee4fd2b8656cda7",
+      "title": "La tirelire",
+      "points": 1
+    },
+    {
+      "description": "Le héros à quatre pattes d'un conte italien, qui use de ruse et de mensonge pour enrichir son maître. Devenu très populaire grâce à l'univers de Shrek.",
+      "id": "ad5b0dc39299f12d",
+      "title": "Le Chat Potté",
+      "points": 1
+    },
+    {
+      "description": "L'organe que le peintre postimpressionniste néerlandais s'est tranché lui-même. L'un des artistes les plus influents de l'art occidental, il n'a vendu qu'une toile de son vivant.",
+      "id": "311fc0874d0a38b1",
+      "title": "L'oreille de Van Gogh",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "",
+      "id": "346d84e5d84ee4fd",
+      "title": "Rien",
+      "points": 1
+    },
+    {
+      "description": "Trouble qui pousse une personne à agir comme si elle était éveillée alors qu'elle dort à moitié. Comme c'est involontaire, ça a déjà servi de défense devant un tribunal.",
+      "id": "c4a02d6ad5b0dc39",
+      "title": "Le somnambulisme",
+      "points": 1
+    },
+    {
+      "description": "L'un des quatre personnages duveteux avec un écran sur le ventre, vedettes d'une émission de la BBC lancée en 1997. Ils s'appellent Tinky Winky, Dipsy, Laa-Laa… Po !",
+      "id": "99f12d9bb68a9453",
+      "title": "Un Teletubby",
+      "points": 1
+    },
+    {
+      "description": "Organisation criminelle italienne née au XIXe siècle sur la plus grande île du pays. Toujours active : on estime que 70 % des commerces de l'île paient encore pour être protégés.",
+      "id": "a945311fc0874d0a",
+      "title": "La mafia sicilienne",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Le geste par lequel l'un des douze disciples a désigné Jésus-Christ à la foule venue l'arrêter. C'est devenu l'image d'une gentillesse feinte qui cache une trahison.",
+      "id": "0dc39299f12d9bb6",
+      "title": "Le baiser de Judas",
+      "points": 1
+    },
+    {
+      "description": "La réponse que tu risques d'obtenir si tu demandes son nom à l'espion britannique créé par Ian Fleming.",
+      "id": "1d67f4bab9ada8e3",
+      "title": "Bond, James Bond",
+      "points": 2
+    },
+    {
+      "description": "Façon de retoucher les photos envoyées sur le réseau social au petit fantôme. Parmi les plus populaires : la couronne de fleurs, l'arc-en-ciel qui sort de la bouche et les oreilles de chien.",
+      "id": "fc0874d0a38b1516",
+      "title": "Les filtres Snapchat",
+      "points": 2
+    },
+    {
+      "description": "La mascotte féline aux couleurs criardes d'une série de films autour de Jacques Clouseau, inspecteur français aussi maladroit que célèbre. Elle avance sur son propre thème musical, reconnaissable entre mille.",
+      "id": "1904ba61d67f4bab",
+      "title": "La Panthère rose",
+      "points": 1
+    },
+    {
+      "description": "Symbole né de la Révolution russe pour représenter l'union des paysans et des ouvriers. Devenu le raccourci visuel du communisme, il trônait sur le drapeau de l'URSS.",
+      "id": "84826a85346d84e5",
+      "title": "La faucille et le marteau",
+      "points": 3
+    },
+    {
+      "description": "Le héros de la série du même nom, qui se sort de toutes les situations avec son intelligence et un peu de bricolage. Son nom est devenu synonyme de solution simple et géniale.",
+      "id": "948632cc4a02d6ad",
+      "title": "MacGyver",
+      "points": 2
+    },
+    {
+      "description": "La femme dont ton conjoint est l'enfant.",
+      "id": "8a945311fc0874d0",
+      "title": "La belle-mère",
+      "points": 1
+    },
+    {
+      "description": "Ce moment gênant où la fermeture éclair du pantalon est restée en bas.",
+      "id": "8b15166bdb3a8848",
+      "title": "La braguette ouverte",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "L'une des caractéristiques les plus reconnaissables du 47e président des États-Unis. Célèbre pour sa couleur artificielle et sa forme étrange.",
+      "id": "1df91904ba61d67f",
+      "title": "Les cheveux de Trump",
+      "points": 2
+    },
+    {
+      "description": "Base ultra-secrète de l'armée de l'air américaine, au Nevada, où certains croient que sont cachées les preuves de l'existence des ovnis. En juillet 2019, une blague sur Facebook a poussé des milliers de gens à vouloir y entrer de force.",
+      "id": "a8e35619dc9c3948",
+      "title": "La Zone 51",
+      "points": 2
+    },
+    {
+      "description": "Sport d'hiver où deux équipes font glisser à tour de rôle des pierres vers une cible. Les joueurs balaient la glace devant la pierre pour modifier sa trajectoire et sa vitesse.",
+      "id": "f4bab9ada8e35619",
+      "title": "Le curling",
+      "points": 2
+    },
+    {
+      "description": "L'héroïne rousse et couverte de taches de rousseur des livres pour enfants de la Suédoise Astrid Lindgren. Traduits en 77 langues et adaptés en séries et en films.",
+      "id": "19dc9c3948632cc4",
+      "title": "Fifi Brindacier",
+      "points": 3
+    },
+    {
+      "description": "Gamme de jouets à l'effigie d'équidés fantastiques, créée par l'américain Hasbro, devenue une série animée. Elle visait les fillettes, mais a récolté un culte en ligne chez les hommes adultes.",
+      "id": "1fc0874d0a38b151",
+      "title": "My Little Pony",
+      "points": 1
+    },
+    {
+      "description": "Comptine sur une famille de grands poissons marins qui part chasser, devenue virale avec plus de 13 milliards de vues sur YouTube. Tout son charme tient dans un refrain : « dou dou dou dou ».",
+      "id": "2d6ad5b0dc39299f",
+      "title": "Baby Shark",
+      "points": 2
+    },
+    {
+      "description": "Haut qui laisse le ventre à l'air, largement accepté depuis la fin des années 60. Depuis le milieu des années 2010, la version masculine fait son retour.",
+      "id": "874d0a38b15166bd",
+      "title": "Un crop top",
+      "points": 2
+    },
+    {
+      "description": "Le parent décédé de Peter Parker, dont la leçon sur le pouvoir et les responsabilités l'a poussé à devenir Spider-Man.",
+      "id": "61d67f4bab9ada8e",
+      "title": "Oncle Ben",
+      "points": 2
+    },
+    {
+      "description": "Le troisième volet de la franchise animée de Dreamworks, avec Po, un ours doublé par Jack Black, qui doit retrouver sa famille biologique pour apprendre la force du Chi.",
+      "id": "4bab9ada8e35619d",
+      "title": "Kung Fu Panda 3",
+      "points": 2
+    },
+    {
+      "description": "L'écuyer du héros de Don Quichotte, écrit par Miguel de Cervantès en 1605. Connu pour son humour pince-sans-rire et ses proverbes espagnols à la chaîne.",
+      "id": "9f12d9bb68a94531",
+      "title": "Sancho Panza",
+      "points": 3
+    },
+    {
+      "description": "Un élément de décoration doué d'une volonté propre, dans un film Disney qui se déroule au Moyen-Orient. L'un des premiers personnages en images de synthèse d'un long métrage.",
+      "id": "82b6371df91904ba",
+      "title": "Le tapis volant d'Aladdin",
+      "points": 1
+    },
+    {
+      "description": "Personne qui trompe les autres pour de l'argent, de la gloire ou d'autres avantages. L'exemple le plus fameux : le médecin qui vendait de l'huile minérale comme remède universel.",
+      "id": "2d9bb68a945311fc",
+      "title": "Un charlatan",
+      "points": 3
+    },
+    {
+      "description": "Tour de magie devenu le symbole du métier : l'artiste fait apparaître un animal caché dans son couvre-chef. L'expression désigne aussi une solution surprenante, voire impossible.",
+      "id": "d67f4bab9ada8e35",
+      "title": "Sortir un lapin du chapeau",
+      "points": 1
+    },
+    {
+      "description": "Une paysanne du Moyen Âge convaincue d'avoir été choisie par Dieu pour mener les troupes françaises contre l'Angleterre. Après une victoire décisive, elle fut capturée et brûlée vive.",
+      "id": "8632cc4a02d6ad5b",
+      "title": "Jeanne d'Arc",
+      "points": 2
+    },
+    {
+      "description": "Jeu où l'on choisit entre répondre franchement à une question ou accomplir un défi lancé par un autre joueur. On en trouve des traces dès 1712, sous le nom de « Questions et ordres ».",
+      "id": "619dc9c3948632cc",
+      "title": "Action ou vérité",
+      "points": 1
+    },
+    {
+      "description": "Acronyme d'une expression célèbre qui invite à profiter de la vie à fond, dans l'esprit du « Carpe Diem ». Malgré sa portée existentielle, on l'entend surtout crié par des ados juste avant une bêtise.",
+      "id": "904ba61d67f4bab9",
+      "title": "YOLO",
+      "points": 2
+    },
+    {
+      "description": "Une opération mathématique impossible. NaN !",
+      "id": "12d9bb68a945311f",
+      "title": "Diviser par zéro",
+      "points": 2
+    },
+    {
+      "description": "Expression pour le membre bizarre ou peu recommandable d'un groupe, surtout dans une famille, qu'on traite différemment ou qu'on met de côté. Dans la nature, cette couleur vient d'un gène récessif.",
+      "id": "35619dc9c3948632",
+      "title": "Le mouton noir",
+      "points": 2
+    },
+    {
+      "description": "Trompette en plastique popularisée pendant la Coupe du monde 2010, qui produit une seule note très forte. Tellement agaçante que les chaînes ont filtré le son pendant les matchs.",
+      "id": "74d0a38b15166bdb",
+      "title": "La vuvuzela",
+      "points": 2
+    },
+    {
+      "description": "Chanson de Bryan Adams sortie en 1985, sur un jeune qui rêve de devenir rockstar. Adams a révélé plus tard qu'elle parlait surtout de faire l'amour, et pas du tout de cette année-là.",
+      "id": "9ada8e35619dc9c3",
+      "title": "Summer of '69",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Amphibien en images de synthèse devenu célèbre avec un remix d'« Axel F » en 2005. Le personnage servait surtout à vendre des sonneries et a fait scandale parce qu'il apparaissait nu.",
+      "id": "632cc4a02d6ad5b0",
+      "title": "Crazy Frog",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Le faune qui vit dans le monde imaginaire de Narnia, créé par C. S. Lewis en 1950. C'est le premier personnage qu'on y rencontre, décrit dans le livre comme ayant « un visage étrange mais sympathique ».",
+      "id": "39299f12d9bb68a9",
+      "title": "Monsieur Tumnus",
+      "points": 3
+    },
+    {
+      "description": "La structure en bois en forme d'animal dans laquelle des soldats grecs se sont cachés pour entrer dans une cité assiégée. En informatique, le mot désigne un logiciel malveillant déguisé.",
+      "id": "5346d84e5d84ee4f",
+      "title": "Le cheval de Troie",
+      "points": 1
+    },
+    {
+      "description": "Le directeur de Poudlard, l'école de sorcellerie imaginée par J.K. Rowling. Il partage son bureau avec son phénix, Fumseck.",
+      "id": "9c3948632cc4a02d",
+      "title": "Albus Dumbledore",
+      "points": 2
+    },
+    {
+      "description": "Jeu mobile où il faut guider un animal volant entre des tuyaux verts. Après un succès fulgurant en 2014, son créateur l'a retiré des boutiques, jugeant qu'il rendait les gens accros.",
+      "id": "b6371df91904ba61",
+      "title": "Flappy Bird",
+      "points": 2
+    },
+    {
+      "description": "Jeu à deux où chacun forme en même temps l'une des trois figures avec sa main. Il existe des variantes avec le puits, Spock et le lézard, et même une version à 101 figures !",
+      "id": "e5d84ee4fd2b8656",
+      "title": "Pierre, feuille, ciseaux",
+      "points": 1
+    },
+    {
+      "description": "Émission de téléréalité diffusée pour la première fois aux Pays-Bas, où des candidats vivent ensemble coupés du monde. Le nom vient du roman 1984 de George Orwell, sur la surveillance permanente.",
+      "id": "45311fc0874d0a38",
+      "title": "Big Brother",
+      "points": 2
+    },
+    {
+      "description": "Mets de luxe fait d'œufs de poisson salés, l'un des aliments les plus chers du monde. L'argent altérerait le goût : on le déguste donc à la cuillère de nacre.",
+      "id": "d0a38b15166bdb3a",
+      "title": "Le caviar",
+      "points": 2
+    },
+    {
+      "description": "Un choix esthétique discutable sur le costume du justicier masqué, dans les films de Joel Schumacher de 1995 et 1997. Justification officielle : le costume s'inspirait des statues grecques antiques.",
+      "id": "5619dc9c3948632c",
+      "title": "Les tétons de Batman",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Pharaon égyptien dont la tombe est restée introuvable pendant des siècles. Redécouverte en 1922, elle contenait plus de 5 000 objets précieux, dont un cercueil en or massif et plusieurs trompettes.",
+      "id": "dc9c3948632cc4a0",
+      "title": "Toutânkhamon",
+      "points": 2
+    },
+    {
+      "description": "Expression en swahili qui signifie « pas de souci », rendue célèbre par le dessin animé Disney Le Roi Lion en 1994. Quand Disney a déposé la formule aux États-Unis en 2018, l'Afrique de l'Est s'est indignée.",
+      "id": "b0dc39299f12d9bb",
+      "title": "Hakuna Matata",
+      "points": 1
+    },
+    {
+      "description": "Chatte devenue star d'internet grâce à son air éternellement mécontent, suivie par plus de 8 millions de personnes. En 2014, elle a eu son propre film de Noël, doublée par Aubrey Plaza.",
+      "id": "68a945311fc0874d",
+      "title": "Grumpy Cat",
+      "points": 2
+    },
+    {
+      "description": "Court moment de sommeil, en général dans la journée. Une tradition dans les pays chauds comme l'Espagne, où un championnat national a même été organisé à Madrid.",
+      "id": "5166bdb3a884826a",
+      "title": "La sieste",
+      "points": 1
+    },
+    {
+      "description": "Phénomène lumineux dans le ciel des régions proches du pôle Nord, où l'air se colore de vert et de violet. Les Inuits y voyaient les esprits de leurs ancêtres jouant avec un crâne de morse.",
+      "id": "166bdb3a884826a8",
+      "title": "Une aurore boréale",
+      "points": 3
+    },
+    {
+      "description": "Appareil censé déterminer si quelqu'un dit la vérité en mesurant plusieurs réactions du corps pendant une série de questions. Son efficacité reste très contestée par la communauté scientifique.",
+      "id": "84ee4fd2b8656cda",
+      "title": "Le détecteur de mensonges",
+      "points": 2
+    },
+    {
+      "description": "Être surnaturel considéré comme sacré et divin. Dans les religions monothéistes, Il est le créateur du monde.",
+      "id": "df91904ba61d67f4",
+      "title": "Dieu",
+      "points": 1
+    },
+    {
+      "description": "Association vestimentaire controversée : un vêtement chaud aux pieds, porté avec ce qu'on met normalement l'été. Les créateurs de ce jeu ne cautionnent pas cette pratique.",
+      "id": "6371df91904ba61d",
+      "title": "Les chaussettes dans les sandales",
+      "points": 2
+    },
+    {
+      "description": "L'énorme bloc d'eau gelée qui, en 1912, a condamné l'un des plus grands paquebots de l'époque. Ironie du sort : ce navire passait pour l'un des plus sûrs jamais construits.",
+      "id": "682b6371df91904b",
+      "title": "L'iceberg qui a coulé le Titanic",
+      "points": 2
+    },
+    {
+      "description": "L'arme emblématique du héros de la saga lancée par George Lucas en 1981, qui suit les aventures d'un professeur d'archéologie. Une des répliques du tournage s'est vendue 140 000 $ aux enchères en 2014.",
+      "id": "c39299f12d9bb68a",
+      "title": "Le fouet d'Indiana Jones",
+      "points": 2
+    },
+    {
+      "description": "Justicier masqué créé par Johnston McCulley en 1919, qui défend le peuple de Californie contre des tyrans. Acrobate et fine lame, il grave son initiale sur ses adversaires vaincus.",
+      "id": "dc39299f12d9bb68",
+      "title": "Zorro",
+      "points": 1
+    },
+    {
+      "description": "Détective belge imaginé par Agatha Christie, héros de la plupart de ses romans policiers. Interprété par de nombreux acteurs au fil des ans, toujours avec la même moustache.",
+      "id": "ba61d67f4bab9ada",
+      "title": "Hercule Poirot",
+      "points": 2
+    },
+    {
+      "description": "Le livre de 1943 de l'aviateur français Antoine de Saint-Exupéry, où un pilote en panne dans le désert rencontre un drôle de garçon. L'un des ouvrages les plus traduits de tous les temps.",
+      "id": "32cc4a02d6ad5b0d",
+      "title": "Le Petit Prince",
+      "points": 1
+    },
+    {
+      "description": "Pilosité faciale rendue tristement célèbre par le chef de l'Allemagne et des forces de l'Axe pendant la Seconde Guerre mondiale. Charlie Chaplin la portait aussi, et avant lui !",
+      "id": "91904ba61d67f4ba",
+      "title": "La moustache d'Hitler",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Animal de compagnie numérique né au Japon dans les années 90, l'une des plus grandes modes de jouets de l'époque. Les enfants s'y attachaient tellement que certains ados enterraient le leur à sa mort.",
+      "id": "d84e5d84ee4fd2b8",
+      "title": "Le Tamagotchi",
+      "points": 3
+    },
+    {
+      "description": "Faux journaliste kazakh inventé et incarné par Sacha Baron Cohen dans le film du même nom, en 2006. Très controversé : plusieurs participants ont attaqué le film en justice.",
+      "id": "ada8e35619dc9c39",
+      "title": "Borat",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Nom donné à l'industrie du cinéma indien en langue hindi, basée à Mumbai. Son genre phare est le film masala, qui mélange allègrement action, comédie, romance et drame, avec des numéros chantés.",
+      "id": "11fc0874d0a38b15",
+      "title": "Bollywood",
+      "points": 2
+    },
+    {
+      "description": "Fondateur et premier empereur de l'Empire mongol, fondé en 1206 et devenu le plus vaste empire d'un seul tenant de l'histoire. Une étude de 2003 estime qu'un homme sur 200 descend directement de lui.",
+      "id": "c0874d0a38b15166",
+      "title": "Gengis Khan",
+      "points": 3
+    },
+    {
+      "description": "Comédie sportive de 1996 qui réunit les personnages des Looney Tunes et la légende Michael Jordan pour un match de basket intergalactique.",
+      "id": "cc4a02d6ad5b0dc3",
+      "title": "Space Jam",
+      "points": 1
+    },
+    {
+      "description": "L'un des suspects d'origine du célèbre jeu de plateau policier Cluedo.",
+      "id": "826a85346d84e5d8",
+      "title": "Le colonel Moutarde",
+      "points": 2
+    },
+    {
+      "description": "Région historique du centre de la Roumanie, connue pour servir de décor au roman gothique Dracula, écrit par Bram Stoker en 1897. Depuis, c'est le repaire officiel des vampires : plus de 40 films s'y déroulent.",
+      "id": "5311fc0874d0a38b",
+      "title": "La Transylvanie",
+      "points": 2
+    },
+    {
+      "description": "Ce minéral mystérieux est la seule faiblesse de Superman et désigne aujourd'hui tout ce qui rend quelqu'un vulnérable. On le représente en vert, mais lors de sa première apparition en bande dessinée, il était rouge.",
+      "id": "3a884826a85346d8",
+      "title": "La kryptonite",
+      "points": 2
+    },
+    {
+      "description": "Le flibustier joué par Johnny Depp dans la saga Pirates des Caraïbes. Son personnage est un mélange de Keith Richards et de Pepé le Putois, des Looney Tunes.",
+      "id": "d6ad5b0dc39299f1",
+      "title": "Le capitaine Jack Sparrow",
+      "points": 1
+    },
+    {
+      "description": "Un monsieur âgé qui, à cause de la chaleur ou par pur exhibitionnisme, a renoncé à couvrir le haut de son corps. Sa photo sert aussi de réponse moqueuse dans les débats politiques en ligne.",
+      "id": "38b15166bdb3a884",
+      "title": "Un vieux en torse nu",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Geste de danse tout simple : la tête tombe dans le pli du coude tandis que l'autre bras se lève. En Arabie saoudite, il a été interdit parce qu'il ferait référence au cannabis.",
+      "id": "b9ada8e35619dc9c",
+      "title": "Le dab",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "💩",
+      "id": "c9c3948632cc4a02",
+      "title": "L'emoji caca",
+      "points": 2
+    },
+    {
+      "description": "Région du système solaire située entre les orbites de Mars et de Jupiter, remplie de cailloux spatiaux de toutes tailles. Contrairement à ce que montrent les films, la traverser en vaisseau serait très peu risqué.",
+      "id": "884826a85346d84e",
+      "title": "La ceinture d'astéroïdes",
+      "points": 2
+    },
+    {
+      "description": "Application de rencontres où l'on fait glisser anonymement les profils pour dire oui ou non. Elle a popularisé ce geste, qu'on retrouve aujourd'hui dans presque toutes les applis, celle-ci comprise !",
+      "id": "d9bb68a945311fc0",
+      "title": "Tinder",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Le retrait complet des poils du pubis et de tout ce qui l'entoure. Le nom vient d'un salon de Manhattan fondé en 1987 par un groupe de sœurs venues d'Amérique du Sud.",
+      "id": "a884826a85346d84",
+      "title": "L'épilation brésilienne",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Un homme parfaitement ordinaire qui ressemble étrangement à Superman.",
+      "id": "02d6ad5b0dc39299",
+      "title": "Clark Kent sans lunettes",
+      "points": 3
+    },
+    {
+      "description": "Comédie de 1990 avec Macaulay Culkin, où un enfant oublié par sa famille défend la maison contre deux cambrioleurs. Pour beaucoup, un incontournable des fêtes de fin d'année.",
+      "id": "a61d67f4bab9ada8",
+      "title": "Maman, j'ai raté l'avion !",
+      "points": 1
+    },
+    {
+      "description": "L'idée que notre planète aurait la forme d'un disque et non d'une sphère. Pour le prouver de ses propres yeux, un casse-cou américain a décollé dans une fusée artisanale, et n'en est pas revenu.",
+      "id": "4d0a38b15166bdb3",
+      "title": "La Terre plate",
+      "points": 2
+    },
+    {
+      "description": "Super-héros sous-marin de la Justice League de DC Comics, armé d'un trident et capable de commander aux créatures des mers. Malgré sa popularité, ses pouvoirs font l'objet de blagues sans fin.",
+      "id": "bb68a945311fc087",
+      "title": "Aquaman",
+      "points": 1
+    },
+    {
+      "description": "Marque de petites voitures créée en 1968 par le fabricant américain Mattel. Plus de 6 milliards d'exemplaires produits et 20 000 modèles différents. Fais mieux !",
+      "id": "945311fc0874d0a3",
+      "title": "Hot Wheels",
+      "points": 2
+    },
+    {
+      "description": "Lézard souvent gardé comme animal de compagnie, de son vrai nom Pogona. Son surnom vient du dessous de sa gorge, qui peut noircir quand la bête est stressée.",
+      "id": "04ba61d67f4bab9a",
+      "title": "Le dragon barbu",
+      "points": 2
+    },
+    {
+      "description": "La comédie musicale de 1981 composée par Andrew Lloyd Webber, sur une tribu de félins appelés les Jellicles. Son adaptation au cinéma en 2019 a été démolie par la critique comme par le public.",
+      "id": "2cc4a02d6ad5b0dc",
+      "title": "Cats",
+      "points": 1
+    },
+    {
+      "description": "Personne qui prétend accomplir, grâce à des dons paranormaux, des choses que les lois naturelles n'expliquent pas, en général parler aux morts. Beaucoup y croient, aucune preuve scientifique n'existe.",
+      "id": "67f4bab9ada8e356",
+      "title": "Un médium",
+      "points": 1
+    },
+    {
+      "description": "Les deux Gaulois les plus célèbres d'une série de bande dessinée française qui se déroule à l'époque romaine. Le petit boit une potion magique pour être fort ; le gros est tombé dans le chaudron étant bébé.",
+      "id": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+      "title": "Astérix et Obélix",
+      "points": 2
+    },
+    {
+      "description": "Le premier navigateur web vraiment répandu de Microsoft, tristement célèbre pour sa lenteur. Si mal aimé qu'à la fin, il ne servait plus qu'à télécharger la concurrence.",
+      "id": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+      "title": "Internet Explorer",
+      "points": 2
+    },
+    {
+      "description": "Le pick-up électrique anguleux en acier inoxydable de Tesla. Lors de sa présentation en 2019, une démonstration de solidité s'est terminée avec deux vitres brisées, en direct sur scène.",
+      "id": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+      "title": "Le Cybertruck",
+      "points": 2
+    },
+    {
+      "description": "Une réplique culte d'un film de 1999 avec Brad Pitt et Edward Norton, tiré d'un roman de Chuck Palahniuk. Cette consigne ressemble étrangement à la deuxième !",
+      "id": "1226b2cb-facb-4ea2-ab2a-474011445d67",
+      "title": "La première règle du Fight Club",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Film de 1993 avec Bill Murray, où un présentateur météo grincheux revit sans cesse les mêmes 24 heures. Le réalisateur Harold Ramis estimait que son héros reste piégé une dizaine d'années.",
+      "id": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+      "title": "Un jour sans fin",
+      "points": 2
+    },
+    {
+      "description": "Monstre marin préhistorique réveillé par les essais nucléaires, apparu au cinéma japonais en 1954. Il a joué dans 38 films, un record pour une seule créature.",
+      "id": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+      "title": "Godzilla",
+      "points": 1
+    },
+    {
+      "description": "Conte classique où une fratrie construit des maisons de matériaux différents pour échapper à un loup affamé. Il en existe d'innombrables versions, mais le loup souffle dans toutes.",
+      "id": "69337803-074d-4e31-8418-747bd7da56a2",
+      "title": "Les Trois Petits Cochons",
+      "points": 1
+    },
+    {
+      "description": "Le véhicule blindé dans lequel le chef de l'Église catholique salue la foule lors de ses visites en plein air. Il a reçu des vitres pare-balles après l'attentat de 1981 place Saint-Pierre.",
+      "id": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+      "title": "La papamobile",
+      "points": 1
+    },
+    {
+      "description": "Le premier mammifère cloné à partir d'une cellule adulte, né en 1996 dans un institut de recherche écossais. On l'a baptisée d'après une célèbre chanteuse country, parce que la cellule venait d'une glande mammaire.",
+      "id": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
+      "title": "La brebis Dolly",
+      "points": 1
+    },
+    {
+      "description": "Casse-tête moral classique : faut-il dévier un véhicule fou pour tuer une personne au lieu de cinq ? Au fil des ans, on en a inventé des variantes de plus en plus absurdes.",
+      "id": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
+      "title": "Le dilemme du tramway",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Casse-tête quotidien en ligne où l'on a six essais pour deviner un mot anglais caché de cinq lettres. Le New York Times l'a racheté à son créateur en 2022 pour un peu plus d'un million de dollars.",
+      "id": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+      "title": "Wordle",
+      "points": 1
+    },
+    {
+      "description": "L'idée, issue de la théorie du chaos, qu'un événement minuscule, comme un insecte qui bat des ailes, peut avoir d'énormes conséquences à l'autre bout du monde. Le météorologue Edward Lorenz a forgé le terme en 1972.",
+      "id": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+      "title": "L'effet papillon",
+      "points": 2
+    },
+    {
+      "description": "Ce réflexe d'agiter en l'air une photo instantanée qui vient de sortir, popularisé par une chanson d'OutKast. Le fabricant a officiellement demandé d'arrêter : ça abîme l'image en train de se développer.",
+      "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
+      "title": "Secouer un Polaroid",
+      "points": 2
+    },
+    {
+      "description": "Petit jouet à roulements à billes devenu une mode mondiale en 2017, vendu comme un antistress. Malgré les promesses, aucune étude n'a montré qu'il améliorait la concentration.",
+      "id": "7b27a365-2f05-403a-baba-d6c151585293",
+      "title": "Un hand spinner",
+      "points": 1
+    },
+    {
+      "description": "La fameuse promesse publicitaire censée prouver que presque tous ceux qui soignent nos molaires recommandent une marque en particulier. On se demande ce que pense le dixième...",
+      "id": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef",
+      "title": "9 dentistes sur 10",
+      "points": 2
+    },
+    {
+      "description": "La force qui pousse un jeune à essayer une cigarette, une coupe de cheveux ou une mode douteuse juste pour faire partie du groupe. Même les adultes se rangent à une réponse manifestement fausse si tout le monde la donne.",
+      "id": "4d8dae45-828a-4242-a217-0c0227c4789a",
+      "title": "La pression sociale",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Le petit test en ligne où il faut désigner des feux tricolores ou des bus pour prouver qu'on est humain. Il a été co-inventé par la personne qui a créé Duolingo ensuite.",
+      "id": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+      "title": "Un CAPTCHA",
+      "points": 2
+    },
+    {
+      "description": "Célèbre expérience de pensée en physique : un félin enfermé dans une boîte avec une fiole de poison. Tant que la boîte reste fermée, l'animal est considéré à la fois mort et vivant.",
+      "id": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+      "title": "Le chat de Schrödinger",
+      "points": 3
+    },
+    {
+      "description": "Casse-tête en trois dimensions inventé en 1974 par un sculpteur et professeur d'architecture hongrois. Le record du monde de résolution est aujourd'hui sous les 3 secondes, détenu par un enfant.",
+      "id": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+      "title": "Le Rubik's Cube",
+      "points": 1
+    },
+    {
+      "description": "Notion qui désigne les comportements virils traditionnels et nuisibles, comme étouffer ses émotions ou écraser les autres. Symptômes courants : refuser de pleurer à un enterrement, ou jurer que le rose est réservé aux filles.",
+      "id": "902799b4-18f2-48c9-92f4-78547c02520f",
+      "title": "La masculinité toxique",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "L'énorme rocher venu de l'espace qui a percuté la Terre il y a environ 66 millions d'années, mettant fin au Crétacé. Son cratère, enfoui sous la péninsule du Yucatán au Mexique, fait près de 180 km de large.",
+      "id": "bf10ceba-8762-4244-8023-457eb20adb1d",
+      "title": "L'astéroïde qui a tué les dinosaures",
+      "points": 3
+    },
+    {
+      "description": "Friandise virale venue des Émirats arabes unis, fourrée à la crème de pistache et à la pâte kataïfi croustillante. Sa popularité soudaine a provoqué une pénurie mondiale de pistaches.",
+      "id": "c62de87f-30ec-4909-a35c-104375f280cb",
+      "title": "Le chocolat de Dubaï",
+      "points": 1
+    },
+    {
+      "description": "Emballage inventé en 1957, conçu au départ comme une tapisserie murale à relief. Le bruit satisfaisant qu'il fait quand on l'éclate lui a valu des journées dédiées, des applis qui l'imitent et d'innombrables heures de détente.",
+      "id": "c8161658-fa59-4488-b151-50d8bfe969f1",
+      "title": "Le papier bulle",
+      "points": 2
+    },
+    {
+      "description": "Police d'écriture ronde et décontractée dessinée en 1994, prévue à l'origine pour un chien de dessin animé dans un logiciel Microsoft. Malgré la haine qu'elle suscite, elle aiderait les personnes dyslexiques à lire.",
+      "id": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+      "title": "Le Comic Sans",
+      "points": 2
+    },
+    {
+      "description": "Le condiment maison d'un célèbre hamburger de fast-food, responsable d'une bonne part de son goût. En 2012, un ancien employé a publié la recette supposée sur Reddit, et l'entreprise l'a plus ou moins confirmée.",
+      "id": "85361ccc086534df",
+      "title": "La sauce secrète du Big Mac",
+      "points": 3
+    },
+    {
+      "description": "Expression pour les petits désagréments qui ne comptent vraiment que dans les pays développés. Elle souligne l'écart absurde entre la vraie misère et les contrariétés du confort moderne.",
+      "id": "4fd2b8656cda7f9e",
+      "title": "Des problèmes de riches",
+      "points": 2
+    },
+    {
+      "description": "Personne qui ressemble énormément à une autre, sans le moindre lien de parenté : même visage, gènes différents. En allemand, on dit doppelgänger, littéralement « double marcheur » ; c'était autrefois un très mauvais présage.",
+      "id": "83b89a12daab64be",
+      "title": "Un sosie",
+      "points": 1
+    },
+    {
+      "description": "Molécule produite par le cerveau qui joue un rôle clé dans le plaisir, la récompense et la motivation. Exactement ce que tu recevras quand tu auras enfin deviné cette carte !",
+      "id": "69d83b89a12daab6",
+      "title": "La dopamine",
+      "points": 2
+    },
+    {
+      "description": "Peur d'enfance classique : une créature terrifiante tapie dans l'armoire de la chambre, prête à sortir dès que la lumière s'éteint. L'idée existe dans presque toutes les cultures du monde.",
+      "id": "b64bea85361ccc08",
+      "title": "Le monstre dans le placard",
+      "points": 3
+    },
+    {
+      "description": "Terme désignant la fraction la plus riche de l'humanité, qui détient une part démesurée du patrimoine mondial. Selon Oxfam, ce groupe possède plus que tout le reste de la population réuni.",
+      "id": "f9e5afff1669d83b",
+      "title": "Les 1 %",
+      "points": 2
+    },
+    {
+      "description": "Technique d'interrogatoire où l'un des policiers se montre dur et agressif pendant que l'autre est chaleureux et compréhensif. L'un t'offre une cigarette, l'autre la perpétuité. Ça marche étonnamment souvent.",
+      "id": "a7f9e5afff1669d8",
+      "title": "Bon flic, mauvais flic",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Jeu de rôle sur table publié pour la première fois en 1974, où les joueurs créent un personnage et partent à l'aventure ensemble. Il a directement inspiré les créateurs de Baldur's Gate, World of Warcraft et bien d'autres.",
+      "id": "cda7f9e5afff1669",
+      "title": "Donjons et Dragons",
+      "points": 1
+    },
+    {
+      "description": "Personne très suivie sur les réseaux sociaux qui gagne sa vie en vantant des marques et des produits. Le secteur pèse plus de 20 milliards de dollars ; les plus gros comptes facturent des milliers d'euros par publication.",
+      "id": "7f9e5afff1669d83",
+      "title": "Un influenceur Instagram",
+      "points": 2
+    },
+    {
+      "description": "Morceau de K-pop du Sud-Coréen PSY sorti en 2012, avec sa danse du cheval devenue iconique. Première vidéo à atteindre le milliard de vues sur YouTube, au point de casser le compteur du site.",
+      "id": "602973b2-e044-4261-b6ca-367ea000e503",
+      "title": "Gangnam Style",
+      "points": 1
+    },
+    {
+      "description": "Jouet américain classique : un légume en plastique dont on change les yeux, la bouche et les accessoires. C'est le premier jouet à avoir eu une publicité à la télévision américaine, en 1952.",
+      "id": "cb4759da-ce62-4506-8293-0f00cc47a145",
+      "title": "Monsieur Patate",
+      "points": 2
+    },
+    {
+      "description": "Jeu de société pour enfants où chacun actionne un levier pour attraper plus de billes que les autres. Sorti chez Milton Bradley en 1978, c'est resté le jeu le plus bruyant de la maison.",
+      "id": "b5a973c3-ef94-415c-9441-9fb4e2b267b3",
+      "title": "Hippos Gloutons",
+      "points": 2
+    },
+    {
+      "description": "Zone mal définie de l'Atlantique Nord où des bateaux et des avions auraient disparu sans explication. Malgré la légende, les études montrent qu'on n'y risque pas plus qu'ailleurs en mer.",
+      "id": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+      "title": "Le triangle des Bermudes",
+      "points": 2
+    },
+    {
+      "description": "Fond sonore fade et inoffensif diffusé dans les cabines et les salles d'attente pour meubler le silence. Le genre porte un nom officiel, le « Muzak », d'après l'entreprise qui l'a imposé partout dans les années 30.",
+      "id": "a0030c6e-d024-489e-ae71-047c8022a094",
+      "title": "La musique d'ascenseur",
+      "points": 1
+    },
+    {
+      "description": "Jeu de mots court et lamentable, servi par un oncle ou un père très fier de lui. Le soupir collectif fait partie du rituel.",
+      "id": "a27438ca-5e4c-46df-8343-4f5a5b59af89",
+      "title": "Une blague de tonton",
+      "points": 1
+    },
+    {
+      "description": "Le mode d'emploi réputé incompréhensible livré avec les meubles en kit, sans un seul mot, uniquement des dessins. C'est volontaire : un seul livret suffit pour le monde entier.",
+      "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
+      "title": "La notice IKEA",
+      "points": 2
+    },
+    {
+      "description": "Le premier moment de travail de la semaine, redouté dès la fin du week-end. Les études montrent que c'est là qu'on compte le plus de crises cardiaques.",
+      "id": "64a54249-b462-448d-9d50-280588737740",
+      "title": "Le lundi matin",
+      "points": 1
+    },
+    {
+      "description": "Cheveux courts devant et sur les côtés, longs dans la nuque. On résume souvent le style par « sérieux à l'avant, fête à l'arrière ». Star absolue des années 80.",
+      "id": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6",
+      "title": "La coupe mulet",
+      "points": 1
+    },
+    {
+      "description": "Rassemblement convoqué pour rien, où toute l'information tenait très bien par écrit. Les sondages estiment qu'un employé de bureau y perd près d'un tiers de sa semaine.",
+      "id": "908f592a-5281-44cc-aa69-794a92979c15",
+      "title": "Une réunion qui aurait pu être un mail",
+      "points": 3
+    },
+    {
+      "description": "Célèbre chanson latino du milieu des années 90, avec sa chorégraphie que tout le monde connaît. La version remixée est restée 14 semaines de suite en tête aux États-Unis.",
+      "id": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+      "title": "La Macarena",
+      "points": 1
+    },
+    {
+      "description": "Créature légendaire qui vivrait dans un grand lac d'eau douce des Highlands écossais. La photo la plus célèbre, prise en 1934, s'est révélée être un montage avec un sous-marin jouet.",
+      "id": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+      "title": "Le monstre du Loch Ness",
+      "points": 1
+    },
+    {
+      "description": "L'impression qu'une situation vécue à l'instant s'est produite auparavant. L'impression qu'une situation vécue à l'instant s'est produite auparavant.",
+      "id": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+      "title": "Le déjà-vu",
+      "points": 1
+    },
+    {
+      "description": "Le personnage qui récupère les dents de lait tombées et laisse une pièce sous l'oreiller. Dans les pays anglo-saxons, c'est une fée qui s'en charge.",
+      "id": "497380b0-3425-4201-bf27-7981d7b98c68",
+      "title": "La petite souris",
+      "points": 1
+    },
+    {
+      "description": "Pas de danse où l'artiste semble glisser en arrière alors que ses pieds avancent. Michael Jackson l'a rendu célèbre en 1983, lors d'une interprétation de « Billie Jean ».",
+      "id": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+      "title": "Le moonwalk",
+      "points": 1
+    },
+    {
+      "description": "Jeu d'enfants très populaire où il est interdit de toucher le carrelage, censé être en roche en fusion. Une seule règle, aucun matériel, et ça peut se déclencher n'importe où.",
+      "id": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+      "title": "Le sol, c'est de la lave",
+      "points": 2
+    },
+    {
+      "description": "Trait du visage où les poils au-dessus des deux yeux se rejoignent au milieu en une seule bande continue. Frida Kahlo a assumé le sien comme un symbole de beauté naturelle et d'identité mexicaine.",
+      "id": "7fb16c34-2dbe-4309-8b65-814920d138fb",
+      "title": "Le monosourcil",
+      "points": 1
+    },
+    {
+      "description": "Jeu de fête venu des Caraïbes où il faut passer sous une barre horizontale de plus en plus basse sans tomber. Le record du monde est à 21,59 cm du sol.",
+      "id": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+      "title": "Le limbo",
+      "points": 1
+    },
+    {
+      "description": "Paradoxe philosophique classique sur l'ordre d'apparition de deux choses qui dépendent l'une de l'autre. Aristote concluait que les deux ont toujours coexisté, ce qui évite élégamment tout le débat.",
+      "id": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+      "title": "L'œuf ou la poule",
+      "points": 1
+    },
+    {
+      "description": "Phénomène de foule dans les stades : les spectateurs se lèvent les uns après les autres, bras en l'air, puis se rassoient. Popularisée pendant la Coupe du monde 1986 au Mexique, d'où son nom espagnol.",
+      "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+      "title": "La ola",
+      "points": 2
+    },
+    {
+      "description": "Geste de premiers secours qui débloque les voies respiratoires par des compressions sèches sous les côtes. Le médecin qui l'a inventée n'a eu à s'en servir sur quelqu'un qu'à 96 ans.",
+      "id": "a2737d5c-387e-485c-8891-333278cef79d",
+      "title": "La manœuvre de Heimlich",
+      "points": 3
+    },
+    {
+      "description": "Long boudin en mousse qui sert à flotter et à jouer dans l'eau. Les enfants du monde entier ont compris que sa vraie fonction est de taper sur leur frère ou leur sœur.",
+      "id": "11f95020-812c-418e-9c21-874e4fbe24fd",
+      "title": "Une frite de piscine",
+      "points": 2
+    },
+    {
+      "description": "L'expérience universellement redoutée : poser un pied nu sur une petite brique en plastique. La plante du pied compte plus de terminaisons nerveuses au centimètre carré que presque tout le reste du corps.",
+      "id": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+      "title": "Marcher sur un Lego",
+      "points": 2
+    },
+    {
+      "description": "Cette sensation exaspérante où le réflexe monte dans le nez, atteint son sommet, puis refuse de partir. Aucun remède fiable, même si beaucoup jurent qu'il faut fixer une lumière ou se chatouiller le palais.",
+      "id": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+      "title": "L'éternuement qui ne vient pas",
+      "points": 3
+    },
+    {
+      "description": "Le réflexe de féliciter le pilote dès que l'appareil touche la piste sans encombre. Il n'y a pire qu'au cinéma, ou à un enterrement.",
+      "id": "6074accc-37a1-4ddd-8707-54807fa01406",
+      "title": "Applaudir à l'atterrissage",
+      "points": 3
+    },
+    {
+      "description": "La frustration universelle de la cuisine : forcer une fermeture sur une boîte qui n'a jamais été prévue pour elle. J'aurais juré que c'était la bonne...",
+      "id": "7a495018-9642-4d79-b88b-4ec138b229b6",
+      "title": "Un couvercle Tupperware qui ne va pas",
+      "points": 3
+    },
+    {
+      "description": "La surface glacée et intacte qu'on découvre en retournant son coussin au milieu de la nuit. Hélas, un état éphémère qui ne dure jamais aussi longtemps qu'on voudrait.",
+      "id": "6704a583-9897-485e-9945-1507734e5dd5",
+      "title": "Le côté frais de l'oreiller",
+      "points": 3
+    },
+    {
+      "description": "Le siège le moins désirable d'un avion, ou à l'arrière d'une voiture. Toujours mieux que le coffre.",
+      "id": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
+      "title": "La place du milieu",
+      "points": 2
+    },
+    {
+      "description": "Le moment où le couvert glisse de la main et plonge dans un bol de liquide brûlant. Pour le récupérer, il faut y mettre un doigt ou pêcher avec un deuxième.",
+      "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+      "title": "La cuillère qui tombe dans la soupe",
+      "points": 3
+    },
+    {
+      "description": "Un emballage léger qui tourbillonne en l'air un jour de bourrasque, souvent aperçu sur un parking. Symbole de pollution, mais sa danse sans but est étrangement hypnotique.",
+      "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+      "title": "Un sac plastique dans le vent",
+      "points": 2
+    },
+    {
+      "description": "Passer des produits de la mer au micro-ondes dans une cuisine commune, considéré partout comme un crime social. L'odeur reste des heures après la fuite du coupable.",
+      "id": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+      "title": "Réchauffer du poisson au bureau",
+      "points": 2
+    },
+    {
+      "description": "Livres-jeux britanniques où il faut retrouver un personnage à lunettes et pull rayé caché dans des scènes bondées. L'idée du personnage caché vient d'un éditeur, alors que le dessinateur avait déjà signé pour le livre.",
+      "id": "bf9ec332-4873-4b6c-90d3-92f211c349f0",
+      "title": "Où est Charlie ?",
+      "points": 1
+    },
+    {
+      "description": "L'incident minuscule et final qui pousse quelqu'un à bout. En anglais, c'est un brin de paille qui brise le dos d'un chameau.",
+      "id": "97d61403-9d62-4a94-af01-8113f18f408d",
+      "title": "La goutte d'eau qui fait déborder le vase",
+      "points": 1
+    },
+    {
+      "description": "Objet de jet courbé, créé par les Aborigènes d'Australie, conçu pour revenir vers celui qui le lance quand le geste est bon. Le record du monde de retour est de 238 mètres, deux terrains de foot bout à bout.",
+      "id": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+      "title": "Un boomerang",
+      "points": 1
+    },
+    {
+      "description": "Compagnon inventé pendant l'enfance, avec un nom et un caractère bien à lui, mais visible seulement par son créateur. Les psychologues trouvent ça très sain : ces enfants montrent plus d'empathie et se débrouillent mieux face aux problèmes.",
+      "id": "e1a303ac-4247-4f82-b443-e2e31daea751",
+      "title": "Un ami imaginaire",
+      "points": 2
+    },
+    {
+      "description": "Procédé de récit où l'histoire s'arrête brutalement au sommet du suspense, laissant le public en plan. C'est si efficace que même le journal télévisé en fait une version juste avant la pub.",
+      "id": "7efae148-2cc5-463a-8d51-19d649131976",
+      "title": "Un cliffhanger",
+      "points": 1
+    },
+    {
+      "description": "Quelque chose dont on profite en cachette tout en ayant un peu honte de soi. C'est le moment ou jamais de révéler le tien à toute la table, vas-y !",
+      "id": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+      "title": "Un plaisir coupable",
+      "points": 1
+    },
+    {
+      "description": "La mascotte toute blanche et toute ronde d'un célèbre fabricant français de pneus, reconnaissable dans le monde entier depuis 1898. La même entreprise décide aussi quels restaurants méritent les étoiles les plus convoitées.",
+      "id": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc",
+      "title": "Bibendum",
+      "points": 2
+    },
+    {
+      "description": "Figure humaine utilisée pour mesurer les forces subies par un corps lors d'une collision en voiture. Les premières versions étaient des squelettes médicaux recyclés ; les modernes contiennent plus de 100 capteurs.",
+      "id": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+      "title": "Un mannequin de crash-test",
+      "points": 1
+    },
+    {
+      "description": "Le morceau qui reste d'un plat italien commandé à plusieurs et que personne à table n'ose prendre. Seule une âme courageuse osant demander « quelqu'un la veut ? » peut débloquer la situation.",
+      "id": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+      "title": "La dernière part de pizza",
+      "points": 2
+    },
+    {
+      "description": "Réflexe involontaire qui se transmet : voir quelqu'un ouvrir grand la bouche pour inspirer déclenche la même chose chez les autres. Même en lire une description suffit chez la plupart des gens. Désolé.",
+      "id": "312f14af-1fdb-4040-9b5c-85167a3889b4",
+      "title": "Le bâillement contagieux",
+      "points": 3
+    },
+    {
+      "description": "Ressort narratif où le héros se retrouve face à son double parfait, mais aux intentions sombres. Si ce jeu en avait un, il s'appellerait « 36 ».",
+      "id": "fb504832-5170-40be-900c-b19d0d53c2b4",
+      "title": "Le jumeau maléfique",
+      "points": 1
+    },
+    {
+      "description": "Spasme involontaire du diaphragme qui provoque une inspiration brusque et un bruit sec et répétitif. Un fermier américain en a souffert 68 ans d'affilée, soit environ 430 millions de secousses.",
+      "id": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+      "title": "Le hoquet",
+      "points": 1
+    },
+    {
+      "description": "Artiste muet qui s'exprime entièrement par des gestes exagérés et des expressions du visage. Souvent aperçu coincé dans une boîte invisible.",
+      "id": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+      "title": "Un mime",
+      "points": 1
+    },
+    {
+      "description": "La personne qui traîne encore à une fête bien après que tout le monde est rentré. Si bâiller et ranger la vaisselle ne suffisent pas, essaie d'éteindre la lumière.",
+      "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
+      "title": "L'invité qui ne part jamais",
+      "points": 3
+    },
+    {
+      "description": "Le lapsus classique de l'enfance : un élève s'adresse à celle qui enseigne comme il s'adresse à sa mère. Mignon à l'école primaire, très inquiétant à la fac.",
+      "id": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
+      "title": "Appeler la maîtresse « maman »",
+      "points": 2
+    },
+    {
+      "description": "Le choix assumé de garder ses verres teintés sur le nez alors qu'on est dans une pièce fermée. Réservé à ceux qui veulent avoir l'air cool, important, ou qui ont la flemme de les enlever.",
+      "id": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+      "title": "Les lunettes de soleil à l'intérieur",
+      "points": 2
+    },
+    {
+      "description": "L'expérience universelle : appliquer sa force dans le mauvais sens sur une entrée qui demandait exactement l'inverse. Les spécialistes y voient un défaut de conception, pas une erreur d'utilisateur.",
+      "id": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
+      "title": "Pousser une porte qui se tire",
+      "points": 2
+    },
+    {
+      "description": "Émission de gaz intestinaux sans le moindre bruit, qui ne se détecte qu'à l'odeur. Sans doute pire que son cousin bruyant, qui a au moins la décence d'annoncer son arrivée.",
+      "id": "e058babc-7311-4426-a552-cb87ea01158d",
+      "title": "Un pet silencieux",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Un nourrisson inconsolable à bord d'un appareil, unanimement considéré comme le pire voisin de voyage. Des compagnies asiatiques ont testé des zones calmes pour épargner les autres passagers.",
+      "id": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+      "title": "Un bébé qui pleure dans l'avion",
+      "points": 2
+    },
+    {
+      "description": "La coupe sacrée de la légende chrétienne, celle dans laquelle on aurait bu lors de la Cène. On a cru la retrouver en 1910, avant de conclure qu'il s'agissait d'une lampe à huile très ornée.",
+      "id": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+      "title": "Le Saint Graal",
+      "points": 1
+    },
+    {
+      "description": "Objet à huile des contes arabes qui libère, quand on le frotte, un génie capable d'exaucer des vœux. En redemander est interdit, mais réclamer plusieurs de ces objets ressemble à une faille.",
+      "id": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+      "title": "La lampe magique",
+      "points": 1
+    },
+    {
+      "description": "La théorie scientifique dominante sur l'origine de l'univers, il y a environ 13,8 milliards d'années. Le nom a été lancé par moquerie par l'astronome Fred Hoyle, qui défendait une théorie concurrente.",
+      "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+      "title": "Le Big Bang",
+      "points": 1
+    },
+    {
+      "description": "Société secrète bien réelle du XVIIIe siècle, devenue l'une des théories du complot les plus tenaces de la culture moderne. Le groupe d'origine, fondé en Bavière en 1776, a été dissous par le pouvoir en moins de dix ans.",
+      "id": "68c97440-7c83-43a3-9838-b5e967d01e38",
+      "title": "Les Illuminati",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Le gribouillage réputé illisible que produisent ceux qui rédigent les ordonnances, incompréhensible pour le patient comme pour le pharmacien. Un art en voie de disparition, grâce au passage au numérique.",
+      "id": "65d293cc-08a2-4947-9192-44c46c7b69df",
+      "title": "L'écriture des médecins",
+      "points": 2
+    },
+    {
+      "description": "La fonction du réveil qui repousse la sonnerie de quelques minutes avant qu'elle ne recommence. Les spécialistes du sommeil disent que ces minutes font plus de mal que de bien : on se lève encore plus vaseux.",
+      "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+      "title": "Le bouton snooze",
+      "points": 1
+    },
+    {
+      "description": "Compétition improvisée où les participants se propulsent sur un sol plat, assis sur un siège à roulettes. Il en existe des officielles, dont une épreuve d'endurance de 2 heures à Kyoto, où le gagnant repart avec 90 kg de riz.",
+      "id": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+      "title": "Une course de chaises de bureau",
+      "points": 3
+    },
+    {
+      "description": "Épreuve où les participants avalent le plus possible de saucisses dans un pain en un temps donné. Le record appartient à Joey Chestnut, qui en a englouti plus de 75 en dix minutes.",
+      "id": "ebadbed1-8a05-4e22-95e1-ba166e66e490",
+      "title": "Un concours de mangeurs de hot-dogs",
+      "points": 2
+    },
+    {
+      "description": "Ensemble de règles qu'utilisent les réseaux sociaux pour choisir le contenu montré à chaque utilisateur. Meilleur ami et pire ennemi des influenceurs du monde entier.",
+      "id": "85eabdcd250a7a4e",
+      "title": "L'algorithme",
+      "points": 1
+    },
+    {
+      "description": "Le dernier repas que Jésus-Christ a partagé avec les douze apôtres avant sa crucifixion. Le tableau de Léonard de Vinci qui le représente a échappé de peu à un bombardement pendant la Seconde Guerre mondiale.",
+      "id": "980cb9f08ba2166e",
+      "title": "La Cène",
+      "points": 2
+    },
+    {
+      "description": "Jeu d'enfants où une personne compte les yeux fermés pendant que les autres se dissimulent. Un championnat du monde pour adultes s'est autrefois tenu dans un village fantôme du nord de l'Italie.",
+      "id": "4607ef0f3ce0830c",
+      "title": "Cache-cache",
+      "points": 1
+    },
+    {
+      "description": "Petit jouet de bain jaune en forme d'oiseau aquatique. En 1992, des milliers d'exemplaires sont tombés d'un cargo dans le Pacifique, et leur voyage sert depuis à étudier les courants océaniques.",
+      "id": "514087352f094b1a",
+      "title": "Un canard en plastique",
+      "points": 1
+    },
+    {
+      "description": "Phrase conçue pour être difficile à prononcer rapidement sans trébucher sur les sons. Selon le Guinness World Records, la plus ardue en anglais parle du sixième cheikh malade et de son sixième mouton malade.",
+      "id": "87f40d1838be97a1",
+      "title": "Un virelangue",
+      "points": 3
+    }
+  ]
+}

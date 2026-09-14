@@ -92,3 +92,61 @@ Native review should pay particular attention to short mobile labels, official l
 titles in the General deck, and vocabulary that varies between Latin American countries.
 As with the Turkish draft, cards whose exact title could not be confirmed were dropped
 rather than shipped with wording that could cost a team its turn.
+
+## French (`fr-FR`)
+
+The `fr-FR` locale files in this repository are an **AI-generated draft**. They have not
+yet been reviewed by a native French translator and should not be treated as final copy
+until that review is complete.
+
+### Scope and method
+
+- `63/fr-FR.json` was translated directly from the current `en-GB` source. An older partial
+  draft in `csv/fr-FR/` was reviewed as a reference, then brought up to date with the new
+  accessibility and KIDS-mode strings.
+- `general_packs/fr-FR.json` contains 193 translations of English General cards. It has no
+  replacement cards or France-specific additions; 37 cards without one confident,
+  playable French title were dropped and recorded in
+  [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
+- General descriptions keep a useful definition and a separate fact or joke where the
+  English card has both. *Rien* intentionally keeps the source card's empty description.
+- `packs.63.pt/` and `emails/` are intentionally outside this draft's scope.
+
+### French terminology
+
+The draft uses casual, direct second-person singular forms and these equivalents:
+
+| English | French |
+| --- | --- |
+| card | carte |
+| title | titre |
+| description | description |
+| pack | pack |
+| deck | paquet |
+| round | manche |
+| turn | tour |
+| team | équipe |
+| points | points |
+| score | score |
+| clue | indice |
+| guess | deviner |
+| skip a card | passer |
+| skip a screen | ignorer |
+| penalty | pénalité |
+| game mode | mode de jeu |
+| community pack | pack communautaire |
+
+### Point changes
+
+- *A Tongue Twister* changes from 2 points to 3 as *Un virelangue*, because the standard
+  French term is less familiar than its English counterpart.
+
+### App label and review notes
+
+Register `fr-FR` in the app as **Français** with **🇫🇷**.
+
+Native review should pay particular attention to short mobile labels and official French
+titles for films, television, toys and games. The accessibility tooltips and the KIDS-mode
+text should also be checked in the actual phone layout. The official French
+title *Maman, j'ai raté l'avion !* exceeds the usual title-length budget and needs an
+in-context layout check.
