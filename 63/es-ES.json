@@ -1,0 +1,378 @@
+{
+  "common": {
+    "game_mode": "Modo de juego",
+    "teams": "Equipos",
+    "team": "Equipo",
+    "add_team": "Añadir equipo",
+    "skipping": "Pasar cartas",
+    "skipping_tooltip": "Al activarlo, se pueden pasar cartas pulsando el botón de pasar o deslizando hacia la izquierda.",
+    "penalty": "Penalización",
+    "penalty_tooltip": "Cuántos segundos se restan del turno cada vez que se pasa una carta.",
+    "seconds": "Segundos",
+    "options": "Opciones",
+    "rounds": "Rondas",
+    "rounds_tooltip": "Cuántas rondas tiene la partida.\n\nPuedes crear rondas personalizadas como:\n• Dibujar las cartas\n• Solo los brazos desde detrás del sofá\n• Solo la cabeza desde detrás del sofá\n• Mímica bajo una sábana\n• Danza interpretativa",
+    "time": "Tiempo",
+    "time_tooltip": "Cuánto dura el turno de cada jugador, en segundos.",
+    "loop_skipped_cards": "Recuperar cartas pasadas",
+    "loop_skipped_cards_tooltip": "Al activarlo, las cartas pasadas pueden volver a salir más tarde durante el mismo turno.",
+    "preview_score": "Ver puntuación",
+    "preview_score_tooltip": "Al activarlo, se muestra la puntuación actual al final de cada turno.\nAl desactivarlo, solo se revela al terminar la partida.",
+    "hide_descriptions": "Ocultar descripciones",
+    "hide_descriptions_tooltip": "Al activarlo, las descripciones de las cartas se ocultan durante la partida.",
+    "deck": "Mazo",
+    "size": "Tamaño",
+    "packs": "Packs",
+    "new_badge": "NUEVO",
+    "cards": "Cartas",
+    "short_game": "Partida corta",
+    "regular_game": "Partida normal",
+    "long_game": "Partida larga",
+    "settings": "Ajustes",
+    "language": "Idioma",
+    "about": "Acerca de",
+    "credits": "Créditos",
+    "legal_stuff": "Información legal",
+    "privacy_policy": "Política de privacidad",
+    "terms_and_conditions": "Términos y condiciones",
+    "licences": "Licencias",
+    "ad_privacy": "Privacidad de anuncios",
+    "contact_us": "Contacto",
+    "sound": "Sonido",
+    "sound_tooltip": "Al activarlo, el juego reproduce efectos de sonido.",
+    "show_rule_tooltips": "Mostrar reglas",
+    "show_rule_tooltips_tooltip": "Al activarlo, las reglas aparecen como pequeños recordatorios durante la partida.",
+    "accessibility": "Accesibilidad",
+    "app_size": "Tamaño de la app",
+    "app_size_tooltip": "Aumenta el tamaño del texto y los botones de toda la app.",
+    "card_text_size": "Texto de las cartas",
+    "card_text_size_tooltip": "Aumenta el título y la descripción de las cartas durante la partida.",
+    "high_contrast": "Contraste alto",
+    "high_contrast_tooltip": "Oscurece el texto tenue y fuerza colores de texto legibles sobre los colores de packs y equipos.",
+    "legible_font": "Fuente legible",
+    "legible_font_tooltip": "Cambia el texto de la app a Atkinson Hyperlegible, una fuente diseñada para distinguir fácilmente letras y números parecidos.",
+    "leave": "Salir",
+    "rules": "Reglas",
+    "resume": "Reanudar",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "round": "Ronda",
+    "start_turn": "Empezar turno",
+    "skip": "Pasar",
+    "game_paused": "Partida en pausa",
+    "leave_game": "Salir",
+    "leave_game_tooltip": "¿Seguro que quieres salir de la partida? Se perderá el progreso.",
+    "end_turn": "Terminar turno",
+    "end_round": "Terminar ronda",
+    "end_game": "Terminar",
+    "game_over": "Fin de la partida",
+    "its_a_tie": "¡Empate!",
+    "times_up": "¡Se acabó el tiempo!",
+    "no_more_cards": "¡No quedan cartas!",
+    "exit": "Salir",
+    "play": "Jugar",
+    "start_game": "Empezar partida",
+    "continue": "Continuar",
+    "support_button": "Apoyar",
+    "rate_title": "¿Te gusta 63?",
+    "rate_subtitle": "Valora el juego para ayudarnos a llegar a más gente",
+    "back": "Atrás",
+    "ok": "Vale",
+    "recover_game_title": "Reanudar partida",
+    "recover_game_description": "Tu última partida no terminó. ¿Quieres reanudarla?",
+    "recover_game_resume": "Reanudar",
+    "recover_game_ignore": "Ignorar",
+    "cards_left": "Quedan {count} cartas",
+    "see_more": "Ver más",
+    "see_less": "Ver menos"
+  },
+  "mode": {
+    "classic": {
+      "title": "Clásico",
+      "description": "Las reglas de siempre. ¡Tres rondas, dos equipos y un ganador!"
+    },
+    "chill": {
+      "title": "Tranquilo",
+      "description": "¡Sin puntos ni penalizaciones y todos juegan juntos!"
+    },
+    "competitive": {
+      "title": "Competitivo",
+      "description": "Para quienes disfrutan compitiendo.\nPasar tiene penalización."
+    },
+    "blitz": {
+      "title": "Relámpago",
+      "description": "¡Menos cartas, menos tiempo y no se puede pasar!"
+    },
+    "custom": {
+      "title": "Personalizado",
+      "description": "¿Por qué jugar con nuestras reglas?\nCrea tu propio modo."
+    }
+  },
+  "rules": {
+    "skip": "Omitir",
+    "start": "Empezar",
+    "next": "Siguiente",
+    "lets_go": "¡Vamos!",
+    "know_more": "Saber más...",
+    "home": {
+      "call_to_action": "Bienvenido a"
+    },
+    "deck": {
+      "title": "63 es un juego de adivinar cartas",
+      "text": "Los equipos compiten para conseguir la mayor puntuación.",
+      "info": "Cada partida genera un mazo nuevo con cartas de varios packs."
+    },
+    "example_card": {
+      "title": "Una carta de ejemplo",
+      "description": "Solo es un ejemplo. Las cartas reales son personas, películas y cosas que adivinar. Además, suelen tener una segunda línea con un dato curioso o una pequeña broma."
+    },
+    "example_card_2": {
+      "title": "Una mancha en la pantalla",
+      "description": "Ha desaparecido antes de que pudieras leerla, ¿verdad? Odio cuando pasa eso. ¡Juraría que había algo ahí!"
+    },
+    "example_card_3": {
+      "title": "Otra carta de ejemplo",
+      "description": "No se suponía que fueras a leer esto. Pero ya que lo has hecho, dime qué te ha parecido."
+    },
+    "example_card_4": {
+      "title": "¿Lo has visto?",
+      "description": "¿No? Ha pasado demasiado rápido. ¿Qué era? Nadie lo sabe, pero quizá era importante."
+    },
+    "example_card_5": {
+      "title": "Una carta graciosa",
+      "description": "La carta más graciosa jamás escrita, aunque nadie la leerá porque pasa volando. Irónico, ¿no?"
+    },
+    "cards": {
+      "title": "Cada carta representa un concepto",
+      "text": "Puede ser cualquier cosa, desde personajes históricos hasta referencias de la cultura popular",
+      "points": "Puntos",
+      "card_title": "Título",
+      "card_description": "Descripción",
+      "info": "Una carta solo cuenta si se dice el título entero y en el orden correcto.",
+      "more_info": "Cada carta tiene una breve descripción por si no conoces el concepto. Úsala como punto de partida para tus pistas, pero no te limites a leerla.\n\nEs vuestra partida, así que podéis ser tan estrictos o flexibles con las reglas como queráis."
+    },
+    "default_card": {
+      "title": "Solo en casa",
+      "description": "Comedia de 1990 protagonizada por Macaulay Culkin sobre un niño que se queda atrás y se enfrenta a unos ladrones en la residencia familiar."
+    },
+    "teams": {
+      "title": "Dos equipos se turnan para adivinar cartas",
+      "text": "Un jugador da pistas mientras su equipo intenta adivinar el título de la carta",
+      "info": "Todos deben dar pistas una vez antes de que alguien repita."
+    },
+    "turn": {
+      "title": "Cada turno dura 63 segundos",
+      "text": "Durante un **turno**, el equipo que juega adivina tantas cartas como pueda",
+      "info": "El jugador que da las pistas sostiene el teléfono."
+    },
+    "rounds": {
+      "title": "La partida tiene 3 rondas",
+      "text": "Cada **ronda** se compone de muchos **turnos** y termina cuando se han adivinado todas las cartas del mazo",
+      "current_round": "Ronda\nactual",
+      "info": "Las tres rondas se juegan con el mismo mazo.",
+      "more_info": "Al principio de cada ronda se baraja el mazo y se vuelve a jugar.\n\nPresta atención durante los turnos rivales: las cartas que adivinen volverán en rondas posteriores."
+    },
+    "round1": {
+      "title": "Ronda 1",
+      "subtitle": "Palabras prohibidas",
+      "text": "Describe la carta como quieras, pero no puedes decir ninguna palabra de su título",
+      "clue1": "Película navideña sobre quedarse solo en una casa",
+      "clue2": "¡Con Macaulay Culkin!",
+      "info": "Para «Solo en casa», no puedes decir «solo» ni «casa».",
+      "more_info": "Las preposiciones no cuentan como palabras prohibidas.\n\nSi se dice una palabra prohibida y se adivina la carta, el otro equipo puede impugnarla y se marcará como incorrecta al final del turno.",
+      "note": "Palabras prohibidas",
+      "note_description": "No puedes usar palabras del título de la carta"
+    },
+    "round2": {
+      "title": "Ronda 2",
+      "subtitle": "Una sola palabra",
+      "text": "Solo puedes dar una palabra como pista, sin sonidos ni gestos",
+      "clue": "¡Kevin!",
+      "info": "Recuerda: todas las cartas ya aparecieron en la ronda 1.",
+      "more_info": "Para llegar a la ronda 2, hay que adivinar todas las cartas en la ronda 1.\n\nLas cartas no cambian, ¡pero dar pistas se vuelve más difícil en cada ronda!",
+      "note": "Una palabra",
+      "note_description": "Solo puedes dar pistas de una palabra."
+    },
+    "round3": {
+      "title": "Ronda 3",
+      "subtitle": "Mímica",
+      "text": "¡Nada de palabras, solo gestos y sonidos!",
+      "clue": "😱",
+      "note": "Mímica",
+      "note_description": "¡Las palabras están prohibidas, solo gestos y sonidos!"
+    },
+    "controls": {
+      "guess_text": "Si tu equipo adivina la carta, pulsa el botón de acierto **CHECK_ICON**",
+      "skip_text": "¿No sabes qué decir o quieres otra carta? Pulsa **Pasar**",
+      "info": "También puedes marcar cartas como acertadas o pasadas deslizando el dedo.",
+      "more_info": "Desliza a la derecha para marcarla como acertada y a la izquierda para pasar. Las cartas pasadas permanecen en el mazo y vuelven más tarde en la misma ronda, así que tendrás otra oportunidad.\n\nEn el modo Clásico pasar no cuesta nada, ¡no te quedes mirando el reloj!"
+    },
+    "post_turn": {
+      "summary_text": "Después de tu **turno** verás un resumen de todas las cartas acertadas y pasadas",
+      "controls_text": "Aquí puedes cambiar el resultado de cualquier carta si se incumplió una regla o hubo un error durante la partida",
+      "note": "Resumen del turno",
+      "note_description": "Aquí puedes cambiar el resultado de las cartas si cometiste un error o incumpliste alguna regla."
+    },
+    "end_turn": {
+      "end_turn_text": "Pulsa **Terminar turno** para ceder el juego al siguiente equipo y pasa el teléfono.",
+      "round_text": "La **ronda actual** y sus reglas continúan hasta que se hayan adivinado todas las cartas del mazo.",
+      "info": "¡No olvides terminar tu turno antes de pasar el teléfono!",
+      "more_info": "Si no lo haces, el siguiente jugador podría ver cartas que se pasaron en esta ronda y siguen en juego."
+    },
+    "end_game": {
+      "title": "La partida termina tras la ronda 3",
+      "subtitle": "Gana el equipo con más puntos, ¡pero eso ya lo sabías!"
+    }
+  },
+  "support": {
+    "title": "¡Quita los anuncios y apoya 63!",
+    "description": "63 es un proyecto independiente y tu contribución ayuda a mantenerlo y desarrollarlo.",
+    "select_option": "Elige una opción",
+    "standard": {
+      "title": "Estándar",
+      "description": "Elimina todos los anuncios del juego para siempre."
+    },
+    "fan": {
+      "title": "Fan de 63",
+      "description": "Elimina todos los anuncios para siempre y demuestra tu apoyo al proyecto."
+    },
+    "contribute": "Contribuir",
+    "thank_you": {
+      "card_title": "Gracias",
+      "card_description": "63 es un proyecto personal e independiente que he creado por completo en mi tiempo libre. He puesto mucho cariño y esfuerzo en intentar ofrecer la mejor experiencia posible. Mi más sincero agradecimiento, ¡y espero que disfrutes jugando a 63 tanto como yo disfruté creándolo!",
+      "author": "Paulo Correia"
+    },
+    "no_internet": {
+      "title": "Sin internet",
+      "description": "Comprueba tu conexión a internet"
+    },
+    "error": {
+      "title": "Algo ha salido mal",
+      "description": "No hemos podido cargar las opciones de apoyo. Inténtalo de nuevo",
+      "retry": "Reintentar"
+    },
+    "restore_purchases": "Restaurar compras",
+    "restore_purchases_error": "Error al restaurar las compras"
+  },
+  "credits": {
+    "created_by": "Creado por",
+    "sound": "Sonido",
+    "cards": "Cartas",
+    "localisation": "Localización",
+    "design_help": "Ayuda con el diseño",
+    "special_thanks": "Agradecimientos especiales",
+    "everyone_who_believed": "y a todos los que\ncreyeron en mí",
+    "font": "Fuente",
+    "by": "por",
+    "developed_with": "Desarrollado con",
+    "made_in": "Hecho en",
+    "portugal": "Portugal 🇵🇹",
+    "and_thank_you": "...y gracias a ti,",
+    "for_playing": "por jugar"
+  },
+  "deck": {
+    "use_only_unplayed": "Solo cartas no jugadas",
+    "use_only_unplayed_tooltip": "Solo se usarán cartas que no hayan aparecido en partidas anteriores. Si no hay suficientes, la partida empezará con menos cartas.",
+    "kids_mode": "Modo KIDS",
+    "kids_mode_label": "Modo {kids}",
+    "kids_mode_tooltip": "Oculta cartas y packs de la comunidad que no son adecuados para niños. Los packs privados siempre aparecen.",
+    "distribution": "Distribución de cartas",
+    "not_enough_cards": "El mazo solo tendrá {count} cartas",
+    "no_cards_available": "No hay cartas disponibles para crear un mazo",
+    "all_cards_played": "Todas las cartas jugadas",
+    "only_n_available": "Solo hay {count} disponibles",
+    "unassigned": "Sin asignar: {count}",
+    "reset": "Restablecer"
+  },
+  "packs": {
+    "add_packs": "Añadir packs",
+    "create_packs_title": "Crea tus propios packs",
+    "create_packs_description": "¡Escribe cartas, colabora con amigos y comparte tus packs con todo el mundo!",
+    "featured_title": "Destacados",
+    "community_title": "Comunidad",
+    "community_empty": "Aún no hay packs. ¡Sé el primero en enviar uno!",
+    "filter_popular": "Popular",
+    "filter_new": "Nuevo",
+    "filter_language": "Idioma",
+    "language_picker_title": "Idioma",
+    "language_any": "Cualquier idioma",
+    "by_author": "de {name}",
+    "by_author_plus": "de {name} +{count}",
+    "code_input_placeholder": "¿Tienes un código de pack?",
+    "details_title": "Detalles",
+    "pack_not_found": "Este pack ya no está disponible.",
+    "featured_pill": "Destacado",
+    "official_pill": "Oficial",
+    "info_language": "Idioma",
+    "info_cards": "Cartas",
+    "info_likes": "Me gusta",
+    "about_section": "Sobre este pack",
+    "contributors_section": "Colaboradores",
+    "sample_cards_title": "Cartas de muestra",
+    "all_cards_title": "Todas las cartas",
+    "sample_cards_count": "{shown} de {total}",
+    "spoiler_warning_title": "Atención: puede haber spoilers",
+    "spoiler_warning_body": "Puedes echar un vistazo a algunas cartas antes de añadirlo, pero perderás la sorpresa durante la partida.",
+    "spoiler_reveal": "Mostrar igualmente",
+    "see_all_cards": "Ver las {count} cartas",
+    "reveal_all_title": "¿Mostrar todas las cartas?",
+    "reveal_all_body": "Verás las {count} cartas de este pack. Resulta útil para elegir, pero estropea la sorpresa si vas a jugar.",
+    "reveal_all_confirm": "Mostrar",
+    "announcement_title": "¡Crea tus propios packs!",
+    "announcement_body": "¡Ya puedes crear packs con tus propias cartas, colaborar con amigos y compartirlos con todo el mundo!\n\nVe a {link} para empezar.",
+    "code_hint": "ABC123",
+    "add_pack_button": "Añadir pack",
+    "already_added": "Ya está en tu colección",
+    "pack_added_hidden_kids": "Se ha añadido {name}. Está oculto mientras el modo KIDS está activado.",
+    "watch_ad_title": "Pausa publicitaria",
+    "watch_ad_body": "Las cuentas gratuitas deben ver un anuncio breve antes de añadir un pack. Así ayudamos a que 63 siga funcionando y sea gratis para todos.",
+    "watch_ad_button": "Ver anuncio",
+    "watch_ad_remove_cta": "Quitar anuncios",
+    "pack_added": "¡Se ha añadido {name}!",
+    "error_empty_code": "Introduce un código de pack",
+    "error_not_found": "No se ha encontrado el pack. Comprueba el código e inténtalo de nuevo.",
+    "error_network": "Error de red. Comprueba tu conexión.",
+    "load_error": "No se han podido cargar los packs de la comunidad.",
+    "load_retry": "Reintentar",
+    "load_more": "Cargar más",
+    "updated": "Actualizado",
+    "played_count": "{played}/{total} jugadas",
+    "delete_pack_button": "Eliminar",
+    "delete_pack_description": "Siempre puedes volver a añadirlo más tarde.",
+    "pack_deleted": "{name} eliminado",
+    "report_pack_title": "Denunciar este pack",
+    "report_pack_description": "Cuéntanos qué ocurre para que podamos revisarlo.",
+    "report_reason_inappropriate": "Contenido inapropiado",
+    "report_reason_spam": "Spam",
+    "report_reason_copyright": "Infracción de derechos de autor",
+    "report_reason_other": "Otro",
+    "report_note_hint": "Añade una nota (opcional)",
+    "report_submit": "Enviar",
+    "report_submitted": "Pack denunciado",
+    "report_already_submitted": "Ya has denunciado este pack",
+    "report_failed": "No se ha podido enviar la denuncia. Inténtalo de nuevo."
+  },
+  "post_game": {
+    "liked_packs_title": "¿Te han gustado estos packs?",
+    "leave_a_like": "Dales a Me gusta para que más gente pueda encontrarlos",
+    "stats_title": "Estadísticas",
+    "game_time": "Duración",
+    "turns": "Turnos jugados",
+    "cards_title": "Cartas",
+    "col_guesses": "Acertadas",
+    "col_skips": "Pasadas",
+    "points_per_round_title": "Puntos por ronda",
+    "round_short": "R{round}",
+    "total": "Total",
+    "best_turn": "Mejor turno",
+    "worst_turn": "Peor turno",
+    "cards_unit": "cartas",
+    "skips_unit": "pases",
+    "points_unit": "puntos",
+    "in_round": "en R{round}",
+    "toughest_card": "Carta más difícil",
+    "easiest_card": "Carta más fácil",
+    "skipped_n_times": "Pasada {count}×",
+    "easiest_subtitle": "Pasada {skips}× · media de {avg}s"
+  }
+}

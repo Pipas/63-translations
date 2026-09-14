@@ -1,0 +1,612 @@
+{
+  "common": {
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "close": "Cerrar",
+    "delete": "Eliminar",
+    "or": "o",
+    "loading": "Cargando..."
+  },
+  "auth": {
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "confirmPassword": "Confirmar contraseña",
+    "username": "Nombre de usuario",
+    "login": {
+      "title": "Iniciar sesión",
+      "action": "Iniciar sesión"
+    },
+    "register": {
+      "title": "Registrarse",
+      "action": "Registrarse"
+    },
+    "continueWithGoogle": "Continuar con Google",
+    "continueWithEmail": "Continuar con el correo",
+    "continueWithoutAccount": "Continuar sin cuenta",
+    "dontHaveAccount": "¿No tienes cuenta?",
+    "alreadyHaveAccount": "¿Ya tienes cuenta?",
+    "createAccount": {
+      "title": "Crear cuenta",
+      "action": "Crear cuenta"
+    },
+    "placeholder": {
+      "email": "tu@ejemplo.com",
+      "password": "••••••••",
+      "confirmPassword": "Repite tu contraseña",
+      "username": "Tu nombre"
+    },
+    "forgotPassword": "¿Has olvidado la contraseña?",
+    "resetPassword": {
+      "title": "Restablecer contraseña",
+      "action": "Restablecer contraseña"
+    },
+    "newPassword": "Nueva contraseña",
+    "sendResetEmail": "Enviar correo de recuperación",
+    "resetEmailSent": "Revisa tu correo",
+    "resetEmailSentDescription": "Hemos enviado un enlace para restablecer la contraseña a {{email}}. Revisa tu bandeja de entrada y sigue el enlace.",
+    "resetPasswordSuccess": "Contraseña restablecida. Ya puedes iniciar sesión con la nueva contraseña.",
+    "backToLogin": "Volver",
+    "errors": {
+      "userNotFound": "No hay ninguna cuenta con este correo.",
+      "wrongPassword": "Contraseña incorrecta.",
+      "invalidEmail": "Dirección de correo no válida.",
+      "networkError": "Error de red. Comprueba tu conexión.",
+      "invalidCredential": "Correo o contraseña no válidos.",
+      "popupCancelled": "Se ha cancelado el inicio de sesión.",
+      "accountExists": "Ya existe una cuenta con el mismo correo.",
+      "loginFailed": "No se ha podido iniciar sesión. Inténtalo de nuevo.",
+      "emailInUse": "Ya existe una cuenta con este correo.",
+      "weakPassword": "La contraseña es demasiado débil.",
+      "registrationFailed": "No se ha podido completar el registro. Inténtalo de nuevo.",
+      "credentialInUse": "Estas credenciales ya están asociadas a otra cuenta.",
+      "providerAlreadyLinked": "Esta cuenta ya está vinculada a un proveedor.",
+      "upgradeFailed": "No se ha podido actualizar la cuenta. Inténtalo de nuevo.",
+      "continueFailed": "No se ha podido continuar. Inténtalo de nuevo.",
+      "expiredActionCode": "Este enlace ha caducado. Solicita uno nuevo.",
+      "invalidActionCode": "Este enlace no es válido o ya se ha utilizado.",
+      "resetFailed": "No se ha podido restablecer la contraseña. Inténtalo de nuevo.",
+      "userDisabled": "Esta cuenta está desactivada."
+    }
+  },
+  "validation": {
+    "required": {
+      "email": "El correo es obligatorio",
+      "password": "La contraseña es obligatoria",
+      "username": "El nombre de usuario es obligatorio",
+      "name": "El nombre es obligatorio",
+      "packName": "El nombre del pack es obligatorio",
+      "confirmPassword": "Confirma tu contraseña"
+    },
+    "invalidEmail": "Dirección de correo no válida",
+    "passwordMinLength": "La contraseña debe tener al menos 6 caracteres",
+    "usernameMinLength": "El nombre de usuario debe tener al menos 2 caracteres",
+    "usernameMaxLength": "El nombre de usuario debe tener menos de 50 caracteres",
+    "nameMinLength": "El nombre debe tener al menos 2 caracteres",
+    "nameMaxLength": "El nombre debe tener menos de 50 caracteres",
+    "passwordsDoNotMatch": "Las contraseñas no coinciden",
+    "contrastError": "El color de acento no tiene suficiente contraste con el color principal"
+  },
+  "home": {
+    "packs": "Packs",
+    "myPacks": "Mis packs",
+    "newPack": "Nuevo pack",
+    "newPackSubtitle": "Crea un pack nuevo",
+    "invitedPacks": "Compartidos",
+    "emptyInvited": "Todavía no hay packs compartidos. ¡Únete a uno con una invitación!",
+    "emptyNoAccount": "Todavía no hay packs. Únete a uno con un enlace de invitación o crea una cuenta para hacer el tuyo.",
+    "packAuthor": "de {{name}}",
+    "deployed": "Publicado en la comunidad"
+  },
+  "pack": {
+    "cards": "Cartas",
+    "publish": "Publicar",
+    "collaboration": "Colaboración",
+    "editPack": "Editar pack",
+    "loadingPack": "Cargando pack...",
+    "kickedMessage": "Ya no colaboras en «{{name}}»",
+    "canOnlyEditOwnCards": "Solo puedes editar tus propias cartas",
+    "lockedForReview": "El pack está en revisión y no se puede editar",
+    "newPack": "Nuevo pack",
+    "createPack": "Crear pack",
+    "savePack": "Guardar pack",
+    "details": {
+      "name": "Nombre",
+      "description": "Descripción",
+      "lookAndFeel": "Aspecto"
+    },
+    "appearance": {
+      "back": "Reverso",
+      "front": "Anverso",
+      "swap": "Intercambiar anverso y reverso",
+      "flip": "Girar",
+      "resetAll": "Restablecer todo",
+      "randomize": "Generar al azar",
+      "color": "Color del pack",
+      "accent": "Color del texto",
+      "shuffleEmojis": "Cambiar emojis al azar",
+      "shuffleAll": "Cambiar emojis y colores al azar",
+      "undo": "Deshacer último cambio",
+      "editPackCover": "Editar portada del pack",
+      "editPackColours": "Editar colores del pack",
+      "packCover": "Portada",
+      "packColours": "Colores"
+    },
+    "transfer": {
+      "title": "Importar y exportar",
+      "description": "Guarda tus cartas en un archivo o impórtalas desde uno.",
+      "exportPack": {
+        "title": "Exportar pack",
+        "subtitle": "Descarga el pack y sus cartas como archivo .json."
+      },
+      "exportCards": {
+        "title": "Exportar cartas",
+        "subtitle": "Descarga las cartas como archivo .csv para abrirlo en una hoja de cálculo."
+      },
+      "importCards": {
+        "title": "Importar cartas",
+        "subtitle": "Añade cartas desde un archivo .csv o .json."
+      },
+      "import": {
+        "title": "Importar cartas",
+        "intro": "Elige un archivo .csv o .json.",
+        "importing": "Importando cartas...",
+        "templateHint": "¿No sabes qué aspecto debe tener? Descarga una <csv>plantilla .csv</csv> o una <json>plantilla .json</json>.",
+        "template": {
+          "packName": "Nombre del pack",
+          "packDescription": "De qué trata este pack",
+          "cardTitle": "Carta {{number}}",
+          "cardDescription": "Descripción {{number}}"
+        },
+        "chooseFile": "Elegir archivo",
+        "chooseAnother": "Elegir otro",
+        "found_one": "{{count}} carta en este archivo",
+        "found_other": "{{count}} cartas en este archivo",
+        "cardsOnlyNote": "Solo se importan las cartas. Este pack conserva su nombre y aspecto.",
+        "detailsOwnerOnlyNote": "Solo el propietario puede cambiar el nombre y el aspecto del pack, así que solo se importarán las cartas.",
+        "previewSection": "Cartas que se importarán",
+        "duplicateBadge": "Ya está en el pack",
+        "andMore_one": "y {{count}} más",
+        "andMore_other": "y {{count}} más",
+        "skippedSection_one": "{{count}} carta omitida",
+        "skippedSection_other": "{{count}} cartas omitidas",
+        "untitledRow": "Sin título",
+        "rowNumber": "Fila {{row}}",
+        "skipReason": {
+          "missingTitle": "Esta carta no tiene título.",
+          "invalidPoints": "Los puntos deben ser 1, 2 o 3.",
+          "titleTooLong": "Este título supera los {{max}} caracteres.",
+          "descriptionTooLong": "Esta descripción supera los {{max}} caracteres."
+        },
+        "optionsSection": "Opciones de importación",
+        "modeSection": "Cómo importar",
+        "modeAdd": "Añadir al pack",
+        "modeAddDescription_one": "Conservar la carta que ya está en el pack",
+        "modeAddDescription_other": "Conservar las {{count}} cartas que ya están en el pack",
+        "modeReplace": "Sustituir todas las cartas",
+        "modeReplaceDescription_one": "Eliminar primero la carta que ya está en el pack",
+        "modeReplaceDescription_other": "Eliminar primero las {{count}} cartas que ya están en el pack",
+        "skipDuplicates_one": "Omitir {{count}} carta que ya está en el pack",
+        "skipDuplicates_other": "Omitir {{count}} cartas que ya están en el pack",
+        "applyDetails": "Usar también el nombre y el aspecto de este archivo",
+        "confirm_one": "Importar {{count}} carta",
+        "confirm_other": "Importar {{count}} cartas",
+        "confirmDetailsOnly": "Aplicar nombre y aspecto"
+      },
+      "error": {
+        "empty": "Este archivo no contiene cartas.",
+        "invalidJson": "Este archivo no es un JSON válido.",
+        "notAPackFile": "Esto no parece un archivo de pack de 63.",
+        "unsupportedVersion": "Este archivo procede de una versión más reciente del sitio. Recarga la página e inténtalo de nuevo.",
+        "unsupportedFile": "Solo se pueden importar archivos .csv y .json.",
+        "unreadable": "No se ha podido leer este archivo.",
+        "tooManyCards": "El resultado tendría {{total}} cartas. Un pack admite {{max}}.",
+        "tooLarge": "Esta importación es demasiado grande. Divídela en archivos más pequeños o acorta las descripciones."
+      }
+    },
+    "dangerZone": "Zona peligrosa",
+    "dangerDescription": "Eliminar este pack es permanente y no se puede deshacer.",
+    "deletePack": "Eliminar pack",
+    "summary": {
+      "author": "de {{name}}",
+      "cardCount_one": "{{count}} carta",
+      "cardCount_other": "{{count}} cartas",
+      "hint": "Pide al propietario del pack un enlace de edición para colaborar."
+    }
+  },
+  "publish": {
+    "addTo63Section": {
+      "title": "Añadir a 63"
+    },
+    "openInApp": {
+      "title": "Abrir en la app",
+      "subtitle": "Añade este pack a tu colección."
+    },
+    "shareLink": {
+      "title": "Compartir enlace",
+      "subtitle": "Envía un enlace a un amigo.",
+      "byAuthor": "de {{author}}",
+      "tagline": "Un pack para el juego 63"
+    },
+    "copyCode": {
+      "title": "Copiar código",
+      "subtitle": "Pégalo manualmente en 63."
+    },
+    "communitySection": {
+      "title": "Comunidad"
+    },
+    "submit": {
+      "title": "¡Envía tu pack!",
+      "subtitle": "Compártelo con la comunidad de 63.",
+      "cta": "Enviar",
+      "minCards": "Añade al menos {{required}} cartas para enviar este pack. Ahora tienes {{current}}."
+    },
+    "community": {
+      "pending": {
+        "title": "Envío en revisión",
+        "meta": "Enviado el {{date}}",
+        "body": "Un moderador revisará tu pack en un plazo de 1 a 3 días.",
+        "withdraw": "Retirar envío"
+      },
+      "approved": {
+        "title": "Aprobado y publicado",
+        "meta": "Aprobado el {{date}}",
+        "reviewerNote": "Una nota de quien lo ha revisado:",
+        "stats": {
+          "likes": "Me gusta",
+          "plays": "Partidas"
+        },
+        "withdraw": "Retirar de la comunidad",
+        "moreActions": "Más acciones"
+      },
+      "update": {
+        "title": "Publicado, pero desactualizado",
+        "meta_one": "{{count}} cambio desde la aprobación",
+        "meta_other": "{{count}} cambios desde la aprobación",
+        "body": "Has editado este pack desde que se aprobó. Vuelve a enviarlo para publicar la nueva versión.",
+        "cta": "Volver a enviar"
+      },
+      "rejected": {
+        "title": "Envío no aprobado",
+        "meta": "Revisado el {{date}}",
+        "cta": "Volver a enviar"
+      },
+      "updateRejected": {
+        "title": "Actualización no aprobada",
+        "meta": "Revisada el {{date}}",
+        "body": "Los últimos cambios no se han aprobado, pero la versión aprobada anteriormente sigue publicada en los packs de la comunidad.",
+        "liveSince": "Publicado desde el {{date}}",
+        "cta": "Editar y reenviar"
+      },
+      "diff": {
+        "viewChanges": "Ver cambios",
+        "title": "Cambios desde la última versión aprobada",
+        "loading": "Cargando la versión publicada…",
+        "unavailable": "No se ha podido cargar la versión aprobada anteriormente.",
+        "noChanges": "No hay cambios en las cartas desde la última versión aprobada.",
+        "newSection_one": "{{count}} carta nueva",
+        "newSection_other": "{{count}} cartas nuevas",
+        "modifiedSection_one": "{{count}} carta modificada",
+        "modifiedSection_other": "{{count}} cartas modificadas",
+        "removedSection_one": "{{count}} carta eliminada",
+        "removedSection_other": "{{count}} cartas eliminadas",
+        "previously": "Antes",
+        "field": {
+          "title": "Título",
+          "description": "Descripción",
+          "points": "Puntos"
+        },
+        "empty": "(vacío)"
+      },
+      "removed": {
+        "title": "Retirado de la comunidad",
+        "meta": "Retirado el {{date}}",
+        "body": "Un moderador ha retirado este pack de los packs de la comunidad. Puedes editarlo y volver a enviarlo cuando quieras.",
+        "cta": "Volver a enviar"
+      },
+      "withdrawn": {
+        "title": "Retirado de la comunidad",
+        "meta": "Retirado el {{date}}",
+        "body": "Has retirado este pack de los packs de la comunidad. Puedes volver a enviarlo cuando quieras.",
+        "cta": "Volver a enviar"
+      },
+      "withdrawConfirm": {
+        "title": "¿Retirar de la comunidad?",
+        "description": "«{{name}}» se retirará de los packs de la comunidad y se eliminará para todos los que lo hayan instalado la próxima vez que abran 63. Podrás volver a enviarlo más adelante.",
+        "confirm": "Retirar"
+      },
+      "toast": {
+        "withdrawn": "Envío retirado",
+        "withdrawFailed": "No se ha podido retirar el envío",
+        "withdrawnApproved": "Pack retirado de la comunidad",
+        "withdrawApprovedFailed": "No se ha podido retirar el pack"
+      }
+    }
+  },
+  "submit": {
+    "title": "Enviar a la comunidad",
+    "titleResubmit": "Volver a enviar a la comunidad",
+    "infoBanner": "Una vez aprobado, este pack aparecerá en los packs de la comunidad de 63. Vuelve a enviarlo cuando quieras para publicar los cambios.",
+    "language": {
+      "title": "Idioma del pack",
+      "subtitle": "El idioma en el que están escritas la mayoría de las cartas.",
+      "placeholder": "Elige un idioma"
+    },
+    "kids": {
+      "title": "Modo KIDS",
+      "subtitle": "El modo KIDS de la app solo muestra packs aptos para niños. Un moderador comprobará tu respuesta.",
+      "checkbox": "Este pack es apto para niños"
+    },
+    "agreement": "Confirmo que este pack cumple las <guidelines>normas de la comunidad de 63</guidelines> y no contiene discursos de odio, datos privados de otras personas ni textos de cartas protegidos por derechos de autor.",
+    "cta": {
+      "submit": "Enviar a revisión",
+      "resubmit": "Volver a enviar"
+    },
+    "toast": {
+      "submitted": "¡Pack enviado a revisión!",
+      "failed": "No se ha podido enviar el pack"
+    }
+  },
+  "share": {
+    "dontHaveApp": "¿Aún no tienes 63?",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "notFound": "No se ha encontrado el pack",
+    "notFoundDescription": "Este pack no existe o ya no está disponible."
+  },
+  "community": {
+    "notFound": "No se ha encontrado el pack de la comunidad",
+    "notFoundDescription": "Este pack de la comunidad no existe o ya no está disponible."
+  },
+  "card": {
+    "newCard": "Nueva carta",
+    "editCard": "Editar carta",
+    "viewCard": "Detalles de la carta",
+    "saveCard": "Guardar carta",
+    "addCard": "Añadir carta",
+    "title": "Título",
+    "description": "Descripción",
+    "noCards": "Todavía no hay cartas",
+    "importFromFile": "Importar desde un archivo",
+    "points_one": "punto",
+    "points_other": "puntos",
+    "difficulty": {
+      "easy": "fácil",
+      "medium": "media",
+      "hard": "difícil"
+    },
+    "authorCards": "Cartas de {{name}}",
+    "viewAllCards": "Ver todas las cartas",
+    "viewDrafts": "Ver borradores",
+    "totals": {
+      "cards": "Cartas por autor",
+      "drafts": "Borradores por autor",
+      "total": "Total"
+    },
+    "sort": {
+      "alphaAsc": "Alfabéticamente (A → Z)",
+      "alphaDesc": "Alfabéticamente (Z → A)",
+      "pointsDesc": "Puntos (de más a menos)",
+      "pointsAsc": "Puntos (de menos a más)",
+      "dateDesc": "Más recientes primero",
+      "dateAsc": "Más antiguas primero",
+      "sortOptions": "Opciones de orden",
+      "label": "Ordenar",
+      "sortBy": "Ordenar por"
+    },
+    "draft": "Borrador",
+    "info": "Información de la carta",
+    "createdAt": "Fecha de creación",
+    "filter": {
+      "myCards": "Mis cartas",
+      "allCards": "Todas las cartas",
+      "myDrafts": "Mis borradores",
+      "allDrafts": "Todos los borradores",
+      "label": "Filtros",
+      "missingDescription": "Cartas sin descripción",
+      "noMissingDescriptions": "Todas las cartas tienen descripción.",
+      "description": "Descripción",
+      "difficulty": "Dificultad",
+      "author": "Autor",
+      "clearAll": "Borrar todo",
+      "noResults": "Ninguna carta coincide con estos filtros."
+    },
+    "groupBy": {
+      "label": "Agrupar por",
+      "none": "Sin agrupar",
+      "author": "Autor",
+      "points": "Puntos"
+    },
+    "pointsGroup_one": "{{count}} punto",
+    "pointsGroup_other": "{{count}} puntos",
+    "search": {
+      "label": "Buscar",
+      "placeholder": "Buscar cartas",
+      "clear": "Borrar búsqueda",
+      "noResults": "Ninguna carta coincide con «{{query}}»."
+    },
+    "selection": {
+      "label": "Seleccionar cartas",
+      "count_one": "{{count}} carta seleccionada",
+      "count_other": "{{count}} cartas seleccionadas",
+      "empty": "Elige las cartas que quieres cambiar",
+      "selectAll": "Seleccionar todo",
+      "deselectAll": "Deseleccionar todo",
+      "setPoints": "Asignar puntos",
+      "delete": "Eliminar cartas seleccionadas",
+      "cancel": "Cancelar selección"
+    }
+  },
+  "collaboration": {
+    "accessMode": "Modo de edición",
+    "whoCanEdit": "¿Quién puede editar este pack?",
+    "private": "Privado",
+    "privateDescription": "Solo tú puedes editarlo",
+    "collaborative": "Colaborativo",
+    "collaborativeDescription": "Las personas con el enlace pueden editarlo",
+    "inviteDescription": "Comparte este enlace para que otras personas puedan unirse y colaborar en el pack.",
+    "copyEditLink": "Copiar enlace de edición",
+    "permissions": "Permisos de colaboradores",
+    "whatCanDo": "¿Qué pueden hacer los colaboradores?",
+    "addCards": "Añadir cartas",
+    "addCardsDescription": "Solo pueden añadir cartas y ver o editar las suyas",
+    "fullAccess": "Acceso completo",
+    "fullAccessDescription": "Pueden añadir y editar todas las cartas, además de los ajustes del pack",
+    "collaborators": "Colaboradores",
+    "noCollaborators": "Todavía no hay colaboradores. Comparte el enlace de edición para invitar a alguien.",
+    "noOtherCollaborators": "No hay más colaboradores.",
+    "leavePack": "Salir del pack",
+    "leaveDescription": "Ya no podrás editar este pack.",
+    "loadingSettings": "Cargando ajustes...",
+    "joined": "Se unió el {{date}}",
+    "ownerRole": "Propietario",
+    "created": "Creado el {{date}}"
+  },
+  "dialog": {
+    "deleteCard": {
+      "title": "Eliminar carta",
+      "description": "¿Seguro que quieres eliminar esta carta? Esta acción no se puede deshacer."
+    },
+    "deleteCards": {
+      "title_one": "Eliminar carta",
+      "title_other": "Eliminar {{count}} cartas",
+      "description_one": "¿Seguro que quieres eliminar esta carta? Esta acción no se puede deshacer.",
+      "description_other": "¿Seguro que quieres eliminar estas {{count}} cartas? Esta acción no se puede deshacer."
+    },
+    "deletePack": {
+      "title": "Eliminar pack",
+      "description": "¿Seguro que quieres eliminar «{{name}}»? Esta acción no se puede deshacer y se perderán todas las cartas."
+    },
+    "leavePack": {
+      "title": "Salir del pack",
+      "description": "¿Seguro que quieres salir de «{{name}}»? Ya no podrás editarlo.",
+      "confirm": "Salir"
+    },
+    "removeCollaborator": {
+      "title": "Eliminar colaborador",
+      "description": "¿Seguro que quieres eliminar a {{name}} de este pack? Ya no podrá editarlo.",
+      "confirm": "Eliminar"
+    },
+    "disableCollaboration": {
+      "title": "Desactivar colaboración",
+      "description": "Se eliminarán todos los colaboradores del pack y se restablecerán los ajustes de colaboración.",
+      "confirm": "Desactivar"
+    },
+    "similarCard": {
+      "title": "Se ha encontrado una carta similar",
+      "description": "Ya existe una carta similar:",
+      "confirm": "¿Seguro que quieres añadirla?",
+      "addAnyway": "Añadir de todos modos"
+    },
+    "unsavedChanges": {
+      "title": "Cambios sin guardar",
+      "description": "Tienes cambios sin guardar. ¿Seguro que quieres salir? Se perderán los cambios.",
+      "confirm": "Salir"
+    },
+    "deleteAccount": {
+      "title": "Eliminar cuenta",
+      "description": "¿Seguro que quieres eliminar tu cuenta? Esta acción no se puede deshacer."
+    }
+  },
+  "toast": {
+    "packSaved": "¡Pack guardado!",
+    "failedToUpdatePack": "No se ha podido actualizar el pack",
+    "packDeleted": "Se ha eliminado «{{name}}»",
+    "failedToDeletePack": "No se ha podido eliminar el pack",
+    "failedToAddCard": "No se ha podido añadir la carta",
+    "failedToUpdateCard": "No se ha podido actualizar la carta",
+    "failedToDeleteCard": "No se ha podido eliminar la carta",
+    "failedToUpdateCards": "No se han podido actualizar las cartas",
+    "failedToDeleteCards": "No se han podido eliminar las cartas",
+    "collaboratorRemoved": "Colaborador eliminado",
+    "failedToRemoveCollaborator": "No se ha podido eliminar al colaborador",
+    "failedToUpdateSettings": "No se han podido actualizar los ajustes",
+    "editLinkCopied": "¡Enlace de edición copiado!",
+    "linkCopied": "¡Enlace copiado!",
+    "failedToCopyLink": "No se ha podido copiar el enlace",
+    "appNotInstalled": "63 no está instalado en este dispositivo",
+    "codeCopied": "¡Código copiado!",
+    "failedToCopyCode": "No se ha podido copiar el código",
+    "joinedPack": "¡Te has unido al pack!",
+    "failedToJoinPack": "No te has podido unir al pack",
+    "leftPack": "Has salido de «{{name}}»",
+    "failedToLeavePack": "No has podido salir del pack",
+    "usernameUpdated": "¡Nombre de usuario actualizado!",
+    "failedToUpdateUsername": "No se ha podido actualizar el nombre de usuario",
+    "accountDeleted": "Cuenta eliminada",
+    "failedToDeleteAccount": "No se ha podido eliminar la cuenta",
+    "nameUpdatedInPack": "Tu nombre se ha actualizado en este pack",
+    "cardsImported_one": "{{count}} carta importada",
+    "cardsImported_other": "{{count}} cartas importadas",
+    "packUpdatedFromFile": "Pack actualizado desde un archivo",
+    "failedToImportCards": "No se han podido importar las cartas"
+  },
+  "join": {
+    "joinPack": "Unirse al pack",
+    "packNotFound": "No se ha encontrado el pack",
+    "packNotFoundDescription": "Este pack no existe o el enlace no es válido.",
+    "goToMyPacks": "Ir a mis packs",
+    "joiningPack": "Uniéndote al pack...",
+    "invited": "Te han invitado a colaborar en este pack.",
+    "yourName": "Tu nombre",
+    "enterYourName": "Escribe tu nombre",
+    "noAccountNote": "Puedes crear una cuenta más adelante; no perderás nada."
+  },
+  "upgrade": {
+    "heading": "Crear cuenta",
+    "continueWithoutAccount": "Continuar sin cuenta"
+  },
+  "banner": {
+    "noAccountMessage": "Todavía no tienes cuenta. Regístrate para crear tus propios packs.",
+    "createAccount": "Crear cuenta"
+  },
+  "password": {
+    "show": "Mostrar contraseña",
+    "hide": "Ocultar contraseña"
+  },
+  "emoji": {
+    "loading": "Cargando...",
+    "empty": "No se han encontrado emojis."
+  },
+  "changelog": {
+    "title": "Registro de cambios"
+  },
+  "licences": {
+    "title": "Licencias",
+    "intro": "63 Packs está creado con software de código abierto y utiliza ilustraciones de emojis e iconos de terceros. Agradecemos a todas las personas que los han puesto a disposición del público.",
+    "attributions": "Emojis e iconos",
+    "openSource": "Software de código abierto",
+    "viewLicence": "Ver licencia"
+  },
+  "guidelines": {
+    "title": "Normas de la comunidad"
+  },
+  "legal": {
+    "title": "Información legal",
+    "guidelinesDescription": "Lo que nos encanta y lo que no permitimos.",
+    "licencesDescription": "Software de código abierto e ilustraciones de emojis que utilizamos."
+  },
+  "menu": {
+    "legal": "Información legal",
+    "feedback": "Comentarios"
+  },
+  "cookies": {
+    "ariaLable": "Consentimiento de cookies",
+    "message": "Usamos cookies para mejorar 63.",
+    "accept": "Aceptar",
+    "decline": "No, gracias"
+  },
+  "account": {
+    "title": "Cuenta",
+    "username": "Nombre de usuario",
+    "usernameNote": "Tu nombre solo se actualizará cuando visites tus packs. Los antiguos conservarán tu nombre anterior hasta que los visites.",
+    "changeUsername": "Guardar nombre",
+    "language": "Idioma",
+    "english": "Inglés",
+    "portuguese": "Portugués",
+    "spanish": "Español",
+    "dangerZone": "Zona peligrosa",
+    "dangerDescription": "Eliminar tu cuenta es permanente y no se puede deshacer.",
+    "deleteAccount": "Eliminar cuenta",
+    "logout": "Cerrar sesión"
+  }
+}

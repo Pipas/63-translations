@@ -1,4 +1,6 @@
-# AI-generated Turkish translation
+# AI-generated translations
+
+## Turkish (`tr-TR`)
 
 The `tr-TR` locale files in this repository are an **AI-generated draft**. They have not
 yet been reviewed by a native Turkish translator and should not be treated as final copy
@@ -60,3 +62,33 @@ needs to answer before adding each one back.
 Two details also need an in-context native check: confirm whether Bob Usta's Turkish-dub
 catchphrase is *Halledebilir miyiz?* or *Yapabilir miyiz?*, and check whether
 `post_game.skips_unit` (*geçme*) reads naturally after a number on the stats screen.
+
+## Spanish (`es-ES` and `es-419`)
+
+The `es-ES` and `es-419` locale files in this repository are **AI-generated drafts**.
+They have not yet been reviewed by a native Spanish translator and should not be treated
+as final copy until that review is complete.
+
+### Scope and method
+
+- `es-ES` was translated directly from the `en-GB` source files first.
+- `es-419` was then derived from the completed `es-ES` draft, with regional vocabulary,
+  forms of address and locally used media titles changed where appropriate.
+- The General deck contains no replacement cards or country-specific additions. Cards
+  without a single confident, playable title were dropped and recorded in
+  [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
+- General descriptions retain a useful definition and a separate factual or comic kicker
+  wherever the English card has both.
+- Automated checks confirm matching keys, placeholders, markup and line breaks in the
+  strict locale files, and unchanged IDs, points and KIDS flags on retained General cards.
+
+### App labels and review notes
+
+Register `es-419` in the app as **Español (Latinoamérica)**. Because the locale represents
+many countries rather than one, use a neutral globe symbol such as **🌎** instead of a
+single national flag. Register `es-ES` as **Español (España)** with **🇪🇸**.
+
+Native review should pay particular attention to short mobile labels, official localised
+titles in the General deck, and vocabulary that varies between Latin American countries.
+As with the Turkish draft, cards whose exact title could not be confirmed were dropped
+rather than shipped with wording that could cost a team its turn.

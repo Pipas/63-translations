@@ -160,3 +160,116 @@ title costs a turn. Each can be added back once a native speaker answers its que
 | A Staring Contest | Bakışma Yarışı | Or *Bakışma Yarışması* / *Bakışma Oyunu*? |
 | IKEA Instructions | IKEA Talimatları | Or *IKEA Kılavuzu*? If so, the description can't use *kılavuzları*. |
 | The 1% | Yüzde Bir | Does *Yüzde Bir* work on its own as a name, or only as *en zengin yüzde bir*? |
+
+## `es-ES`
+
+**29 of the 230 English cards have no Spanish (Spain) counterpart.** The remaining 201 are
+direct translations of English cards.
+
+### English-specific idiom, wordplay or slang
+
+| Card |
+| --- |
+| 9 to 5 |
+| A Bucket List |
+| A Butt Dial |
+| A Dad Joke |
+| A Pinky Promise |
+| Brain Freeze |
+| Double Dipping |
+| Live, Laugh, Love |
+| Mary Jane |
+| One-Trick Pony |
+| The Elephant in the Room |
+| The Friendzone |
+
+### No common, recognisable Spanish title
+
+| Card |
+| --- |
+| 6-7 |
+| A Spork |
+| A Tumbleweed |
+| Big Bird |
+| Schadenfreude |
+
+### Exact Spanish title is not stable
+
+| Card |
+| --- |
+| A Cliffhanger |
+| A Crash Test Dummy |
+| A Man Bun |
+| A Staring Contest |
+| Go Directly to Jail |
+| Netflix and Chill |
+| Photobombing |
+| The Devil on Your Shoulder |
+
+### Reference would not play well
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| A Participation Trophy |
+| Jimmy Fallon's Laugh |
+| Super Bowl Halftime Show |
+
+## `es-419`
+
+**33 of the 230 English cards have no Latin American Spanish counterpart.** The remaining
+197 are derived from the `es-ES` translations, with regional vocabulary and locally used
+titles.
+
+### English-specific idiom, wordplay or slang
+
+| Card |
+| --- |
+| 9 to 5 |
+| A Bucket List |
+| A Butt Dial |
+| A Dad Joke |
+| A Pinky Promise |
+| Brain Freeze |
+| Double Dipping |
+| Live, Laugh, Love |
+| Mary Jane |
+| One-Trick Pony |
+| The Elephant in the Room |
+| The Friendzone |
+
+### No common, recognisable Latin American title
+
+| Card |
+| --- |
+| 6-7 |
+| A Pool Noodle |
+| A Spork |
+| A Tumbleweed |
+| Big Bird |
+| Hungry Hungry Hippos |
+| Schadenfreude |
+
+### Exact Latin American Spanish title is not stable
+
+| Card |
+| --- |
+| A Cliffhanger |
+| A Crash Test Dummy |
+| A Man Bun |
+| A Staring Contest |
+| Go Directly to Jail |
+| Netflix and Chill |
+| Photobombing |
+| The Devil on Your Shoulder |
+| The Ghost of Christmas Past |
+| The Monster in the Wardrobe |
+| The Tooth Fairy |
+
+### Reference would not play well
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| A Participation Trophy |
+| Jimmy Fallon's Laugh |
