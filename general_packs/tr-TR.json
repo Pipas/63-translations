@@ -15,13 +15,6 @@
       "points": 1
     },
     {
-      "description": "Aynı türden as, papaz, kız, vale ve onludan oluşan poker eli. Gelme olasılığı 649.739'da birdir; yıldırım çarpmasından yalnızca biraz daha muhtemel.",
-      "id": "26a85346d84e5d84",
-      "title": "Royal Floş",
-      "points": 1,
-      "notForKids": true
-    },
-    {
       "description": "Merkezi İsviçre'de bulunan ve Hristiyanlık ilkelerini geliştirmeyi amaçlayan dünya çapında bir gençlik örgütü. Belki de daha çok Village People'ın 1978 tarihli aynı adlı şarkısıyla tanınır.",
       "id": "ab9ada8e35619dc9",
       "title": "YMCA",
@@ -153,7 +146,7 @@
     {
       "description": "Rus Devrimi sırasında köylülerle işçi sınıfının dayanışmasını temsil etmek üzere benimsenen simge. En çok komünizmin kısaltması olarak bilinir ve Sovyetler Birliği bayrağında belirgin biçimde yer alır.",
       "id": "84826a85346d84e5",
-      "title": "Orak Çekiç",
+      "title": "Orak ve Çekiç",
       "points": 3
     },
     {
@@ -190,7 +183,7 @@
     {
       "description": "İki takımın sırayla taşları hedefe doğru kaydırdığı kış sporu. Oyuncular taşların hızını ve yönünü değiştirmek için önlerindeki buzu süpürür.",
       "id": "f4bab9ada8e35619",
-      "title": "Körling",
+      "title": "Curling",
       "points": 2
     },
     {
@@ -238,7 +231,7 @@
     {
       "description": "Orta Doğu'da geçen Disney animasyonundaki, kendi bilinci olan uçan bir ev eşyası. Uzun metrajlı bir filmde kullanılan ilk bilgisayar animasyonlu karakterlerden biriydi.",
       "id": "82b6371df91904ba",
-      "title": "Alaaddin'in Sihirli Halısı",
+      "title": "Aladdin'in Sihirli Halısı",
       "points": 1
     },
     {
@@ -256,7 +249,7 @@
     {
       "description": "Orta Çağ Fransa'sında yaşayıp Tanrı'nın kendisini İngiltere'ye karşı birliklere önderlik etmek için seçtiğine inanan köylü kızı. Büyük zaferin ardından yakalanıp kazıkta yakıldı.",
       "id": "8632cc4a02d6ad5b",
-      "title": "Jeanne d'Arc",
+      "title": "Jan Dark",
       "points": 2
     },
     {
@@ -391,12 +384,6 @@
       "description": "Sıcak tutan ayak giysisini genellikle yazın kullanılan açık ayakkabıyla birleştiren tartışmalı moda tercihi. Bu oyunun yaratıcıları uygulamayı onaylamıyor.",
       "id": "6371df91904ba61d",
       "title": "Çoraplı Sandalet",
-      "points": 2
-    },
-    {
-      "description": "İnternet sitelerinin abartılı iddialarla kullanıcıları içeri çekmek için kullandığı yaygın taktik. Sonra olanlara inanamayacaksınız!",
-      "id": "db3a884826a85346",
-      "title": "Clickbait",
       "points": 2
     },
     {
@@ -794,12 +781,6 @@
       "points": 2
     },
     {
-      "description": "Gerekli tüm bilginin yazılı olarak paylaşılabileceği hâlde gereksiz yere düzenlenen iş buluşması. Anketlere göre ofis çalışanları haftalarının yaklaşık üçte birini böyle oturumlarda harcıyor.",
-      "id": "908f592a-5281-44cc-aa69-794a92979c15",
-      "title": "E-postayla Halledilebilecek Toplantı",
-      "points": 3
-    },
-    {
       "description": "1990'ların ortasından, kendine özgü sıra dansıyla ünlü Latin pop şarkısı. Popüler remiksi ABD'de 14 hafta üst üste bir numarada kaldı; tarihin en uzun zirve serilerinden biri.",
       "id": "af0b206e-1057-495f-a4cf-b6d084c437d9",
       "title": "Macarena",
@@ -866,15 +847,9 @@
       "points": 3
     },
     {
-      "description": "Suda batmamaya ve oynamaya yarayan uzun, silindir biçimli köpük araç. Dünyadaki çocuklar asıl işlevinin yüzdürmek değil, kardeşlerine vurmak olduğunu keşfetti.",
-      "id": "11f95020-812c-418e-9c21-874e4fbe24fd",
-      "title": "Havuz Makarnası",
-      "points": 2
-    },
-    {
       "description": "Küçük plastik yapı parçasına çıplak ayakla denk gelmenin evrensel korkusu. Ayak tabanında santimetrekare başına vücudun neredeyse her yerinden daha fazla sinir ucu bulunması acıyı açıklıyor.",
       "id": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
-      "title": "Lego'ya Basmak",
+      "title": "LEGO'ya Basmak",
       "points": 2
     },
     {

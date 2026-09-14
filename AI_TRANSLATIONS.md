@@ -15,6 +15,11 @@ until that review is complete.
 - General descriptions retain a useful definition and a separate factual or comic kicker
   wherever the English card has both. *Hiçbir Şey* intentionally keeps the source card's
   empty description because the absence is the joke.
+- A source-based title audit checked retained media names, games, sports, brands and idioms
+  against Turkish publishers, rights holders, public institutions and established usage.
+  It corrected *Curling*, *Aladdin'in Sihirli Halısı*, *Jan Dark* and *Orak ve Çekiç*. Four
+  cards with several competing Turkish names were dropped, including *Clickbait*, where
+  *tık tuzağı* competes with the English word, leaving 176 cards pending native review.
 - Automated checks confirm matching keys, placeholders, markup and line breaks in the app
   file, and unchanged IDs and KIDS flags on every retained General card. Points were lowered
   for *Kuzey Işıkları* and raised for *Papamobil*, *Çarpışma Testi Mankeni* and
@@ -109,8 +114,8 @@ until that review is complete.
 - `63/fr-FR.json` was translated directly from the current `en-GB` source. An older partial
   draft in `csv/fr-FR/` was reviewed as a reference, then brought up to date with the new
   accessibility and KIDS-mode strings.
-- `general_packs/fr-FR.json` contains 193 translations of English General cards. It has no
-  replacement cards or France-specific additions; 37 cards without one confident,
+- `general_packs/fr-FR.json` contains 192 translations of English General cards. It has no
+  replacement cards or France-specific additions; 38 cards without one confident,
   playable French title were dropped and recorded in
   [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
 - General descriptions keep a useful definition and a separate fact or joke where the

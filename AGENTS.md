@@ -134,11 +134,21 @@ wording players in that country would actually say**. Dictionary-correct isn't e
   Teletubby"), which forced the team to say *bir*.
 - **Regional variants.** A variant like `es-419` needs its own titles, not the Spain ones:
   *alcancía*, *lentes*, *Las escondidas*, *Policía bueno, policía malo*.
+- **Sources settle names, not phrases.** A publisher, distributor, rights holder or
+  encyclopedia is the right authority for the name of a specific thing: a film, book, show,
+  toy, game or sport. A children's game with an established name counts too (the French
+  Wikipedia calls *The Floor Is Lava* *Le sol est en lave*). For idioms, slang and everyday
+  situations, the authority is what players say, not what the press, fact-checkers or
+  public institutions write. `tr-TR` briefly had *Tık Tuzağı* for *Clickbait*, the term
+  fact-checking sites use, while most people just say *clickbait*.
+- **Don't make the best clue a title word.** Every word in the title is forbidden in round 1.
+  `tr-TR` briefly had *Klon Koyun Dolly*, which banned *klon* ("clone") on a card where that
+  is the obvious clue. Keep the title to the name people use (*Koyun Dolly*).
 
 ### Dropping cards
 
 Drop a card unless you're confident it plays well. **A shorter deck that plays well beats
-a complete one.** Earlier drafts dropped 29 to 50 of the 230 cards. Drop when:
+a complete one.** Earlier drafts dropped 29 to 54 of the 230 cards. Drop when:
 
 - **The phrase doesn't survive.** English idioms, wordplay and slang with no local
   equivalent (*One-Trick Pony*, *Double Dipping*, *Netflix and Chill*).
@@ -154,6 +164,10 @@ a complete one.** Earlier drafts dropped 29 to 50 of the 230 cards. Drop when:
   *Ratón de los Dientes*, *clóset* / *ropero*.
 - **The meaning changes.** The translation means something else locally. A Turkish pinky
   hook means you're *cross* with someone, not a promise.
+- **Reviews disagree on the title.** If two careful reviews pick different titles, the
+  wording isn't stable, so drop the card rather than settle on one. `fr-FR` switched *A Dad
+  Joke* between *Une blague de tonton* and *Une blague de papa*, and dropped it. Don't flip
+  a title back and forth.
 
 If a native speaker would need to confirm the card, drop it now. It can come back later.
 

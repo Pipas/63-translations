@@ -12,9 +12,9 @@ overlap only runs one way: cards in a translated deck come from English, while s
 cards have no counterpart in a given language.
 
 Right now, the English deck has 230 cards. The translated decks have 185 Portuguese cards,
-180 Turkish cards, 201 Spanish (Spain) cards, 197 Latin American Spanish cards and 193 French
+176 Turkish cards, 201 Spanish (Spain) cards, 197 Latin American Spanish cards and 192 French
 cards. Every retained card is a translation of an English card: 45 were dropped from
-Portuguese, 50 from Turkish, 29 from Spanish (Spain), 33 from Latin American Spanish and 37
+Portuguese, 54 from Turkish, 29 from Spanish (Spain), 33 from Latin American Spanish and 38
 from French.
 
 Cards get dropped when:

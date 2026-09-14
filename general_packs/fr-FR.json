@@ -54,7 +54,7 @@
     {
       "description": "La personnification des États-Unis et de leur gouvernement fédéral. Surtout connu pour l'affiche de recrutement de 1917 : « I WANT YOU ».",
       "id": "85346d84e5d84ee4",
-      "title": "L'Oncle Sam",
+      "title": "Oncle Sam",
       "points": 1
     },
     {
@@ -135,7 +135,7 @@
     {
       "description": "L'un des quatre personnages duveteux avec un écran sur le ventre, vedettes d'une émission de la BBC lancée en 1997. Ils s'appellent Tinky Winky, Dipsy, Laa-Laa… Po !",
       "id": "99f12d9bb68a9453",
-      "title": "Un Teletubby",
+      "title": "Un Télétubby",
       "points": 1
     },
     {
@@ -528,7 +528,7 @@
     {
       "description": "💩",
       "id": "c9c3948632cc4a02",
-      "title": "L'emoji caca",
+      "title": "L'émoji caca",
       "points": 2
     },
     {
@@ -744,7 +744,7 @@
     {
       "description": "Police d'écriture ronde et décontractée dessinée en 1994, prévue à l'origine pour un chien de dessin animé dans un logiciel Microsoft. Malgré la haine qu'elle suscite, elle aiderait les personnes dyslexiques à lire.",
       "id": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
-      "title": "Le Comic Sans",
+      "title": "Comic Sans",
       "points": 2
     },
     {
@@ -833,12 +833,6 @@
       "points": 1
     },
     {
-      "description": "Jeu de mots court et lamentable, servi par un oncle ou un père très fier de lui. Le soupir collectif fait partie du rituel.",
-      "id": "a27438ca-5e4c-46df-8343-4f5a5b59af89",
-      "title": "Une blague de tonton",
-      "points": 1
-    },
-    {
       "description": "Le mode d'emploi réputé incompréhensible livré avec les meubles en kit, sans un seul mot, uniquement des dessins. C'est volontaire : un seul livret suffit pour le monde entier.",
       "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
       "title": "La notice IKEA",
@@ -895,7 +889,7 @@
     {
       "description": "Jeu d'enfants très populaire où il est interdit de toucher le carrelage, censé être en roche en fusion. Une seule règle, aucun matériel, et ça peut se déclencher n'importe où.",
       "id": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
-      "title": "Le sol, c'est de la lave",
+      "title": "Le sol est en lave",
       "points": 2
     },
     {

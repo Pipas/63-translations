@@ -34,7 +34,7 @@ Adding a new language means adding one file per folder below, named with the sam
 | [`63/`](63) | The 63 mobile game (iOS + Android) | ~302 strings |
 | [`packs.63.pt/`](packs.63.pt) | The pack editor at [packs.63.pt](https://packs.63.pt) | ~448 strings |
 | [`emails/`](emails) | The emails 63 sends | ~51 strings |
-| [`general_packs/`](general_packs) | The General card deck shipped with the app | 230 EN / 185 PT / 180 TR / 201 ES / 197 LATAM / 193 FR cards |
+| [`general_packs/`](general_packs) | The General card deck shipped with the app | 230 EN / 185 PT / 176 TR / 201 ES / 197 LATAM / 192 FR cards |
 
 Each folder has its own `README.md` with the file format, the key conventions, and the
 gotchas specific to that surface. **Read it before you start editing.** The folders don't

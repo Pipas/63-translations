@@ -76,7 +76,7 @@ translated title just reads badly enough that the card stops being worth playing
 
 ## `tr-TR`
 
-**50 of the 230 English cards have no Turkish counterpart.** The remaining 180 are
+**54 of the 230 English cards have no Turkish counterpart.** The remaining 176 are
 translated, which is the whole Turkish deck.
 
 ### English idiom or wordplay
@@ -161,6 +161,10 @@ list below the table.
 | A Staring Contest |
 | IKEA Instructions |
 | The 1% |
+| Royal Flush |
+| A Meeting That Could Have Been an Email |
+| A Pool Noodle |
+| Clickbait |
 
 Before adding one back, a native speaker should confirm:
 
@@ -180,6 +184,10 @@ Before adding one back, a native speaker should confirm:
 - **A Staring Contest** (*Bakışma Yarışı*): Or *Bakışma Yarışması* / *Bakışma Oyunu*?
 - **IKEA Instructions** (*IKEA Talimatları*): Or *IKEA Kılavuzu*? If so, the description can't use *kılavuzları*.
 - **The 1%** (*Yüzde Bir*): Does *Yüzde Bir* work on its own as a name, or only as *en zengin yüzde bir*?
+- **Royal Flush** (*Royal Floş* / *Floş Royal* / *Royal Flush*): Which form would Turkish poker players expect as the single answer?
+- **A Meeting That Could Have Been an Email**: Is there one fixed Turkish wording, or do *Bu toplantı bir e-posta olabilirdi*, *Bu toplantı yerine e-posta atabilirdik* and similar forms all compete?
+- **A Pool Noodle**: Is *havuz makarnası* dominant enough, or would players equally say *deniz makarnası*, *yüzme makarnası* or *sosis*?
+- **Clickbait** (*Clickbait* / *Tık Tuzağı*): Do players say the English word, or has *tık tuzağı* become the everyday term?
 
 ## `es-ES`
 
@@ -296,7 +304,7 @@ titles.
 
 ## `fr-FR`
 
-**37 of the 230 English cards have no French counterpart.** The remaining 193 are direct
+**38 of the 230 English cards have no French counterpart.** The remaining 192 are direct
 translations of English cards.
 
 ### English-specific idiom, wordplay or slang
@@ -322,6 +330,7 @@ translations of English cards.
 | Card |
 | --- |
 | A Bucket List |
+| A Dad Joke |
 | A Doomsday Bunker |
 | A Man Bun |
 | A Pyramid Scheme |

@@ -5,7 +5,8 @@
     "pt-PT",
     "es-ES",
     "es-419",
-    "fr-FR"
+    "fr-FR",
+    "tr-TR"
   ],
   "cards": [
     {
@@ -15,7 +16,8 @@
         "pt-PT": "82a3e9c1cd0e288d",
         "es-ES": "b15166bdb3a88482",
         "es-419": "b15166bdb3a88482",
-        "fr-FR": "b15166bdb3a88482"
+        "fr-FR": "b15166bdb3a88482",
+        "tr-TR": "b15166bdb3a88482"
       }
     },
     {
@@ -25,7 +27,8 @@
         "pt-PT": "36ef24054ad2a521",
         "es-ES": "d5b0dc39299f12d9",
         "es-419": "d5b0dc39299f12d9",
-        "fr-FR": "d5b0dc39299f12d9"
+        "fr-FR": "d5b0dc39299f12d9",
+        "tr-TR": "d5b0dc39299f12d9"
       }
     },
     {
@@ -55,7 +58,8 @@
         "pt-PT": "73092180b72beb6b",
         "es-ES": "ab9ada8e35619dc9",
         "es-419": "ab9ada8e35619dc9",
-        "fr-FR": "ab9ada8e35619dc9"
+        "fr-FR": "ab9ada8e35619dc9",
+        "tr-TR": "ab9ada8e35619dc9"
       }
     },
     {
@@ -75,7 +79,8 @@
         "pt-PT": "ffa4cd209f1c04ff",
         "es-ES": "4e5d84ee4fd2b865",
         "es-419": "4e5d84ee4fd2b865",
-        "fr-FR": "4e5d84ee4fd2b865"
+        "fr-FR": "4e5d84ee4fd2b865",
+        "tr-TR": "4e5d84ee4fd2b865"
       }
     },
     {
@@ -85,7 +90,8 @@
         "pt-PT": "37fb17c36ef24054",
         "es-ES": "4a02d6ad5b0dc392",
         "es-419": "4a02d6ad5b0dc392",
-        "fr-FR": "4a02d6ad5b0dc392"
+        "fr-FR": "4a02d6ad5b0dc392",
+        "tr-TR": "4a02d6ad5b0dc392"
       }
     },
     {
@@ -94,7 +100,8 @@
         "en-GB": "85346d84e5d84ee4",
         "es-ES": "85346d84e5d84ee4",
         "es-419": "85346d84e5d84ee4",
-        "fr-FR": "85346d84e5d84ee4"
+        "fr-FR": "85346d84e5d84ee4",
+        "tr-TR": "85346d84e5d84ee4"
       }
     },
     {
@@ -104,7 +111,8 @@
         "pt-PT": "d62d7c273fde7c7b",
         "es-ES": "b68a945311fc0874",
         "es-419": "b68a945311fc0874",
-        "fr-FR": "b68a945311fc0874"
+        "fr-FR": "b68a945311fc0874",
+        "tr-TR": "b68a945311fc0874"
       }
     },
     {
@@ -114,7 +122,8 @@
         "pt-PT": "1e882a3e9c1cd0e2",
         "es-ES": "a38b15166bdb3a88",
         "es-419": "a38b15166bdb3a88",
-        "fr-FR": "a38b15166bdb3a88"
+        "fr-FR": "a38b15166bdb3a88",
+        "tr-TR": "a38b15166bdb3a88"
       }
     },
     {
@@ -131,13 +140,15 @@
         "pt-PT": "f11f05ef34112460",
         "es-ES": "2b6371df91904ba6",
         "es-419": "2b6371df91904ba6",
-        "fr-FR": "2b6371df91904ba6"
+        "fr-FR": "2b6371df91904ba6",
+        "tr-TR": "2b6371df91904ba6"
       }
     },
     {
       "title": "The Elephant in the Room",
       "ids": {
-        "en-GB": "d84ee4fd2b8656cd"
+        "en-GB": "d84ee4fd2b8656cd",
+        "tr-TR": "d84ee4fd2b8656cd"
       }
     },
     {
@@ -147,7 +158,8 @@
         "pt-PT": "05ef34112460fcd0",
         "es-ES": "71df91904ba61d67",
         "es-419": "71df91904ba61d67",
-        "fr-FR": "71df91904ba61d67"
+        "fr-FR": "71df91904ba61d67",
+        "tr-TR": "71df91904ba61d67"
       }
     },
     {
@@ -157,7 +169,8 @@
         "pt-PT": "c1cd0e288d4914a6",
         "es-ES": "bdb3a884826a8534",
         "es-419": "bdb3a884826a8534",
-        "fr-FR": "bdb3a884826a8534"
+        "fr-FR": "bdb3a884826a8534",
+        "tr-TR": "bdb3a884826a8534"
       }
     },
     {
@@ -167,7 +180,8 @@
         "pt-PT": "7fb17c36ef24054a",
         "es-ES": "a02d6ad5b0dc3929",
         "es-419": "a02d6ad5b0dc3929",
-        "fr-FR": "a02d6ad5b0dc3929"
+        "fr-FR": "a02d6ad5b0dc3929",
+        "tr-TR": "a02d6ad5b0dc3929"
       }
     },
     {
@@ -183,7 +197,8 @@
         "pt-PT": "4cd209f1c04ffc45",
         "es-ES": "4ee4fd2b8656cda7",
         "es-419": "4ee4fd2b8656cda7",
-        "fr-FR": "4ee4fd2b8656cda7"
+        "fr-FR": "4ee4fd2b8656cda7",
+        "tr-TR": "4ee4fd2b8656cda7"
       }
     },
     {
@@ -193,7 +208,8 @@
         "pt-PT": "c36ef24054ad2a52",
         "es-ES": "ad5b0dc39299f12d",
         "es-419": "ad5b0dc39299f12d",
-        "fr-FR": "ad5b0dc39299f12d"
+        "fr-FR": "ad5b0dc39299f12d",
+        "tr-TR": "ad5b0dc39299f12d"
       }
     },
     {
@@ -203,7 +219,8 @@
         "pt-PT": "73fde7c7b6f1e882",
         "es-ES": "311fc0874d0a38b1",
         "es-419": "311fc0874d0a38b1",
-        "fr-FR": "311fc0874d0a38b1"
+        "fr-FR": "311fc0874d0a38b1",
+        "tr-TR": "311fc0874d0a38b1"
       }
     },
     {
@@ -221,7 +238,8 @@
         "pt-PT": "a6c7ffa4cd209f1c",
         "es-ES": "346d84e5d84ee4fd",
         "es-419": "346d84e5d84ee4fd",
-        "fr-FR": "346d84e5d84ee4fd"
+        "fr-FR": "346d84e5d84ee4fd",
+        "tr-TR": "346d84e5d84ee4fd"
       }
     },
     {
@@ -231,7 +249,8 @@
         "pt-PT": "937fb17c36ef2405",
         "es-ES": "c4a02d6ad5b0dc39",
         "es-419": "c4a02d6ad5b0dc39",
-        "fr-FR": "c4a02d6ad5b0dc39"
+        "fr-FR": "c4a02d6ad5b0dc39",
+        "tr-TR": "c4a02d6ad5b0dc39"
       }
     },
     {
@@ -247,7 +266,8 @@
         "pt-PT": "ad2a521cd62d7c27",
         "es-ES": "99f12d9bb68a9453",
         "es-419": "99f12d9bb68a9453",
-        "fr-FR": "99f12d9bb68a9453"
+        "fr-FR": "99f12d9bb68a9453",
+        "tr-TR": "99f12d9bb68a9453"
       }
     },
     {
@@ -257,7 +277,8 @@
         "pt-PT": "d7c273fde7c7b6f1",
         "es-ES": "a945311fc0874d0a",
         "es-419": "a945311fc0874d0a",
-        "fr-FR": "a945311fc0874d0a"
+        "fr-FR": "a945311fc0874d0a",
+        "tr-TR": "a945311fc0874d0a"
       }
     },
     {
@@ -277,7 +298,8 @@
         "pt-PT": "fcd00b773092180b",
         "es-ES": "1d67f4bab9ada8e3",
         "es-419": "1d67f4bab9ada8e3",
-        "fr-FR": "1d67f4bab9ada8e3"
+        "fr-FR": "1d67f4bab9ada8e3",
+        "tr-TR": "1d67f4bab9ada8e3"
       }
     },
     {
@@ -287,7 +309,8 @@
         "pt-PT": "de7c7b6f1e882a3e",
         "es-ES": "fc0874d0a38b1516",
         "es-419": "fc0874d0a38b1516",
-        "fr-FR": "fc0874d0a38b1516"
+        "fr-FR": "fc0874d0a38b1516",
+        "tr-TR": "fc0874d0a38b1516"
       }
     },
     {
@@ -297,7 +320,8 @@
         "pt-PT": "4112460fcd00b773",
         "es-ES": "1904ba61d67f4bab",
         "es-419": "1904ba61d67f4bab",
-        "fr-FR": "1904ba61d67f4bab"
+        "fr-FR": "1904ba61d67f4bab",
+        "tr-TR": "1904ba61d67f4bab"
       }
     },
     {
@@ -307,7 +331,8 @@
         "pt-PT": "288d4914a6c7ffa4",
         "es-ES": "84826a85346d84e5",
         "es-419": "84826a85346d84e5",
-        "fr-FR": "84826a85346d84e5"
+        "fr-FR": "84826a85346d84e5",
+        "tr-TR": "84826a85346d84e5"
       }
     },
     {
@@ -317,7 +342,8 @@
         "pt-PT": "cf155bb937fb17c3",
         "es-ES": "948632cc4a02d6ad",
         "es-419": "948632cc4a02d6ad",
-        "fr-FR": "948632cc4a02d6ad"
+        "fr-FR": "948632cc4a02d6ad",
+        "tr-TR": "948632cc4a02d6ad"
       }
     },
     {
@@ -327,7 +353,8 @@
         "pt-PT": "2d7c273fde7c7b6f",
         "es-ES": "8a945311fc0874d0",
         "es-419": "8a945311fc0874d0",
-        "fr-FR": "8a945311fc0874d0"
+        "fr-FR": "8a945311fc0874d0",
+        "tr-TR": "8a945311fc0874d0"
       }
     },
     {
@@ -337,7 +364,8 @@
         "pt-PT": "882a3e9c1cd0e288",
         "es-ES": "8b15166bdb3a8848",
         "es-419": "8b15166bdb3a8848",
-        "fr-FR": "8b15166bdb3a8848"
+        "fr-FR": "8b15166bdb3a8848",
+        "tr-TR": "8b15166bdb3a8848"
       }
     },
     {
@@ -347,7 +375,8 @@
         "pt-PT": "5ef34112460fcd00",
         "es-ES": "1df91904ba61d67f",
         "es-419": "1df91904ba61d67f",
-        "fr-FR": "1df91904ba61d67f"
+        "fr-FR": "1df91904ba61d67f",
+        "tr-TR": "1df91904ba61d67f"
       }
     },
     {
@@ -357,7 +386,8 @@
         "pt-PT": "180b72beb6b61cf1",
         "es-ES": "a8e35619dc9c3948",
         "es-419": "a8e35619dc9c3948",
-        "fr-FR": "a8e35619dc9c3948"
+        "fr-FR": "a8e35619dc9c3948",
+        "tr-TR": "a8e35619dc9c3948"
       }
     },
     {
@@ -367,7 +397,8 @@
         "pt-PT": "0b773092180b72be",
         "es-ES": "f4bab9ada8e35619",
         "es-419": "f4bab9ada8e35619",
-        "fr-FR": "f4bab9ada8e35619"
+        "fr-FR": "f4bab9ada8e35619",
+        "tr-TR": "f4bab9ada8e35619"
       }
     },
     {
@@ -377,7 +408,8 @@
         "pt-PT": "beb6b61cf155bb93",
         "es-ES": "19dc9c3948632cc4",
         "es-419": "19dc9c3948632cc4",
-        "fr-FR": "19dc9c3948632cc4"
+        "fr-FR": "19dc9c3948632cc4",
+        "tr-TR": "19dc9c3948632cc4"
       }
     },
     {
@@ -387,7 +419,8 @@
         "pt-PT": "fde7c7b6f1e882a3",
         "es-ES": "1fc0874d0a38b151",
         "es-419": "1fc0874d0a38b151",
-        "fr-FR": "1fc0874d0a38b151"
+        "fr-FR": "1fc0874d0a38b151",
+        "tr-TR": "1fc0874d0a38b151"
       }
     },
     {
@@ -397,7 +430,8 @@
         "pt-PT": "b17c36ef24054ad2",
         "es-ES": "2d6ad5b0dc39299f",
         "es-419": "2d6ad5b0dc39299f",
-        "fr-FR": "2d6ad5b0dc39299f"
+        "fr-FR": "2d6ad5b0dc39299f",
+        "tr-TR": "2d6ad5b0dc39299f"
       }
     },
     {
@@ -413,7 +447,8 @@
         "pt-PT": "c7b6f1e882a3e9c1",
         "es-ES": "874d0a38b15166bd",
         "es-419": "874d0a38b15166bd",
-        "fr-FR": "874d0a38b15166bd"
+        "fr-FR": "874d0a38b15166bd",
+        "tr-TR": "874d0a38b15166bd"
       }
     },
     {
@@ -423,7 +458,8 @@
         "pt-PT": "0fcd00b773092180",
         "es-ES": "61d67f4bab9ada8e",
         "es-419": "61d67f4bab9ada8e",
-        "fr-FR": "61d67f4bab9ada8e"
+        "fr-FR": "61d67f4bab9ada8e",
+        "tr-TR": "61d67f4bab9ada8e"
       }
     },
     {
@@ -433,7 +469,8 @@
         "pt-PT": "b773092180b72beb",
         "es-ES": "4bab9ada8e35619d",
         "es-419": "4bab9ada8e35619d",
-        "fr-FR": "4bab9ada8e35619d"
+        "fr-FR": "4bab9ada8e35619d",
+        "tr-TR": "4bab9ada8e35619d"
       }
     },
     {
@@ -452,7 +489,8 @@
         "pt-PT": "d2a521cd62d7c273",
         "es-ES": "9f12d9bb68a94531",
         "es-419": "9f12d9bb68a94531",
-        "fr-FR": "9f12d9bb68a94531"
+        "fr-FR": "9f12d9bb68a94531",
+        "tr-TR": "9f12d9bb68a94531"
       }
     },
     {
@@ -462,7 +500,8 @@
         "pt-PT": "df11f05ef3411246",
         "es-ES": "82b6371df91904ba",
         "es-419": "82b6371df91904ba",
-        "fr-FR": "82b6371df91904ba"
+        "fr-FR": "82b6371df91904ba",
+        "tr-TR": "82b6371df91904ba"
       }
     },
     {
@@ -479,7 +518,8 @@
         "pt-PT": "521cd62d7c273fde",
         "es-ES": "2d9bb68a945311fc",
         "es-419": "2d9bb68a945311fc",
-        "fr-FR": "2d9bb68a945311fc"
+        "fr-FR": "2d9bb68a945311fc",
+        "tr-TR": "2d9bb68a945311fc"
       }
     },
     {
@@ -495,7 +535,8 @@
         "pt-PT": "cd00b773092180b7",
         "es-ES": "d67f4bab9ada8e35",
         "es-419": "d67f4bab9ada8e35",
-        "fr-FR": "d67f4bab9ada8e35"
+        "fr-FR": "d67f4bab9ada8e35",
+        "tr-TR": "d67f4bab9ada8e35"
       }
     },
     {
@@ -505,7 +546,8 @@
         "pt-PT": "155bb937fb17c36e",
         "es-ES": "8632cc4a02d6ad5b",
         "es-419": "8632cc4a02d6ad5b",
-        "fr-FR": "8632cc4a02d6ad5b"
+        "fr-FR": "8632cc4a02d6ad5b",
+        "tr-TR": "8632cc4a02d6ad5b"
       }
     },
     {
@@ -515,7 +557,8 @@
         "pt-PT": "2beb6b61cf155bb9",
         "es-ES": "619dc9c3948632cc",
         "es-419": "619dc9c3948632cc",
-        "fr-FR": "619dc9c3948632cc"
+        "fr-FR": "619dc9c3948632cc",
+        "tr-TR": "619dc9c3948632cc"
       }
     },
     {
@@ -543,7 +586,8 @@
         "pt-PT": "a521cd62d7c273fd",
         "es-ES": "12d9bb68a945311f",
         "es-419": "12d9bb68a945311f",
-        "fr-FR": "12d9bb68a945311f"
+        "fr-FR": "12d9bb68a945311f",
+        "tr-TR": "12d9bb68a945311f"
       }
     },
     {
@@ -553,7 +597,8 @@
         "pt-PT": "b72beb6b61cf155b",
         "es-ES": "35619dc9c3948632",
         "es-419": "35619dc9c3948632",
-        "fr-FR": "35619dc9c3948632"
+        "fr-FR": "35619dc9c3948632",
+        "tr-TR": "35619dc9c3948632"
       }
     },
     {
@@ -563,7 +608,8 @@
         "pt-PT": "7b6f1e882a3e9c1c",
         "es-ES": "74d0a38b15166bdb",
         "es-419": "74d0a38b15166bdb",
-        "fr-FR": "74d0a38b15166bdb"
+        "fr-FR": "74d0a38b15166bdb",
+        "tr-TR": "74d0a38b15166bdb"
       }
     },
     {
@@ -583,7 +629,8 @@
         "pt-PT": "55bb937fb17c36ef",
         "es-ES": "632cc4a02d6ad5b0",
         "es-419": "632cc4a02d6ad5b0",
-        "fr-FR": "632cc4a02d6ad5b0"
+        "fr-FR": "632cc4a02d6ad5b0",
+        "tr-TR": "632cc4a02d6ad5b0"
       }
     },
     {
@@ -593,7 +640,8 @@
         "pt-PT": "054ad2a521cd62d7",
         "es-ES": "39299f12d9bb68a9",
         "es-419": "39299f12d9bb68a9",
-        "fr-FR": "39299f12d9bb68a9"
+        "fr-FR": "39299f12d9bb68a9",
+        "tr-TR": "39299f12d9bb68a9"
       }
     },
     {
@@ -603,14 +651,16 @@
         "pt-PT": "4a6c7ffa4cd209f1",
         "es-ES": "5346d84e5d84ee4f",
         "es-419": "5346d84e5d84ee4f",
-        "fr-FR": "5346d84e5d84ee4f"
+        "fr-FR": "5346d84e5d84ee4f",
+        "tr-TR": "5346d84e5d84ee4f"
       }
     },
     {
       "title": "Big Bird",
       "ids": {
         "en-GB": "9dc9c3948632cc4a",
-        "pt-PT": "eb6b61cf155bb937"
+        "pt-PT": "eb6b61cf155bb937",
+        "tr-TR": "9dc9c3948632cc4a"
       }
     },
     {
@@ -620,7 +670,8 @@
         "pt-PT": "b61cf155bb937fb1",
         "es-ES": "9c3948632cc4a02d",
         "es-419": "9c3948632cc4a02d",
-        "fr-FR": "9c3948632cc4a02d"
+        "fr-FR": "9c3948632cc4a02d",
+        "tr-TR": "9c3948632cc4a02d"
       }
     },
     {
@@ -630,7 +681,8 @@
         "pt-PT": "11f05ef34112460f",
         "es-ES": "b6371df91904ba61",
         "es-419": "b6371df91904ba61",
-        "fr-FR": "b6371df91904ba61"
+        "fr-FR": "b6371df91904ba61",
+        "tr-TR": "b6371df91904ba61"
       }
     },
     {
@@ -640,7 +692,8 @@
         "pt-PT": "fa4cd209f1c04ffc",
         "es-ES": "e5d84ee4fd2b8656",
         "es-419": "e5d84ee4fd2b8656",
-        "fr-FR": "e5d84ee4fd2b8656"
+        "fr-FR": "e5d84ee4fd2b8656",
+        "tr-TR": "e5d84ee4fd2b8656"
       }
     },
     {
@@ -650,7 +703,8 @@
         "pt-PT": "c273fde7c7b6f1e8",
         "es-ES": "45311fc0874d0a38",
         "es-419": "45311fc0874d0a38",
-        "fr-FR": "45311fc0874d0a38"
+        "fr-FR": "45311fc0874d0a38",
+        "tr-TR": "45311fc0874d0a38"
       }
     },
     {
@@ -660,7 +714,8 @@
         "pt-PT": "6f1e882a3e9c1cd0",
         "es-ES": "d0a38b15166bdb3a",
         "es-419": "d0a38b15166bdb3a",
-        "fr-FR": "d0a38b15166bdb3a"
+        "fr-FR": "d0a38b15166bdb3a",
+        "tr-TR": "d0a38b15166bdb3a"
       }
     },
     {
@@ -670,7 +725,8 @@
         "pt-PT": "72beb6b61cf155bb",
         "es-ES": "5619dc9c3948632c",
         "es-419": "5619dc9c3948632c",
-        "fr-FR": "5619dc9c3948632c"
+        "fr-FR": "5619dc9c3948632c",
+        "tr-TR": "5619dc9c3948632c"
       }
     },
     {
@@ -680,7 +736,8 @@
         "pt-PT": "b6b61cf155bb937f",
         "es-ES": "dc9c3948632cc4a0",
         "es-419": "dc9c3948632cc4a0",
-        "fr-FR": "dc9c3948632cc4a0"
+        "fr-FR": "dc9c3948632cc4a0",
+        "tr-TR": "dc9c3948632cc4a0"
       }
     },
     {
@@ -690,7 +747,8 @@
         "pt-PT": "ef24054ad2a521cd",
         "es-ES": "b0dc39299f12d9bb",
         "es-419": "b0dc39299f12d9bb",
-        "fr-FR": "b0dc39299f12d9bb"
+        "fr-FR": "b0dc39299f12d9bb",
+        "tr-TR": "b0dc39299f12d9bb"
       }
     },
     {
@@ -700,7 +758,8 @@
         "pt-PT": "62d7c273fde7c7b6",
         "es-ES": "68a945311fc0874d",
         "es-419": "68a945311fc0874d",
-        "fr-FR": "68a945311fc0874d"
+        "fr-FR": "68a945311fc0874d",
+        "tr-TR": "68a945311fc0874d"
       }
     },
     {
@@ -710,7 +769,8 @@
         "pt-PT": "a3e9c1cd0e288d49",
         "es-ES": "5166bdb3a884826a",
         "es-419": "5166bdb3a884826a",
-        "fr-FR": "5166bdb3a884826a"
+        "fr-FR": "5166bdb3a884826a",
+        "tr-TR": "5166bdb3a884826a"
       }
     },
     {
@@ -720,7 +780,8 @@
         "pt-PT": "3e9c1cd0e288d491",
         "es-ES": "166bdb3a884826a8",
         "es-419": "166bdb3a884826a8",
-        "fr-FR": "166bdb3a884826a8"
+        "fr-FR": "166bdb3a884826a8",
+        "tr-TR": "166bdb3a884826a8"
       }
     },
     {
@@ -730,7 +791,8 @@
         "pt-PT": "a4cd209f1c04ffc4",
         "es-ES": "84ee4fd2b8656cda",
         "es-419": "84ee4fd2b8656cda",
-        "fr-FR": "84ee4fd2b8656cda"
+        "fr-FR": "84ee4fd2b8656cda",
+        "tr-TR": "84ee4fd2b8656cda"
       }
     },
     {
@@ -740,7 +802,8 @@
         "pt-PT": "ef34112460fcd00b",
         "es-ES": "df91904ba61d67f4",
         "es-419": "df91904ba61d67f4",
-        "fr-FR": "df91904ba61d67f4"
+        "fr-FR": "df91904ba61d67f4",
+        "tr-TR": "df91904ba61d67f4"
       }
     },
     {
@@ -750,7 +813,8 @@
         "pt-PT": "1f05ef34112460fc",
         "es-ES": "6371df91904ba61d",
         "es-419": "6371df91904ba61d",
-        "fr-FR": "6371df91904ba61d"
+        "fr-FR": "6371df91904ba61d",
+        "tr-TR": "6371df91904ba61d"
       }
     },
     {
@@ -769,7 +833,8 @@
         "pt-PT": "4df11f05ef341124",
         "es-ES": "682b6371df91904b",
         "es-419": "682b6371df91904b",
-        "fr-FR": "682b6371df91904b"
+        "fr-FR": "682b6371df91904b",
+        "tr-TR": "682b6371df91904b"
       }
     },
     {
@@ -779,7 +844,8 @@
         "pt-PT": "4054ad2a521cd62d",
         "es-ES": "c39299f12d9bb68a",
         "es-419": "c39299f12d9bb68a",
-        "fr-FR": "c39299f12d9bb68a"
+        "fr-FR": "c39299f12d9bb68a",
+        "tr-TR": "c39299f12d9bb68a"
       }
     },
     {
@@ -789,7 +855,8 @@
         "pt-PT": "24054ad2a521cd62",
         "es-ES": "dc39299f12d9bb68",
         "es-419": "dc39299f12d9bb68",
-        "fr-FR": "dc39299f12d9bb68"
+        "fr-FR": "dc39299f12d9bb68",
+        "tr-TR": "dc39299f12d9bb68"
       }
     },
     {
@@ -799,7 +866,8 @@
         "pt-PT": "460fcd00b7730921",
         "es-ES": "ba61d67f4bab9ada",
         "es-419": "ba61d67f4bab9ada",
-        "fr-FR": "ba61d67f4bab9ada"
+        "fr-FR": "ba61d67f4bab9ada",
+        "tr-TR": "ba61d67f4bab9ada"
       }
     },
     {
@@ -809,7 +877,8 @@
         "pt-PT": "5bb937fb17c36ef2",
         "es-ES": "32cc4a02d6ad5b0d",
         "es-419": "32cc4a02d6ad5b0d",
-        "fr-FR": "32cc4a02d6ad5b0d"
+        "fr-FR": "32cc4a02d6ad5b0d",
+        "tr-TR": "32cc4a02d6ad5b0d"
       }
     },
     {
@@ -819,7 +888,8 @@
         "pt-PT": "34112460fcd00b77",
         "es-ES": "91904ba61d67f4ba",
         "es-419": "91904ba61d67f4ba",
-        "fr-FR": "91904ba61d67f4ba"
+        "fr-FR": "91904ba61d67f4ba",
+        "tr-TR": "91904ba61d67f4ba"
       }
     },
     {
@@ -829,7 +899,8 @@
         "pt-PT": "c7ffa4cd209f1c04",
         "es-ES": "d84e5d84ee4fd2b8",
         "es-419": "d84e5d84ee4fd2b8",
-        "fr-FR": "d84e5d84ee4fd2b8"
+        "fr-FR": "d84e5d84ee4fd2b8",
+        "tr-TR": "d84e5d84ee4fd2b8"
       }
     },
     {
@@ -839,7 +910,8 @@
         "pt-PT": "92180b72beb6b61c",
         "es-ES": "ada8e35619dc9c39",
         "es-419": "ada8e35619dc9c39",
-        "fr-FR": "ada8e35619dc9c39"
+        "fr-FR": "ada8e35619dc9c39",
+        "tr-TR": "ada8e35619dc9c39"
       }
     },
     {
@@ -849,7 +921,8 @@
         "pt-PT": "3fde7c7b6f1e882a",
         "es-ES": "11fc0874d0a38b15",
         "es-419": "11fc0874d0a38b15",
-        "fr-FR": "11fc0874d0a38b15"
+        "fr-FR": "11fc0874d0a38b15",
+        "tr-TR": "11fc0874d0a38b15"
       }
     },
     {
@@ -859,7 +932,8 @@
         "pt-PT": "e7c7b6f1e882a3e9",
         "es-ES": "c0874d0a38b15166",
         "es-419": "c0874d0a38b15166",
-        "fr-FR": "c0874d0a38b15166"
+        "fr-FR": "c0874d0a38b15166",
+        "tr-TR": "c0874d0a38b15166"
       }
     },
     {
@@ -869,7 +943,8 @@
         "pt-PT": "b937fb17c36ef240",
         "es-ES": "cc4a02d6ad5b0dc3",
         "es-419": "cc4a02d6ad5b0dc3",
-        "fr-FR": "cc4a02d6ad5b0dc3"
+        "fr-FR": "cc4a02d6ad5b0dc3",
+        "tr-TR": "cc4a02d6ad5b0dc3"
       }
     },
     {
@@ -889,7 +964,8 @@
         "pt-PT": "273fde7c7b6f1e88",
         "es-ES": "5311fc0874d0a38b",
         "es-419": "5311fc0874d0a38b",
-        "fr-FR": "5311fc0874d0a38b"
+        "fr-FR": "5311fc0874d0a38b",
+        "tr-TR": "5311fc0874d0a38b"
       }
     },
     {
@@ -899,7 +975,8 @@
         "pt-PT": "d0e288d4914a6c7f",
         "es-ES": "3a884826a85346d8",
         "es-419": "3a884826a85346d8",
-        "fr-FR": "3a884826a85346d8"
+        "fr-FR": "3a884826a85346d8",
+        "tr-TR": "3a884826a85346d8"
       }
     },
     {
@@ -909,7 +986,8 @@
         "pt-PT": "17c36ef24054ad2a",
         "es-ES": "d6ad5b0dc39299f1",
         "es-419": "d6ad5b0dc39299f1",
-        "fr-FR": "d6ad5b0dc39299f1"
+        "fr-FR": "d6ad5b0dc39299f1",
+        "tr-TR": "d6ad5b0dc39299f1"
       }
     },
     {
@@ -919,7 +997,8 @@
         "pt-PT": "e882a3e9c1cd0e28",
         "es-ES": "38b15166bdb3a884",
         "es-419": "38b15166bdb3a884",
-        "fr-FR": "38b15166bdb3a884"
+        "fr-FR": "38b15166bdb3a884",
+        "tr-TR": "38b15166bdb3a884"
       }
     },
     {
@@ -929,7 +1008,8 @@
         "pt-PT": "3092180b72beb6b6",
         "es-ES": "b9ada8e35619dc9c",
         "es-419": "b9ada8e35619dc9c",
-        "fr-FR": "b9ada8e35619dc9c"
+        "fr-FR": "b9ada8e35619dc9c",
+        "tr-TR": "b9ada8e35619dc9c"
       }
     },
     {
@@ -945,7 +1025,8 @@
         "pt-PT": "6b61cf155bb937fb",
         "es-ES": "c9c3948632cc4a02",
         "es-419": "c9c3948632cc4a02",
-        "fr-FR": "c9c3948632cc4a02"
+        "fr-FR": "c9c3948632cc4a02",
+        "tr-TR": "c9c3948632cc4a02"
       }
     },
     {
@@ -955,7 +1036,8 @@
         "pt-PT": "e288d4914a6c7ffa",
         "es-ES": "884826a85346d84e",
         "es-419": "884826a85346d84e",
-        "fr-FR": "884826a85346d84e"
+        "fr-FR": "884826a85346d84e",
+        "tr-TR": "884826a85346d84e"
       }
     },
     {
@@ -965,7 +1047,8 @@
         "pt-PT": "21cd62d7c273fde7",
         "es-ES": "d9bb68a945311fc0",
         "es-419": "d9bb68a945311fc0",
-        "fr-FR": "d9bb68a945311fc0"
+        "fr-FR": "d9bb68a945311fc0",
+        "tr-TR": "d9bb68a945311fc0"
       }
     },
     {
@@ -984,7 +1067,8 @@
         "pt-PT": "0e288d4914a6c7ff",
         "es-ES": "a884826a85346d84",
         "es-419": "a884826a85346d84",
-        "fr-FR": "a884826a85346d84"
+        "fr-FR": "a884826a85346d84",
+        "tr-TR": "a884826a85346d84"
       }
     },
     {
@@ -994,7 +1078,8 @@
         "pt-PT": "fb17c36ef24054ad",
         "es-ES": "02d6ad5b0dc39299",
         "es-419": "02d6ad5b0dc39299",
-        "fr-FR": "02d6ad5b0dc39299"
+        "fr-FR": "02d6ad5b0dc39299",
+        "tr-TR": "02d6ad5b0dc39299"
       }
     },
     {
@@ -1004,7 +1089,8 @@
         "pt-PT": "60fcd00b77309218",
         "es-ES": "a61d67f4bab9ada8",
         "es-419": "a61d67f4bab9ada8",
-        "fr-FR": "a61d67f4bab9ada8"
+        "fr-FR": "a61d67f4bab9ada8",
+        "tr-TR": "a61d67f4bab9ada8"
       }
     },
     {
@@ -1014,7 +1100,8 @@
         "pt-PT": "b6f1e882a3e9c1cd",
         "es-ES": "4d0a38b15166bdb3",
         "es-419": "4d0a38b15166bdb3",
-        "fr-FR": "4d0a38b15166bdb3"
+        "fr-FR": "4d0a38b15166bdb3",
+        "tr-TR": "4d0a38b15166bdb3"
       }
     },
     {
@@ -1024,7 +1111,8 @@
         "pt-PT": "cd62d7c273fde7c7",
         "es-ES": "bb68a945311fc087",
         "es-419": "bb68a945311fc087",
-        "fr-FR": "bb68a945311fc087"
+        "fr-FR": "bb68a945311fc087",
+        "tr-TR": "bb68a945311fc087"
       }
     },
     {
@@ -1034,7 +1122,8 @@
         "pt-PT": "7c273fde7c7b6f1e",
         "es-ES": "945311fc0874d0a3",
         "es-419": "945311fc0874d0a3",
-        "fr-FR": "945311fc0874d0a3"
+        "fr-FR": "945311fc0874d0a3",
+        "tr-TR": "945311fc0874d0a3"
       }
     },
     {
@@ -1044,7 +1133,8 @@
         "pt-PT": "12460fcd00b77309",
         "es-ES": "04ba61d67f4bab9a",
         "es-419": "04ba61d67f4bab9a",
-        "fr-FR": "04ba61d67f4bab9a"
+        "fr-FR": "04ba61d67f4bab9a",
+        "tr-TR": "04ba61d67f4bab9a"
       }
     },
     {
@@ -1054,7 +1144,8 @@
         "pt-PT": "bb937fb17c36ef24",
         "es-ES": "2cc4a02d6ad5b0dc",
         "es-419": "2cc4a02d6ad5b0dc",
-        "fr-FR": "2cc4a02d6ad5b0dc"
+        "fr-FR": "2cc4a02d6ad5b0dc",
+        "tr-TR": "2cc4a02d6ad5b0dc"
       }
     },
     {
@@ -1064,7 +1155,8 @@
         "pt-PT": "d00b773092180b72",
         "es-ES": "67f4bab9ada8e356",
         "es-419": "67f4bab9ada8e356",
-        "fr-FR": "67f4bab9ada8e356"
+        "fr-FR": "67f4bab9ada8e356",
+        "tr-TR": "67f4bab9ada8e356"
       }
     },
     {
@@ -1074,7 +1166,8 @@
         "pt-PT": "4632fec12f39beb2",
         "es-ES": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
         "es-419": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
-        "fr-FR": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0"
+        "fr-FR": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+        "tr-TR": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0"
       }
     },
     {
@@ -1084,7 +1177,8 @@
         "pt-PT": "c8d3b03fc9a35e5d",
         "es-ES": "32cbbad2-19cf-4465-a86a-678d8993f70a",
         "es-419": "32cbbad2-19cf-4465-a86a-678d8993f70a",
-        "fr-FR": "32cbbad2-19cf-4465-a86a-678d8993f70a"
+        "fr-FR": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+        "tr-TR": "32cbbad2-19cf-4465-a86a-678d8993f70a"
       }
     },
     {
@@ -1094,7 +1188,8 @@
         "pt-PT": "0a9675583ef9aab1",
         "es-ES": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
         "es-419": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
-        "fr-FR": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7"
+        "fr-FR": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+        "tr-TR": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7"
       }
     },
     {
@@ -1112,7 +1207,8 @@
         "en-GB": "dcc862d2-743b-426b-b309-a7dbc62c797d",
         "es-ES": "dcc862d2-743b-426b-b309-a7dbc62c797d",
         "es-419": "dcc862d2-743b-426b-b309-a7dbc62c797d",
-        "fr-FR": "dcc862d2-743b-426b-b309-a7dbc62c797d"
+        "fr-FR": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+        "tr-TR": "dcc862d2-743b-426b-b309-a7dbc62c797d"
       }
     },
     {
@@ -1121,7 +1217,8 @@
         "en-GB": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
         "es-ES": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
         "es-419": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
-        "fr-FR": "13fb1833-ea19-4d05-8433-dd042c4b3a3a"
+        "fr-FR": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+        "tr-TR": "13fb1833-ea19-4d05-8433-dd042c4b3a3a"
       }
     },
     {
@@ -1138,7 +1235,8 @@
         "pt-PT": "7e8caec646d07de4",
         "es-ES": "69337803-074d-4e31-8418-747bd7da56a2",
         "es-419": "69337803-074d-4e31-8418-747bd7da56a2",
-        "fr-FR": "69337803-074d-4e31-8418-747bd7da56a2"
+        "fr-FR": "69337803-074d-4e31-8418-747bd7da56a2",
+        "tr-TR": "69337803-074d-4e31-8418-747bd7da56a2"
       }
     },
     {
@@ -1148,7 +1246,8 @@
         "pt-PT": "c74aa35f157a9c98",
         "es-ES": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
         "es-419": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
-        "fr-FR": "182942e7-a2f2-495f-ae19-fc09ce2439fc"
+        "fr-FR": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+        "tr-TR": "182942e7-a2f2-495f-ae19-fc09ce2439fc"
       }
     },
     {
@@ -1158,7 +1257,8 @@
         "pt-PT": "b1fbe42907c837af",
         "es-ES": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
         "es-419": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
-        "fr-FR": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30"
+        "fr-FR": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
+        "tr-TR": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30"
       }
     },
     {
@@ -1176,7 +1276,8 @@
         "en-GB": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
         "es-ES": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
         "es-419": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
-        "fr-FR": "a770f7a8-2755-42ab-a2a6-156e75a206f7"
+        "fr-FR": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+        "tr-TR": "a770f7a8-2755-42ab-a2a6-156e75a206f7"
       }
     },
     {
@@ -1186,7 +1287,8 @@
         "pt-PT": "3796bd10fb00478e",
         "es-ES": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
         "es-419": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
-        "fr-FR": "7ad1c4fc-27ef-4df2-a39a-3636c220c717"
+        "fr-FR": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+        "tr-TR": "7ad1c4fc-27ef-4df2-a39a-3636c220c717"
       }
     },
     {
@@ -1196,7 +1298,8 @@
         "pt-PT": "1eded0afacb2765c",
         "es-ES": "763fa3b6-7427-434e-ad02-0563e73def0e",
         "es-419": "763fa3b6-7427-434e-ad02-0563e73def0e",
-        "fr-FR": "763fa3b6-7427-434e-ad02-0563e73def0e"
+        "fr-FR": "763fa3b6-7427-434e-ad02-0563e73def0e",
+        "tr-TR": "763fa3b6-7427-434e-ad02-0563e73def0e"
       }
     },
     {
@@ -1205,7 +1308,8 @@
         "en-GB": "7b27a365-2f05-403a-baba-d6c151585293",
         "es-ES": "7b27a365-2f05-403a-baba-d6c151585293",
         "es-419": "7b27a365-2f05-403a-baba-d6c151585293",
-        "fr-FR": "7b27a365-2f05-403a-baba-d6c151585293"
+        "fr-FR": "7b27a365-2f05-403a-baba-d6c151585293",
+        "tr-TR": "7b27a365-2f05-403a-baba-d6c151585293"
       }
     },
     {
@@ -1224,7 +1328,8 @@
         "en-GB": "4d8dae45-828a-4242-a217-0c0227c4789a",
         "es-ES": "4d8dae45-828a-4242-a217-0c0227c4789a",
         "es-419": "4d8dae45-828a-4242-a217-0c0227c4789a",
-        "fr-FR": "4d8dae45-828a-4242-a217-0c0227c4789a"
+        "fr-FR": "4d8dae45-828a-4242-a217-0c0227c4789a",
+        "tr-TR": "4d8dae45-828a-4242-a217-0c0227c4789a"
       }
     },
     {
@@ -1234,7 +1339,8 @@
         "pt-PT": "b63c16fb829100b6",
         "es-ES": "fe5f96a7-1b60-485b-b232-ad649c927d87",
         "es-419": "fe5f96a7-1b60-485b-b232-ad649c927d87",
-        "fr-FR": "fe5f96a7-1b60-485b-b232-ad649c927d87"
+        "fr-FR": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+        "tr-TR": "fe5f96a7-1b60-485b-b232-ad649c927d87"
       }
     },
     {
@@ -1244,7 +1350,8 @@
         "pt-PT": "ffc451d6b1cd8b22",
         "es-ES": "d91c5e50-8b25-43f9-b63e-e07f26494489",
         "es-419": "d91c5e50-8b25-43f9-b63e-e07f26494489",
-        "fr-FR": "d91c5e50-8b25-43f9-b63e-e07f26494489"
+        "fr-FR": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+        "tr-TR": "d91c5e50-8b25-43f9-b63e-e07f26494489"
       }
     },
     {
@@ -1254,7 +1361,8 @@
         "pt-PT": "4ffc451d6b1cd8b2",
         "es-ES": "4dbe92cf-83da-4530-9f10-73c3285021b5",
         "es-419": "4dbe92cf-83da-4530-9f10-73c3285021b5",
-        "fr-FR": "4dbe92cf-83da-4530-9f10-73c3285021b5"
+        "fr-FR": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+        "tr-TR": "4dbe92cf-83da-4530-9f10-73c3285021b5"
       }
     },
     {
@@ -1264,7 +1372,8 @@
         "pt-PT": "8483deca3b9b36a6",
         "es-ES": "902799b4-18f2-48c9-92f4-78547c02520f",
         "es-419": "902799b4-18f2-48c9-92f4-78547c02520f",
-        "fr-FR": "902799b4-18f2-48c9-92f4-78547c02520f"
+        "fr-FR": "902799b4-18f2-48c9-92f4-78547c02520f",
+        "tr-TR": "902799b4-18f2-48c9-92f4-78547c02520f"
       }
     },
     {
@@ -1274,7 +1383,8 @@
         "pt-PT": "54d3b48c9c1609de",
         "es-ES": "bf10ceba-8762-4244-8023-457eb20adb1d",
         "es-419": "bf10ceba-8762-4244-8023-457eb20adb1d",
-        "fr-FR": "bf10ceba-8762-4244-8023-457eb20adb1d"
+        "fr-FR": "bf10ceba-8762-4244-8023-457eb20adb1d",
+        "tr-TR": "bf10ceba-8762-4244-8023-457eb20adb1d"
       }
     },
     {
@@ -1291,7 +1401,8 @@
         "pt-PT": "09560d2409c17f3b",
         "es-ES": "c62de87f-30ec-4909-a35c-104375f280cb",
         "es-419": "c62de87f-30ec-4909-a35c-104375f280cb",
-        "fr-FR": "c62de87f-30ec-4909-a35c-104375f280cb"
+        "fr-FR": "c62de87f-30ec-4909-a35c-104375f280cb",
+        "tr-TR": "c62de87f-30ec-4909-a35c-104375f280cb"
       }
     },
     {
@@ -1300,7 +1411,8 @@
         "en-GB": "c8161658-fa59-4488-b151-50d8bfe969f1",
         "es-ES": "c8161658-fa59-4488-b151-50d8bfe969f1",
         "es-419": "c8161658-fa59-4488-b151-50d8bfe969f1",
-        "fr-FR": "c8161658-fa59-4488-b151-50d8bfe969f1"
+        "fr-FR": "c8161658-fa59-4488-b151-50d8bfe969f1",
+        "tr-TR": "c8161658-fa59-4488-b151-50d8bfe969f1"
       }
     },
     {
@@ -1310,7 +1422,8 @@
         "pt-PT": "d173543cbb8163dc",
         "es-ES": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
         "es-419": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
-        "fr-FR": "dce9159f-8c96-4935-9e15-1cf348aec5a7"
+        "fr-FR": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+        "tr-TR": "dce9159f-8c96-4935-9e15-1cf348aec5a7"
       }
     },
     {
@@ -1325,7 +1438,8 @@
       "ids": {
         "en-GB": "61ccc086534df11f",
         "es-ES": "61ccc086534df11f",
-        "es-419": "61ccc086534df11f"
+        "es-419": "61ccc086534df11f",
+        "tr-TR": "61ccc086534df11f"
       }
     },
     {
@@ -1335,7 +1449,8 @@
         "pt-PT": "a4a532b99cdfee95",
         "es-ES": "85361ccc086534df",
         "es-419": "85361ccc086534df",
-        "fr-FR": "85361ccc086534df"
+        "fr-FR": "85361ccc086534df",
+        "tr-TR": "85361ccc086534df"
       }
     },
     {
@@ -1364,7 +1479,8 @@
         "pt-PT": "8b2261b08b57ade9",
         "es-ES": "69d83b89a12daab6",
         "es-419": "69d83b89a12daab6",
-        "fr-FR": "69d83b89a12daab6"
+        "fr-FR": "69d83b89a12daab6",
+        "tr-TR": "69d83b89a12daab6"
       }
     },
     {
@@ -1379,7 +1495,8 @@
         "en-GB": "b64bea85361ccc08",
         "pt-PT": "5e7c49a92fd26fb3",
         "es-ES": "b64bea85361ccc08",
-        "fr-FR": "b64bea85361ccc08"
+        "fr-FR": "b64bea85361ccc08",
+        "tr-TR": "b64bea85361ccc08"
       }
     },
     {
@@ -1397,7 +1514,8 @@
         "en-GB": "fff1669d83b89a12",
         "pt-PT": "6b1cd8b2261b08b5",
         "es-ES": "fff1669d83b89a12",
-        "es-419": "fff1669d83b89a12"
+        "es-419": "fff1669d83b89a12",
+        "tr-TR": "fff1669d83b89a12"
       }
     },
     {
@@ -1415,7 +1533,8 @@
         "en-GB": "a7f9e5afff1669d8",
         "es-ES": "a7f9e5afff1669d8",
         "es-419": "a7f9e5afff1669d8",
-        "fr-FR": "a7f9e5afff1669d8"
+        "fr-FR": "a7f9e5afff1669d8",
+        "tr-TR": "a7f9e5afff1669d8"
       }
     },
     {
@@ -1425,7 +1544,8 @@
         "pt-PT": "fc451d6b1cd8b226",
         "es-ES": "cda7f9e5afff1669",
         "es-419": "cda7f9e5afff1669",
-        "fr-FR": "cda7f9e5afff1669"
+        "fr-FR": "cda7f9e5afff1669",
+        "tr-TR": "cda7f9e5afff1669"
       }
     },
     {
@@ -1435,7 +1555,8 @@
         "pt-PT": "23ff65b7242f7960",
         "es-ES": "7f9e5afff1669d83",
         "es-419": "7f9e5afff1669d83",
-        "fr-FR": "7f9e5afff1669d83"
+        "fr-FR": "7f9e5afff1669d83",
+        "tr-TR": "7f9e5afff1669d83"
       }
     },
     {
@@ -1445,7 +1566,8 @@
         "pt-PT": "c3dc3d04c62eb471",
         "es-ES": "602973b2-e044-4261-b6ca-367ea000e503",
         "es-419": "602973b2-e044-4261-b6ca-367ea000e503",
-        "fr-FR": "602973b2-e044-4261-b6ca-367ea000e503"
+        "fr-FR": "602973b2-e044-4261-b6ca-367ea000e503",
+        "tr-TR": "602973b2-e044-4261-b6ca-367ea000e503"
       }
     },
     {
@@ -1461,7 +1583,8 @@
         "pt-PT": "3edc3f40aba5008f",
         "es-ES": "cb4759da-ce62-4506-8293-0f00cc47a145",
         "es-419": "cb4759da-ce62-4506-8293-0f00cc47a145",
-        "fr-FR": "cb4759da-ce62-4506-8293-0f00cc47a145"
+        "fr-FR": "cb4759da-ce62-4506-8293-0f00cc47a145",
+        "tr-TR": "cb4759da-ce62-4506-8293-0f00cc47a145"
       }
     },
     {
@@ -1475,7 +1598,8 @@
     {
       "title": "Brain Freeze",
       "ids": {
-        "en-GB": "6aa1a744-ca02-4d49-ba46-e534b97f8a77"
+        "en-GB": "6aa1a744-ca02-4d49-ba46-e534b97f8a77",
+        "tr-TR": "6aa1a744-ca02-4d49-ba46-e534b97f8a77"
       }
     },
     {
@@ -1485,7 +1609,8 @@
         "pt-PT": "3e594f740c8935c9",
         "es-ES": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
         "es-419": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
-        "fr-FR": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4"
+        "fr-FR": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+        "tr-TR": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4"
       }
     },
     {
@@ -1495,15 +1620,15 @@
         "pt-PT": "cd200614d5a2087f",
         "es-ES": "a0030c6e-d024-489e-ae71-047c8022a094",
         "es-419": "a0030c6e-d024-489e-ae71-047c8022a094",
-        "fr-FR": "a0030c6e-d024-489e-ae71-047c8022a094"
+        "fr-FR": "a0030c6e-d024-489e-ae71-047c8022a094",
+        "tr-TR": "a0030c6e-d024-489e-ae71-047c8022a094"
       }
     },
     {
       "title": "A Dad Joke",
       "ids": {
         "en-GB": "a27438ca-5e4c-46df-8343-4f5a5b59af89",
-        "pt-PT": "a567e67d94fc9c65",
-        "fr-FR": "a27438ca-5e4c-46df-8343-4f5a5b59af89"
+        "pt-PT": "a567e67d94fc9c65"
       }
     },
     {
@@ -1522,7 +1647,8 @@
         "en-GB": "64a54249-b462-448d-9d50-280588737740",
         "es-ES": "64a54249-b462-448d-9d50-280588737740",
         "es-419": "64a54249-b462-448d-9d50-280588737740",
-        "fr-FR": "64a54249-b462-448d-9d50-280588737740"
+        "fr-FR": "64a54249-b462-448d-9d50-280588737740",
+        "tr-TR": "64a54249-b462-448d-9d50-280588737740"
       }
     },
     {
@@ -1546,7 +1672,8 @@
         "en-GB": "fd73e068-af0c-4f73-bec6-6792139fe927",
         "pt-PT": "ef748cbc66707690",
         "es-ES": "fd73e068-af0c-4f73-bec6-6792139fe927",
-        "es-419": "fd73e068-af0c-4f73-bec6-6792139fe927"
+        "es-419": "fd73e068-af0c-4f73-bec6-6792139fe927",
+        "tr-TR": "fd73e068-af0c-4f73-bec6-6792139fe927"
       }
     },
     {
@@ -1566,7 +1693,8 @@
         "pt-PT": "c711d3818fd207f5",
         "es-ES": "af0b206e-1057-495f-a4cf-b6d084c437d9",
         "es-419": "af0b206e-1057-495f-a4cf-b6d084c437d9",
-        "fr-FR": "af0b206e-1057-495f-a4cf-b6d084c437d9"
+        "fr-FR": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+        "tr-TR": "af0b206e-1057-495f-a4cf-b6d084c437d9"
       }
     },
     {
@@ -1576,7 +1704,8 @@
         "pt-PT": "6a3cde2a98df963a",
         "es-ES": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
         "es-419": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
-        "fr-FR": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1"
+        "fr-FR": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+        "tr-TR": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1"
       }
     },
     {
@@ -1586,7 +1715,8 @@
         "pt-PT": "a44151e865694d5a",
         "es-ES": "33aac4ba-3d26-405d-b537-6ed071ea83da",
         "es-419": "33aac4ba-3d26-405d-b537-6ed071ea83da",
-        "fr-FR": "33aac4ba-3d26-405d-b537-6ed071ea83da"
+        "fr-FR": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+        "tr-TR": "33aac4ba-3d26-405d-b537-6ed071ea83da"
       }
     },
     {
@@ -1595,7 +1725,8 @@
         "en-GB": "497380b0-3425-4201-bf27-7981d7b98c68",
         "pt-PT": "ea72aace55f59a2e",
         "es-ES": "497380b0-3425-4201-bf27-7981d7b98c68",
-        "fr-FR": "497380b0-3425-4201-bf27-7981d7b98c68"
+        "fr-FR": "497380b0-3425-4201-bf27-7981d7b98c68",
+        "tr-TR": "497380b0-3425-4201-bf27-7981d7b98c68"
       }
     },
     {
@@ -1605,7 +1736,8 @@
         "pt-PT": "0991452be09bca96",
         "es-ES": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
         "es-419": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
-        "fr-FR": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15"
+        "fr-FR": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+        "tr-TR": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15"
       }
     },
     {
@@ -1623,7 +1755,8 @@
         "pt-PT": "23c26dd558d097bc",
         "es-ES": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
         "es-419": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
-        "fr-FR": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd"
+        "fr-FR": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+        "tr-TR": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd"
       }
     },
     {
@@ -1635,7 +1768,8 @@
     {
       "title": "A Man Bun",
       "ids": {
-        "en-GB": "fb730839-9f97-4976-904f-cbd53cdfdfc7"
+        "en-GB": "fb730839-9f97-4976-904f-cbd53cdfdfc7",
+        "tr-TR": "fb730839-9f97-4976-904f-cbd53cdfdfc7"
       }
     },
     {
@@ -1661,7 +1795,8 @@
         "pt-PT": "b4a67e574965d0e1",
         "es-ES": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
         "es-419": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
-        "fr-FR": "6af7c52d-bb69-4400-bfe9-0f04027a35d9"
+        "fr-FR": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+        "tr-TR": "6af7c52d-bb69-4400-bfe9-0f04027a35d9"
       }
     },
     {
@@ -1671,7 +1806,8 @@
         "pt-PT": "57e5845278d9272e",
         "es-ES": "ce2f8431-b0c2-4301-808d-4681a542c71f",
         "es-419": "ce2f8431-b0c2-4301-808d-4681a542c71f",
-        "fr-FR": "ce2f8431-b0c2-4301-808d-4681a542c71f"
+        "fr-FR": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+        "tr-TR": "ce2f8431-b0c2-4301-808d-4681a542c71f"
       }
     },
     {
@@ -1681,7 +1817,8 @@
         "pt-PT": "dffd96afb60311fc",
         "es-ES": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
         "es-419": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
-        "fr-FR": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73"
+        "fr-FR": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+        "tr-TR": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73"
       }
     },
     {
@@ -1691,7 +1828,8 @@
         "pt-PT": "9c0969d1b0df1cc2",
         "es-ES": "a2737d5c-387e-485c-8891-333278cef79d",
         "es-419": "a2737d5c-387e-485c-8891-333278cef79d",
-        "fr-FR": "a2737d5c-387e-485c-8891-333278cef79d"
+        "fr-FR": "a2737d5c-387e-485c-8891-333278cef79d",
+        "tr-TR": "a2737d5c-387e-485c-8891-333278cef79d"
       }
     },
     {
@@ -1716,7 +1854,8 @@
         "pt-PT": "ba121d2e0371ca16",
         "es-ES": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
         "es-419": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
-        "fr-FR": "bcae31cd-72d0-4d47-a49b-6b9d828811a1"
+        "fr-FR": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+        "tr-TR": "bcae31cd-72d0-4d47-a49b-6b9d828811a1"
       }
     },
     {
@@ -1726,7 +1865,8 @@
         "pt-PT": "7747c990b9f41d48",
         "es-ES": "30714b4b-d80a-471f-895c-f1448fc5cce7",
         "es-419": "30714b4b-d80a-471f-895c-f1448fc5cce7",
-        "fr-FR": "30714b4b-d80a-471f-895c-f1448fc5cce7"
+        "fr-FR": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+        "tr-TR": "30714b4b-d80a-471f-895c-f1448fc5cce7"
       }
     },
     {
@@ -1736,7 +1876,8 @@
         "pt-PT": "0b018421a773e6f5",
         "es-ES": "6074accc-37a1-4ddd-8707-54807fa01406",
         "es-419": "6074accc-37a1-4ddd-8707-54807fa01406",
-        "fr-FR": "6074accc-37a1-4ddd-8707-54807fa01406"
+        "fr-FR": "6074accc-37a1-4ddd-8707-54807fa01406",
+        "tr-TR": "6074accc-37a1-4ddd-8707-54807fa01406"
       }
     },
     {
@@ -1746,7 +1887,8 @@
         "pt-PT": "8a6004dcd51dc0e1",
         "es-ES": "7a495018-9642-4d79-b88b-4ec138b229b6",
         "es-419": "7a495018-9642-4d79-b88b-4ec138b229b6",
-        "fr-FR": "7a495018-9642-4d79-b88b-4ec138b229b6"
+        "fr-FR": "7a495018-9642-4d79-b88b-4ec138b229b6",
+        "tr-TR": "7a495018-9642-4d79-b88b-4ec138b229b6"
       }
     },
     {
@@ -1756,7 +1898,8 @@
         "pt-PT": "7d2241efbb0a085f",
         "es-ES": "6704a583-9897-485e-9945-1507734e5dd5",
         "es-419": "6704a583-9897-485e-9945-1507734e5dd5",
-        "fr-FR": "6704a583-9897-485e-9945-1507734e5dd5"
+        "fr-FR": "6704a583-9897-485e-9945-1507734e5dd5",
+        "tr-TR": "6704a583-9897-485e-9945-1507734e5dd5"
       }
     },
     {
@@ -1766,7 +1909,8 @@
         "pt-PT": "16984634ddb40933",
         "es-ES": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
         "es-419": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
-        "fr-FR": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b"
+        "fr-FR": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
+        "tr-TR": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b"
       }
     },
     {
@@ -1776,7 +1920,8 @@
         "pt-PT": "397f41d8a92d8619",
         "es-ES": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
         "es-419": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
-        "fr-FR": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa"
+        "fr-FR": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+        "tr-TR": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa"
       }
     },
     {
@@ -1786,7 +1931,8 @@
         "pt-PT": "c0d0828d19e67cde",
         "es-ES": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
         "es-419": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
-        "fr-FR": "642503b4-f3cf-4ef7-86f9-d57af49b24a0"
+        "fr-FR": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+        "tr-TR": "642503b4-f3cf-4ef7-86f9-d57af49b24a0"
       }
     },
     {
@@ -1796,7 +1942,8 @@
         "pt-PT": "c81b74d458be4b56",
         "es-ES": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
         "es-419": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
-        "fr-FR": "d97d6aef-a83e-447c-b6c4-385dbe10228d"
+        "fr-FR": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+        "tr-TR": "d97d6aef-a83e-447c-b6c4-385dbe10228d"
       }
     },
     {
@@ -1821,7 +1968,8 @@
         "en-GB": "97d61403-9d62-4a94-af01-8113f18f408d",
         "es-ES": "97d61403-9d62-4a94-af01-8113f18f408d",
         "es-419": "97d61403-9d62-4a94-af01-8113f18f408d",
-        "fr-FR": "97d61403-9d62-4a94-af01-8113f18f408d"
+        "fr-FR": "97d61403-9d62-4a94-af01-8113f18f408d",
+        "tr-TR": "97d61403-9d62-4a94-af01-8113f18f408d"
       }
     },
     {
@@ -1831,7 +1979,8 @@
         "pt-PT": "7c39a2afe0e48cd9",
         "es-ES": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
         "es-419": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
-        "fr-FR": "20833986-fe5e-4a66-9ff4-fa58a88838b0"
+        "fr-FR": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+        "tr-TR": "20833986-fe5e-4a66-9ff4-fa58a88838b0"
       }
     },
     {
@@ -1841,7 +1990,8 @@
         "pt-PT": "ce5834e6e3e5dd5d",
         "es-ES": "e1a303ac-4247-4f82-b443-e2e31daea751",
         "es-419": "e1a303ac-4247-4f82-b443-e2e31daea751",
-        "fr-FR": "e1a303ac-4247-4f82-b443-e2e31daea751"
+        "fr-FR": "e1a303ac-4247-4f82-b443-e2e31daea751",
+        "tr-TR": "e1a303ac-4247-4f82-b443-e2e31daea751"
       }
     },
     {
@@ -1857,7 +2007,8 @@
         "en-GB": "ac5bdc92-5ad7-42c3-a698-c566686be822",
         "es-ES": "ac5bdc92-5ad7-42c3-a698-c566686be822",
         "es-419": "ac5bdc92-5ad7-42c3-a698-c566686be822",
-        "fr-FR": "ac5bdc92-5ad7-42c3-a698-c566686be822"
+        "fr-FR": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+        "tr-TR": "ac5bdc92-5ad7-42c3-a698-c566686be822"
       }
     },
     {
@@ -1874,7 +2025,8 @@
       "title": "A Crash Test Dummy",
       "ids": {
         "en-GB": "6e600a4a-ccfd-4600-bb98-0e536af49647",
-        "fr-FR": "6e600a4a-ccfd-4600-bb98-0e536af49647"
+        "fr-FR": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+        "tr-TR": "6e600a4a-ccfd-4600-bb98-0e536af49647"
       }
     },
     {
@@ -1884,7 +2036,8 @@
         "pt-PT": "395790a867ff004e",
         "es-ES": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
         "es-419": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
-        "fr-FR": "d320bf06-e8ab-4a6c-b8f6-0094d578b396"
+        "fr-FR": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+        "tr-TR": "d320bf06-e8ab-4a6c-b8f6-0094d578b396"
       }
     },
     {
@@ -1894,7 +2047,8 @@
         "pt-PT": "4ee08bf4ec051cc5",
         "es-ES": "312f14af-1fdb-4040-9b5c-85167a3889b4",
         "es-419": "312f14af-1fdb-4040-9b5c-85167a3889b4",
-        "fr-FR": "312f14af-1fdb-4040-9b5c-85167a3889b4"
+        "fr-FR": "312f14af-1fdb-4040-9b5c-85167a3889b4",
+        "tr-TR": "312f14af-1fdb-4040-9b5c-85167a3889b4"
       }
     },
     {
@@ -1903,7 +2057,8 @@
         "en-GB": "fb504832-5170-40be-900c-b19d0d53c2b4",
         "es-ES": "fb504832-5170-40be-900c-b19d0d53c2b4",
         "es-419": "fb504832-5170-40be-900c-b19d0d53c2b4",
-        "fr-FR": "fb504832-5170-40be-900c-b19d0d53c2b4"
+        "fr-FR": "fb504832-5170-40be-900c-b19d0d53c2b4",
+        "tr-TR": "fb504832-5170-40be-900c-b19d0d53c2b4"
       }
     },
     {
@@ -1913,7 +2068,8 @@
         "pt-PT": "ac0a5d30c4d51df4",
         "es-ES": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
         "es-419": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
-        "fr-FR": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8"
+        "fr-FR": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+        "tr-TR": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8"
       }
     },
     {
@@ -1923,7 +2079,8 @@
         "pt-PT": "b7a73d3154eba5be",
         "es-ES": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
         "es-419": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
-        "fr-FR": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232"
+        "fr-FR": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+        "tr-TR": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232"
       }
     },
     {
@@ -1933,7 +2090,8 @@
         "pt-PT": "b3279da1852fec85",
         "es-ES": "d101142f-c63b-4225-a798-d207cb0e1c68",
         "es-419": "d101142f-c63b-4225-a798-d207cb0e1c68",
-        "fr-FR": "d101142f-c63b-4225-a798-d207cb0e1c68"
+        "fr-FR": "d101142f-c63b-4225-a798-d207cb0e1c68",
+        "tr-TR": "d101142f-c63b-4225-a798-d207cb0e1c68"
       }
     },
     {
@@ -1943,7 +2101,8 @@
         "pt-PT": "88e310b469a4dd28",
         "es-ES": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
         "es-419": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
-        "fr-FR": "c0aacaf3-d288-4ca6-a682-42319b7f01fa"
+        "fr-FR": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
+        "tr-TR": "c0aacaf3-d288-4ca6-a682-42319b7f01fa"
       }
     },
     {
@@ -1953,7 +2112,8 @@
         "pt-PT": "641ebfae791f6877",
         "es-ES": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
         "es-419": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
-        "fr-FR": "8e35145a-f226-44a3-94c7-9a811bfd6f22"
+        "fr-FR": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+        "tr-TR": "8e35145a-f226-44a3-94c7-9a811bfd6f22"
       }
     },
     {
@@ -1963,7 +2123,8 @@
         "pt-PT": "69dd976cf0bfc152",
         "es-ES": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
         "es-419": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
-        "fr-FR": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0"
+        "fr-FR": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
+        "tr-TR": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0"
       }
     },
     {
@@ -1973,7 +2134,8 @@
         "pt-PT": "3d00e5d5425358fc",
         "es-ES": "e058babc-7311-4426-a552-cb87ea01158d",
         "es-419": "e058babc-7311-4426-a552-cb87ea01158d",
-        "fr-FR": "e058babc-7311-4426-a552-cb87ea01158d"
+        "fr-FR": "e058babc-7311-4426-a552-cb87ea01158d",
+        "tr-TR": "e058babc-7311-4426-a552-cb87ea01158d"
       }
     },
     {
@@ -1983,7 +2145,8 @@
         "pt-PT": "4c32348235b363e5",
         "es-ES": "0492031b-272f-494e-8a04-7c673f1e2ad7",
         "es-419": "0492031b-272f-494e-8a04-7c673f1e2ad7",
-        "fr-FR": "0492031b-272f-494e-8a04-7c673f1e2ad7"
+        "fr-FR": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+        "tr-TR": "0492031b-272f-494e-8a04-7c673f1e2ad7"
       }
     },
     {
@@ -1993,7 +2156,8 @@
         "pt-PT": "b21fccc79a3dc1a6",
         "es-ES": "7642767e-e36d-402a-bb6c-71d7be72b06c",
         "es-419": "7642767e-e36d-402a-bb6c-71d7be72b06c",
-        "fr-FR": "7642767e-e36d-402a-bb6c-71d7be72b06c"
+        "fr-FR": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+        "tr-TR": "7642767e-e36d-402a-bb6c-71d7be72b06c"
       }
     },
     {
@@ -2003,7 +2167,8 @@
         "pt-PT": "809c73949843a7d4",
         "es-ES": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
         "es-419": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
-        "fr-FR": "0244a3cd-29d2-451c-804b-3aa44d38b2e8"
+        "fr-FR": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+        "tr-TR": "0244a3cd-29d2-451c-804b-3aa44d38b2e8"
       }
     },
     {
@@ -2013,7 +2178,8 @@
         "pt-PT": "8b14c625380f2065",
         "es-ES": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
         "es-419": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
-        "fr-FR": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e"
+        "fr-FR": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+        "tr-TR": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e"
       }
     },
     {
@@ -2023,7 +2189,8 @@
         "pt-PT": "d483058f79baf5d7",
         "es-ES": "68c97440-7c83-43a3-9838-b5e967d01e38",
         "es-419": "68c97440-7c83-43a3-9838-b5e967d01e38",
-        "fr-FR": "68c97440-7c83-43a3-9838-b5e967d01e38"
+        "fr-FR": "68c97440-7c83-43a3-9838-b5e967d01e38",
+        "tr-TR": "68c97440-7c83-43a3-9838-b5e967d01e38"
       }
     },
     {
@@ -2033,7 +2200,8 @@
         "pt-PT": "57dc79e7a92e5161",
         "es-ES": "65d293cc-08a2-4947-9192-44c46c7b69df",
         "es-419": "65d293cc-08a2-4947-9192-44c46c7b69df",
-        "fr-FR": "65d293cc-08a2-4947-9192-44c46c7b69df"
+        "fr-FR": "65d293cc-08a2-4947-9192-44c46c7b69df",
+        "tr-TR": "65d293cc-08a2-4947-9192-44c46c7b69df"
       }
     },
     {
@@ -2056,7 +2224,8 @@
         "en-GB": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
         "es-ES": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
         "es-419": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
-        "fr-FR": "8c26c3b6-6f16-47be-ad13-70d13ee738d4"
+        "fr-FR": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+        "tr-TR": "8c26c3b6-6f16-47be-ad13-70d13ee738d4"
       }
     },
     {
@@ -2070,7 +2239,8 @@
       "title": "The Devil on Your Shoulder",
       "ids": {
         "en-GB": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
-        "pt-PT": "487e9e0cfe0edf7e"
+        "pt-PT": "487e9e0cfe0edf7e",
+        "tr-TR": "9a6a8200-d2cc-495f-af5e-2250ea254ed8"
       }
     },
     {
@@ -2086,7 +2256,8 @@
         "pt-PT": "54b5b1afb41a749b",
         "es-ES": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
         "es-419": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
-        "fr-FR": "1eb66ccc-a565-479d-8f86-93be0e5d6e13"
+        "fr-FR": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+        "tr-TR": "1eb66ccc-a565-479d-8f86-93be0e5d6e13"
       }
     },
     {
@@ -2121,7 +2292,8 @@
         "pt-PT": "0f92b86f0c07170f",
         "es-ES": "85eabdcd250a7a4e",
         "es-419": "85eabdcd250a7a4e",
-        "fr-FR": "85eabdcd250a7a4e"
+        "fr-FR": "85eabdcd250a7a4e",
+        "tr-TR": "85eabdcd250a7a4e"
       }
     },
     {
@@ -2131,7 +2303,8 @@
         "pt-PT": "ca5a96a190161416",
         "es-ES": "980cb9f08ba2166e",
         "es-419": "980cb9f08ba2166e",
-        "fr-FR": "980cb9f08ba2166e"
+        "fr-FR": "980cb9f08ba2166e",
+        "tr-TR": "980cb9f08ba2166e"
       }
     },
     {
@@ -2141,7 +2314,8 @@
         "pt-PT": "30105375f3ec2592",
         "es-ES": "4607ef0f3ce0830c",
         "es-419": "4607ef0f3ce0830c",
-        "fr-FR": "4607ef0f3ce0830c"
+        "fr-FR": "4607ef0f3ce0830c",
+        "tr-TR": "4607ef0f3ce0830c"
       }
     },
     {
@@ -2151,7 +2325,8 @@
         "pt-PT": "f9aea66102a15c6d",
         "es-ES": "514087352f094b1a",
         "es-419": "514087352f094b1a",
-        "fr-FR": "514087352f094b1a"
+        "fr-FR": "514087352f094b1a",
+        "tr-TR": "514087352f094b1a"
       }
     },
     {
@@ -2161,7 +2336,8 @@
         "pt-PT": "0e5964df2be53dad",
         "es-ES": "87f40d1838be97a1",
         "es-419": "87f40d1838be97a1",
-        "fr-FR": "87f40d1838be97a1"
+        "fr-FR": "87f40d1838be97a1",
+        "tr-TR": "87f40d1838be97a1"
       }
     }
   ]
