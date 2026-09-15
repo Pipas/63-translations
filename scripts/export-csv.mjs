@@ -13,7 +13,7 @@
 import { mkdirSync, readdirSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { BOM, encodeCell, toCsv } from "./lib/csv.mjs";
-import { indexById, readCardMap, readDropReasons } from "./lib/cardmap.mjs";
+import { readDropReasons } from "./lib/dropped.mjs";
 import {
   ROOT,
   SOURCE_LANG,
@@ -128,8 +128,6 @@ function exportApp(surface, lang, references, blank) {
 
 function exportCards(lang, references, blank) {
   const english = readJson(surfacePath("general_packs", SOURCE_LANG));
-  const map = readCardMap();
-  const byId = indexById(map);
   const dropReasons = readDropReasons();
 
   const deck = (code) => {
@@ -179,36 +177,24 @@ function exportCards(lang, references, blank) {
     "",
   ]);
 
-  // Looking a card up in another language goes through card-map.json, since
-  // the ids in the deck files themselves don't line up.
-  const cardIn = (deckOf, entry) => {
-    const id = entry?.ids?.[deckOf.code];
-    return id ? deckOf.cards.get(id) ?? null : null;
-  };
+  // Every translated card carries its English card's id, so finding a card in
+  // another language is a lookup by id.
+  const cardIn = (deckOf, id) => deckOf.cards.get(id) ?? null;
 
-  const stale = [];
-  const observationsFor = (entry, englishTitle) => {
+  const observationsFor = (id, englishTitle) => {
     const notes = [];
     for (const column of columns) {
-      if (!column.exists || cardIn(column, entry)) continue;
-      const id = entry?.ids?.[column.code];
-      if (id) {
-        stale.push(`${englishTitle}: card-map.json points ${column.code} at ${id}, which isn't in that deck`);
-        continue;
-      }
+      if (!column.exists || cardIn(column, id)) continue;
       const reason = dropReasons.get(column.code)?.get(englishTitle);
       notes.push(reason ? `dropped in ${column.code} — ${reason}` : `no ${column.code} card`);
     }
     return notes.join(" · ");
   };
 
-  const seen = new Set();
   let matched = 0;
 
   for (const card of english.cards) {
-    const entry = byId.get(card.id) ?? null;
-    if (entry) seen.add(entry);
-    const current = cardIn(target, entry);
+    const current = cardIn(target, card.id);
     if (current) matched += 1;
 
     rows.push([
@@ -217,7 +203,7 @@ function exportCards(lang, references, blank) {
       encodeCell(card.description),
       card.points,
       ...reference.flatMap((ref) => {
-        const other = cardIn(ref, entry);
+        const other = cardIn(ref, card.id);
         return [encodeCell(other?.title ?? ""), encodeCell(other?.description ?? "")];
       }),
       encodeCell(current?.title ?? ""),
@@ -231,70 +217,38 @@ function exportCards(lang, references, blank) {
       kidsCell(current ?? card),
       "",
       "",
-      observationsFor(entry, card.title),
+      observationsFor(card.id, card.title),
     ]);
   }
 
-  // Cards that exist in a translation but not in English. They're kept at the
-  // bottom of the sheet rather than left out: two of them are candidates for
-  // the English deck rather than local content.
-  let extras = 0;
-  for (const entry of map.cards) {
-    if (seen.has(entry) || entry.ids[SOURCE_LANG]) continue;
-    const current = cardIn(target, entry);
-    const others = reference.map((ref) => cardIn(ref, entry));
-    if (!current && others.every((other) => !other)) continue;
-    extras += 1;
-    const owners = columns.filter((column) => cardIn(column, entry));
-    // Keyed on a reference language where there is one: the target's id may
-    // still be provisional. import-csv.mjs reads the prefix back.
-    const owner = owners.find((column) => column !== target) ?? owners[0];
-    const where = owners.map((column) => column.code).join(", ");
-
+  // Cards in the target deck with no English card: a card added in an earlier
+  // sheet (still on a provisional `new-` id) or one whose English card was
+  // removed. They go at the bottom, keyed on their own id so they keep it.
+  const englishIds = new Set(english.cards.map((card) => card.id));
+  const extras = [...target.cards.values()].filter((card) => !englishIds.has(card.id));
+  for (const card of extras) {
     rows.push([
-      `${owner.code}:${cardIn(owner, entry).id}`,
+      card.id,
       "",
-      `(no English card — exists in ${where})`,
+      "(no English card)",
       "",
-      ...others.flatMap((other) => [encodeCell(other?.title ?? ""), encodeCell(other?.description ?? "")]),
-      encodeCell(current?.title ?? ""),
-      encodeCell(current?.description ?? ""),
-      // No English card to inherit from, so the language that has it stands in.
-      current ? current.points : cardIn(owner, entry).points,
-      kidsCell(current ?? cardIn(owner, entry)),
-      "",
-      "",
-      `no English card, only ${where}`,
-    ]);
-  }
-
-  // Anything in the target deck that card-map.json has never heard of.
-  const mapped = new Set(map.cards.map((entry) => entry.ids[lang]).filter(Boolean));
-  const unmapped = [...target.cards.values()].filter((card) => !mapped.has(card.id));
-  for (const card of unmapped) {
-    rows.push([
-      // Keyed on its own id so the card keeps it: without card-map.json there's
-      // nothing else on the row that says which card this is.
-      `${lang}:${card.id}`,
-      "",
-      `(not in card-map.json — run import-csv.mjs to record it)`,
-      "",
-      ...reference.flatMap(() => ["", ""]),
+      ...reference.flatMap((ref) => {
+        const other = cardIn(ref, card.id);
+        return [encodeCell(other?.title ?? ""), encodeCell(other?.description ?? "")];
+      }),
       encodeCell(card.title),
       encodeCell(card.description),
       card.points,
       kidsCell(card),
       "",
       "",
-      "not matched to an English card",
+      `no English card, only ${lang}`,
     ]);
   }
 
   console.log(`general_packs/: ${english.cards.length} English cards`);
   if (target.exists) console.log(`  ${matched} already translated in ${lang}, ${english.cards.length - matched} to go`);
-  if (extras > 0) console.log(`  ${extras} card${extras === 1 ? "" : "s"} with no English counterpart, appended at the end`);
-  if (unmapped.length > 0) console.log(`  ${unmapped.length} ${lang} card${unmapped.length === 1 ? "" : "s"} not in card-map.json, appended at the end`);
-  for (const message of new Set(stale)) console.log(`  ! ${message}`);
+  if (extras.length > 0) console.log(`  ${extras.length} ${lang} card${extras.length === 1 ? "" : "s"} with no English counterpart, appended at the end`);
   if (reference.length > 0) console.log(`  reference: ${reference.map((ref) => ref.code).join(", ")}`);
 
   return rows;
@@ -307,7 +261,7 @@ function kidsCell(card) {
 // Every language with a deck in general_packs/, source language aside.
 function translatedLanguages() {
   return readdirSync(path.join(ROOT, "general_packs"))
-    .filter((file) => file.endsWith(".json") && file !== "card-map.json")
+    .filter((file) => file.endsWith(".json"))
     .map((file) => file.replace(/\.json$/, ""))
     .filter((code) => code !== SOURCE_LANG && isLangCode(code))
     .sort();

@@ -14,7 +14,6 @@
 import { existsSync, readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { readTable } from "./lib/csv.mjs";
-import { CARD_MAP, indexById, readCardMap, writeCardMap } from "./lib/cardmap.mjs";
 import {
   ROOT,
   SOURCE_LANG,
@@ -88,16 +87,10 @@ function main(argv) {
   if (surfaces.length === 0) fail(`nothing to import from ${path.relative(process.cwd(), inDir)}`);
 
   const outputs = [];
-  let mapping = null;
   for (const surface of surfaces) {
     const table = readTable(readFileSync(path.join(inDir, `${surface}.csv`), "utf8"));
-    if (isAppSurface(surface)) {
-      outputs.push([surfacePath(surface, lang), writeJsonText(importApp(surface, lang, table))]);
-    } else {
-      const result = importCards(lang, table);
-      outputs.push([surfacePath(surface, lang), writeJsonText(result.json)]);
-      mapping = result.mapping;
-    }
+    const json = isAppSurface(surface) ? importApp(surface, lang, table) : importCards(lang, table);
+    outputs.push([surfacePath(surface, lang), writeJsonText(json)]);
   }
 
   if (notes.length > 0) {
@@ -122,10 +115,6 @@ function main(argv) {
   for (const [file, contents] of outputs) {
     writeFileSync(file, contents);
     console.log(`  wrote ${path.relative(process.cwd(), file)}`);
-  }
-  if (mapping) {
-    const changed = updateCardMap(lang, mapping);
-    if (changed > 0) console.log(`  updated ${path.relative(process.cwd(), CARD_MAP)} (${changed} change${changed === 1 ? "" : "s"})`);
   }
   console.log(`
 Now check the result the way CONTRIBUTING.md describes: the JSON must parse and
@@ -205,21 +194,17 @@ function importCards(lang, { headers, records }) {
 
   const english = readJson(surfacePath("general_packs", SOURCE_LANG));
   const englishById = new Map(english.cards.map((card) => [card.id, card]));
-  // Ids aren't in the sheet — nothing good comes of a translator editing one —
-  // so what this language already calls each card comes from card-map.json.
-  const known = indexById(readCardMap());
 
   let name = english.name;
   const cards = [];
   const dropped = [];
-  const pairs = [];
   const provisional = [];
   let untranslated = 0;
 
   // What this language's deck already says about a card, for columns an older
   // sheet doesn't have.
-  const previousById = new Map((readJsonIfExists(surfacePath("general_packs", lang))?.cards ?? []).map((card) => [card.id, card]));
-  const existingCard = (ref, refLang) => previousById.get(known.get(ref)?.ids?.[lang] ?? (refLang === lang ? ref : ""));
+  const previous = readJsonIfExists(surfacePath("general_packs", lang));
+  const previousById = new Map((previous?.cards ?? []).map((card) => [card.id, card]));
 
   for (const record of records) {
     const where = `general_packs.csv row ${record.__row}`;
@@ -230,12 +215,10 @@ function importCards(lang, { headers, records }) {
       continue;
     }
 
-    // en_id is the English card's id, or `<lang>:<id>` for a card that only
-    // exists in a translation. Either way it says which card-map.json entry
-    // this row belongs to.
-    const [refLang, ref] = record.en_id?.includes(":")
-      ? record.en_id.split(":", 2)
-      : [SOURCE_LANG, record.en_id ?? ""];
+    // en_id is the card's id, which is the same in every language. Sheets
+    // exported before ids were shared may say `<lang>:<id>`; the id is the part
+    // after the colon.
+    const ref = (record.en_id ?? "").split(":").pop();
     const source = englishById.get(ref);
     const label = record.en_title || record.title || ref || `row ${record.__row}`;
 
@@ -268,7 +251,7 @@ function importCards(lang, { headers, records }) {
     // whatever the card already had, in this language or else in English.
     const notForKids = headers.includes("not_for_kids")
       ? isYes(record.not_for_kids)
-      : Boolean(existingCard(ref, refLang)?.notForKids ?? source?.notForKids);
+      : Boolean(previousById.get(ref)?.notForKids ?? source?.notForKids);
 
     const leaks = titleWordsInDescription(record.title, record.description);
     if (leaks.length > 0) {
@@ -276,18 +259,12 @@ function importCards(lang, { headers, records }) {
     }
     if (record.notes) note(where, `${record.title}: ${record.notes}`);
 
-    // A card this language already had keeps its own id; a newly translated one
-    // rides in on the English id, which the maintainer reissues on import into
-    // the app. A card with neither — added in the sheet, or translated from a
-    // language that has no English original — gets an obviously fake one.
-    const id =
-      known.get(ref)?.ids?.[lang] ||
-      (refLang === SOURCE_LANG ? ref : "") ||
-      (refLang === lang ? ref : "") ||
-      `new-${provisional.length + 1}`;
+    // A card uses the same id in every language. A row with no id — a card added
+    // at the bottom of the sheet — gets an obviously fake one until the card
+    // exists in the app and has a real id.
+    const id = ref || `new-${provisional.length + 1}`;
     if (id.startsWith("new-")) provisional.push([where, `${record.title}: no id yet, using "${id}"`]);
 
-    pairs.push({ ref, refLang, id, title: record.en_title || record.title });
     cards.push(makeCard({ description: record.description, id, points: points ?? 1, title: record.title, notForKids }));
   }
 
@@ -304,56 +281,15 @@ function importCards(lang, { headers, records }) {
     for (const entry of dropped) console.log(`| ${entry.card} | ${entry.reason} |`);
   }
 
-  // The sheet is in English deck order, which isn't this deck's order. Cards it
-  // already had stay where they were and newly translated ones go on the end,
-  // so re-importing a language doesn't shuffle a file that hasn't changed.
-  const previous = readJsonIfExists(surfacePath("general_packs", lang));
+  // The sheet is in English deck order, which may not be this deck's order.
+  // Cards it already had stay where they were and newly translated ones go on
+  // the end, so re-importing a language doesn't shuffle a file that hasn't
+  // changed.
   const position = new Map((previous?.cards ?? []).map((card, index) => [card.id, index]));
   const kept = cards.filter((card) => position.has(card.id)).sort((a, b) => position.get(a.id) - position.get(b.id));
   const added = cards.filter((card) => !position.has(card.id));
-  const ordered = [...kept, ...added];
 
-  return { json: { name, cards: ordered }, mapping: { pairs, ids: new Set(cards.map((card) => card.id)) } };
-}
-
-// Records what this language calls each English card, so the next export can
-// pre-fill it and the sheet can say what's missing where.
-function updateCardMap(lang, { pairs, ids }) {
-  const map = readCardMap();
-  const index = indexById(map);
-  let changed = 0;
-
-  for (const pair of pairs) {
-    let entry = pair.ref ? index.get(pair.ref) : null;
-    if (!entry) {
-      // An English card added since the map was last written, or a card that
-      // exists only in this language.
-      const seed = pair.ref && pair.refLang === SOURCE_LANG ? { [SOURCE_LANG]: pair.ref } : {};
-      entry = { title: pair.title, ids: seed };
-      map.cards.push(entry);
-      for (const id of Object.values(seed)) index.set(id, entry);
-      changed += 1;
-    }
-    if (entry.ids[lang] !== pair.id) {
-      entry.ids[lang] = pair.id;
-      index.set(pair.id, entry);
-      changed += 1;
-    }
-  }
-
-  // A card that's no longer in this deck — dropped in the sheet, or removed —
-  // loses its entry for this language.
-  for (const entry of map.cards) {
-    if (entry.ids[lang] && !ids.has(entry.ids[lang])) {
-      delete entry.ids[lang];
-      changed += 1;
-    }
-  }
-  map.cards = map.cards.filter((entry) => Object.keys(entry.ids).length > 0);
-  if (!map.languages.includes(lang)) map.languages.push(lang);
-
-  if (changed > 0) writeCardMap(map);
-  return changed;
+  return { name, cards: [...kept, ...added] };
 }
 
 /* -------------------------------------------------------------- utils ---- */

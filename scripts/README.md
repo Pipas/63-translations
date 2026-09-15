@@ -21,9 +21,8 @@ node scripts/import-csv.mjs pt-BR                     # csv/pt-BR/*.csv → JSON
 4. **Download.** *File → Download → Comma-separated values*, and put the file back in
    `csv/es-ES/` under its original name.
 5. **Import.** `node scripts/import-csv.mjs es-ES` writes `63/es-ES.json`,
-   `packs.63.pt/es-ES.json`, `emails/es-ES.json`, `general_packs/es-ES.json` and
-   `general_packs/card-map.json`,
-   and prints everything worth a second look. A surface with no CSV in the folder is
+   `packs.63.pt/es-ES.json`, `emails/es-ES.json` and `general_packs/es-ES.json`, and
+   prints everything worth a second look. A surface with no CSV in the folder is
    skipped, so exporting and importing `--only 63` works fine on its own.
 6. **Check and commit.** Import prints anything worth a second look; read that before
    opening the PR.
@@ -67,7 +66,7 @@ long as `card.points_one` or `card.points_other` exists. Import counts those sep
 
 | Column | |
 | --- | --- |
-| `en_id` | Which card this row is. Don't touch. |
+| `en_id` | Which card this row is: the card's `id`, the same in every language. Don't touch. |
 | `en_title`, `en_description`, `en_points` | The English card. Don't touch. |
 | `<lang> title`, `<lang> description` | Only with `--reference`. Don't touch. |
 | `title`, `description` | **The translation.** |
@@ -77,8 +76,8 @@ long as `card.points_one` or `card.points_other` exists. Import counts those sep
 | `notes` | Why it was dropped, or anything else. |
 | `observations` | Auto-filled: what happened to this card in other languages. |
 
-The card's own id for this language isn't in the sheet at all — `card-map.json` holds it,
-and import puts it back. Nothing good comes of a translator editing an id.
+A card uses the same id in every language, so `en_id` is also the id the translated card
+gets on import. Nothing good comes of a translator editing it.
 
 The first row is special: `en_id` is `PACK_NAME` and its `title` cell is the translated name
 of the deck itself (*General* → *Geral*).
@@ -91,12 +90,15 @@ the JSON, and import prints them as a Markdown table ready to paste into
 flagged, because `DROPPED.md` wants one.
 
 Rows left entirely blank are counted as untranslated and skipped. New cards can be added at
-the bottom: fill in `title` and `description`, leave everything else empty.
+the bottom: fill in `title` and `description`, leave everything else empty. A new card has
+no id yet, so import gives it `new-1`, `new-2`, … — deliberately fake, and replaced when the
+maintainer adds the card to the app. A card in the deck with no English counterpart is
+exported at the bottom of the sheet under its own id, so it keeps it.
 
 ### The `observations` column
 
-Auto-filled from [`card-map.json`](../general_packs/card-map.json) and `DROPPED.md`, for
-every language that has a deck — not just the ones with columns in the sheet. Someone
+Auto-filled from the other decks in `general_packs/` and from `DROPPED.md`, for every
+language that has a deck — not just the ones with columns in the sheet. Someone
 starting a new language wants to know a card was dropped from Portuguese, and why, whether
 or not they asked to see the Portuguese:
 
@@ -108,36 +110,6 @@ no English card, only pt-PT
 
 It's there so a blank row explains itself: *The Friendzone* has no Portuguese translation
 because it was dropped, not because someone forgot.
-
-## `card-map.json` — which card is which
-
-Card ids are per-row database identities and **don't line up between languages**. Nothing
-in the deck files says that "Sleepwalking" and "Sonambulismo" are the same card, so
-[`general_packs/card-map.json`](../general_packs/card-map.json) does: one entry per card,
-one id per language.
-
-```json
-{ "title": "Acne", "ids": { "en-GB": "b15166bd…", "pt-PT": "82a3e9c1…" } }
-```
-
-A missing language means that language has no such card — dropped, or not translated yet.
-An entry with no `en-GB` id is a card that exists only in a translation; there are two of
-those in `pt-PT`.
-
-The 178 `en-GB` ↔ `pt-PT` pairs were matched by hand, once, and reconciled against
-`DROPPED.md`: 178 translated + 47 dropped = the 225 English cards, and 178 + 2 Portuguese-only
-= the 180 Portuguese ones. Everything after that is maintained by `import-csv.mjs`, which
-records what each language calls each card as it comes back from the sheet.
-
-This is what makes the round trip work at all: it's how a re-export pre-fills the
-Portuguese, how `observations` knows what was dropped where, and how a card keeps its
-identity across languages that don't share ids.
-
-**Cards with no id yet.** A card added in the sheet, or translated from one of the
-Portuguese-only cards, has no id to inherit. It gets `new-1`, `new-2`, … — deliberately
-fake, and replaced when the maintainer imports the pack into the app and real ids get
-issued. Update `card-map.json` when that happens; the next export will otherwise say a
-mapped id isn't in the deck any more, which is exactly the warning you want.
 
 ## What import checks
 

@@ -209,12 +209,9 @@ or joke), as in `general_packs/README.md`.
 - **`general_packs/DROPPED.md`:** add a `` ## `fr-FR` `` section. Open with a count
   sentence (*"**N of the 230 English cards have no French counterpart.** The remaining M
   are…"*). Then use `### <reason>` headings, each followed by a **single-column** table of
-  **English** card titles. `readDropReasons()` in `scripts/lib/cardmap.mjs` only reads
+  **English** card titles. `readDropReasons()` in `scripts/lib/dropped.mjs` only reads
   single-column rows; a wider table is ignored by the spreadsheet export. List each missing
   card exactly once.
-- **`general_packs/card-map.json`:** add the locale to `languages` and an id for each kept
-  card. Prefer letting `scripts/import-csv.mjs` maintain it; don't hand-edit it where a
-  script can do the job.
 - **`README.md`:** add a row to the language table (*AI-generated draft — native review
   required*) and update the General card counts.
 - **`general_packs/README.md`:** update the card-count sentence.

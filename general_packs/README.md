@@ -35,32 +35,19 @@ the English list.
 Everything dropped from any translation is listed in [`DROPPED.md`](DROPPED.md), with the
 reasoning.
 
-### The card IDs don't line up, and that's fine
+### Card IDs are shared across languages
 
-Even for cards that are direct translations, the `id` fields differ between languages.
-They're database identities, assigned per card row, not shared keys. So you can't diff two
-languages by ID or use IDs to work out what's missing. Match by meaning, or use
-`DROPPED.md`.
-
-If you need the pairing itself — which translated card is which English one —
-[`card-map.json`](card-map.json) has it: one entry per card, one id per language. It's maintained by the CSV scripts in
-[`scripts/`](../scripts), and it's a lookup table, not something to hand-edit while
-translating.
-
-**You don't have to do anything about this.** When you translate a card, keep whatever `id`
-the English card had. Two cards in two files carrying the same ID is expected and causes no
-problem here. When the translation is imported into the app, the maintainer generates fresh
-IDs for the new cards, so nothing you submit is final anyway.
+A card has the same `id` in every language. *Sleepwalking* in `en-GB.json` and
+*Sonambulismo* in `pt-PT.json` carry the same `id`, and that's how the app, the CSV scripts
+and anyone reading the files know they're the same card. A card missing from a language's
+file is either dropped (`DROPPED.md` says why) or not translated yet.
 
 What that means in practice:
 
-- **Translating a card?** Leave the English `id` on it.
-- **Proposing a brand-new card?** Copy any existing `id`, or put something obviously
-  made-up like `"new"`. It gets replaced.
-- **Never** hand-craft an ID that looks real to make it unique. That's more likely to
-  collide with a real row than a duplicate is.
-
-Don't spend any effort on IDs. Spend it on the words.
+- **Translating a card?** Keep the English card's `id` exactly as it is.
+- **Proposing a brand-new card?** Give it an obviously made-up `id` like `"new-1"`. The
+  maintainer replaces it with a real one when the card is added to the app.
+- **Never** invent an ID that looks real. It could collide with an existing card.
 
 ### Cultural cards go elsewhere
 
@@ -98,7 +85,7 @@ Two fields: the pack name and the cards.
 | `title` | What the team has to say. The whole title, in order, or it doesn't count. |
 | `description` | A short description of the card, usually with a kicker. See below. |
 | `points` | 1, 2 or 3. How hard the card is. Change it if the card lands differently in your language. |
-| `id` | The card's row in the database. Leave it as you found it; the maintainer reissues these on import. See [above](#the-card-ids-dont-line-up-and-thats-fine). |
+| `id` | The card's identity, the same in every language. Leave it as you found it. See [above](#card-ids-are-shared-across-languages). |
 | `notForKids` | Optional. `true` hides the card while the app is in KIDS mode. Left out on every other card. See [below](#kids-mode). |
 
 Everything else the app stores about a pack (colours, cover emoji, version, author,
