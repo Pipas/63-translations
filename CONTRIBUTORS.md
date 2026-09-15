@@ -14,6 +14,8 @@ Translating the app.
 | --- | --- |
 | Oliver Evans | `en-GB` |
 | Maria João Neves | `pt-PT` |
+| Barbara Muto | `pt-BR` |
+| Raquel Müller | `pt-BR` |
 
 ## Cards
 
@@ -44,7 +46,8 @@ within a table doesn't mean anything, so append to the end.
 If you'd rather not use your real name, a handle is fine. That's what goes in the app, so
 put down whatever you want players to see.
 
-The credits screen itself is built in the app's code, not from this file, so a maintainer
-moves the name across when the language ships. You don't need to do anything beyond adding
-the row. The labels on that screen (`63/` → `credits.*`) are translated like any other
+The *Localisation* and *Cards* names on the credits screen are generated from this file by
+`scripts/credits` in the app repo, so a maintainer only has to run it before a release. The
+other sections are still written into the app by hand. You don't need to do anything beyond
+adding the row. The labels on that screen (`63/` → `credits.*`) are translated like any other
 string.

@@ -15,6 +15,7 @@ a language you speak, this is the only repo you need.
 | `en-GB` | English (British) | Complete, source language |
 | `en-US` | English (United States) | Complete |
 | `pt-PT` | Portuguese (Portugal) | Complete |
+| `pt-BR` | Portuguese (Brazil) | `63/` and `general_packs/` only |
 | `tr-TR` | Turkish (Turkey) | AI-generated draft — native review required |
 | `es-ES` | Spanish (Spain) | AI-generated draft — native review required |
 | `es-419` | Spanish (Latin America) | AI-generated draft — native review required |

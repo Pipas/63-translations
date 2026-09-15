@@ -74,6 +74,81 @@ translated title just reads badly enough that the card stops being worth playing
 | Good Cop, Bad Cop |
 | The Trolley Problem |
 
+## `pt-BR`
+
+**44 of the 230 English cards have no Brazilian Portuguese counterpart.** The remaining
+186 are translated, which is the whole Brazilian Portuguese deck.
+
+Most drops follow `pt-PT`. The Brazilian review kept *Uncle Sam* (*Tio Sam*) and *The
+Friendzone* (*Friendzone*), which Portuguese drops, and dropped *IKEA Instructions*,
+which Portuguese keeps.
+
+### English idiom or wordplay
+
+| Card |
+| --- |
+| A Bucket List |
+| A Butt Dial |
+| A Cliffhanger |
+| A Doppelganger |
+| A Guilty Pleasure |
+| A Pinky Promise |
+| Brain Freeze |
+| Double Dipping |
+| Leg Day |
+| Live, Laugh, Love |
+| Mary Jane |
+| Monday Morning |
+| Netflix and Chill |
+| One-Trick Pony |
+| Peer Pressure |
+| Schadenfreude |
+| The Elephant in the Room |
+| The Last Straw |
+| The Snooze Button |
+| Wordle |
+| YOLO (You Only Live Once) |
+
+### No common Portuguese name for the thing
+
+| Card |
+| --- |
+| A Crash Test Dummy |
+| A Fidget Spinner |
+| A Man Bun |
+| A Mullet |
+| A Spork |
+| A Tin Foil Hat |
+| A Tumbleweed |
+| Bubble Wrap |
+
+### Translation loses the meaning or joke
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| 9 to 5 |
+| A Participation Trophy |
+| Groundhog Day |
+| Hungry Hungry Hippos |
+| Jimmy Fallon's Laugh |
+| Super Bowl Halftime Show |
+| The 1% |
+| The Conga Line |
+| The First Rule of Fight Club |
+| An Evil Twin |
+| Godzilla |
+| Good Cop, Bad Cop |
+| The Trolley Problem |
+
+### Not recognisable in Brazil
+
+IKEA has next to no presence in Brazil, so the card has nothing to hang on.
+
+| Card |
+| --- |
+| IKEA Instructions |
+
 ## `tr-TR`
 
 **54 of the 230 English cards have no Turkish counterpart.** The remaining 176 are
