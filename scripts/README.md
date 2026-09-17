@@ -49,7 +49,7 @@ These folders hold the same shape of JSON, so they get the same shape of sheet:
 | `<lang>` | **The translation.** The only column to fill in. |
 | `notes` | Anything the translator wants to flag. Printed on import, never shipped. |
 
-One row per string: 302 for `63`, 448 for `packs.63.pt`, 51 for `emails`. Every key must survive, so a row
+One row per string: 307 for `63`, 448 for `packs.63.pt`, 51 for `emails`. Every key must survive, so a row
 left blank imports as the English string rather than a hole in the file, and the import
 prints the count.
 

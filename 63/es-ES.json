@@ -374,5 +374,12 @@
     "easiest_card": "Carta más fácil",
     "skipped_n_times": "Pasada {count}×",
     "easiest_subtitle": "Pasada {skips}× · media de {avg}s"
+  },
+  "translations": {
+    "ai_notice": "Esta traducción se ha hecho con IA. ¿Has encontrado un error o quieres ayudar a mejorarla?",
+    "contact_us": "Contacta con nosotros",
+    "missing_language": "¿No encuentras tu idioma?",
+    "help_translate": "Ayuda a traducir 63",
+    "help_description": "¿Has encontrado un error en una traducción o quieres jugar a 63 en tu idioma? Escríbenos si quieres echar una mano."
   }
 }

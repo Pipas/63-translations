@@ -374,5 +374,12 @@
     "easiest_card": "En kolay kart",
     "skipped_n_times": "{count}× geçildi",
     "easiest_subtitle": "{skips}× geçildi · ort. {avg} sn"
+  },
+  "translations": {
+    "ai_notice": "Bu çeviri yapay zekâ ile yapıldı. Bir hata mı buldun, yoksa daha iyi olması için yardım etmek mi istiyorsun?",
+    "contact_us": "Bize ulaş",
+    "missing_language": "Dilini bulamadın mı?",
+    "help_translate": "63'ü çevirmeye yardım et",
+    "help_description": "Bir çeviri hatası mı buldun, yoksa 63'ü kendi dilinde mi oynamak istiyorsun? Yardım etmek istersen bize yaz."
   }
 }

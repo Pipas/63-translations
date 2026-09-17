@@ -32,7 +32,7 @@ Adding a new language means adding one file per folder below, named with the sam
 
 | Folder | What it translates | Size |
 | --- | --- | --- |
-| [`63/`](63) | The 63 mobile game (iOS + Android) | ~302 strings |
+| [`63/`](63) | The 63 mobile game (iOS + Android) | ~307 strings |
 | [`packs.63.pt/`](packs.63.pt) | The pack editor at [packs.63.pt](https://packs.63.pt) | ~448 strings |
 | [`emails/`](emails) | The emails 63 sends | ~51 strings |
 | [`general_packs/`](general_packs) | The General card deck shipped with the app | 230 EN / 185 PT / 176 TR / 201 ES / 197 LATAM / 192 FR cards |

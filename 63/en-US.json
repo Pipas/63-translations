@@ -374,5 +374,12 @@
     "easiest_card": "Easiest card",
     "skipped_n_times": "Skipped {count}×",
     "easiest_subtitle": "Skipped {skips}× · {avg}s average"
+  },
+  "translations": {
+    "ai_notice": "This translation was made with AI. Found a mistake or want to help make it better?",
+    "contact_us": "Contact us",
+    "missing_language": "Can't find your language?",
+    "help_translate": "Help translate 63",
+    "help_description": "Found a mistake in a translation, or want to play 63 in your language? Get in touch if you want to help out."
   }
 }

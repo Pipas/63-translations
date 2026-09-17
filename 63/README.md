@@ -27,7 +27,7 @@ Nested JSON, grouped by namespace. Strings are looked up by their dot path:
 }
 ```
 
-The eight top-level namespaces:
+The nine top-level namespaces:
 
 | Namespace | What's in it |
 | --- | --- |
@@ -39,6 +39,7 @@ The eight top-level namespaces:
 | `deck` | Deck-building screen. |
 | `packs` | Pack selection and the "make your own" CTA. |
 | `post_game` | End-of-game results. |
+| `translations` | The AI translation notice on the home screen and the "help translate 63" sheet. |
 
 Keep the nesting identical to `en-GB.json`. A flattened or re-grouped file won't resolve.
 
