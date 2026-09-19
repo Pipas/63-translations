@@ -111,9 +111,7 @@ until that review is complete.
 
 ### Scope and method
 
-- `63/fr-FR.json` was translated directly from the current `en-GB` source. An older partial
-  draft in `csv/fr-FR/` was reviewed as a reference, then brought up to date with the new
-  accessibility and KIDS-mode strings.
+- `63/fr-FR.json` was translated directly from the current `en-GB` source.
 - `general_packs/fr-FR.json` contains 192 translations of English General cards. It has no
   replacement cards or France-specific additions; 38 cards without one confident,
   playable French title were dropped and recorded in
@@ -287,3 +285,60 @@ permissions, community submission states, email subject lengths, accessibility t
 and KIDS-mode text should also be checked in context. The official Italian title *Mamma,
 ho perso l’aereo* exceeds the usual mobile title-length budget and needs an in-context
 layout check.
+
+## Dutch (`nl-NL`)
+
+The `nl-NL` locale files in this repository are an **AI-generated draft**. They have not
+yet been reviewed by a native Dutch translator and should not be treated as final copy
+until that review is complete.
+
+### Scope and method
+
+- All four files are translated from the current `en-GB` sources, using informal singular
+  address (*je/jij*), with Portuguese as the reference for tone and conventions. They
+  preserve every key, placeholder, markup tag, plural pair and line break.
+- `general_packs/nl-NL.json` has 197 cards, with no replacement cards or
+  Netherlands-specific additions. The 33 cards without a stable, playable Dutch title are
+  listed in [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
+- *Home Alone* keeps its English title, which is the title used in the Netherlands.
+  *Niets* keeps its empty description and *Déjà vu* repeats its sentence on purpose.
+
+### Dutch terminology
+
+The draft uses informal singular address (*je/jij*) and these equivalents:
+
+| English | Dutch |
+| --- | --- |
+| card | kaart |
+| title | titel |
+| description | beschrijving |
+| pack | pack |
+| deck | stapel |
+| round | ronde |
+| turn | beurt |
+| team | team |
+| points | punten |
+| score | score |
+| clue | aanwijzing |
+| guess | raden |
+| skip a card | passen |
+| skip a screen | overslaan |
+| penalty | straftijd |
+| game mode | spelmodus |
+| community pack | communitypack |
+
+### Point changes
+
+- *Aurora Borealis* changes from 3 points to 2 as *Het noorderlicht*, because the Dutch
+  name is an everyday word and substantially easier to clue than the Latin English title.
+
+### App label and review notes
+
+Register `nl-NL` in the app as **Nederlands** with **🇳🇱**.
+
+Native review should pay particular attention to compact mobile and website labels,
+official Dutch titles for films, television programmes, toys and games, and the balance
+between established English loanwords and Dutch wording in the General deck. The five
+newer cards, accessibility tooltips, KIDS-mode text, pack import flow, collaboration
+permissions, community submission states and email subject lengths should be checked in
+context.

@@ -1,0 +1,1213 @@
+{
+  "name": "Algemeen",
+  "cards": [
+    {
+      "description": "Een langdurige huidaandoening die zo’n 80% van de tieners in de westerse wereld treft. Er bestaan veel misverstanden over de oorzaak; tot in de 20e eeuw dacht men dat masturbatie er een van was.",
+      "id": "b15166bdb3a88482",
+      "title": "Acne",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Japans figuurtje uit 1974: een wit poesje zonder mond met een rode strik. Het groeide uit tot een wereldwijd fenomeen en een van de grootste mediafranchises ter wereld.",
+      "id": "d5b0dc39299f12d9",
+      "title": "Hello Kitty",
+      "points": 1
+    },
+    {
+      "description": "Een broodjeaapverhaal over eten dat op de grond valt: binnen een bepaald tijdsbestek zou je het nog mogen oprapen en opeten. Er is veel onderzoek naar gedaan, zonder dat iemand het eens werd.",
+      "id": "66bdb3a884826a85",
+      "title": "De 5-secondenregel",
+      "points": 2
+    },
+    {
+      "description": "Een pokerhand met aas, heer, vrouw, boer en tien in dezelfde kleur. De kans hierop is 1 op 649.739, net iets groter dan de kans om door de bliksem getroffen te worden.",
+      "id": "26a85346d84e5d84",
+      "title": "Royal Flush",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Wereldwijde jongerenorganisatie met het hoofdkantoor in Zwitserland, die christelijke principes uitdraagt. Waarschijnlijk beter bekend van het gelijknamige nummer van de Village People uit 1978.",
+      "id": "ab9ada8e35619dc9",
+      "title": "YMCA",
+      "points": 1
+    },
+    {
+      "description": "Volgens Einsteins relativiteitstheorie kan geen enkel deeltje harder gaan dan dit. In vacuüm ligt de waarde exact vast op 299.792.458 m/s. Knipper niet met je ogen.",
+      "id": "4e5d84ee4fd2b865",
+      "title": "De lichtsnelheid",
+      "points": 2
+    },
+    {
+      "description": "Het handelsmerk van de zanger van U2. Veel mensen dachten dat hij het ding uit ijdelheid droeg, maar in een interview vertelde hij dat het helpt tegen een oogaandoening door glaucoom.",
+      "id": "4a02d6ad5b0dc392",
+      "title": "De zonnebril van Bono",
+      "points": 2
+    },
+    {
+      "description": "De verpersoonlijking van de Amerikaanse overheid, en van het land in het algemeen. Vooral bekend van de iconische wervingsposter uit 1917 met de tekst “I WANT YOU”.",
+      "id": "85346d84e5d84ee4",
+      "title": "Uncle Sam",
+      "points": 1
+    },
+    {
+      "description": "Animatieserie voor kinderen van Keith Chapman, uitgezonden tussen 1998 en 2008, over een aannemer en zijn pratende voertuigen.",
+      "id": "b68a945311fc0874",
+      "title": "Bob de Bouwer",
+      "points": 2
+    },
+    {
+      "description": "Een omslag in identiteit en zelfvertrouwen die mensen van middelbare leeftijd kan overvallen. Vaak uitgelokt door iets wat je met je neus drukt op je leeftijd, je sterfelijkheid of alles wat je nog niet bereikt hebt.",
+      "id": "a38b15166bdb3a88",
+      "title": "Een midlifecrisis",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "De situatie waarin de een uit een platonisch duo meer wil, romantisch of seksueel, en de ander niet.",
+      "id": "6bdb3a884826a853",
+      "title": "De friendzone",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Het spel dat je nu speelt!",
+      "id": "2b6371df91904ba6",
+      "title": "63",
+      "points": 1
+    },
+    {
+      "description": "Uitdrukking voor een groot, overduidelijk probleem waar niemand het over wil hebben. Het beeld komt uit een fabel: een man ziet in een museum alle kleine dingetjes, maar niet het enorme grijze dier met de slurf.",
+      "id": "d84ee4fd2b8656cd",
+      "title": "De olifant in de kamer",
+      "points": 2
+    },
+    {
+      "description": "Latin-pophit van Luis Fonsi en Daddy Yankee uit 2017. Het nummer ging viraal, mede dankzij een remix met Justin Bieber, en was ooit de best bekeken video op YouTube.",
+      "id": "71df91904ba61d67",
+      "title": "Despacito",
+      "points": 1
+    },
+    {
+      "description": "Doodsoorzaak nummer één onder tekenfilmfiguren. Het slachtoffer komt meestal onder het puin vandaan met een bult op zijn hoofd en zwart-witte toetsen in plaats van tanden.",
+      "id": "bdb3a884826a8534",
+      "title": "Een vallende piano",
+      "points": 2
+    },
+    {
+      "description": "Het reusachtige, slakachtige wezen dat Han Solo gevangen hield in de derde Star Wars-film. Hij zou al in de eerste film verschijnen, als grappige bijrol, maar haalde de montage niet.",
+      "id": "a02d6ad5b0dc3929",
+      "title": "Jabba the Hutt",
+      "points": 2
+    },
+    {
+      "description": "Bekend potje voor muntgeld, meestal van kinderen. Vroeger moest je het ding stukslaan om bij je centen te komen.",
+      "id": "4ee4fd2b8656cda7",
+      "title": "Spaarvarken",
+      "points": 1
+    },
+    {
+      "description": "De pratende hoofdpersoon uit een Italiaans sprookje, die met list en bedrog zijn baasje vooruithelpt. De laatste jaren vooral bekend uit de Shrek-films.",
+      "id": "ad5b0dc39299f12d",
+      "title": "De Gelaarsde Kat",
+      "points": 1
+    },
+    {
+      "description": "Het lichaamsdeel dat de Nederlandse postimpressionist zelf afsneed. Hij geldt als een van de invloedrijkste schilders van het Westen, maar verkocht tijdens zijn leven maar één doek.",
+      "id": "311fc0874d0a38b1",
+      "title": "Het oor van Van Gogh",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "",
+      "id": "346d84e5d84ee4fd",
+      "title": "Niets",
+      "points": 1
+    },
+    {
+      "description": "Een stoornis waarbij iemand bij verminderd bewustzijn van alles doet alsof hij wakker is. Omdat het onvrijwillig gebeurt, is het weleens als verweer in de rechtszaal gebruikt.",
+      "id": "c4a02d6ad5b0dc39",
+      "title": "Slaapwandelen",
+      "points": 1
+    },
+    {
+      "description": "Een van de vier pluizige wezens met een beeldscherm op hun buik uit de BBC-serie uit 1997. Ze heten Tinky Winky, Dipsy, Laa-Laa… Po!",
+      "id": "99f12d9bb68a9453",
+      "title": "Een Teletubbie",
+      "points": 1
+    },
+    {
+      "description": "Italiaanse misdaadorganisatie die in de 19e eeuw ontstond op het grootste eiland van het land. Ze bestaat nog steeds: naar schatting betaalt 70% van de bedrijven daar nog altijd beschermingsgeld.",
+      "id": "a945311fc0874d0a",
+      "title": "De Siciliaanse maffia",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Het gebaar waarmee een van de twaalf discipelen aan de menigte liet zien wie Jezus Christus was, zodat ze hem konden arresteren. Sindsdien staat het voor verraad vermomd als vriendelijkheid.",
+      "id": "0dc39299f12d9bb6",
+      "title": "De Judaskus",
+      "points": 1
+    },
+    {
+      "description": "Het antwoord dat je waarschijnlijk krijgt als je de Britse spion van Ian Fleming naar zijn naam vraagt.",
+      "id": "1d67f4bab9ada8e3",
+      "title": "Bond, James Bond",
+      "points": 2
+    },
+    {
+      "description": "Een manier om foto’s op te leuken in de sociale app met het spookje als logo. Populaire keuzes: het bloemenkroontje, de regenboogkots en de hondenoren met snuit.",
+      "id": "fc0874d0a38b1516",
+      "title": "Snapchatfilters",
+      "points": 2
+    },
+    {
+      "description": "De felgekleurde katachtige mascotte van een filmreeks rond de onhandige Franse inspecteur Jacques Clouseau. Hij sluipt rond op zijn eigen, meteen herkenbare deuntje.",
+      "id": "1904ba61d67f4bab",
+      "title": "De Roze Panter",
+      "points": 1
+    },
+    {
+      "description": "Symbool uit de Russische Revolutie voor de eenheid tussen boeren en arbeiders. Het staat vooral bekend als teken van het communisme en prijkte op de vlag van de Sovjet-Unie.",
+      "id": "84826a85346d84e5",
+      "title": "Hamer en sikkel",
+      "points": 3
+    },
+    {
+      "description": "De hoofdpersoon uit de gelijknamige serie, die zich met verstand en technisch inzicht uit elke benarde situatie redt. Zijn naam staat inmiddels voor een simpele maar geniale oplossing.",
+      "id": "948632cc4a02d6ad",
+      "title": "MacGyver",
+      "points": 2
+    },
+    {
+      "description": "De vrouwelijke ouder van je partner.",
+      "id": "8a945311fc0874d0",
+      "title": "De schoonmoeder",
+      "points": 1
+    },
+    {
+      "description": "Dat ongemakkelijke moment waarop de rits van je broek niet dicht zit.",
+      "id": "8b15166bdb3a8848",
+      "title": "Een openstaande gulp",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Een van de opvallendste kenmerken van de 47e president van de Verenigde Staten. Berucht om de kunstmatige kleur en de vreemde vorm.",
+      "id": "1df91904ba61d67f",
+      "title": "Het haar van Trump",
+      "points": 2
+    },
+    {
+      "description": "Streng geheime luchtmachtbasis in Nevada waar volgens sommigen het bewijs voor ufo’s ligt. In juli 2019 riep een grap op Facebook duizenden mensen op om de basis te bestormen.",
+      "id": "a8e35619dc9c3948",
+      "title": "Area 51",
+      "points": 2
+    },
+    {
+      "description": "Wintersport waarbij twee teams om de beurt stenen naar een doelgebied schuiven. De spelers vegen met bezems over het ijs om de vaart en de route te beïnvloeden.",
+      "id": "f4bab9ada8e35619",
+      "title": "Curling",
+      "points": 2
+    },
+    {
+      "description": "Het roodharige meisje met sproeten uit de kinderboeken van de Zweedse schrijfster Astrid Lindgren. De boeken zijn in 77 talen vertaald en meermaals verfilmd.",
+      "id": "19dc9c3948632cc4",
+      "title": "Pippi Langkous",
+      "points": 3
+    },
+    {
+      "description": "Speelgoedlijn met fantasiepaardjes van Hasbro, die uitgroeide tot een animatieserie. Hoewel bedoeld voor jonge meisjes, kreeg de serie online een cultstatus onder volwassen mannen.",
+      "id": "1fc0874d0a38b151",
+      "title": "My Little Pony",
+      "points": 1
+    },
+    {
+      "description": "Kinderliedje over een familie grote zeevissen die gaat jagen. Het ging viraal en is meer dan 13 miljard keer bekeken op YouTube. De kracht zit hem in de tekst: doe doe doe doe doe doe.",
+      "id": "2d6ad5b0dc39299f",
+      "title": "Baby Shark",
+      "points": 2
+    },
+    {
+      "description": "Kledingstuk voor het bovenlijf dat de buik bloot laat, geaccepteerd sinds eind jaren 60. Sinds halverwege de jaren 2010 is de mannenvariant weer in opmars.",
+      "id": "874d0a38b15166bd",
+      "title": "Een croptop",
+      "points": 2
+    },
+    {
+      "description": "Ofwel het overleden familielid dat Peter Parker motiveerde om Spider-Man te worden, ofwel de leverancier van magnetronrijst. Kies zelf maar.",
+      "id": "61d67f4bab9ada8e",
+      "title": "Uncle Ben",
+      "points": 2
+    },
+    {
+      "description": "Het derde deel van de animatiefilmreeks van Dreamworks over Po, een beer met de stem van Jack Black, die zijn biologische familie moet vinden om de kracht van Chi te leren.",
+      "id": "4bab9ada8e35619d",
+      "title": "Kung Fu Panda 3",
+      "points": 2
+    },
+    {
+      "description": "Verdienmodel waarbij je pas betaald krijgt als je zelf nieuwe leden binnenhaalt. Omdat het in de meeste landen verboden is, wordt het vaak vermomd als multi-level marketing.",
+      "id": "0a38b15166bdb3a8",
+      "title": "Een piramidespel",
+      "points": 2
+    },
+    {
+      "description": "De schildknaap van de hoofdpersoon uit Don Quichot, geschreven door Miguel de Cervantes in 1605. Bekend om zijn droge humor en zijn eindeloze Spaanse spreekwoorden.",
+      "id": "9f12d9bb68a94531",
+      "title": "Sancho Panza",
+      "points": 3
+    },
+    {
+      "description": "Een stuk interieur met een eigen wil, uit een Disney-film die zich in het Midden-Oosten afspeelt. Het was een van de eerste computeranimaties in een bioscoopfilm.",
+      "id": "82b6371df91904ba",
+      "title": "Het vliegende tapijt van Aladdin",
+      "points": 1
+    },
+    {
+      "description": "Iemand die anderen bedriegt voor geld, roem of ander voordeel. Het bekendste voorbeeld is de dokter die minerale olie verkocht als wondermiddel tegen werkelijk alles.",
+      "id": "2d9bb68a945311fc",
+      "title": "Een charlatan",
+      "points": 3
+    },
+    {
+      "description": "Slang voor films kijken via een populaire streamingdienst, meestal als eufemisme voor iets heel anders. De dienst zelf omarmde de uitdrukking en gebruikt hem in reclames.",
+      "id": "c3948632cc4a02d6",
+      "title": "Netflix and chill",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Een boerenmeisje uit middeleeuws Frankrijk dat geloofde dat God haar had uitgekozen om het leger tegen Engeland aan te voeren. Na de grote overwinning werd ze gevangengenomen en op de brandstapel gezet.",
+      "id": "8632cc4a02d6ad5b",
+      "title": "Jeanne d’Arc",
+      "points": 2
+    },
+    {
+      "description": "Afkorting van een bekende uitspraak, een oproep om het leven ten volle te benutten, in de geest van “Carpe Diem”. Ondanks de existentiële lading wordt hij vooral geroepen door pubers vlak voor iets doms.",
+      "id": "904ba61d67f4bab9",
+      "title": "YOLO",
+      "points": 2
+    },
+    {
+      "description": "Een onmogelijke rekensom. NaN!",
+      "id": "12d9bb68a945311f",
+      "title": "Delen door nul",
+      "points": 2
+    },
+    {
+      "description": "Uitdrukking voor het vreemde of onbetrouwbare lid van een groep, vooral binnen een familie, dat anders behandeld of buitengesloten wordt. In de natuur komt die afwijkende kleur door een recessief gen.",
+      "id": "35619dc9c3948632",
+      "title": "Het zwarte schaap",
+      "points": 2
+    },
+    {
+      "description": "Plastic toeter die beroemd werd op het WK van 2010 en één luide toon voortbrengt. Hij was zo irritant dat omroepen tijdens wedstrijden filters gebruikten om het geluid weg te poetsen.",
+      "id": "74d0a38b15166bdb",
+      "title": "Vuvuzela",
+      "points": 2
+    },
+    {
+      "description": "Nummer van Bryan Adams uit 1985 over een jongen die rockster wil worden. Adams onthulde later dat het eigenlijk over de liefde bedrijven ging, en niet over dat jaartal.",
+      "id": "9ada8e35619dc9c3",
+      "title": "Summer of ’69",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Een geanimeerd amfibie dat beroemd werd met een remix van “Axel F” in 2005. Het figuurtje moest vooral ringtones verkopen en zorgde voor ophef omdat het naakt in beeld kwam.",
+      "id": "632cc4a02d6ad5b0",
+      "title": "Crazy Frog",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "De faun die in de fantasiewereld Narnia woont, bedacht door C.S. Lewis in 1950. Hij is het eerste personage dat je daar tegenkomt en heeft volgens het boek “een vreemd maar vriendelijk gezichtje”.",
+      "id": "39299f12d9bb68a9",
+      "title": "Meneer Tumnus",
+      "points": 3
+    },
+    {
+      "description": "Het houten bouwsel in de vorm van een dier waarin Griekse soldaten zich verstopten om een belegerde stad binnen te komen. In de computerwereld heet malware die zich anders voordoet er ook naar.",
+      "id": "5346d84e5d84ee4f",
+      "title": "Het Paard van Troje",
+      "points": 1
+    },
+    {
+      "description": "Het schoolhoofd van Zweinstein, de fictieve school voor hekserij en tovenarij uit de boeken van J.K. Rowling. Hij deelt zijn kantoor met zijn feniks Felix.",
+      "id": "9c3948632cc4a02d",
+      "title": "Albus Perkamentus",
+      "points": 2
+    },
+    {
+      "description": "Mobiel spelletje waarin je een vliegend dier tussen groene buizen door loodst. Na een enorme hype in 2014 haalde de maker het uit de appstores, omdat hij het te verslavend vond.",
+      "id": "b6371df91904ba61",
+      "title": "Flappy Bird",
+      "points": 2
+    },
+    {
+      "description": "Spelletje tussen twee mensen die tegelijk een van drie vormen met hun hand maken. Er bestaan varianten met extra vormen als put, Spock en hagedis, en zelfs een versie met 101 vormen!",
+      "id": "e5d84ee4fd2b8656",
+      "title": "Steen, papier, schaar",
+      "points": 1
+    },
+    {
+      "description": "Realityserie die voor het eerst in Nederland werd uitgezonden, waarin kandidaten samen in een huis wonen, afgesloten van de buitenwereld. De naam komt uit de roman 1984 van George Orwell, over alziend toezicht.",
+      "id": "45311fc0874d0a38",
+      "title": "Big Brother",
+      "points": 2
+    },
+    {
+      "description": "Delicatesse van gezouten viseitjes, een van de duurste dingen die je op tafel kunt zetten. Zilver zou de smaak aantasten, dus eet je het met een lepeltje van parelmoer.",
+      "id": "d0a38b15166bdb3a",
+      "title": "Kaviaar",
+      "points": 2
+    },
+    {
+      "description": "Een twijfelachtige keuze in het pak van de gemaskerde held, in de films van Joel Schumacher uit 1995 en 1997. De verklaring: het kostuum was gebaseerd op oude Griekse beelden.",
+      "id": "5619dc9c3948632c",
+      "title": "De tepels van Batman",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Egyptische farao van wie het graf eeuwenlang verloren leek. In 1922 werd het teruggevonden, met ruim 5000 kostbaarheden erin, waaronder een massief gouden kist en meerdere trompetten.",
+      "id": "dc9c3948632cc4a0",
+      "title": "Toetanchamon",
+      "points": 2
+    },
+    {
+      "description": "Swahili voor “geen zorgen”, wereldberoemd geworden door de Disney-tekenfilm De Leeuwenkoning uit 1994. Toen Disney de uitdrukking in 2018 als merk vastlegde, leidde dat tot woede in Oost-Afrika.",
+      "id": "b0dc39299f12d9bb",
+      "title": "Hakuna Matata",
+      "points": 1
+    },
+    {
+      "description": "Beroemde internetpoes met een eeuwig chagrijnige kop, goed voor meer dan 8 miljoen volgers. In 2014 speelde ze de hoofdrol in haar eigen kerstfilm, met de stem van Aubrey Plaza.",
+      "id": "68a945311fc0874d",
+      "title": "Grumpy Cat",
+      "points": 2
+    },
+    {
+      "description": "Kort slaapje, meestal overdag. In warme landen als Spanje hoort het er helemaal bij; in Madrid werd ooit een nationaal siëstakampioenschap gehouden.",
+      "id": "5166bdb3a884826a",
+      "title": "Een dutje",
+      "points": 1
+    },
+    {
+      "description": "Natuurverschijnsel aan de hemel dicht bij de pool, waar de lucht groen en paars kleurt. De Inuit geloofden dat het de geesten van hun voorouders waren, die een spel speelden met de schedel van een walrus als bal.",
+      "id": "166bdb3a884826a8",
+      "title": "Het noorderlicht",
+      "points": 2
+    },
+    {
+      "description": "Apparaat dat probeert vast te stellen of iemand de waarheid spreekt door tijdens een reeks vragen lichaamsreacties te meten. Over de betrouwbaarheid zijn wetenschappers het bepaald niet eens.",
+      "id": "84ee4fd2b8656cda",
+      "title": "De leugendetector",
+      "points": 2
+    },
+    {
+      "description": "Een bovennatuurlijk opperwezen dat als heilig wordt vereerd. In monotheïstische religies is Hij de schepper van de wereld.",
+      "id": "df91904ba61d67f4",
+      "title": "God",
+      "points": 1
+    },
+    {
+      "description": "Een omstreden modecombinatie: iets warms aan je voeten in schoeisel dat eigenlijk voor de zomer bedoeld is. De makers van dit spel keuren deze praktijk niet goed.",
+      "id": "6371df91904ba61d",
+      "title": "Sokken in sandalen",
+      "points": 2
+    },
+    {
+      "description": "Veelgebruikte truc van websites om je te laten klikken, vaak met overdreven beloftes over de inhoud van het artikel. Wat er daarna gebeurt, zal je verbazen!",
+      "id": "db3a884826a85346",
+      "title": "Clickbait",
+      "points": 2
+    },
+    {
+      "description": "Het enorme blok bevroren water dat in 1912 een van de grootste passagiersschepen van die tijd noodlottig werd. Ironisch genoeg gold dat schip als een van de veiligste ooit gebouwd.",
+      "id": "682b6371df91904b",
+      "title": "De ijsberg van de Titanic",
+      "points": 2
+    },
+    {
+      "description": "Het iconische wapen van de hoofdpersoon uit de filmreeks van George Lucas uit 1981, over een avontuurlijke hoogleraar archeologie. Een van de replica’s uit de opnames bracht in 2014 $140.000 op.",
+      "id": "c39299f12d9bb68a",
+      "title": "De zweep van Indiana Jones",
+      "points": 2
+    },
+    {
+      "description": "Gemaskerde volksheld, bedacht door Johnston McCulley in 1919, die het volk van Californië verdedigt tegen wrede tirannen. Hij is acrobaat en meester met de degen, waarmee hij zijn initiaal in zijn tegenstanders kerft.",
+      "id": "dc39299f12d9bb68",
+      "title": "Zorro",
+      "points": 1
+    },
+    {
+      "description": "Fictieve Belgische detective van Agatha Christie, hoofdpersoon in de meeste van haar misdaadverhalen. Hij is door talloze acteurs gespeeld en draagt altijd diezelfde snor.",
+      "id": "ba61d67f4bab9ada",
+      "title": "Hercule Poirot",
+      "points": 2
+    },
+    {
+      "description": "Het boek uit 1943 van de Franse vliegenier Antoine de Saint-Exupéry, over een gestrande piloot die een bijzonder jongetje ontmoet. Het is talloze keren bewerkt en een van de meest vertaalde boeken ooit.",
+      "id": "32cc4a02d6ad5b0d",
+      "title": "De kleine prins",
+      "points": 1
+    },
+    {
+      "description": "Gezichtsbeharing die berucht werd door de leider van Duitsland en de asmogendheden in de Tweede Wereldoorlog. Ook Charlie Chaplin droeg er een.",
+      "id": "91904ba61d67f4ba",
+      "title": "Een hitlersnorretje",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Digitaal huisdiertje uit Japan van de jaren 90, een van de grootste speelgoedrages van die tijd. Kinderen raakten er zo aan gehecht dat er verhalen zijn van tieners die het beestje begroeven toen het overleed.",
+      "id": "d84e5d84ee4fd2b8",
+      "title": "Tamagotchi",
+      "points": 3
+    },
+    {
+      "description": "Verzonnen Kazachse journalist, bedacht en gespeeld door Sacha Baron Cohen in de gelijknamige film uit 2006. De film lag zwaar onder vuur en meerdere deelnemers stapten naar de rechter.",
+      "id": "ada8e35619dc9c39",
+      "title": "Borat",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Term voor de Indiase filmindustrie in Mumbai, die films in het Hindi maakt. Het populairste genre is de masalafilm, die actie, komedie, romantiek en drama vrolijk door elkaar husselt, met dansnummers ertussen.",
+      "id": "11fc0874d0a38b15",
+      "title": "Bollywood",
+      "points": 2
+    },
+    {
+      "description": "Stichter en eerste keizer van het Mongoolse Rijk, ontstaan in 1206, dat later het grootste aaneengesloten rijk uit de geschiedenis werd. Uit onderzoek uit 2003 bleek dat ongeveer 1 op de 200 mannen rechtstreeks van hem afstamt.",
+      "id": "c0874d0a38b15166",
+      "title": "Dzjengis Khan",
+      "points": 3
+    },
+    {
+      "description": "Sportkomedie uit 1996 waarin de figuren uit Looney Tunes samen met basketballegende Michael Jordan een intergalactische wedstrijd spelen.",
+      "id": "cc4a02d6ad5b0dc3",
+      "title": "Space Jam",
+      "points": 1
+    },
+    {
+      "description": "Een van de oorspronkelijke verdachten uit het beroemde detectivebordspel Cluedo.",
+      "id": "826a85346d84e5d8",
+      "title": "Kolonel Mosterd",
+      "points": 2
+    },
+    {
+      "description": "Historische streek in het midden van Roemenië, bekend als het decor van de gotische roman Dracula van Bram Stoker uit 1897. Sindsdien is het dé plek voor vampiers: er spelen ruim 40 films.",
+      "id": "5311fc0874d0a38b",
+      "title": "Transsylvanië",
+      "points": 2
+    },
+    {
+      "description": "Dit mysterieuze mineraal is de enige zwakte van Superman en staat inmiddels voor alles waar iemand niet tegen kan. Meestal is het groen, maar bij zijn eerste optreden in een stripboek was het rood.",
+      "id": "3a884826a85346d8",
+      "title": "Kryptoniet",
+      "points": 2
+    },
+    {
+      "description": "De fictieve zeeschuimer gespeeld door Johnny Depp in de Pirates of the Caribbean-films. Zijn typetje is een mix van Keith Richards en het Looney Tunes-figuur Pepé Le Pew.",
+      "id": "d6ad5b0dc39299f1",
+      "title": "Kapitein Jack Sparrow",
+      "points": 1
+    },
+    {
+      "description": "Een simpel dansje waarbij je je hoofd in je gebogen arm laat vallen en de andere arm omhoog steekt. In Saoedi-Arabië werd het verboden, omdat het naar cannabis zou verwijzen.",
+      "id": "b9ada8e35619dc9c",
+      "title": "De dab",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "💩",
+      "id": "c9c3948632cc4a02",
+      "title": "De poep-emoji",
+      "points": 2
+    },
+    {
+      "description": "Gebied in ons zonnestelsel tussen de banen van Mars en Jupiter, vol ruimtepuin van allerlei vorm en formaat. Anders dan films doen geloven, is de kans op een botsing bij een vlucht erdoorheen minimaal.",
+      "id": "884826a85346d84e",
+      "title": "De asteroïdengordel",
+      "points": 2
+    },
+    {
+      "description": "Datingapp waarin je anoniem naar links of rechts veegt om profielen af te wijzen of leuk te vinden. Die veegbeweging werd hier bedacht en zit nu in bijna elke app, ook in deze!",
+      "id": "d9bb68a945311fc0",
+      "title": "Tinder",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Het volledig verwijderen van al het schaamhaar rond het bekken. De naam komt van een salon in Manhattan die in 1987 werd opgericht door een groep zussen uit Zuid-Amerika.",
+      "id": "a884826a85346d84",
+      "title": "Brazilian wax",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Een doodgewone man die verdacht veel op Superman lijkt.",
+      "id": "02d6ad5b0dc39299",
+      "title": "Clark Kent zonder bril",
+      "points": 3
+    },
+    {
+      "description": "Komedie uit 1990 met Macaulay Culkin over een achtergebleven kind dat inbrekers uit de woning van zijn ouders weert. Voor veel mensen hoort de film onlosmakelijk bij de kerstdagen.",
+      "id": "a61d67f4bab9ada8",
+      "title": "Home Alone",
+      "points": 1
+    },
+    {
+      "description": "De opvatting dat onze planeet de vorm van een schijf heeft en niet van een bol. Een Amerikaanse waaghals wilde dat met een zelfgebouwde raket bewijzen, en overleefde de vlucht niet.",
+      "id": "4d0a38b15166bdb3",
+      "title": "De platte aarde",
+      "points": 2
+    },
+    {
+      "description": "Onderwaterheld uit de Justice League van DC Comics, met een drietand en macht over zeedieren. Ondanks zijn populariteit wordt er eindeloos gegrapt over zijn zwakke krachten.",
+      "id": "bb68a945311fc087",
+      "title": "Aquaman",
+      "points": 1
+    },
+    {
+      "description": "Merk van speelgoedautootjes, in 1968 bedacht door de Amerikaanse fabrikant Mattel. Er zijn inmiddels ruim 6 miljard exemplaren gemaakt in 20.000 varianten. Doe dat maar eens na!",
+      "id": "945311fc0874d0a3",
+      "title": "Hot Wheels",
+      "points": 2
+    },
+    {
+      "description": "Hagedis die vaak als huisdier wordt gehouden, officieel Pogona geheten. De naam verwijst naar de onderkant van zijn keel, die zwart kan kleuren als het dier gestrest is.",
+      "id": "04ba61d67f4bab9a",
+      "title": "Baardagaam",
+      "points": 2
+    },
+    {
+      "description": "De musical uit 1981 van Andrew Lloyd Webber over een stam poezen die zichzelf de Jellicles noemt. De verfilming uit 2019 werd door pers en publiek genadeloos afgemaakt.",
+      "id": "2cc4a02d6ad5b0dc",
+      "title": "Cats",
+      "points": 1
+    },
+    {
+      "description": "Iemand die zegt met bovennatuurlijke gaven dingen te kunnen die volgens de natuurwetten niet kunnen, meestal contact leggen met de doden. Er zijn veel gelovigen, maar geen enkel wetenschappelijk bewijs.",
+      "id": "67f4bab9ada8e356",
+      "title": "Een helderziende",
+      "points": 1
+    },
+    {
+      "description": "De twee beroemdste Galliërs uit een geliefde Franse stripreeks die zich afspeelt in de Romeinse tijd. De kleinste drinkt toverdrank voor zijn kracht; de grootste viel er als baby in.",
+      "id": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+      "title": "Asterix en Obelix",
+      "points": 2
+    },
+    {
+      "description": "De eerste veelgebruikte webbrowser van Microsoft, berucht om zijn traagheid. Hij was zo onbemind dat hij op het laatst vooral werd gebruikt om een andere browser te downloaden.",
+      "id": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+      "title": "Internet Explorer",
+      "points": 2
+    },
+    {
+      "description": "De hoekige elektrische pick-up van roestvrij staal van Tesla. Bij de onthulling in 2019 ging het mis: een stunt die de sterkte moest tonen eindigde met twee kapotte ruiten, live op het podium.",
+      "id": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+      "title": "Cybertruck",
+      "points": 2
+    },
+    {
+      "description": "Een beroemde zin uit een cultfilm uit 1999 met Brad Pitt en Edward Norton, naar de roman van Chuck Palahniuk. Deze instructie lijkt verdacht veel op nummer twee!",
+      "id": "1226b2cb-facb-4ea2-ab2a-474011445d67",
+      "title": "De eerste regel van Fight Club",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Film uit 1993 met Bill Murray, waarin een chagrijnige weerman dezelfde 24 uur eindeloos opnieuw beleeft. Regisseur Harold Ramis schatte dat zijn hoofdpersoon zo’n tien jaar in die lus zit.",
+      "id": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+      "title": "Groundhog Day",
+      "points": 2
+    },
+    {
+      "description": "Prehistorisch zeemonster dat door kernproeven werd gewekt en in 1954 debuteerde in de Japanse film. Het beest speelde in 38 films, een record voor één monster.",
+      "id": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+      "title": "Godzilla",
+      "points": 1
+    },
+    {
+      "description": "Een nietszeggende kreet uit een rapnummer uit 2024 die wereldwijd onontkoombaar werd op elk schoolplein. Oorspronkelijk sloeg het op de lengte van een basketballer in voet en inches.",
+      "id": "d1a72910-2258-4d3f-80d4-9be8ee86e8ce",
+      "title": "6-7",
+      "points": 1
+    },
+    {
+      "description": "Klassiek sprookje waarin een stel broertjes huizen bouwt van verschillende materialen om aan een hongerige wolf te ontkomen. Het verhaal bestaat in talloze varianten, maar het blazen en puffen blijft.",
+      "id": "69337803-074d-4e31-8418-747bd7da56a2",
+      "title": "De drie biggetjes",
+      "points": 1
+    },
+    {
+      "description": "Het kogelvrije voertuig waarmee het hoofd van de katholieke kerk de menigte begroet tijdens bezoeken in de buitenlucht. Na de aanslag op Johannes Paulus II in 1981 kreeg het pantserglas.",
+      "id": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+      "title": "De pausmobiel",
+      "points": 1
+    },
+    {
+      "description": "Klassiek ethisch dilemma: leid je een op hol geslagen wagon om, zodat er één iemand sterft in plaats van vijf? Er bestaan inmiddels varianten met steeds absurdere scenario’s.",
+      "id": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
+      "title": "Het trolleyprobleem",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Dagelijkse onlinepuzzel waarin je in zes pogingen een verborgen woord van vijf letters moet raden. The New York Times kocht het spel in 2022 van de maker voor een bedrag met zeven cijfers.",
+      "id": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+      "title": "Wordle",
+      "points": 1
+    },
+    {
+      "description": "Het idee uit de chaostheorie dat een minuscule gebeurtenis, zoals een insect dat met zijn vleugels slaat, enorme gevolgen kan hebben aan de andere kant van de wereld. Meteoroloog Edward Lorenz bedacht de term in 1972.",
+      "id": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+      "title": "Het vlindereffect",
+      "points": 2
+    },
+    {
+      "description": "De neiging om een vers ontwikkelde instantfoto door de lucht te wapperen, bekend uit een nummer van OutKast. De fabrikant heeft mensen officieel gevraagd hiermee te stoppen: het beschadigt het beeld juist.",
+      "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
+      "title": "Een polaroid schudden",
+      "points": 2
+    },
+    {
+      "description": "Handspeeltje met kogellagers dat in 2017 een wereldwijde rage werd, verkocht als middel tegen stress. Ondanks alle beloftes vonden onderzoekers geen enkel bewijs dat het de concentratie verbetert.",
+      "id": "7b27a365-2f05-403a-baba-d6c151585293",
+      "title": "Een fidget spinner",
+      "points": 1
+    },
+    {
+      "description": "De beroemde reclameclaim waarmee wordt gesuggereerd dat vrijwel elke gebitsspecialist een bepaalde pasta voor je gebit aanbeveelt. Benieuwd wat die ene ervan vindt…",
+      "id": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef",
+      "title": "9 van de 10 tandartsen",
+      "points": 2
+    },
+    {
+      "description": "De sociale kracht die een jongere een sigaret laat proberen, een kapsel laat nemen of een twijfelachtige trend laat volgen om erbij te horen. Zelfs volwassenen blijken een overduidelijk fout antwoord te herhalen als de rest dat ook doet.",
+      "id": "4d8dae45-828a-4242-a217-0c0227c4789a",
+      "title": "Groepsdruk",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Het testje online waarbij je stoplichten of bussen moet aanwijzen om te bewijzen dat je een mens bent. Het werd mede bedacht door dezelfde persoon die later Duolingo maakte.",
+      "id": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+      "title": "Een captcha",
+      "points": 2
+    },
+    {
+      "description": "Beroemd gedachte-experiment uit de natuurkunde met een dier in een doos, samen met een flesje gif. Zolang de doos dicht blijft, is het beestje tegelijk dood en levend.",
+      "id": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+      "title": "De kat van Schrödinger",
+      "points": 3
+    },
+    {
+      "description": "Driedimensionale draaipuzzel, in 1974 bedacht door een Hongaarse beeldhouwer en hoogleraar bouwkunde. Het wereldrecord staat inmiddels onder de 3 seconden, op naam van een kind.",
+      "id": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+      "title": "De Rubiks kubus",
+      "points": 1
+    },
+    {
+      "description": "Cultureel begrip voor schadelijk traditioneel gedrag bij kerels, zoals emoties wegstoppen of agressief de baas spelen. Herkenbaar aan niet huilen op een begrafenis, of volhouden dat roze alleen voor meisjes is.",
+      "id": "902799b4-18f2-48c9-92f4-78547c02520f",
+      "title": "Toxische mannelijkheid",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Virale lekkernij uit de Verenigde Arabische Emiraten, gevuld met pistachecrème en krokant kataifideeg. De plotselinge hype veroorzaakte een wereldwijd tekort aan pistache, waardoor bakkers overal meer moesten betalen.",
+      "id": "c62de87f-30ec-4909-a35c-104375f280cb",
+      "title": "Dubai-chocolade",
+      "points": 1
+    },
+    {
+      "description": "Verpakkingsmateriaal uit 1957, oorspronkelijk bedoeld als behang met reliëf. Het bevredigende geknap leverde eigen feestdagen op, apps die het nabootsen en talloze uren stressverlichting.",
+      "id": "c8161658-fa59-4488-b151-50d8bfe969f1",
+      "title": "Noppenfolie",
+      "points": 2
+    },
+    {
+      "description": "Speels, rond lettertype uit 1994, oorspronkelijk bedoeld voor een tekenfilmhondje in software van Microsoft. Ondanks alle haat helpt het mensen met dyslexie mogelijk juist beter te lezen.",
+      "id": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+      "title": "Comic Sans",
+      "points": 2
+    },
+    {
+      "description": "Expres in de foto van iemand anders springen op het moment dat die genomen wordt, en zo het plaatje verpesten. Het werd hét werkwoord van de jaren 2010 en kwam in 2014 in het Oxford Dictionary.",
+      "id": "5097406e-7daa-43a3-90f0-b3e6a78592a0",
+      "title": "Photobombing",
+      "points": 1
+    },
+    {
+      "description": "Het eigen smeersel op een beroemde hamburger van een fastfoodketen, verantwoordelijk voor een groot deel van de smaak. In 2012 zette een oud-medewerker het vermoedelijke recept op Reddit, en het bedrijf bevestigde het min of meer.",
+      "id": "85361ccc086534df",
+      "title": "De geheime saus van de Big Mac",
+      "points": 3
+    },
+    {
+      "description": "Uitdrukking voor kleine ongemakken die alleen echt storend zijn voor mensen in rijke, welvarende landen. Het benoemt de absurde kloof tussen echte ellende en de kleine ergernissen van het moderne bestaan.",
+      "id": "4fd2b8656cda7f9e",
+      "title": "Luxeproblemen",
+      "points": 2
+    },
+    {
+      "description": "Iemand die sprekend op een ander lijkt zonder er familie van te zijn: hetzelfde gezicht, andere genen. Het woord komt uit het Duits en gold vroeger als een uiterst slecht voorteken.",
+      "id": "83b89a12daab64be",
+      "title": "Een dubbelganger",
+      "points": 1
+    },
+    {
+      "description": "Boodschapperstof in de hersenen die een sleutelrol speelt bij plezier, beloning en motivatie. Precies wat je krijgt als je deze kaart eindelijk raadt!",
+      "id": "69d83b89a12daab6",
+      "title": "Dopamine",
+      "points": 2
+    },
+    {
+      "description": "Klassieke kinderangst: een eng wezen dat in de slaapkamer op de loer ligt en tevoorschijn komt zodra het licht uit is. Het idee bestaat in vrijwel elke cultuur ter wereld, wat wijst op een diepe angst voor donkere, afgesloten ruimtes.",
+      "id": "b64bea85361ccc08",
+      "title": "Het monster in de kast",
+      "points": 3
+    },
+    {
+      "description": "Term voor het allerrijkste deel van de mensheid, dat een onevenredig groot stuk van het wereldwijde vermogen bezit. Volgens Oxfam heeft die kleine groep meer bezit dan de rest van de wereldbevolking bij elkaar.",
+      "id": "f9e5afff1669d83b",
+      "title": "De 1%",
+      "points": 2
+    },
+    {
+      "description": "Ondergrondse schuilplaats die de bewoners moet beschermen tegen rampen als een kernoorlog of de ineenstorting van de beschaving. Meerdere miljardairs uit Silicon Valley zouden er zo een in Nieuw-Zeeland hebben gekocht.",
+      "id": "fff1669d83b89a12",
+      "title": "Een atoombunker",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "De zachte ophoping van textielvezels die zich met de tijd verzamelt in dat kuiltje op je buik. De Australische onderzoeker Karl Kruszelnicki schreef een artikel over de vraag waarom het bijna altijd blauw is.",
+      "id": "4bea85361ccc0865",
+      "title": "Navelpluis",
+      "points": 2
+    },
+    {
+      "description": "Verhoortechniek waarbij de ene rechercheur hard en agressief is en de andere warm en begripvol. De een biedt je een sigaret aan, de ander levenslang. Het werkt verrassend vaak.",
+      "id": "a7f9e5afff1669d8",
+      "title": "Good cop, bad cop",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Fantasyrollenspel voor aan tafel, voor het eerst uitgegeven in 1974, waarin spelers een personage maken en samen op avontuur gaan. Het inspireerde rechtstreeks de makers van Baldur’s Gate, World of Warcraft en talloze andere games.",
+      "id": "cda7f9e5afff1669",
+      "title": "Dungeons & Dragons",
+      "points": 1
+    },
+    {
+      "description": "Iemand met een groot bereik op sociale media die geld verdient met het aanprijzen van merken en producten. De sector is wereldwijd meer dan 20 miljard dollar waard; de grootste namen vragen duizenden per gesponsorde post.",
+      "id": "7f9e5afff1669d83",
+      "title": "Een Instagram-influencer",
+      "points": 2
+    },
+    {
+      "description": "K-popnummer van de Zuid-Koreaanse artiest PSY uit 2012, met een inmiddels iconisch dansje op een denkbeeldig paard. Het was de eerste video op YouTube met een miljard weergaven en liet de teller van de site tijdelijk crashen.",
+      "id": "602973b2-e044-4261-b6ca-367ea000e503",
+      "title": "Gangnam Style",
+      "points": 1
+    },
+    {
+      "description": "Een prijs die iedereen in een wedstrijd krijgt, hoe slecht hij ook heeft gepresteerd. Critici vinden dat het echte prestaties onderuithaalt; voorstanders zeggen dat jonge sporters er juist door blijven komen.",
+      "id": "d2057c81-2f1f-4f38-8186-317e609f5eb4",
+      "title": "Een deelnamemedaille",
+      "points": 1
+    },
+    {
+      "description": "Klassiek Amerikaans speelgoed: een plastic knol met verwisselbare gezichtsonderdelen en accessoires. Het was het eerste stuk speelgoed dat op de Amerikaanse televisie werd geadverteerd, in 1952.",
+      "id": "cb4759da-ce62-4506-8293-0f00cc47a145",
+      "title": "Meneer Aardappelhoofd",
+      "points": 2
+    },
+    {
+      "description": "Korte, felle hoofdpijn die je krijgt als je iets heel kouds te snel eet of drinkt. De pijn is eigenlijk een reflex die de bloedvaten in je gehemelte tegen afkoeling moet beschermen.",
+      "id": "6aa1a744-ca02-4d49-ba46-e534b97f8a77",
+      "title": "Brain freeze",
+      "points": 1
+    },
+    {
+      "description": "Vaag omlijnd gebied in de Noord-Atlantische Oceaan waar schepen en vliegtuigen spoorloos zouden zijn verdwenen. Ondanks de legende blijkt uit onderzoek dat het er niet gevaarlijker is dan elders op zee.",
+      "id": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+      "title": "De Bermudadriehoek",
+      "points": 2
+    },
+    {
+      "description": "Neutrale, ongevaarlijke achtergrondklanken in wachtruimtes en warenhuizen, bedoeld om de stilte te vullen. Het genre heet officieel “Muzak”, naar het bedrijf dat het in de jaren 30 in openbare ruimtes begon te draaien.",
+      "id": "a0030c6e-d024-489e-ae71-047c8022a094",
+      "title": "Liftmuziek",
+      "points": 1
+    },
+    {
+      "description": "De berucht verwarrende montagegids bij meubels uit een platte doos, helemaal zonder woorden en alleen met tekeningen. Dat is bewust: zo werkt één boekje in elk land ter wereld.",
+      "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
+      "title": "De IKEA-handleiding",
+      "points": 2
+    },
+    {
+      "description": "Het eerste werkmoment van de week, gevreesd zodra het weekend voorbij is. Uit onderzoek blijkt dat er dan meer hartaanvallen zijn dan op enig ander moment.",
+      "id": "64a54249-b462-448d-9d50-280588737740",
+      "title": "Maandagochtend",
+      "points": 1
+    },
+    {
+      "description": "Kapsel met kort haar aan de voor- en zijkant en lang haar in de nek. Ook wel omschreven als “zakelijk vanvoren, feest vanachteren”, vooral populair in de jaren 80.",
+      "id": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6",
+      "title": "Een matje",
+      "points": 1
+    },
+    {
+      "description": "Het genoegen dat je voelt als iemand anders het slecht vergaat. Het Duits heeft er een beroemd woord voor dat in veel talen is overgenomen; het Nederlands had er zelf al een.",
+      "id": "2dfbec4e-8dac-43c4-939b-0b98e3525c4b",
+      "title": "Leedvermaak",
+      "points": 2
+    },
+    {
+      "description": "Kledingstuk dat elk voetdeel apart omhult, zoals een handschoen dat bij je vingers doet. Ze zien er belachelijk uit, maar hardlopers zweren erbij omdat ze blaren zouden voorkomen.",
+      "id": "fd73e068-af0c-4f73-bec6-6792139fe927",
+      "title": "Teensokken",
+      "points": 2
+    },
+    {
+      "description": "Een overleg dat nergens voor nodig was: alle informatie had net zo goed op schrift gekund. Uit enquêtes blijkt dat kantoormedewerkers ongeveer een derde van hun werkweek in zulke bijeenkomsten zitten.",
+      "id": "908f592a-5281-44cc-aa69-794a92979c15",
+      "title": "Een vergadering die een mail had kunnen zijn",
+      "points": 3
+    },
+    {
+      "description": "Beroemd latin-popnummer uit het midden van de jaren 90, met een minstens zo beroemd groepsdansje. De remix stond 14 weken achter elkaar op nummer 1 in de VS, een van de langste reeksen ooit.",
+      "id": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+      "title": "De Macarena",
+      "points": 1
+    },
+    {
+      "description": "Legendarisch wezen dat in een groot zoetwatermeer in de Schotse Hooglanden zou leven. De beroemdste foto, uit 1934, bleek later in scène gezet met een speelgoedonderzeeër.",
+      "id": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+      "title": "Het monster van Loch Ness",
+      "points": 1
+    },
+    {
+      "description": "Het gevoel dat je iets wat je nu meemaakt al eerder hebt meegemaakt. Het gevoel dat je iets wat je nu meemaakt al eerder hebt meegemaakt.",
+      "id": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+      "title": "Déjà vu",
+      "points": 1
+    },
+    {
+      "description": "Sprookjesfiguur die uitgevallen melkkiezen ophaalt en er een muntje voor onder je kussen legt. In veel Latijns-Amerikaanse en Europese landen doet een muisje precies hetzelfde.",
+      "id": "497380b0-3425-4201-bf27-7981d7b98c68",
+      "title": "De tandenfee",
+      "points": 1
+    },
+    {
+      "description": "Danspas waarbij het lijkt alsof iemand achteruit glijdt terwijl zijn voeten vooruit bewegen. Michael Jackson maakte hem wereldberoemd tijdens een optreden van “Billie Jean” in 1983.",
+      "id": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+      "title": "De moonwalk",
+      "points": 1
+    },
+    {
+      "description": "Klassiek hoofddeksel van complotdenkers, gevouwen uit folie, dat de gedachtestralen van de overheid zou tegenhouden. Uit een studie van MIT uit 2005 bleek dat het bepaalde frequenties juist versterkt.",
+      "id": "d4a12b6e-4358-4150-8d5e-83ac197c8db5",
+      "title": "Een aluhoedje",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Populair kinderspel waarbij je de grond niet mag aanraken omdat die zogenaamd uit gesmolten gesteente bestaat. Eén regel, geen spullen nodig, en het kan overal spontaan uitbreken.",
+      "id": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+      "title": "De vloer is lava",
+      "points": 2
+    },
+    {
+      "description": "Gezichtskenmerk waarbij het haar boven beide ogen in het midden samenkomt tot één doorlopende streep. Frida Kahlo omarmde de hare als symbool van natuurlijke schoonheid en Mexicaanse identiteit.",
+      "id": "7fb16c34-2dbe-4309-8b65-814920d138fb",
+      "title": "Een monobrauw",
+      "points": 1
+    },
+    {
+      "description": "Een telefoontje dat per ongeluk ontstaat doordat je op je toestel gaat zitten of het in je kleding wordt ingedrukt. Sinds vergrendelschermen normaal zijn gebeurt het minder, maar het levert nog steeds ongemakkelijke momenten op.",
+      "id": "ccb895d4-50a0-4877-8088-409cbb4ed821",
+      "title": "Broekzakbellen",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Caribisch feestspel waarbij je onder een steeds lager wordende stok door moet zonder te vallen. Het wereldrecord staat op een onwaarschijnlijke 21,59 cm boven de grond.",
+      "id": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+      "title": "Limbo",
+      "points": 1
+    },
+    {
+      "description": "Klassieke filosofische paradox over de vraag welk van twee onderling afhankelijke dingen er als eerste was. Aristoteles concludeerde dat ze allebei altijd naast elkaar bestaan hebben, en omzeilde daarmee de hele discussie.",
+      "id": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+      "title": "De kip of het ei",
+      "points": 1
+    },
+    {
+      "description": "Verschijnsel in stadions waarbij toeschouwers na elkaar opstaan, hun armen omhoog gooien en weer gaan zitten. Wereldberoemd geworden op het WK van 1986.",
+      "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+      "title": "De wave",
+      "points": 2
+    },
+    {
+      "description": "Eerstehulptechniek waarbij je met korte stoten onder het middenrif een verstopte luchtweg vrijmaakt. De arts die hem bedacht hoefde hem pas op zijn 96e voor het eerst bij iemand toe te passen.",
+      "id": "a2737d5c-387e-485c-8891-333278cef79d",
+      "title": "De heimlichmanoeuvre",
+      "points": 3
+    },
+    {
+      "description": "De universeel gevreesde ervaring van blootsvoets op een klein plastic bouwsteentje trappen. De voetzool heeft meer zenuwuiteinden per vierkante centimeter dan bijna elk ander lichaamsdeel, wat de pijn verklaart.",
+      "id": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+      "title": "Op een Lego stappen",
+      "points": 2
+    },
+    {
+      "description": "Dat tergende gevoel waarbij de reflex in je neus tot het hoogste punt opbouwt en dan gewoon niet afgaat. Een betrouwbaar middel bestaat niet, al zweren mensen bij in een lamp staren of kietelen aan je gehemelte.",
+      "id": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+      "title": "De nies die niet komt",
+      "points": 3
+    },
+    {
+      "description": "Het applaus voor de piloot zodra het toestel veilig de baan raakt. Alleen in de bioscoop of op een begrafenis is dit gebaar nog erger.",
+      "id": "6074accc-37a1-4ddd-8707-54807fa01406",
+      "title": "Klappen als het vliegtuig landt",
+      "points": 3
+    },
+    {
+      "description": "Het frisse, onaangeraakte oppervlak dat tevoorschijn komt als je ’s nachts je hoofdsteun omdraait. Helaas een vluchtige toestand die nooit zo lang duurt als je zou willen.",
+      "id": "6704a583-9897-485e-9945-1507734e5dd5",
+      "title": "De koele kant van het kussen",
+      "points": 3
+    },
+    {
+      "description": "Het moment dat het bestek uit je hand glipt en in een kom hete vloeistof belandt. Terughalen betekent een vinger in de bouillon steken, of vissen met een tweede exemplaar.",
+      "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+      "title": "De lepel die in de soep valt",
+      "points": 3
+    },
+    {
+      "description": "Een losgeslagen tasje dat op een gure dag door de lucht buitelt, vaak gespot boven een parkeerterrein. Symbool van vervuiling, maar dat doelloze dansje is vreemd genoeg prachtig om naar te kijken.",
+      "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+      "title": "Een plastic zak in de wind",
+      "points": 2
+    },
+    {
+      "description": "Zeebanket in de magnetron van een gedeelde keuken, overal ter wereld beschouwd als een sociale misdaad. De geur hangt er uren later nog, lang nadat de dader is gevlucht.",
+      "id": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+      "title": "Vis opwarmen op kantoor",
+      "points": 2
+    },
+    {
+      "description": "Persoonlijk lijstje met dingen die iemand nog wil meemaken voordat hij doodgaat. De naam komt van een Engelse uitdrukking voor sterven, waarin een emmer een hoofdrol speelt.",
+      "id": "e7306cba-643c-4065-9a6f-755f705736ea",
+      "title": "Een bucketlist",
+      "points": 2
+    },
+    {
+      "description": "Britse zoekboeken waarin je een figuurtje met bril en gestreepte trui moet vinden in overvolle tekeningen. Een redacteur bedacht dat verstopte figuur pas nadat de tekenaar de opdracht al binnen had.",
+      "id": "bf9ec332-4873-4b6c-90d3-92f211c349f0",
+      "title": "Waar is Wally?",
+      "points": 1
+    },
+    {
+      "description": "Uitdrukking voor het laatste kleine voorval waardoor iemands geduld op is. In het Engels gaat het over een strootje dat de rug van een kameel breekt.",
+      "id": "97d61403-9d62-4a94-af01-8113f18f408d",
+      "title": "De druppel die de emmer doet overlopen",
+      "points": 1
+    },
+    {
+      "description": "Gebogen werptuig van de Aboriginals uit Australië, ontworpen om bij een goede worp terug te keren naar de werper. Het wereldrecord voor zo’n terugkerende worp staat op 238 meter, zo’n twee voetbalvelden achter elkaar.",
+      "id": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+      "title": "Een boemerang",
+      "points": 1
+    },
+    {
+      "description": "Verzonnen kameraadje uit de kindertijd, met een eigen naam en karakter, maar alleen zichtbaar voor de bedenker. Psychologen vinden het volkomen gezond: kinderen met zo’n maatje blijken sociaal invoelender en beter in problemen oplossen.",
+      "id": "e1a303ac-4247-4f82-b443-e2e31daea751",
+      "title": "Een denkbeeldig vriendje",
+      "points": 2
+    },
+    {
+      "description": "Verteltruc waarbij een verhaal abrupt stopt op het spannendste moment, zodat het publiek in onzekerheid achterblijft. Hij werkt zo goed dat zelfs het journaal er vlak voor de reclame een versie van gebruikt.",
+      "id": "7efae148-2cc5-463a-8d51-19d649131976",
+      "title": "Een cliffhanger",
+      "points": 1
+    },
+    {
+      "description": "Iets waar iemand stiekem van geniet en zich tegelijk een beetje voor schaamt. Dit is net zo’n goed moment als elk ander om de jouwe aan tafel te onthullen. Doen!",
+      "id": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+      "title": "Een guilty pleasure",
+      "points": 1
+    },
+    {
+      "description": "De pafferige witte mascotte van een beroemd Frans bandenmerk, wereldwijd herkenbaar sinds 1898. Datzelfde bedrijf bepaalt ook welke restaurants de meest begeerde sterren van de kookwereld krijgen.",
+      "id": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc",
+      "title": "Het Michelinmannetje",
+      "points": 2
+    },
+    {
+      "description": "Menselijke pop waarmee gemeten wordt welke krachten er bij een botsing op een lichaam werken. Vroeger waren het omgebouwde medische skeletten; moderne exemplaren zitten vol met meer dan 100 sensoren.",
+      "id": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+      "title": "Een crashtestdummy",
+      "points": 1
+    },
+    {
+      "description": "Het overgebleven punt van een gedeeld Italiaans gerecht dat niemand aan tafel durft te pakken. Alleen een dappere ziel die “gaat iemand dat nog opeten?” vraagt, doorbreekt de impasse.",
+      "id": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+      "title": "Het laatste stuk pizza",
+      "points": 2
+    },
+    {
+      "description": "Onwillekeurige kramp van het middenrif die zorgt voor een plotselinge ademteug en een scherp, herhalend geluid. Een Amerikaanse boer had er 68 jaar achter elkaar last van, naar schatting 430 miljoen keer.",
+      "id": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+      "title": "De hik",
+      "points": 1
+    },
+    {
+      "description": "Zwijgende artiest die alles duidelijk maakt met overdreven gebaren en gezichtsuitdrukkingen. Vaak aangetroffen in een onzichtbare doos.",
+      "id": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+      "title": "Een mimespeler",
+      "points": 1
+    },
+    {
+      "description": "De sociaal onhandige bezoeker die blijft hangen op een feest, lang nadat iedereen naar huis is. Werkt gapen of de vaatwasser inruimen niet, probeer dan het licht uit te doen.",
+      "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
+      "title": "De gast die maar niet weggaat",
+      "points": 3
+    },
+    {
+      "description": "De klassieke verspreking waarbij een leerling zijn leerkracht per ongeluk aanspreekt zoals hij thuis zijn ouder aanspreekt. Schattig op de basisschool, zorgwekkend op de universiteit.",
+      "id": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
+      "title": "De juf “mama” noemen",
+      "points": 2
+    },
+    {
+      "description": "De bewuste modekeuze om je getinte glazen op te houden terwijl je in een gesloten ruimte zit. Meestal gedaan door mensen die er stoer of belangrijk uit willen zien, of te lui zijn om ze af te zetten.",
+      "id": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+      "title": "Een zonnebril binnen dragen",
+      "points": 2
+    },
+    {
+      "description": "De universele ervaring waarbij je je kracht in precies de verkeerde richting zet bij een ingang die het omgekeerde vraagt. Deskundigen noemen dit een ontwerpfout, geen fout van de gebruiker.",
+      "id": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
+      "title": "Duwen tegen een trekdeur",
+      "points": 2
+    },
+    {
+      "description": "Het loslaten van darmgas zonder enig geluid, dat alleen aan de geur te herkennen is. Misschien nog erger dan de luidruchtige variant, die tenminste zo fatsoenlijk is zichzelf aan te kondigen.",
+      "id": "e058babc-7311-4426-a552-cb87ea01158d",
+      "title": "Een stille scheet",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Een ontroostbaar kindje aan boord van een toestel, algemeen beschouwd als de meest gevreesde medepassagier. Sommige Aziatische maatschappijen experimenteerden met stiltezones om de rest te sparen.",
+      "id": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+      "title": "Een huilende baby in het vliegtuig",
+      "points": 2
+    },
+    {
+      "description": "De gewijde beker uit de christelijke legende, waaruit bij het Laatste Avondmaal gedronken zou zijn. In 1910 dacht men hem gevonden te hebben, tot uit onderzoek bleek dat het een rijk versierde olielamp was.",
+      "id": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+      "title": "De Heilige Graal",
+      "points": 1
+    },
+    {
+      "description": "Olievuurtje uit Arabische verhalen dat na wrijven een machtige geest vrijlaat die wensen vervult. Om meer wensen vragen mag niet, al lijkt om meer van deze dingen vragen een verdachte maas in de regels.",
+      "id": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+      "title": "Een wonderlamp",
+      "points": 1
+    },
+    {
+      "description": "De leidende wetenschappelijke theorie over het ontstaan van het heelal, zo’n 13,8 miljard jaar geleden. De naam werd spottend bedacht door astronoom Fred Hoyle, die zelf een concurrerende theorie aanhing.",
+      "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+      "title": "De oerknal",
+      "points": 1
+    },
+    {
+      "description": "Een echt bestaand geheim genootschap uit de 18e eeuw dat uitgroeide tot een van de taaiste complottheorieën van deze tijd. De oorspronkelijke club, in 1776 opgericht in Beieren, werd binnen tien jaar door de overheid ontbonden.",
+      "id": "68c97440-7c83-43a3-9838-b5e967d01e38",
+      "title": "De Illuminati",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Functie op je wekker die het alarm nog een paar minuten uitstelt voordat het opnieuw afgaat. Slaapexperts zeggen dat die extra minuten meer kwaad dan goed doen: je wordt er juist suffer van.",
+      "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+      "title": "De snoozeknop",
+      "points": 1
+    },
+    {
+      "description": "Beeldspraak voor het stemmetje binnenin dat je aanzet tot kattenkwaad, slechte keuzes of morele sluiproutes. In tekenfilms staat er altijd een engeltje aan de andere kant, met precies het tegenovergestelde advies.",
+      "id": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
+      "title": "Het duiveltje op je schouder",
+      "points": 3
+    },
+    {
+      "description": "Informele krachtmeting waarbij deelnemers zich op wieltjes over een vlakke ondergrond voortduwen, gezeten op kantoormeubilair. Er bestaan officiële versies, waaronder een uithoudingsproef van 2 uur in Kyoto, waar de winnaar 90 kilo rijst mee naar huis neemt.",
+      "id": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+      "title": "Een bureaustoelrace",
+      "points": 3
+    },
+    {
+      "description": "Drie motiverende Engelse woorden die overal op decoratieve muurbordjes in huiskamers en keukens hangen. Varianten prijken op posters, muurstickers, kussens, mokken, beddengoed, sieraden en zelfs op doodskisten.",
+      "id": "568eae83-05d3-47c1-bc31-e3ddfd7d6fdc",
+      "title": "Live, Laugh, Love",
+      "points": 2
+    },
+    {
+      "description": "Krachtmeting waarbij deelnemers in een vaste tijd zo veel mogelijk worstjes in een broodje naar binnen werken. Het record staat op naam van Joey Chestnut, die er ooit ruim 75 achteroversloeg in tien minuten.",
+      "id": "ebadbed1-8a05-4e22-95e1-ba166e66e490",
+      "title": "Een hotdog-eetwedstrijd",
+      "points": 2
+    },
+    {
+      "description": "Het onderdeel van een populair familiespel dat de speelrichting omdraait. Misschien wel de enige regel die overeind blijft in de duizenden huisregels waarmee mensen dit spel spelen.",
+      "id": "722617cd-07d6-454f-918a-3469e6167a19",
+      "title": "De keer-om-kaart van Uno",
+      "points": 2
+    },
+    {
+      "id": "85eabdcd250a7a4e",
+      "title": "Het algoritme",
+      "description": "De regels waarmee sociale media bepalen welke inhoud elke gebruiker te zien krijgt. De beste vriend en grootste vijand van influencers overal ter wereld.",
+      "points": 1
+    },
+    {
+      "id": "980cb9f08ba2166e",
+      "title": "Het Laatste Avondmaal",
+      "description": "De maaltijd die Jezus Christus één dag voor zijn kruisiging met de twaalf apostelen deelde. Da Vinci’s schilderij ervan overleefde in de Tweede Wereldoorlog ternauwernood een bombardement.",
+      "points": 2
+    },
+    {
+      "id": "4607ef0f3ce0830c",
+      "title": "Verstoppertje",
+      "description": "Kinderspel waarbij één speler met gesloten ogen telt terwijl de rest een plek zoekt om uit het zicht te blijven. Er was ooit een wereldkampioenschap voor volwassenen in een verlaten spookstad in Noord-Italië.",
+      "points": 1
+    },
+    {
+      "id": "514087352f094b1a",
+      "title": "Een badeend",
+      "description": "Klein geel speeltje voor in het water, in de vorm van een watervogel. In 1992 vielen duizenden exemplaren van een vrachtschip in de Stille Oceaan; wetenschappers volgden hun reis om zeestromingen te bestuderen.",
+      "points": 1
+    },
+    {
+      "id": "87f40d1838be97a1",
+      "title": "Een tongbreker",
+      "description": "Een zin die expres lastig is om snel hardop uit te spreken zonder over de klanken te struikelen. Guinness World Records riep ooit “the sixth sick sheikh’s sixth sheep’s sick” uit tot de moeilijkste Engelse variant.",
+      "points": 2
+    }
+  ]
+}

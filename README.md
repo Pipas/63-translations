@@ -22,8 +22,9 @@ a language you speak, this is the only repo you need.
 | `fr-FR` | French (France) | AI-generated draft — native review required |
 | `de-DE` | German (Germany) | AI-generated draft — native review required |
 | `it-IT` | Italian (Italy) | AI-generated draft — native review required |
+| `nl-NL` | Dutch (Netherlands) | AI-generated draft — native review required |
 
-The Turkish, Spanish, French, German and Italian drafts and their review status are documented in
+The Turkish, Spanish, French, German, Italian and Dutch drafts and their review status are documented in
 [`AI_TRANSLATIONS.md`](AI_TRANSLATIONS.md).
 
 Adding a new language means adding one file per folder below, named with the same
@@ -37,7 +38,7 @@ Adding a new language means adding one file per folder below, named with the sam
 | [`63/`](63) | The 63 mobile game (iOS + Android) | ~307 strings |
 | [`packs.63.pt/`](packs.63.pt) | The pack editor at [packs.63.pt](https://packs.63.pt) | ~448 strings |
 | [`emails/`](emails) | The emails 63 sends | ~51 strings |
-| [`general_packs/`](general_packs) | The General card deck shipped with the app | 230 EN / 185 PT / 176 TR / 201 ES / 197 LATAM / 192 FR / 185 DE / 181 IT cards |
+| [`general_packs/`](general_packs) | The General card deck shipped with the app | 230 EN / 185 PT / 176 TR / 201 ES / 197 LATAM / 192 FR / 185 DE / 181 IT / 197 NL cards |
 
 Each folder has its own `README.md` with the file format, the key conventions, and the
 gotchas specific to that surface. **Read it before you start editing.** The folders don't

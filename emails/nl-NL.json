@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "“{{packName}}” staat in de community",
+    "preheader": "Je pack “{{packName}}” is goedgekeurd.",
+    "heading": "Goedgekeurd!",
+    "intro": "<strong>{{packName}}</strong> is goedgekeurd en nu voor iedereen beschikbaar in 63.",
+    "cta": "Communitypack bekijken",
+    "reviewerNote": "Een bericht van de beoordelaar:",
+    "caption": "Spelers vinden het bij de communitypacks in de app.",
+    "text": "Goedgekeurd!\n\n“{{packName}}” is goedgekeurd en nu voor iedereen beschikbaar in 63.\n\nBekijken: {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "“{{packName}}” is nu uitgelicht",
+    "preheader": "We hebben “{{packName}}” als uitgelicht communitypack gekozen.",
+    "heading": "Nu uitgelicht!",
+    "intro": "We hebben <strong>{{packName}}</strong> als uitgelicht communitypack gekozen.",
+    "cta": "Uitgelicht pack bekijken",
+    "caption": "Uitgelichte packs staan bovenaan in het communitygedeelte.",
+    "text": "We hebben “{{packName}}” als uitgelicht communitypack gekozen.\n\nBekijken: {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "Update voor “{{packName}}” niet goedgekeurd",
+      "new": "Nieuws over “{{packName}}”"
+    },
+    "preheader": {
+      "update": "Je update voor “{{packName}}” is niet goedgekeurd; de vorige versie staat nog online.",
+      "new": "Je pack “{{packName}}” is deze keer niet goedgekeurd."
+    },
+    "heading": "Nieuws over je inzending",
+    "intro": {
+      "update": "We hebben je update voor <strong>{{packName}}</strong> beoordeeld en niet goedgekeurd. Dit is het bericht van de beoordelaar:",
+      "new": "We hebben <strong>{{packName}}</strong> beoordeeld en deze keer niet goedgekeurd. Dit is het bericht van de beoordelaar:"
+    },
+    "stillLive": "Goed nieuws: de eerder goedgekeurde versie staat nog in de community; er is niets offline gehaald.",
+    "cta": "Bewerken en opnieuw indienen",
+    "text": {
+      "opener": {
+        "update": "We hebben je update voor “{{packName}}” beoordeeld en niet goedgekeurd. De eerder goedgekeurde versie staat nog in de community; er is niets offline gehaald.",
+        "new": "We hebben “{{packName}}” beoordeeld en deze keer niet goedgekeurd."
+      },
+      "reviewerNote": "Bericht van de beoordelaar:",
+      "invite": "Je kunt het pack bewerken en opnieuw indienen wanneer je klaar bent."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "“{{packName}}” is uit de community verwijderd",
+    "preheader": "Een moderator heeft je pack “{{packName}}” offline gehaald.",
+    "heading": "Pack verwijderd",
+    "intro": {
+      "withoutReason": "We hebben <strong>{{packName}}</strong> uit de community verwijderd.",
+      "withReason": "We hebben <strong>{{packName}}</strong> uit de community verwijderd. Dit is de reden:"
+    },
+    "cta": "Pack openen",
+    "caption": "Je kunt je pack bewerken en opnieuw indienen wanneer je klaar bent.",
+    "text": {
+      "withoutReason": "We hebben “{{packName}}” uit de community verwijderd.\n\nJe kunt je pack bewerken en opnieuw indienen wanneer je klaar bent.\n{{url}}\n",
+      "withReason": "We hebben “{{packName}}” uit de community verwijderd.\n\nReden:\n{{reason}}\n\nJe kunt je pack bewerken en opnieuw indienen wanneer je klaar bent.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "“{{packName}}” is ter beoordeling ingediend",
+    "preheader": "We hebben je communitypack ontvangen.",
+    "heading": "Inzending ontvangen",
+    "intro": "We hebben <strong>{{packName}}</strong> ontvangen en beoordelen het voordat het in de community verschijnt.",
+    "cta": "Pack bekijken",
+    "caption": "We e-mailen je zodra er nieuws is.",
+    "text": "We hebben “{{packName}}” ontvangen en beoordelen het voordat het in de community verschijnt. We e-mailen je zodra er nieuws is.\n\nPack bekijken: {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "Herstel je wachtwoord voor packs.63.pt",
+    "preheader": "Tik op de knop om een nieuw wachtwoord te kiezen.",
+    "heading": "Herstel je wachtwoord",
+    "intro": "We hebben een verzoek ontvangen om het wachtwoord van je packs.63.pt-account te herstellen. Tik op de knop hieronder om een nieuw wachtwoord te kiezen.",
+    "cta": "Wachtwoord herstellen",
+    "caption": "Heb je dit niet aangevraagd? Dan kun je deze e-mail veilig negeren; je wachtwoord verandert niet.",
+    "text": "Herstel je wachtwoord\n\nWe hebben een verzoek ontvangen om het wachtwoord van je packs.63.pt-account te herstellen. Open deze link om een nieuw wachtwoord te kiezen:\n\n{{url}}\n\nHeb je dit niet aangevraagd? Dan kun je deze e-mail veilig negeren; je wachtwoord verandert niet.\n"
+  }
+}

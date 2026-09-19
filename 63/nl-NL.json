@@ -1,0 +1,389 @@
+{
+  "common": {
+    "game_mode": "Spelmodus",
+    "teams": "Teams",
+    "team": "Team",
+    "add_team": "Team toevoegen",
+    "skipping": "Passen",
+    "skipping_tooltip": "Als dit aanstaat kunnen spelers kaarten passen met de pasknop of door naar links te vegen.",
+    "penalty": "Straftijd",
+    "penalty_tooltip": "Hoeveel seconden er van de klok gaan telkens als een kaart gepast wordt.",
+    "seconds": "Seconden",
+    "options": "Opties",
+    "rounds": "Rondes",
+    "rounds_tooltip": "Hoeveel rondes het spel heeft.\n\nJe kunt zelf rondes verzinnen, zoals:\n• De kaarten tekenen\n• Alleen je armen boven de bank\n• Alleen je hoofd boven de bank\n• Uitbeelden onder een laken\n• Moderne dans",
+    "time": "Tijd",
+    "time_tooltip": "Hoelang de beurt van elke speler duurt, in seconden.",
+    "loop_skipped_cards": "Gepaste kaarten opnieuw",
+    "loop_skipped_cards_tooltip": "Als dit aanstaat komen gepaste kaarten later in dezelfde beurt nog een keer terug.",
+    "preview_score": "Score tonen",
+    "preview_score_tooltip": "Als dit aanstaat zie je de score aan het eind van elke beurt.\nStaat het uit, dan zie je de score pas na afloop van het spel.",
+    "hide_descriptions": "Beschrijvingen verbergen",
+    "hide_descriptions_tooltip": "Als dit aanstaat blijven de beschrijvingen tijdens het spel verborgen.",
+    "carry_over_time": "Tijd meenemen",
+    "carry_over_time_tooltip": "Als dit aanstaat en een team de stapel uitspeelt met meer dan 10 seconden over, houdt het team die tijd en begint het de volgende ronde met de resterende tijd.\nMinder dan 10 seconden wordt niet meegenomen.",
+    "time_carried_over": "s meegenomen",
+    "time_carried_over_description": "Dezelfde speler gaat deze ronde verder.",
+    "deck": "Stapel",
+    "size": "Grootte",
+    "packs": "Packs",
+    "new_badge": "NIEUW",
+    "cards": "Kaarten",
+    "short_game": "Kort spel",
+    "regular_game": "Normaal spel",
+    "long_game": "Lang spel",
+    "settings": "Instellingen",
+    "language": "Taal",
+    "about": "Over",
+    "credits": "Credits",
+    "legal_stuff": "Juridisch",
+    "privacy_policy": "Privacybeleid",
+    "terms_and_conditions": "Voorwaarden",
+    "licences": "Licenties",
+    "ad_privacy": "Advertentieprivacy",
+    "contact_us": "Contact",
+    "sound": "Geluid",
+    "sound_tooltip": "Als dit aanstaat speelt het spel geluidseffecten af.",
+    "show_rule_tooltips": "Regels tonen",
+    "show_rule_tooltips_tooltip": "Als dit aanstaat zie je de regels als kleine hints tijdens het spel.",
+    "accessibility": "Toegankelijkheid",
+    "app_size": "Appgrootte",
+    "app_size_tooltip": "Maakt tekst en knoppen in de hele app groter.",
+    "card_text_size": "Tekstgrootte kaarten",
+    "card_text_size_tooltip": "Maakt de titel en beschrijving op kaarten tijdens het spel groter.",
+    "high_contrast": "Hoog contrast",
+    "high_contrast_tooltip": "Maakt lichte tekst donkerder en gebruikt bij pack- en teamkleuren altijd de best leesbare tekstkleur.",
+    "legible_font": "Leesbaar lettertype",
+    "legible_font_tooltip": "Gebruikt Atkinson Hyperlegible, een lettertype waarin tekens die op elkaar lijken goed uit elkaar te houden zijn.",
+    "leave": "Stoppen",
+    "rules": "Regels",
+    "resume": "Verder",
+    "confirm": "Bevestigen",
+    "cancel": "Annuleren",
+    "round": "Ronde",
+    "start_turn": "Beurt starten",
+    "skip": "Passen",
+    "game_paused": "Spel gepauzeerd",
+    "leave_game": "Spel verlaten",
+    "leave_game_tooltip": "Weet je zeker dat je wilt stoppen? De voortgang van het spel gaat verloren.",
+    "end_turn": "Einde beurt",
+    "end_round": "Einde ronde",
+    "end_game": "Einde spel",
+    "game_over": "Spel voorbij",
+    "its_a_tie": "Gelijkspel!",
+    "times_up": "Tijd is om!",
+    "no_more_cards": "Geen kaarten meer!",
+    "exit": "Sluiten",
+    "play": "Spelen",
+    "start_game": "Spel starten",
+    "continue": "Doorgaan",
+    "support_button": "Steun",
+    "rate_title": "Vind je 63 leuk?",
+    "rate_subtitle": "Beoordeel het spel zodat meer mensen 63 vinden",
+    "back": "Terug",
+    "ok": "Oké",
+    "recover_game_title": "Spel hervatten",
+    "recover_game_description": "Je vorige spel is niet afgemaakt. Wil je verder spelen?",
+    "recover_game_resume": "Verder",
+    "recover_game_ignore": "Negeren",
+    "cards_left": "Nog {count} kaarten",
+    "see_more": "Meer tonen",
+    "see_less": "Minder tonen"
+  },
+  "mode": {
+    "classic": {
+      "title": "Klassiek",
+      "description": "De standaardregels van 63. Drie rondes, twee teams en één winnaar!"
+    },
+    "chill": {
+      "title": "Chill",
+      "description": "Geen punten, geen straftijd en iedereen speelt samen!"
+    },
+    "competitive": {
+      "title": "Fanatiek",
+      "description": "Voor wie graag wint.\nPassen kost je tijd."
+    },
+    "blitz": {
+      "title": "Bliksem",
+      "description": "Minder kaarten, minder tijd en niet passen!"
+    },
+    "custom": {
+      "title": "Eigen regels",
+      "description": "Waarom onze regels volgen?\nMaak je eigen spelmodus."
+    }
+  },
+  "rules": {
+    "skip": "Overslaan",
+    "start": "Start",
+    "next": "Verder",
+    "lets_go": "Aan de slag!",
+    "know_more": "Lees meer…",
+    "home": {
+      "call_to_action": "Welkom bij"
+    },
+    "deck": {
+      "title": "63 is een spel om kaarten te raden",
+      "text": "Teams strijden om de meeste punten.",
+      "info": "Elk spel krijgt een nieuwe stapel met kaarten uit verschillende packs."
+    },
+    "example_card": {
+      "title": "Een voorbeeldkaart",
+      "description": "Gewoon een voorbeeld. Echte kaarten zijn mensen, films en dingen om te raden. Meestal staat er ook een tweede zin met een leuk weetje of een grapje."
+    },
+    "example_card_2": {
+      "title": "Een flits op het scherm",
+      "description": "Weg voordat je het kon lezen, hè? Irritant, ik durf te zweren dat er iets stond!"
+    },
+    "example_card_3": {
+      "title": "Nog een voorbeeldkaart",
+      "description": "Deze was niet voor jouw ogen bedoeld. Maar nu je hem toch gelezen hebt: laat weten wat je ervan vond."
+    },
+    "example_card_4": {
+      "title": "Zag je dat?",
+      "description": "Nee? Het ging net iets te snel. Wat stond er? Niemand die het weet, maar misschien was het belangrijk."
+    },
+    "example_card_5": {
+      "title": "Een grappige kaart",
+      "description": "De grappigste kaart ooit geschreven, en niemand die hem leest omdat hij zo snel voorbijvliegt. Ironisch, toch?"
+    },
+    "cards": {
+      "title": "Elke kaart is een begrip",
+      "text": "Van historische figuren tot verwijzingen uit de popcultuur",
+      "points": "Punten",
+      "card_title": "Titel",
+      "card_description": "Beschrijving",
+      "info": "Een kaart telt pas als de hele titel gezegd is, in de juiste volgorde.",
+      "more_info": "Elke kaart heeft een korte beschrijving voor als je het begrip niet kent. Gebruik hem als startpunt voor je aanwijzingen, maar lees hem niet gewoon voor.\n\nHet is je eigen spel, dus wees zo streng of zo soepel met de regels als je zelf wilt."
+    },
+    "default_card": {
+      "title": "Home Alone",
+      "description": "Een komedie uit 1990 met Macaulay Culkin over een achtergebleven kind dat inbrekers uit de woning van zijn ouders weert."
+    },
+    "teams": {
+      "title": "Twee teams raden om de beurt kaarten",
+      "text": "Eén speler geeft aanwijzingen terwijl het team de titel van de kaart probeert te raden",
+      "info": "Iedereen geeft een keer aanwijzingen voordat iemand twee keer aan de beurt is."
+    },
+    "turn": {
+      "title": "Elke beurt duurt 63 seconden",
+      "text": "Tijdens een **beurt** raadt het team in het spel zo veel mogelijk kaarten",
+      "info": "De speler met de telefoon geeft de aanwijzingen."
+    },
+    "rounds": {
+      "title": "Het spel heeft 3 rondes",
+      "text": "Elke **ronde** bestaat uit veel **beurten** en eindigt als elke kaart in de stapel geraden is",
+      "current_round": "Huidige\nronde",
+      "info": "Alle drie de rondes worden met dezelfde stapel gespeeld.",
+      "more_info": "Aan het begin van elke ronde wordt de stapel geschud en opnieuw gespeeld.\n\nLet op tijdens de beurten van je tegenstanders: de kaarten die zij raden komen in latere rondes terug."
+    },
+    "round1": {
+      "title": "Ronde 1",
+      "subtitle": "Verboden woorden",
+      "text": "Omschrijf de kaart zoals je wilt, maar je mag geen woord uit de titel zeggen",
+      "clue1": "Kerstfilm over een jongen die in zijn eentje achterblijft",
+      "clue2": "Met Macaulay Culkin!",
+      "info": "Bij “Home Alone” mag je “home” en “alone” niet zeggen.",
+      "more_info": "Voorzetsels tellen niet als verboden woorden.\n\nValt er een verboden woord en wordt de kaart geraden, dan mag het andere team protesteren en telt de kaart aan het eind van de beurt als fout.",
+      "note": "Verboden woorden",
+      "note_description": "Je mag geen woorden uit de titel gebruiken"
+    },
+    "round2": {
+      "title": "Ronde 2",
+      "subtitle": "Eén woord",
+      "text": "Je aanwijzing is één enkel woord, geen geluiden, geen gebaren",
+      "clue": "Kevin!",
+      "info": "Denk eraan: elke kaart is in ronde 1 al langsgekomen.",
+      "more_info": "Ronde 2 begint pas als elke kaart in ronde 1 geraden is.\n\nDe kaarten blijven hetzelfde, maar het wordt elke ronde lastiger om ze uit te leggen!",
+      "note": "Eén woord",
+      "note_description": "Je aanwijzing mag maar één woord zijn."
+    },
+    "round3": {
+      "title": "Ronde 3",
+      "subtitle": "Uitbeelden",
+      "text": "Geen woorden, alleen gebaren en geluiden!",
+      "clue": "😱",
+      "note": "Uitbeelden",
+      "note_description": "Woorden zijn verboden, alleen gebaren en geluiden!"
+    },
+    "controls": {
+      "guess_text": "Raadt je team de kaart? Druk op de raadknop **CHECK_ICON**",
+      "skip_text": "Weet je even niets, of wil je een nieuwe kaart? Druk op **Passen**",
+      "info": "Je kunt kaarten ook als geraden of gepast markeren door te vegen.",
+      "more_info": "Veeg naar rechts voor geraden, naar links om te passen. Gepaste kaarten blijven in de stapel en komen later in dezelfde ronde terug, dus je krijgt een nieuwe kans.\n\nIn Klassiek kost passen niets, dus blijf niet naar de klok staren!"
+    },
+    "post_turn": {
+      "summary_text": "Na je **beurt** zie je een overzicht van elke kaart die je geraden of gepast hebt",
+      "controls_text": "Hier kun je het resultaat van elke kaart omzetten als er een regel is overtreden of iets misging",
+      "note": "Overzicht beurt",
+      "note_description": "Hier kun je het resultaat van de kaarten omzetten als er iets misging of een regel overtreden is."
+    },
+    "end_turn": {
+      "end_turn_text": "Druk op **Einde beurt** en geef de telefoon aan het volgende team.",
+      "round_text": "De **huidige ronde**, met bijbehorende regels, loopt door tot elke kaart in de stapel geraden is.",
+      "info": "Vergeet je beurt niet te beëindigen voor je de telefoon doorgeeft!",
+      "more_info": "Doe je dat niet, dan ziet de volgende speler misschien kaarten die deze ronde gepast zijn en nog in het spel zitten."
+    },
+    "end_game": {
+      "title": "Het spel eindigt na ronde 3",
+      "subtitle": "Het team met de meeste punten wint, maar dat wist je al!"
+    }
+  },
+  "support": {
+    "title": "Advertenties weg, steun 63!",
+    "description": "63 is een onafhankelijk project en jouw bijdrage helpt bij het onderhoud en de ontwikkeling.",
+    "select_option": "Kies een optie",
+    "standard": {
+      "title": "Standaard",
+      "description": "Haalt alle advertenties uit het spel, voorgoed."
+    },
+    "fan": {
+      "title": "63-fan",
+      "description": "Haalt alle advertenties voorgoed weg en laat zien dat je het project waardeert."
+    },
+    "contribute": "Bijdragen",
+    "thank_you": {
+      "card_title": "Bedankt",
+      "card_description": "63 is een onafhankelijk zijproject, volledig gemaakt in mijn vrije tijd. Ik heb er veel zorg en aandacht in gestoken om er de best mogelijke ervaring van te maken. Mijn oprechte dank, en ik hoop dat je net zoveel plezier beleeft aan 63 als ik aan het maken ervan!",
+      "author": "Paulo Correia"
+    },
+    "no_internet": {
+      "title": "Geen internet",
+      "description": "Controleer je internetverbinding"
+    },
+    "error": {
+      "title": "Er ging iets mis",
+      "description": "We konden de opties niet laden, probeer het opnieuw",
+      "retry": "Opnieuw"
+    },
+    "restore_purchases": "Aankopen herstellen",
+    "restore_purchases_error": "Herstellen van aankopen mislukt"
+  },
+  "credits": {
+    "created_by": "Gemaakt door",
+    "sound": "Geluid",
+    "cards": "Kaarten",
+    "localisation": "Vertalingen",
+    "design_help": "Designhulp",
+    "special_thanks": "Speciale dank",
+    "everyone_who_believed": "en iedereen die\nin mij geloofde",
+    "font": "Lettertype",
+    "by": "door",
+    "developed_with": "Ontwikkeld met",
+    "made_in": "Gemaakt in",
+    "portugal": "Portugal 🇵🇹",
+    "and_thank_you": "…en bedankt,",
+    "for_playing": "voor het spelen"
+  },
+  "deck": {
+    "use_only_unplayed": "Alleen nieuwe kaarten",
+    "use_only_unplayed_tooltip": "Alleen kaarten die nog niet in een eerder spel voorbijkwamen worden gebruikt. Zijn er te weinig, dan start het spel met minder kaarten.",
+    "kids_mode": "KIDS-modus",
+    "kids_mode_label": "{kids}-modus",
+    "kids_mode_tooltip": "Verbergt kaarten en communitypacks die niet geschikt zijn voor kinderen. Privépacks worden altijd getoond.",
+    "distribution": "Verdeling kaarten",
+    "not_enough_cards": "De stapel bevat maar {count} kaarten",
+    "no_cards_available": "Geen kaarten voor een stapel",
+    "all_cards_played": "Alle kaarten gespeeld",
+    "only_n_available": "Maar {count} beschikbaar",
+    "unassigned": "Niet toegewezen: {count}",
+    "reset": "Reset"
+  },
+  "packs": {
+    "add_packs": "Packs toevoegen",
+    "create_packs_title": "Maak je eigen packs",
+    "create_packs_description": "Schrijf kaarten, werk samen met vrienden en deel je packs met de wereld!",
+    "featured_title": "Uitgelicht",
+    "community_title": "Community",
+    "community_empty": "Nog geen packs, wees de eerste die er een deelt!",
+    "filter_popular": "Populair",
+    "filter_new": "Nieuw",
+    "filter_language": "Taal",
+    "language_picker_title": "Taal",
+    "language_any": "Alle talen",
+    "by_author": "door {name}",
+    "by_author_plus": "door {name} +{count}",
+    "code_input_placeholder": "Heb je een packcode?",
+    "details_title": "Details",
+    "pack_not_found": "Dit pack is niet meer beschikbaar.",
+    "featured_pill": "Uitgelicht",
+    "official_pill": "Officieel",
+    "info_language": "Taal",
+    "info_cards": "Kaarten",
+    "info_likes": "Likes",
+    "about_section": "Over dit pack",
+    "contributors_section": "Bijdragers",
+    "sample_cards_title": "Voorbeeldkaarten",
+    "all_cards_title": "Alle kaarten",
+    "sample_cards_count": "{shown} van {total}",
+    "spoiler_warning_title": "Let op, dit kunnen spoilers zijn",
+    "spoiler_warning_body": "Je kunt vooraf een paar kaarten bekijken, maar dan ben je de verrassing tijdens het spel kwijt.",
+    "spoiler_reveal": "Toch tonen",
+    "see_all_cards": "Alle {count} kaarten",
+    "reveal_all_title": "Alle kaarten tonen?",
+    "reveal_all_body": "Je ziet alle {count} kaarten in dit pack. Handig om te kiezen, maar het bederft de verrassing als je gaat spelen.",
+    "reveal_all_confirm": "Tonen",
+    "announcement_title": "Maak je eigen packs!",
+    "announcement_body": "Je kunt nu packs bouwen met je eigen kaarten, samenwerken met vrienden en ze delen met de wereld!\n\nGa naar {link} om te beginnen.",
+    "code_hint": "ABC123",
+    "add_pack_button": "Toevoegen",
+    "already_added": "Al toegevoegd",
+    "pack_added_hidden_kids": "{name} toegevoegd. Verborgen in de KIDS-modus.",
+    "watch_ad_title": "Tijd voor reclame",
+    "watch_ad_body": "Met een gratis account kijk je eerst een korte advertentie voor je een pack toevoegt. Zo blijft 63 draaien en gratis.",
+    "watch_ad_button": "Bekijken",
+    "watch_ad_remove_cta": "Advertenties weg",
+    "pack_added": "{name} toegevoegd!",
+    "error_empty_code": "Vul een packcode in",
+    "error_not_found": "Pack niet gevonden. Check de code en probeer opnieuw.",
+    "error_network": "Netwerkfout. Controleer je verbinding.",
+    "load_error": "Kon de communitypacks niet laden.",
+    "load_retry": "Opnieuw",
+    "load_more": "Meer laden",
+    "updated": "Bijgewerkt",
+    "played_count": "{played}/{total} gespeeld",
+    "delete_pack_button": "Verwijderen",
+    "delete_pack_description": "Je kunt het later weer toevoegen.",
+    "pack_deleted": "{name} verwijderd",
+    "report_pack_title": "Dit pack melden",
+    "report_pack_description": "Laat weten wat er mis is, dan kijken we ernaar.",
+    "report_reason_inappropriate": "Ongepaste inhoud",
+    "report_reason_spam": "Spam",
+    "report_reason_copyright": "Schending auteursrecht",
+    "report_reason_other": "Anders",
+    "report_note_hint": "Notitie (optioneel)",
+    "report_submit": "Versturen",
+    "report_submitted": "Pack gemeld",
+    "report_already_submitted": "Je hebt dit pack al gemeld",
+    "report_failed": "Melden mislukt. Probeer het opnieuw."
+  },
+  "post_game": {
+    "liked_packs_title": "Waren deze packs leuk?",
+    "leave_a_like": "Geef een like zodat meer mensen ze vinden",
+    "stats_title": "Statistieken",
+    "game_time": "Speeltijd",
+    "turns": "Beurten",
+    "cards_title": "Kaarten",
+    "col_guesses": "Geraden",
+    "col_skips": "Gepast",
+    "points_per_round_title": "Punten per ronde",
+    "round_short": "R{round}",
+    "total": "Totaal",
+    "best_turn": "Beste beurt",
+    "worst_turn": "Slechtste beurt",
+    "cards_unit": "kaarten",
+    "skips_unit": "gepast",
+    "points_unit": "punten",
+    "in_round": "in R{round}",
+    "toughest_card": "Lastigste kaart",
+    "easiest_card": "Makkelijkste kaart",
+    "skipped_n_times": "{count}× gepast",
+    "easiest_subtitle": "{skips}× gepast · {avg}s gemiddeld"
+  },
+  "translations": {
+    "ai_notice": "Deze vertaling is met AI gemaakt. Een fout gevonden of wil je helpen haar te verbeteren?",
+    "contact_us": "Neem contact op",
+    "missing_language": "Staat je taal er niet bij?",
+    "help_translate": "Help 63 vertalen",
+    "help_description": "Een fout in een vertaling gevonden, of wil je 63 in jouw taal spelen? Neem contact op als je wilt helpen."
+  }
+}

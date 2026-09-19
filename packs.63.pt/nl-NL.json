@@ -1,0 +1,614 @@
+{
+  "common": {
+    "cancel": "Annuleren",
+    "confirm": "Bevestigen",
+    "close": "Sluiten",
+    "delete": "Verwijderen",
+    "or": "of",
+    "loading": "Laden…"
+  },
+  "auth": {
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "confirmPassword": "Wachtwoord bevestigen",
+    "username": "Gebruikersnaam",
+    "login": {
+      "title": "Inloggen",
+      "action": "Inloggen"
+    },
+    "register": {
+      "title": "Registreren",
+      "action": "Registreren"
+    },
+    "continueWithGoogle": "Doorgaan met Google",
+    "continueWithEmail": "Doorgaan met e-mail",
+    "continueWithoutAccount": "Doorgaan zonder account",
+    "dontHaveAccount": "Nog geen account?",
+    "alreadyHaveAccount": "Heb je al een account?",
+    "createAccount": {
+      "title": "Account aanmaken",
+      "action": "Account aanmaken"
+    },
+    "placeholder": {
+      "email": "jij@example.com",
+      "password": "••••••••",
+      "confirmPassword": "Herhaal je wachtwoord",
+      "username": "Je naam"
+    },
+    "forgotPassword": "Wachtwoord vergeten?",
+    "resetPassword": {
+      "title": "Wachtwoord herstellen",
+      "action": "Wachtwoord herstellen"
+    },
+    "newPassword": "Nieuw wachtwoord",
+    "sendResetEmail": "Herstellink versturen",
+    "resetEmailSent": "Controleer je e-mail",
+    "resetEmailSentDescription": "We hebben een link om je wachtwoord te herstellen naar {{email}} gestuurd. Open je inbox en volg de link.",
+    "resetPasswordSuccess": "Je wachtwoord is hersteld. Je kunt nu met je nieuwe wachtwoord inloggen.",
+    "backToLogin": "Terug",
+    "errors": {
+      "userNotFound": "Er is geen account met dit e-mailadres.",
+      "wrongPassword": "Onjuist wachtwoord.",
+      "invalidEmail": "Ongeldig e-mailadres.",
+      "networkError": "Netwerkfout. Controleer je verbinding.",
+      "invalidCredential": "Ongeldig e-mailadres of wachtwoord.",
+      "popupCancelled": "Het inloggen is geannuleerd.",
+      "accountExists": "Er bestaat al een account met dit e-mailadres.",
+      "loginFailed": "Inloggen mislukt. Probeer het opnieuw.",
+      "emailInUse": "Er bestaat al een account met dit e-mailadres.",
+      "weakPassword": "Het wachtwoord is te zwak.",
+      "registrationFailed": "Registreren mislukt. Probeer het opnieuw.",
+      "credentialInUse": "Deze inloggegevens horen al bij een ander account.",
+      "providerAlreadyLinked": "Dit account is al aan een aanbieder gekoppeld.",
+      "upgradeFailed": "Account bijwerken mislukt. Probeer het opnieuw.",
+      "continueFailed": "Doorgaan mislukt. Probeer het opnieuw.",
+      "expiredActionCode": "Deze herstellink is verlopen. Vraag een nieuwe aan.",
+      "invalidActionCode": "Deze herstellink is ongeldig of al gebruikt.",
+      "resetFailed": "Wachtwoord herstellen mislukt. Probeer het opnieuw.",
+      "userDisabled": "Dit account is uitgeschakeld."
+    }
+  },
+  "validation": {
+    "required": {
+      "email": "E-mail is verplicht",
+      "password": "Wachtwoord is verplicht",
+      "username": "Gebruikersnaam is verplicht",
+      "name": "Naam is verplicht",
+      "packName": "Packnaam is verplicht",
+      "confirmPassword": "Bevestig je wachtwoord"
+    },
+    "invalidEmail": "Ongeldig e-mailadres",
+    "passwordMinLength": "Wachtwoord moet minstens 6 tekens hebben",
+    "usernameMinLength": "Gebruikersnaam moet minstens 2 tekens hebben",
+    "usernameMaxLength": "Gebruikersnaam moet minder dan 50 tekens hebben",
+    "nameMinLength": "Naam moet minstens 2 tekens hebben",
+    "nameMaxLength": "Naam moet minder dan 50 tekens hebben",
+    "passwordsDoNotMatch": "Wachtwoorden komen niet overeen",
+    "contrastError": "De tekstkleur contrasteert niet genoeg met de packkleur"
+  },
+  "home": {
+    "packs": "Packs",
+    "myPacks": "Mijn packs",
+    "newPack": "Nieuw pack",
+    "newPackSubtitle": "Maak een nieuw pack",
+    "invitedPacks": "Gedeeld",
+    "emptyInvited": "Nog geen gedeelde packs. Open een uitnodiging om mee te doen!",
+    "emptyNoAccount": "Nog geen packs. Open een uitnodigingslink of maak een account aan om er zelf een te maken!",
+    "packAuthor": "door {{name}}",
+    "deployed": "Gepubliceerd in de community"
+  },
+  "pack": {
+    "cards": "Kaarten",
+    "publish": "Publiceren",
+    "collaboration": "Samenwerken",
+    "editPack": "Pack bewerken",
+    "loadingPack": "Pack laden…",
+    "kickedMessage": "Je werkt niet meer mee aan “{{name}}”",
+    "canOnlyEditOwnCards": "Je kunt alleen je eigen kaarten bewerken",
+    "lockedForReview": "Het pack wordt beoordeeld en kan niet worden bewerkt",
+    "newPack": "Nieuw pack",
+    "createPack": "Pack maken",
+    "savePack": "Pack opslaan",
+    "details": {
+      "name": "Naam",
+      "description": "Beschrijving",
+      "lookAndFeel": "Vormgeving"
+    },
+    "appearance": {
+      "back": "Achterkant",
+      "front": "Voorkant",
+      "swap": "Voor- en achterkant omwisselen",
+      "flip": "Omdraaien",
+      "resetAll": "Alles herstellen",
+      "randomize": "Willekeurig",
+      "color": "Packkleur",
+      "accent": "Tekstkleur",
+      "shuffleEmojis": "Emoji’s husselen",
+      "shuffleAll": "Emoji’s en kleuren husselen",
+      "undo": "Wijziging ongedaan maken",
+      "editPackCover": "Packomslag bewerken",
+      "editPackColours": "Packkleuren bewerken",
+      "packCover": "Omslag",
+      "packColours": "Kleuren"
+    },
+    "transfer": {
+      "title": "Importeren en exporteren",
+      "description": "Sla je kaarten op in een bestand of importeer kaarten uit een bestand.",
+      "exportPack": {
+        "title": "Pack exporteren",
+        "subtitle": "Download het pack en de kaarten als .json-bestand."
+      },
+      "exportCards": {
+        "title": "Kaarten exporteren",
+        "subtitle": "Download de kaarten als .csv-bestand voor een spreadsheet."
+      },
+      "importCards": {
+        "title": "Kaarten importeren",
+        "subtitle": "Voeg kaarten toe uit een .csv- of .json-bestand."
+      },
+      "import": {
+        "title": "Kaarten importeren",
+        "intro": "Kies een .csv- of .json-bestand.",
+        "importing": "Kaarten importeren…",
+        "templateHint": "Weet je niet hoe zo’n bestand eruitziet? Download een <csv>.csv-sjabloon</csv> of een <json>.json-sjabloon</json>.",
+        "template": {
+          "packName": "Packnaam",
+          "packDescription": "Waar dit pack over gaat",
+          "cardTitle": "Kaart {{number}}",
+          "cardDescription": "Beschrijving {{number}}"
+        },
+        "chooseFile": "Bestand kiezen",
+        "chooseAnother": "Ander bestand kiezen",
+        "found_one": "{{count}} kaart in dit bestand",
+        "found_other": "{{count}} kaarten in dit bestand",
+        "cardsOnlyNote": "Alleen de kaarten worden geïmporteerd. Dit pack houdt zijn eigen naam en vormgeving.",
+        "detailsOwnerOnlyNote": "Alleen de eigenaar kan de naam en vormgeving wijzigen, dus alleen de kaarten worden geïmporteerd.",
+        "previewSection": "Te importeren kaarten",
+        "duplicateBadge": "Al in pack",
+        "andMore_one": "en nog {{count}}",
+        "andMore_other": "en nog {{count}}",
+        "skippedSection_one": "{{count}} kaart overgeslagen",
+        "skippedSection_other": "{{count}} kaarten overgeslagen",
+        "untitledRow": "Zonder titel",
+        "rowNumber": "Rij {{row}}",
+        "skipReason": {
+          "missingTitle": "Deze kaart heeft geen titel.",
+          "invalidPoints": "Het aantal punten moet 1, 2 of 3 zijn.",
+          "titleTooLong": "Deze titel is langer dan {{max}} tekens.",
+          "descriptionTooLong": "Deze beschrijving is langer dan {{max}} tekens."
+        },
+        "optionsSection": "Importopties",
+        "modeSection": "Manier van importeren",
+        "modeAdd": "Aan pack toevoegen",
+        "modeAddDescription_one": "De kaart die al in het pack zit behouden",
+        "modeAddDescription_other": "De {{count}} kaarten die al in het pack zitten behouden",
+        "modeReplace": "Alle kaarten vervangen",
+        "modeReplaceDescription_one": "Eerst de kaart verwijderen die al in het pack zit",
+        "modeReplaceDescription_other": "Eerst de {{count}} kaarten verwijderen die al in het pack zitten",
+        "skipDuplicates_one": "{{count}} kaart overslaan die al in het pack zit",
+        "skipDuplicates_other": "{{count}} kaarten overslaan die al in het pack zitten",
+        "applyDetails": "Ook de naam en vormgeving uit dit bestand gebruiken",
+        "confirm_one": "{{count}} kaart importeren",
+        "confirm_other": "{{count}} kaarten importeren",
+        "confirmDetailsOnly": "Naam en vormgeving toepassen"
+      },
+      "error": {
+        "empty": "Dit bestand bevat geen kaarten.",
+        "invalidJson": "Dit bestand bevat geen geldige JSON.",
+        "notAPackFile": "Dit lijkt geen 63-packbestand te zijn.",
+        "unsupportedVersion": "Dit bestand komt uit een nieuwere versie van de site. Laad de pagina opnieuw en probeer het nog eens.",
+        "unsupportedFile": "Alleen .csv- en .json-bestanden kunnen worden geïmporteerd.",
+        "unreadable": "Dit bestand kon niet worden gelezen.",
+        "tooManyCards": "Dat zou {{total}} kaarten opleveren. Een pack kan er {{max}} bevatten.",
+        "tooLarge": "Deze import is te groot. Verdeel hem over kleinere bestanden of kort de beschrijvingen in."
+      }
+    },
+    "dangerZone": "Gevarenzone",
+    "dangerDescription": "Dit pack verwijderen is definitief en kan niet ongedaan worden gemaakt.",
+    "deletePack": "Pack verwijderen",
+    "summary": {
+      "author": "door {{name}}",
+      "cardCount_one": "{{count}} kaart",
+      "cardCount_other": "{{count}} kaarten",
+      "hint": "Vraag de eigenaar om een bewerkingslink als je aan dit pack wilt meewerken."
+    }
+  },
+  "publish": {
+    "addTo63Section": {
+      "title": "Toevoegen aan 63"
+    },
+    "openInApp": {
+      "title": "Openen in de app",
+      "subtitle": "Voeg dit pack toe aan je verzameling."
+    },
+    "shareLink": {
+      "title": "Deellink",
+      "subtitle": "Stuur een link naar een vriend.",
+      "byAuthor": "door {{author}}",
+      "tagline": "Een pack voor het spel 63"
+    },
+    "copyCode": {
+      "title": "Code kopiëren",
+      "subtitle": "Plak hem handmatig in 63."
+    },
+    "communitySection": {
+      "title": "Community"
+    },
+    "submit": {
+      "title": "Dien je pack in!",
+      "subtitle": "Deel het met de 63-community.",
+      "cta": "Indienen",
+      "minCards": "Voeg minstens {{required}} kaarten toe om dit pack in te dienen. Je hebt er nu {{current}}."
+    },
+    "community": {
+      "pending": {
+        "title": "Inzending wordt beoordeeld",
+        "meta": "Ingediend op {{date}}",
+        "body": "Een moderator beoordeelt je pack binnen 1–3 dagen.",
+        "withdraw": "Inzending intrekken"
+      },
+      "approved": {
+        "title": "Goedgekeurd en gepubliceerd",
+        "meta": "Goedgekeurd op {{date}}",
+        "reviewerNote": "Een bericht van de beoordelaar:",
+        "stats": {
+          "likes": "Likes",
+          "plays": "Keer gespeeld"
+        },
+        "withdraw": "Uit de community halen",
+        "moreActions": "Meer acties"
+      },
+      "update": {
+        "title": "Online, maar verouderd",
+        "meta_one": "{{count}} wijziging sinds goedkeuring",
+        "meta_other": "{{count}} wijzigingen sinds goedkeuring",
+        "body": "Je hebt dit pack na de goedkeuring bewerkt. Dien het opnieuw in om de nieuwe versie te publiceren.",
+        "cta": "Opnieuw indienen"
+      },
+      "rejected": {
+        "title": "Inzending niet goedgekeurd",
+        "meta": "Beoordeeld op {{date}}",
+        "cta": "Opnieuw indienen"
+      },
+      "updateRejected": {
+        "title": "Update niet goedgekeurd",
+        "meta": "Beoordeeld op {{date}}",
+        "body": "Je nieuwste wijzigingen zijn niet goedgekeurd, maar de eerder goedgekeurde versie staat nog in de communitypacks.",
+        "liveSince": "Online sinds {{date}}",
+        "cta": "Bewerken en opnieuw indienen"
+      },
+      "diff": {
+        "viewChanges": "Wijzigingen bekijken",
+        "title": "Wijzigingen sinds de laatste goedkeuring",
+        "loading": "Gepubliceerde versie laden…",
+        "unavailable": "De eerder goedgekeurde versie kon niet worden geladen.",
+        "noChanges": "Geen wijzigingen aan kaarten sinds de laatste goedkeuring.",
+        "newSection_one": "{{count}} nieuwe kaart",
+        "newSection_other": "{{count}} nieuwe kaarten",
+        "modifiedSection_one": "{{count}} gewijzigde kaart",
+        "modifiedSection_other": "{{count}} gewijzigde kaarten",
+        "removedSection_one": "{{count}} verwijderde kaart",
+        "removedSection_other": "{{count}} verwijderde kaarten",
+        "previously": "Eerder",
+        "field": {
+          "title": "Titel",
+          "description": "Beschrijving",
+          "points": "Punten"
+        },
+        "empty": "(leeg)"
+      },
+      "removed": {
+        "title": "Uit de community verwijderd",
+        "meta": "Verwijderd op {{date}}",
+        "body": "Een moderator heeft dit pack uit de communitypacks verwijderd. Je kunt het bewerken en opnieuw indienen wanneer je klaar bent.",
+        "cta": "Opnieuw indienen"
+      },
+      "withdrawn": {
+        "title": "Uit de community gehaald",
+        "meta": "Ingetrokken op {{date}}",
+        "body": "Je hebt dit pack uit de communitypacks gehaald. Je kunt het op elk moment opnieuw indienen.",
+        "cta": "Opnieuw indienen"
+      },
+      "withdrawConfirm": {
+        "title": "Uit de community halen?",
+        "description": "“{{name}}” wordt uit de communitypacks verwijderd en bij iedereen die het heeft geïnstalleerd gewist zodra die 63 weer opent. Je kunt het later opnieuw indienen.",
+        "confirm": "Intrekken"
+      },
+      "toast": {
+        "withdrawn": "Inzending ingetrokken",
+        "withdrawFailed": "Inzending intrekken mislukt",
+        "withdrawnApproved": "Pack uit de community gehaald",
+        "withdrawApprovedFailed": "Pack uit de community halen mislukt"
+      }
+    }
+  },
+  "submit": {
+    "title": "Indienen bij de community",
+    "titleResubmit": "Opnieuw indienen bij de community",
+    "infoBanner": "Na goedkeuring is dit pack te vinden bij de communitypacks van 63. Dien het opnieuw in als je wijzigingen wilt publiceren.",
+    "language": {
+      "title": "Taal van het pack",
+      "subtitle": "De taal waarin de meeste kaarten zijn geschreven.",
+      "placeholder": "Kies een taal"
+    },
+    "kids": {
+      "title": "KIDS-modus",
+      "subtitle": "In de KIDS-modus toont de app alleen packs die geschikt zijn voor kinderen. Een moderator controleert je antwoord.",
+      "checkbox": "Dit pack is geschikt voor kinderen"
+    },
+    "agreement": "Ik ga ermee akkoord dat dit pack de <guidelines>communityrichtlijnen van 63</guidelines> volgt en geen haatzaaien, doxing van privépersonen of auteursrechtelijk beschermde kaarttekst bevat.",
+    "cta": {
+      "submit": "Ter beoordeling indienen",
+      "resubmit": "Opnieuw ter beoordeling indienen"
+    },
+    "toast": {
+      "submitted": "Pack ter beoordeling ingediend!",
+      "failed": "Pack indienen mislukt"
+    }
+  },
+  "share": {
+    "dontHaveApp": "Heb je 63 nog niet?",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "notFound": "Pack niet gevonden",
+    "notFoundDescription": "Dit pack bestaat niet of is niet meer beschikbaar."
+  },
+  "community": {
+    "notFound": "Communitypack niet gevonden",
+    "notFoundDescription": "Dit communitypack bestaat niet of is niet meer beschikbaar."
+  },
+  "card": {
+    "newCard": "Nieuwe kaart",
+    "editCard": "Kaart bewerken",
+    "viewCard": "Kaartdetails",
+    "saveCard": "Kaart opslaan",
+    "addCard": "Kaart toevoegen",
+    "title": "Titel",
+    "description": "Beschrijving",
+    "noCards": "Nog geen kaarten",
+    "importFromFile": "Uit bestand importeren",
+    "points_one": "punt",
+    "points_other": "punten",
+    "difficulty": {
+      "easy": "makkelijk",
+      "medium": "gemiddeld",
+      "hard": "moeilijk"
+    },
+    "authorCards": "Kaarten van {{name}}",
+    "viewAllCards": "Alle kaarten bekijken",
+    "viewDrafts": "Concepten bekijken",
+    "totals": {
+      "cards": "Kaarten per maker",
+      "drafts": "Concepten per maker",
+      "total": "Totaal"
+    },
+    "sort": {
+      "alphaAsc": "Alfabetisch (A → Z)",
+      "alphaDesc": "Alfabetisch (Z → A)",
+      "pointsDesc": "Punten (hoog → laag)",
+      "pointsAsc": "Punten (laag → hoog)",
+      "dateDesc": "Nieuwste eerst",
+      "dateAsc": "Oudste eerst",
+      "sortOptions": "Sorteeropties",
+      "label": "Sorteren",
+      "sortBy": "Sorteren op"
+    },
+    "draft": "Concept",
+    "info": "Kaartinfo",
+    "createdAt": "Gemaakt op",
+    "filter": {
+      "myCards": "Mijn kaarten",
+      "allCards": "Alle kaarten",
+      "myDrafts": "Mijn concepten",
+      "allDrafts": "Alle concepten",
+      "label": "Filters",
+      "missingDescription": "Kaarten zonder beschrijving",
+      "noMissingDescriptions": "Elke kaart heeft een beschrijving.",
+      "description": "Beschrijving",
+      "difficulty": "Moeilijkheid",
+      "author": "Maker",
+      "clearAll": "Alles wissen",
+      "noResults": "Geen kaarten passen bij deze filters."
+    },
+    "groupBy": {
+      "label": "Groeperen op",
+      "none": "Geen",
+      "author": "Maker",
+      "points": "Punten"
+    },
+    "pointsGroup_one": "{{count}} punt",
+    "pointsGroup_other": "{{count}} punten",
+    "search": {
+      "label": "Zoeken",
+      "placeholder": "Kaarten zoeken",
+      "clear": "Zoekopdracht wissen",
+      "noResults": "Geen kaarten gevonden voor “{{query}}”."
+    },
+    "selection": {
+      "label": "Kaarten selecteren",
+      "count_one": "{{count}} kaart geselecteerd",
+      "count_other": "{{count}} kaarten geselecteerd",
+      "empty": "Kies de kaarten die je wilt wijzigen",
+      "selectAll": "Alles selecteren",
+      "deselectAll": "Alles deselecteren",
+      "setPoints": "Punten instellen",
+      "delete": "Geselecteerde kaarten verwijderen",
+      "cancel": "Selectie annuleren"
+    }
+  },
+  "collaboration": {
+    "accessMode": "Bewerkingsmodus",
+    "whoCanEdit": "Wie kan dit pack bewerken?",
+    "private": "Privé",
+    "privateDescription": "Alleen jij kunt het bewerken",
+    "collaborative": "Samenwerken",
+    "collaborativeDescription": "Anderen met de link kunnen het bewerken",
+    "inviteDescription": "Deel deze link zodat anderen kunnen meedoen en aan dit pack kunnen werken.",
+    "copyEditLink": "Bewerkingslink kopiëren",
+    "permissions": "Rechten van bijdragers",
+    "whatCanDo": "Wat mogen bijdragers doen?",
+    "addCards": "Kaarten toevoegen",
+    "addCardsDescription": "Kan alleen kaarten toevoegen en eigen kaarten bekijken of bewerken",
+    "fullAccess": "Volledige toegang",
+    "fullAccessDescription": "Kan kaarten toevoegen, alle kaarten bewerken en packinstellingen wijzigen",
+    "collaborators": "Bijdragers",
+    "noCollaborators": "Nog geen bijdragers. Deel de bewerkingslink om mensen uit te nodigen.",
+    "noOtherCollaborators": "Geen andere bijdragers.",
+    "leavePack": "Pack verlaten",
+    "leaveDescription": "Je kunt dit pack daarna niet meer bewerken.",
+    "loadingSettings": "Instellingen laden…",
+    "joined": "Doet mee sinds {{date}}",
+    "ownerRole": "Eigenaar",
+    "created": "Gemaakt op {{date}}"
+  },
+  "dialog": {
+    "deleteCard": {
+      "title": "Kaart verwijderen",
+      "description": "Weet je zeker dat je deze kaart wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+    },
+    "deleteCards": {
+      "title_one": "Kaart verwijderen",
+      "title_other": "{{count}} kaarten verwijderen",
+      "description_one": "Weet je zeker dat je deze kaart wilt verwijderen? Dit kan niet ongedaan worden gemaakt.",
+      "description_other": "Weet je zeker dat je deze {{count}} kaarten wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+    },
+    "deletePack": {
+      "title": "Pack verwijderen",
+      "description": "Weet je zeker dat je “{{name}}” wilt verwijderen? Dit kan niet ongedaan worden gemaakt en alle kaarten gaan verloren."
+    },
+    "leavePack": {
+      "title": "Pack verlaten",
+      "description": "Weet je zeker dat je “{{name}}” wilt verlaten? Je kunt het daarna niet meer bewerken.",
+      "confirm": "Verlaten"
+    },
+    "removeCollaborator": {
+      "title": "Bijdrager verwijderen",
+      "description": "Weet je zeker dat je {{name}} uit dit pack wilt verwijderen? Deze persoon kan het daarna niet meer bewerken.",
+      "confirm": "Verwijderen"
+    },
+    "disableCollaboration": {
+      "title": "Samenwerken uitschakelen",
+      "description": "Hiermee verwijder je alle bijdragers uit het pack en herstel je de instellingen voor samenwerken.",
+      "confirm": "Uitschakelen"
+    },
+    "similarCard": {
+      "title": "Vergelijkbare kaart gevonden",
+      "description": "Er bestaat al een vergelijkbare kaart:",
+      "confirm": "Weet je zeker dat je hem wilt toevoegen?",
+      "addAnyway": "Toch toevoegen"
+    },
+    "unsavedChanges": {
+      "title": "Niet-opgeslagen wijzigingen",
+      "description": "Je hebt wijzigingen die niet zijn opgeslagen. Weet je zeker dat je wilt weggaan? Je wijzigingen gaan verloren.",
+      "confirm": "Weggaan"
+    },
+    "deleteAccount": {
+      "title": "Account verwijderen",
+      "description": "Weet je zeker dat je je account wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+    }
+  },
+  "toast": {
+    "packSaved": "Pack opgeslagen!",
+    "failedToUpdatePack": "Pack bijwerken mislukt",
+    "packDeleted": "“{{name}}” is verwijderd",
+    "failedToDeletePack": "Pack verwijderen mislukt",
+    "failedToAddCard": "Kaart toevoegen mislukt",
+    "failedToUpdateCard": "Kaart bijwerken mislukt",
+    "failedToDeleteCard": "Kaart verwijderen mislukt",
+    "failedToUpdateCards": "Kaarten bijwerken mislukt",
+    "failedToDeleteCards": "Kaarten verwijderen mislukt",
+    "collaboratorRemoved": "Bijdrager verwijderd",
+    "failedToRemoveCollaborator": "Bijdrager verwijderen mislukt",
+    "failedToUpdateSettings": "Instellingen bijwerken mislukt",
+    "editLinkCopied": "Bewerkingslink gekopieerd!",
+    "linkCopied": "Link gekopieerd!",
+    "failedToCopyLink": "Link kopiëren mislukt",
+    "appNotInstalled": "63 is niet op dit apparaat geïnstalleerd",
+    "codeCopied": "Code gekopieerd!",
+    "failedToCopyCode": "Code kopiëren mislukt",
+    "joinedPack": "Je doet nu mee aan het pack!",
+    "failedToJoinPack": "Meedoen aan pack mislukt",
+    "leftPack": "Je hebt “{{name}}” verlaten",
+    "failedToLeavePack": "Pack verlaten mislukt",
+    "usernameUpdated": "Gebruikersnaam bijgewerkt!",
+    "failedToUpdateUsername": "Gebruikersnaam bijwerken mislukt",
+    "accountDeleted": "Account verwijderd",
+    "failedToDeleteAccount": "Account verwijderen mislukt",
+    "nameUpdatedInPack": "Je naam is in dit pack bijgewerkt",
+    "cardsImported_one": "{{count}} kaart geïmporteerd",
+    "cardsImported_other": "{{count}} kaarten geïmporteerd",
+    "packUpdatedFromFile": "Pack bijgewerkt vanuit bestand",
+    "failedToImportCards": "Kaarten importeren mislukt"
+  },
+  "join": {
+    "joinPack": "Meedoen aan pack",
+    "packNotFound": "Pack niet gevonden",
+    "packNotFoundDescription": "Dit pack bestaat niet of de link is ongeldig.",
+    "goToMyPacks": "Naar mijn packs",
+    "joiningPack": "Meedoen aan pack…",
+    "invited": "Je bent uitgenodigd om aan dit pack mee te werken.",
+    "yourName": "Je naam",
+    "enterYourName": "Vul je naam in",
+    "noAccountNote": "Je kunt later een account aanmaken; er gaat niets verloren."
+  },
+  "upgrade": {
+    "heading": "Account aanmaken",
+    "continueWithoutAccount": "Doorgaan zonder account"
+  },
+  "banner": {
+    "noAccountMessage": "Je hebt nog geen account. Registreer je om je eigen packs te maken.",
+    "createAccount": "Account aanmaken"
+  },
+  "password": {
+    "show": "Wachtwoord tonen",
+    "hide": "Wachtwoord verbergen"
+  },
+  "emoji": {
+    "loading": "Laden…",
+    "empty": "Geen emoji gevonden."
+  },
+  "changelog": {
+    "title": "Wijzigingslogboek"
+  },
+  "licences": {
+    "title": "Licenties",
+    "intro": "63 Packs is gebouwd met opensourcesoftware en gebruikt emoji- en pictogramillustraties van derden. We zijn iedereen dankbaar die deze beschikbaar heeft gemaakt.",
+    "attributions": "Emoji en pictogrammen",
+    "openSource": "Opensourcesoftware",
+    "viewLicence": "Licentie bekijken"
+  },
+  "guidelines": {
+    "title": "Communityrichtlijnen"
+  },
+  "legal": {
+    "title": "Juridisch",
+    "guidelinesDescription": "Waar we van houden en wat we niet toestaan.",
+    "licencesDescription": "Opensourcesoftware en emoji-illustraties die we gebruiken."
+  },
+  "menu": {
+    "legal": "Juridisch",
+    "feedback": "Feedback"
+  },
+  "cookies": {
+    "ariaLable": "Cookietoestemming",
+    "message": "We gebruiken cookies om 63 te verbeteren.",
+    "accept": "Oké",
+    "decline": "Nee, bedankt"
+  },
+  "account": {
+    "title": "Account",
+    "username": "Gebruikersnaam",
+    "usernameNote": "Je naam wordt pas bijgewerkt wanneer je packs bezoekt. Oude packs houden je vorige naam totdat je ze opent.",
+    "changeUsername": "Gebruikersnaam opslaan",
+    "language": "Taal",
+    "english": "Engels",
+    "portuguese": "Portugees",
+    "spanish": "Spaans",
+    "turkish": "Turks",
+    "french": "Frans",
+    "dangerZone": "Gevarenzone",
+    "dangerDescription": "Je account verwijderen is definitief en kan niet ongedaan worden gemaakt.",
+    "deleteAccount": "Account verwijderen",
+    "logout": "Uitloggen"
+  }
+}

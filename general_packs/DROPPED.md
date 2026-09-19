@@ -435,6 +435,72 @@ translations of English cards.
 | Mr. Worldwide |
 | Super Bowl Halftime Show |
 
+## `nl-NL`
+
+**33 of the 230 English cards have no Dutch counterpart.** The remaining 197 are direct
+translations of English cards.
+
+### English-specific expression or meaning
+
+| Card |
+| --- |
+| Mary Jane |
+| One-Trick Pony |
+| Leg Day |
+
+### No single, recognisable Dutch title
+
+| Card |
+| --- |
+| A Pinky Promise |
+| A Spork |
+| A Tumbleweed |
+| Buzz Cut |
+| 9 to 5 |
+| An Evil Twin |
+| The Yawn That Spreads |
+| The Middle Seat |
+| A Tupperware Lid That Doesn't Match |
+| Shirtless Old Man |
+| 3 Kids in a Trenchcoat |
+| The Friends from Friends |
+| Double Dipping |
+| A Man Bun |
+| A Dad Joke |
+| A Staring Contest |
+| A Pool Noodle |
+| Pull a Rabbit Out of a Hat |
+| Truth or Dare |
+| The Ghost of Christmas Past |
+| The Asteroid That Killed the Dinosaurs |
+| Dolly, the Sheep |
+| Doctor's Handwriting |
+
+### Translation changes the meaning or depends on an edition
+
+| Card |
+| --- |
+| The Conga Line |
+| Go Directly to Jail |
+| Hungry Hungry Hippos |
+
+### Reference would not play well in the Netherlands
+
+| Card |
+| --- |
+| Jimmy Fallon's Laugh |
+| Mr. Worldwide |
+| Super Bowl Halftime Show |
+
+### Localisation would replace the English card
+
+*Pino* is the Dutch *Sesamstraat* counterpart to Big Bird, but it is a different
+character rather than a translation of the same card.
+
+| Card |
+| --- |
+| Big Bird |
+
 ## `de-DE`
 
 **45 of the 230 English cards have no German counterpart.** The remaining 185 are direct
