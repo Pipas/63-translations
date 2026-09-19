@@ -10,12 +10,16 @@ screen when the language ships. Add yourself in the same pull request as your tr
 
 Translating the app.
 
+<!-- generated from status.json -->
+
 | Name | Languages |
 | --- | --- |
 | Oliver Evans | `en-GB` |
 | Maria João Neves | `pt-PT` |
 | Barbara Muto | `pt-BR` |
 | Raquel Müller | `pt-BR` |
+
+<!-- end generated -->
 
 ## Cards
 

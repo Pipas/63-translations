@@ -107,3 +107,31 @@ joke that does.
 
 Everything outside `rules.*` is plain and functional. Don't add enthusiasm the English
 doesn't have.
+
+## How your changes reach players
+
+Fixes here no longer wait for an app release. The app ships with a copy of every
+file in this folder and checks for a newer one on launch, so a corrected string
+reaches phones once the change is merged and published.
+
+Two things follow from that.
+
+**A fix applies per key, not per file.** The app merges what it downloads over
+what it shipped with, one key at a time. You can correct a single string without
+touching the rest, and a key you leave alone keeps the text that shipped.
+
+**A broken placeholder is silently ignored.** Before using a downloaded string
+the app checks that it still carries the same `{placeholders}` as the one it
+replaces, and the `CHECK_ICON` token if that string had one. If they don't
+match, the app keeps the old text and your fix never appears. Reordering is
+fine, renaming, dropping or inventing one is not:
+
+```json
+"cards_left": "{count} cards left"   →   "restam {count} cartas"   ✅ applied
+"cards_left": "{count} cards left"   →   "cartas restantes"        ❌ ignored
+"cards_left": "{count} cards left"   →   "{contagem} cartas"       ❌ ignored
+```
+
+Same for the plural keys: a string where the English has `zero`/`one`/`other` is
+ignored too. If a fix of yours doesn't show up in the app, check the placeholders
+first.

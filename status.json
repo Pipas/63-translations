@@ -1,0 +1,13 @@
+{
+  "en-GB": { "name": "English (British)", "source": true, "reviewed": true, "translators": ["Oliver Evans"] },
+  "en-US": { "name": "English (United States)", "reviewed": true, "translators": [] },
+  "pt-PT": { "name": "Portuguese (Portugal)", "reviewed": true, "translators": ["Maria João Neves"] },
+  "pt-BR": { "name": "Portuguese (Brazil)", "reviewed": true, "translators": ["Barbara Muto", "Raquel Müller"] },
+  "tr-TR": { "name": "Turkish (Turkey)", "reviewed": false, "translators": [] },
+  "es-ES": { "name": "Spanish (Spain)", "reviewed": false, "translators": [] },
+  "es-419": { "name": "Spanish (Latin America)", "reviewed": false, "translators": [] },
+  "fr-FR": { "name": "French (France)", "reviewed": false, "translators": [] },
+  "de-DE": { "name": "German (Germany)", "reviewed": false, "translators": [] },
+  "it-IT": { "name": "Italian (Italy)", "reviewed": false, "translators": [] },
+  "nl-NL": { "name": "Dutch (Netherlands)", "reviewed": false, "translators": [] }
+}

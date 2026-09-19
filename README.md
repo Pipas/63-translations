@@ -10,6 +10,8 @@ a language you speak, this is the only repo you need.
 
 ## Languages
 
+<!-- generated from status.json -->
+
 | Code | Language | Status |
 | --- | --- | --- |
 | `en-GB` | English (British) | Complete, source language |
@@ -23,6 +25,8 @@ a language you speak, this is the only repo you need.
 | `de-DE` | German (Germany) | AI-generated draft — native review required |
 | `it-IT` | Italian (Italy) | AI-generated draft — native review required |
 | `nl-NL` | Dutch (Netherlands) | AI-generated draft — native review required |
+
+<!-- end generated -->
 
 The Turkish, Spanish, French, German, Italian and Dutch drafts and their review status are documented in
 [`AI_TRANSLATIONS.md`](AI_TRANSLATIONS.md).
