@@ -1,0 +1,385 @@
+{
+  "common": {
+    "game_mode": "Modalità di gioco",
+    "teams": "Squadre",
+    "team": "Squadra",
+    "add_team": "Aggiungi squadra",
+    "skipping": "Passare",
+    "skipping_tooltip": "Se attivo, puoi passare una carta premendo Passa o scorrendo a sinistra.",
+    "penalty": "Penalità",
+    "penalty_tooltip": "Quanti secondi vengono sottratti al timer del turno ogni volta che si passa una carta.",
+    "seconds": "Secondi",
+    "options": "Opzioni",
+    "rounds": "Manche",
+    "rounds_tooltip": "Quante manche ci sono nella partita.\n\nPuoi creare manche personalizzate, per esempio:\n• Disegnare le carte\n• Braccia da dietro il divano\n• Solo la testa da dietro il divano\n• Mimo sotto un lenzuolo\n• Danza interpretativa",
+    "time": "Tempo",
+    "time_tooltip": "Quanto dura il turno di ogni giocatore, in secondi.",
+    "loop_skipped_cards": "Riproporre le carte passate",
+    "loop_skipped_cards_tooltip": "Se attivo, le carte passate possono ricomparire più avanti nello stesso turno.",
+    "preview_score": "Mostra il punteggio",
+    "preview_score_tooltip": "Se attivo, il punteggio viene mostrato alla fine di ogni turno.\nSe disattivo, viene svelato solo alla fine della partita.",
+    "hide_descriptions": "Nascondi descrizioni",
+    "hide_descriptions_tooltip": "Se attivo, nasconde le descrizioni delle carte durante la partita.",
+    "deck": "Mazzo",
+    "size": "Dimensioni",
+    "packs": "Pacchetti",
+    "new_badge": "NUOVO",
+    "cards": "Carte",
+    "short_game": "Partita breve",
+    "regular_game": "Partita normale",
+    "long_game": "Partita lunga",
+    "settings": "Impostazioni",
+    "language": "Lingua",
+    "about": "Informazioni",
+    "credits": "Riconoscimenti",
+    "legal_stuff": "Note legali",
+    "privacy_policy": "Informativa sulla privacy",
+    "terms_and_conditions": "Termini e condizioni",
+    "licences": "Licenze",
+    "ad_privacy": "Privacy annunci",
+    "contact_us": "Contattaci",
+    "sound": "Audio",
+    "sound_tooltip": "Se attivo, il gioco riproduce effetti sonori.",
+    "show_rule_tooltips": "Mostra le regole",
+    "show_rule_tooltips_tooltip": "Se attivo, durante la partita compaiono brevi promemoria delle regole.",
+    "accessibility": "Accessibilità",
+    "app_size": "Dimensioni app",
+    "app_size_tooltip": "Ingrandisce testo e pulsanti in tutta l’app.",
+    "card_text_size": "Testo delle carte",
+    "card_text_size_tooltip": "Ingrandisce il titolo e la descrizione delle carte durante la partita.",
+    "high_contrast": "Contrasto elevato",
+    "high_contrast_tooltip": "Scurisce il testo tenue e usa sui colori dei pacchetti e delle squadre il colore del testo più leggibile.",
+    "legible_font": "Font leggibile",
+    "legible_font_tooltip": "Sostituisce il font dell’app con Atkinson Hyperlegible, pensato per distinguere facilmente lettere e numeri simili.",
+    "leave": "Esci",
+    "rules": "Regole",
+    "resume": "Riprendi",
+    "confirm": "Conferma",
+    "cancel": "Annulla",
+    "round": "Manche",
+    "start_turn": "Inizia turno",
+    "skip": "Passa",
+    "game_paused": "Partita in pausa",
+    "leave_game": "Esci dalla partita",
+    "leave_game_tooltip": "Vuoi davvero uscire dalla partita? I progressi andranno persi.",
+    "end_turn": "Termina turno",
+    "end_round": "Termina manche",
+    "end_game": "Termina partita",
+    "game_over": "Partita finita",
+    "its_a_tie": "Pareggio!",
+    "times_up": "Tempo scaduto!",
+    "no_more_cards": "Carte finite!",
+    "exit": "Esci",
+    "play": "Gioca",
+    "start_game": "Inizia partita",
+    "continue": "Continua",
+    "support_button": "Sostieni",
+    "rate_title": "Ti piace 63?",
+    "rate_subtitle": "Valuta il gioco e aiutaci a farlo conoscere",
+    "back": "Indietro",
+    "ok": "Ok",
+    "recover_game_title": "Riprendi partita",
+    "recover_game_description": "La tua ultima partita non è terminata. Vuoi riprenderla?",
+    "recover_game_resume": "Riprendi",
+    "recover_game_ignore": "Ignora",
+    "cards_left": "Carte rimaste: {count}",
+    "see_more": "Mostra altro",
+    "see_less": "Mostra meno"
+  },
+  "mode": {
+    "classic": {
+      "title": "Classica",
+      "description": "Le regole standard di 63. Tre manche, due squadre e un vincitore!"
+    },
+    "chill": {
+      "title": "Relax",
+      "description": "Niente punti, niente penalità e tutti giocano insieme!"
+    },
+    "competitive": {
+      "title": "Competitiva",
+      "description": "Per chi ama la competizione.\nPassare comporta una penalità."
+    },
+    "blitz": {
+      "title": "Lampo",
+      "description": "Meno carte, meno tempo e non puoi passare!"
+    },
+    "custom": {
+      "title": "Personalizzata",
+      "description": "Perché usare le nostre regole?\nCrea la tua modalità."
+    }
+  },
+  "rules": {
+    "skip": "Salta",
+    "start": "Inizia",
+    "next": "Avanti",
+    "lets_go": "Si parte!",
+    "know_more": "Scopri di più…",
+    "home": {
+      "call_to_action": "Benvenuti in"
+    },
+    "deck": {
+      "title": "63 è un gioco in cui si indovinano carte",
+      "text": "Le squadre si sfidano per ottenere il maggior numero di punti.",
+      "info": "Ogni partita crea un mazzo tutto nuovo con carte di vari pacchetti."
+    },
+    "example_card": {
+      "title": "Una carta di esempio",
+      "description": "È solo un esempio. Le vere carte sono persone, film e cose da indovinare. Di solito hanno anche una seconda frase con un fatto curioso o una battuta."
+    },
+    "example_card_2": {
+      "title": "Una macchia sullo schermo",
+      "description": "È sparita prima che riuscissi a leggerla, vero? Odio quando succede: avrei giurato che ci fosse qualcosa!"
+    },
+    "example_card_3": {
+      "title": "Un’altra carta di esempio",
+      "description": "Non avresti dovuto leggere questa. Ma ormai che l’hai fatto, fammi sapere che ne pensi."
+    },
+    "example_card_4": {
+      "title": "Hai visto?",
+      "description": "No? È passata un po’ troppo in fretta. Cos’era? Nessuno lo sa, ma forse era importante."
+    },
+    "example_card_5": {
+      "title": "Una carta esilarante",
+      "description": "La carta più divertente mai scritta, eppure nessuno la leggerà perché sfreccia via. Ironico, no?"
+    },
+    "cards": {
+      "title": "Ogni carta rappresenta un concetto",
+      "text": "Può essere qualsiasi cosa, da un personaggio storico a un riferimento alla cultura pop",
+      "points": "Punti",
+      "card_title": "Titolo",
+      "card_description": "Descrizione",
+      "info": "Una carta conta solo se viene detto il titolo completo, nell’ordine giusto.",
+      "more_info": "Ogni carta ha una breve descrizione per aiutarti se non conosci il concetto. Usala come punto di partenza per gli indizi, ma non limitarti a leggerla.\n\nLa partita è tua: applica le regole con la severità che preferisci."
+    },
+    "default_card": {
+      "title": "Mamma, ho perso l’aereo",
+      "description": "Commedia del 1990 con Macaulay Culkin, in cui un bambino dimenticato a casa dalla famiglia deve difendersi da due ladri."
+    },
+    "teams": {
+      "title": "Due squadre si alternano a indovinare",
+      "text": "Un giocatore dà indizi mentre la sua squadra cerca di indovinare il titolo della carta",
+      "info": "Tutti devono dare indizi una volta prima che qualcuno possa farlo di nuovo."
+    },
+    "turn": {
+      "title": "Ogni turno dura 63 secondi",
+      "text": "Durante un **turno**, la squadra in gioco indovina più carte possibile",
+      "info": "Chi dà gli indizi tiene il telefono."
+    },
+    "rounds": {
+      "title": "La partita ha 3 manche",
+      "text": "Ogni **manche** è composta da diversi **turni** e termina quando tutte le carte del mazzo sono state indovinate",
+      "current_round": "Manche\nattuale",
+      "info": "Le tre manche si giocano con lo stesso mazzo.",
+      "more_info": "All’inizio di ogni manche, il mazzo viene mescolato e giocato di nuovo.\n\nFai attenzione durante i turni avversari: le carte che indovinano torneranno nelle manche successive."
+    },
+    "round1": {
+      "title": "Manche 1",
+      "subtitle": "Parole vietate",
+      "text": "Descrivi la carta come vuoi, ma non puoi dire nessuna parola del titolo",
+      "clue1": "Film di Natale in cui un bambino rimane da solo in casa",
+      "clue2": "Con Macaulay Culkin!",
+      "info": "Vietate: «mamma», «ho», «perso» e «aereo».",
+      "more_info": "Le preposizioni non contano come parole vietate.\n\nSe viene detta una parola vietata e la carta viene indovinata, l’altra squadra può contestarla e farla segnare come errata alla fine del turno.",
+      "note": "Parole vietate",
+      "note_description": "Niente parole del titolo della carta"
+    },
+    "round2": {
+      "title": "Manche 2",
+      "subtitle": "Una parola sola",
+      "text": "Puoi dare come indizio una sola parola, senza suoni né gesti",
+      "clue": "Kevin!",
+      "info": "Ricorda: tutte le carte sono già state svelate nella manche 1.",
+      "more_info": "Per arrivare alla manche 2, tutte le carte devono essere state indovinate nella manche 1.\n\nLe carte non cambiano, ma dare indizi diventa più difficile a ogni manche!",
+      "note": "Una parola",
+      "note_description": "Puoi dare indizi di una sola parola."
+    },
+    "round3": {
+      "title": "Manche 3",
+      "subtitle": "Mimo",
+      "text": "Niente parole: solo gesti e suoni!",
+      "clue": "😱",
+      "note": "Mimo",
+      "note_description": "Le parole sono vietate: usa solo gesti e suoni!"
+    },
+    "controls": {
+      "guess_text": "Se la tua squadra indovina la carta, premi il pulsante **CHECK_ICON**",
+      "skip_text": "Non sai cosa dire o vuoi un’altra carta? Premi **Passa**",
+      "info": "Puoi anche scorrere per segnare carte indovinate o passate.",
+      "more_info": "Scorri a destra per segnarla come indovinata e a sinistra per passarla. Le carte passate restano nel mazzo e tornano nella stessa manche, quindi avrai un’altra occasione.\n\nIn modalità Classica passare è gratis: non guardare il tempo che scorre!"
+    },
+    "post_turn": {
+      "summary_text": "Dopo il tuo **turno** vedrai un riepilogo delle carte indovinate e passate",
+      "controls_text": "Qui puoi cambiare il risultato di una carta in caso di errore o regola infranta durante la partita",
+      "note": "Riepilogo del turno",
+      "note_description": "Qui puoi cambiare il risultato delle carte in caso di errore o se è stata infranta una regola durante la partita."
+    },
+    "end_turn": {
+      "end_turn_text": "Premi **Termina turno**, poi passa il telefono alla squadra successiva.",
+      "round_text": "La **manche attuale**, con le sue regole, continua finché non vengono indovinate tutte le carte del mazzo.",
+      "info": "Termina il turno prima di passare il telefono!",
+      "more_info": "Altrimenti il giocatore successivo potrebbe vedere carte passate in questa manche e ancora in gioco."
+    },
+    "end_game": {
+      "title": "La partita finisce dopo la manche 3",
+      "subtitle": "Vince la squadra con più punti, ma questo lo sapevi già!"
+    }
+  },
+  "support": {
+    "title": "Rimuovi gli annunci e sostieni 63!",
+    "description": "63 è un progetto indipendente e il tuo contributo aiuta a mantenerlo e svilupparlo.",
+    "select_option": "Scegli un’opzione",
+    "standard": {
+      "title": "Standard",
+      "description": "Rimuove per sempre tutti gli annunci dal gioco."
+    },
+    "fan": {
+      "title": "Fan di 63",
+      "description": "Rimuove per sempre tutti gli annunci e dimostra quanto apprezzi il progetto."
+    },
+    "contribute": "Contribuisci",
+    "thank_you": {
+      "card_title": "Grazie",
+      "card_description": "63 è un progetto indipendente nato interamente nel mio tempo libero. Ho dedicato molta cura e attenzione a renderlo la migliore esperienza possibile. Grazie di cuore: spero che giocare a 63 ti piaccia quanto a me è piaciuto crearlo!",
+      "author": "Paulo Correia"
+    },
+    "no_internet": {
+      "title": "Nessuna connessione",
+      "description": "Controlla la tua connessione a Internet"
+    },
+    "error": {
+      "title": "Qualcosa è andato storto",
+      "description": "Non siamo riusciti a caricare le opzioni di sostegno. Riprova",
+      "retry": "Riprova"
+    },
+    "restore_purchases": "Ripristina acquisti",
+    "restore_purchases_error": "Errore nel ripristino acquisti"
+  },
+  "credits": {
+    "created_by": "Creato da",
+    "sound": "Audio",
+    "cards": "Carte",
+    "localisation": "Traduzione",
+    "design_help": "Aiuto al design",
+    "special_thanks": "Un grazie speciale",
+    "everyone_who_believed": "e a chiunque abbia\ncreduto in me",
+    "font": "Font",
+    "by": "di",
+    "developed_with": "Sviluppato con",
+    "made_in": "Realizzato in",
+    "portugal": "Portogallo 🇵🇹",
+    "and_thank_you": "…e grazie a te,",
+    "for_playing": "per aver giocato"
+  },
+  "deck": {
+    "use_only_unplayed": "Solo carte mai giocate",
+    "use_only_unplayed_tooltip": "Vengono usate solo carte mai apparse in partite precedenti. Se non bastano, la partita inizia con meno carte.",
+    "kids_mode": "Modalità KIDS",
+    "kids_mode_label": "Modalità {kids}",
+    "kids_mode_tooltip": "Nasconde carte e pacchetti della community non adatti ai bambini. I pacchetti privati appaiono sempre.",
+    "distribution": "Distribuzione delle carte",
+    "not_enough_cards": "Carte disponibili per il mazzo: solo {count}",
+    "no_cards_available": "Nessuna carta per creare un mazzo",
+    "all_cards_played": "Tutte giocate",
+    "only_n_available": "Disponibili: {count}",
+    "unassigned": "Non assegnate: {count}",
+    "reset": "Reimposta"
+  },
+  "packs": {
+    "add_packs": "Aggiungi pacchetti",
+    "create_packs_title": "Crea i tuoi pacchetti",
+    "create_packs_description": "Scrivi carte, collabora con gli amici e condividi i tuoi pacchetti con il mondo!",
+    "featured_title": "In evidenza",
+    "community_title": "Community",
+    "community_empty": "Ancora nessun pacchetto: invia il primo!",
+    "filter_popular": "Popolari",
+    "filter_new": "Nuovi",
+    "filter_language": "Lingua",
+    "language_picker_title": "Lingua",
+    "language_any": "Qualsiasi lingua",
+    "by_author": "di {name}",
+    "by_author_plus": "di {name} +{count}",
+    "code_input_placeholder": "Hai un codice pacchetto?",
+    "details_title": "Dettagli",
+    "pack_not_found": "Questo pacchetto non è più disponibile.",
+    "featured_pill": "In evidenza",
+    "official_pill": "Ufficiale",
+    "info_language": "Lingua",
+    "info_cards": "Carte",
+    "info_likes": "Mi piace",
+    "about_section": "Sul pacchetto",
+    "contributors_section": "Collaboratori",
+    "sample_cards_title": "Carte di esempio",
+    "all_cards_title": "Tutte le carte",
+    "sample_cards_count": "{shown} su {total}",
+    "spoiler_warning_title": "Attenzione: potrebbero esserci spoiler",
+    "spoiler_warning_body": "Puoi sbirciare qualche carta prima di aggiungere il pacchetto, ma perderai la sorpresa durante la partita.",
+    "spoiler_reveal": "Mostra comunque",
+    "see_all_cards": "Tutte le carte: {count}",
+    "reveal_all_title": "Svelare tutte le carte?",
+    "reveal_all_body": "Vedrai tutte le carte del pacchetto: {count}. È utile per scegliere, ma rovina la sorpresa se vuoi giocare.",
+    "reveal_all_confirm": "Svela",
+    "announcement_title": "Crea i tuoi pacchetti!",
+    "announcement_body": "Ora puoi creare pacchetti con le tue carte, collaborare con gli amici e condividerli con il mondo!\n\nVai su {link} per iniziare.",
+    "code_hint": "ABC123",
+    "add_pack_button": "Aggiungi",
+    "already_added": "Già nella raccolta",
+    "pack_added_hidden_kids": "Hai aggiunto {name}, ma in modalità KIDS non è visibile.",
+    "watch_ad_title": "Pausa pubblicitaria",
+    "watch_ad_body": "Gli account gratuiti devono vedere un breve annuncio prima di aggiungere un pacchetto. Così 63 resta attivo e gratis per tutti.",
+    "watch_ad_button": "Guarda annuncio",
+    "watch_ad_remove_cta": "Rimuovi annunci",
+    "pack_added": "Hai aggiunto {name}!",
+    "error_empty_code": "Inserisci un codice",
+    "error_not_found": "Pacchetto non trovato. Controlla il codice e riprova.",
+    "error_network": "Errore di rete. Controlla la connessione.",
+    "load_error": "Impossibile caricare la community.",
+    "load_retry": "Riprova",
+    "load_more": "Carica altro",
+    "updated": "Aggiornato",
+    "played_count": "Giocate: {played}/{total}",
+    "delete_pack_button": "Elimina",
+    "delete_pack_description": "Puoi sempre aggiungerlo di nuovo.",
+    "pack_deleted": "Hai eliminato {name}",
+    "report_pack_title": "Segnala questo pacchetto",
+    "report_pack_description": "Spiegaci cosa non va e controlleremo.",
+    "report_reason_inappropriate": "Contenuti inappropriati",
+    "report_reason_spam": "Spam",
+    "report_reason_copyright": "Violazione del copyright",
+    "report_reason_other": "Altro",
+    "report_note_hint": "Aggiungi nota (facoltativa)",
+    "report_submit": "Invia",
+    "report_submitted": "Pacchetto segnalato",
+    "report_already_submitted": "Hai già segnalato questo pacchetto",
+    "report_failed": "Impossibile inviare la segnalazione. Riprova."
+  },
+  "post_game": {
+    "liked_packs_title": "Ti sono piaciuti?",
+    "leave_a_like": "Lascia un Mi piace per aiutare altri a trovarli",
+    "stats_title": "Statistiche",
+    "game_time": "Durata",
+    "turns": "Turni giocati",
+    "cards_title": "Carte",
+    "col_guesses": "Indovinate",
+    "col_skips": "Passate",
+    "points_per_round_title": "Punti per manche",
+    "round_short": "M{round}",
+    "total": "Totale",
+    "best_turn": "Turno migliore",
+    "worst_turn": "Turno peggiore",
+    "cards_unit": "carte",
+    "skips_unit": "passaggi",
+    "points_unit": "punti",
+    "in_round": "nella M{round}",
+    "toughest_card": "Carta più difficile",
+    "easiest_card": "Carta più facile",
+    "skipped_n_times": "Passata {count}×",
+    "easiest_subtitle": "Passata {skips}× · media {avg}s"
+  },
+  "translations": {
+    "ai_notice": "Questa traduzione è stata realizzata con l’IA. Hai trovato un errore o vuoi aiutarci a migliorarla?",
+    "contact_us": "Contattaci",
+    "missing_language": "Non trovi la tua lingua?",
+    "help_translate": "Aiuta a tradurre 63",
+    "help_description": "Hai trovato un errore in una traduzione o vuoi giocare a 63 nella tua lingua? Contattaci se vuoi dare una mano."
+  }
+}

@@ -504,3 +504,77 @@ translations of English cards.
 | Mr. Worldwide |
 | Super Bowl Halftime Show |
 | The 1% |
+
+## `it-IT`
+
+**49 of the 230 English cards have no Italian counterpart.** The remaining 181 are direct
+translations of English cards.
+
+### English-specific expression or no single Italian title
+
+| Card |
+| --- |
+| 9 to 5 |
+| A Bucket List |
+| A Butt Dial |
+| A Dad Joke |
+| A Man Bun |
+| A Mullet |
+| A Pool Noodle |
+| A Spork |
+| A Staring Contest |
+| A Tin Foil Hat |
+| A Tumbleweed |
+| Brain Freeze |
+| Buzz Cut |
+| Double Dipping |
+| Leg Day |
+| Mary Jane |
+| One-Trick Pony |
+| Peer Pressure |
+| Schadenfreude |
+| The Conga Line |
+
+### Official or edition wording is not stable
+
+| Card |
+| --- |
+| Go Directly to Jail |
+| Hungry Hungry Hippos |
+
+### Reference would not play well in Italy
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| 6-7 |
+| A Participation Trophy |
+| Big Bird |
+| Jimmy Fallon's Laugh |
+| Mr. Worldwide |
+| Super Bowl Halftime Show |
+| The Friends from Friends |
+
+### Several natural Italian wordings
+
+| Card |
+| --- |
+| A Doomsday Bunker |
+| A Hot Dog Eating Contest |
+| A Meeting That Could Have Been an Email |
+| A Pinky Promise |
+| A Silent Fart |
+| A Tupperware Lid That Doesn't Match |
+| An Evil Twin |
+| An Office Chair Race |
+| Belly Button Lint |
+| Dubai Chocolate |
+| Live, Laugh, Love |
+| Rock, Paper, Scissors |
+| Shirtless Old Man |
+| Socks and Sandals |
+| The Ghost of Christmas Past |
+| The Middle Seat |
+| The Trolley Problem |
+| The Uno Reverse Card |
+| Toe Socks |

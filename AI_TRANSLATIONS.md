@@ -224,3 +224,66 @@ hyphenation, official German titles for films, television programmes, toys and g
 the mix of established English loanwords with German equivalents in the General deck. The
 pack import flow, collaboration permissions, community submission states, email subject
 lengths and accessibility tooltips should be checked in context.
+
+## Italian (`it-IT`)
+
+The `it-IT` locale files in this repository are an **AI-generated draft**. They have not
+yet been reviewed by a native Italian translator and should not be treated as final copy
+until that review is complete.
+
+### Scope and method
+
+- The Italian files are translated directly from the current `en-GB` sources, using
+  informal singular address (*tu*). Portuguese is used as the main human-reviewed
+  reference for tone and repository conventions, never as the translation source.
+- `63/it-IT.json`, `packs.63.pt/it-IT.json` and `emails/it-IT.json` preserve the English
+  key order, placeholders, markup and line breaks. Italian singular and plural forms are
+  kept in the pack editor wherever the English source defines a plural family.
+- `general_packs/it-IT.json` contains 181 translations of English General cards, with no
+  replacement cards or Italy-specific additions. The 49 cards without one confident,
+  playable Italian title are dropped and recorded in
+  [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
+- General descriptions retain a useful definition and a separate fact or joke wherever
+  both survive naturally in Italian. The source exceptions for *Nothing* and *Déjà Vu*
+  remain intentional.
+
+### Italian terminology
+
+The draft uses these equivalents consistently:
+
+| English | Italian |
+| --- | --- |
+| card | carta |
+| title | titolo |
+| description | descrizione |
+| pack | pacchetto |
+| deck | mazzo |
+| round | manche |
+| turn | turno |
+| team | squadra |
+| points | punti |
+| score | punteggio |
+| clue | indizio |
+| guess | indovinare |
+| skip a card | passare |
+| skip a screen | saltare |
+| penalty | penalità |
+| game mode | modalità di gioco |
+| community pack | pacchetto della community |
+
+### Point changes
+
+- *The Sicilian Mafia* changes from 3 points to 2 as *La mafia siciliana*, because Italian
+  players have especially direct clues such as *Cosa Nostra*, *Palermo* and *pizzo*.
+
+### App label and review notes
+
+Register `it-IT` in the app as **Italiano** with **🇮🇹**.
+
+Native review should pay particular attention to compact mobile and website labels,
+official Italian titles for films, television programmes, toys and games, and the
+playability of English loanwords in the General deck. The pack import flow, collaboration
+permissions, community submission states, email subject lengths, accessibility tooltips
+and KIDS-mode text should also be checked in context. The official Italian title *Mamma,
+ho perso l’aereo* exceeds the usual mobile title-length budget and needs an in-context
+layout check.

@@ -13,9 +13,9 @@ cards have no counterpart in a given language.
 
 Right now, the English deck has 230 cards. The translated decks have 185 Portuguese cards,
 176 Turkish cards, 201 Spanish (Spain) cards, 197 Latin American Spanish cards, 192 French
-cards and 185 German cards. Every retained card is a translation of an English card: 45
-were dropped from Portuguese, 54 from Turkish, 29 from Spanish (Spain), 33 from Latin
-American Spanish, 38 from French and 45 from German.
+cards, 185 German cards and 181 Italian cards. Every retained card is a translation of an
+English card: 45 were dropped from Portuguese, 54 from Turkish, 29 from Spanish (Spain),
+33 from Latin American Spanish, 38 from French, 45 from German and 49 from Italian.
 
 Cards get dropped when:
 

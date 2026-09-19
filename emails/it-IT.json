@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "«{{packName}}» è nella community",
+    "preheader": "Il tuo pacchetto «{{packName}}» è stato approvato.",
+    "heading": "Approvato!",
+    "intro": "<strong>{{packName}}</strong> è stato approvato ed è ora disponibile per tutti su 63.",
+    "cta": "Mostra nella community",
+    "reviewerNote": "Nota del revisore:",
+    "caption": "I giocatori possono trovarlo nella sezione dei pacchetti della community nell’app.",
+    "text": "Approvato!\n\n«{{packName}}» è stato approvato ed è ora disponibile per tutti su 63.\n\nMostra: {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "«{{packName}}» è ora in evidenza",
+    "preheader": "Abbiamo scelto «{{packName}}» come pacchetto in evidenza nella community.",
+    "heading": "Ora in evidenza!",
+    "intro": "Abbiamo scelto <strong>{{packName}}</strong> come pacchetto in evidenza nella community.",
+    "cta": "Mostra pacchetto",
+    "caption": "I pacchetti in evidenza appaiono in cima alla sezione della community.",
+    "text": "Abbiamo scelto «{{packName}}» come pacchetto in evidenza nella community.\n\nMostra: {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "Aggiornamento di «{{packName}}» non approvato",
+      "new": "Novità su «{{packName}}»"
+    },
+    "preheader": {
+      "update": "L’aggiornamento di «{{packName}}» non è stato approvato: la versione precedente è ancora online.",
+      "new": "Il tuo pacchetto «{{packName}}» non è stato approvato questa volta."
+    },
+    "heading": "Novità sul tuo invio",
+    "intro": {
+      "update": "Abbiamo esaminato l’aggiornamento di <strong>{{packName}}</strong>, ma non è stato approvato. Ecco la nota del revisore:",
+      "new": "Abbiamo esaminato <strong>{{packName}}</strong>, ma questa volta non è stato approvato. Ecco la nota del revisore:"
+    },
+    "stillLive": "Buone notizie: la versione approvata in precedenza è ancora disponibile nella community e non è stato rimosso nulla.",
+    "cta": "Modifica e invia di nuovo",
+    "text": {
+      "opener": {
+        "update": "Abbiamo esaminato l’aggiornamento di «{{packName}}», ma non è stato approvato. La versione approvata in precedenza è ancora disponibile nella community e non è stato rimosso nulla.",
+        "new": "Abbiamo esaminato «{{packName}}», ma questa volta non è stato approvato."
+      },
+      "reviewerNote": "Nota del revisore:",
+      "invite": "Puoi modificare il pacchetto e inviarlo di nuovo quando vuoi."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "«{{packName}}» rimosso dalla community",
+    "preheader": "Un moderatore ha rimosso il tuo pacchetto «{{packName}}».",
+    "heading": "Pacchetto rimosso",
+    "intro": {
+      "withoutReason": "Abbiamo rimosso <strong>{{packName}}</strong> dalla community.",
+      "withReason": "Abbiamo rimosso <strong>{{packName}}</strong> dalla community. Ecco il motivo:"
+    },
+    "cta": "Apri pacchetto",
+    "caption": "Puoi modificare il pacchetto e inviarlo di nuovo quando vuoi.",
+    "text": {
+      "withoutReason": "Abbiamo rimosso «{{packName}}» dalla community.\n\nPuoi modificare il pacchetto e inviarlo di nuovo quando vuoi.\n{{url}}\n",
+      "withReason": "Abbiamo rimosso «{{packName}}» dalla community.\n\nMotivo:\n{{reason}}\n\nPuoi modificare il pacchetto e inviarlo di nuovo quando vuoi.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "«{{packName}}» inviato per la revisione",
+    "preheader": "Abbiamo ricevuto il tuo pacchetto per la community.",
+    "heading": "Invio ricevuto",
+    "intro": "Abbiamo ricevuto <strong>{{packName}}</strong>: lo esamineremo prima di pubblicarlo nella community.",
+    "cta": "Mostra pacchetto",
+    "caption": "Ti invieremo un’email non appena ci saranno novità.",
+    "text": "Abbiamo ricevuto «{{packName}}»: lo esamineremo prima di pubblicarlo nella community. Ti invieremo un’email quando ci saranno novità.\n\nMostra pacchetto: {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "Reimposta la password di packs.63.pt",
+    "preheader": "Tocca il pulsante per scegliere una nuova password.",
+    "heading": "Reimposta la password",
+    "intro": "Abbiamo ricevuto una richiesta per reimpostare la password del tuo account packs.63.pt. Tocca il pulsante qui sotto per sceglierne una nuova.",
+    "cta": "Reimposta password",
+    "caption": "Se non hai fatto tu la richiesta, puoi ignorare questa email: la password non cambierà.",
+    "text": "Reimposta la password\n\nAbbiamo ricevuto una richiesta per reimpostare la password del tuo account packs.63.pt. Apri il link per sceglierne una nuova:\n\n{{url}}\n\nSe non hai fatto tu la richiesta, puoi ignorare questa email: la password non cambierà.\n"
+  }
+}
