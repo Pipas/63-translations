@@ -163,3 +163,64 @@ accessibility tooltips, the KIDS-mode text, the pack import flow and the communi
 submission states should also be checked in context. The official French title *Maman,
 j'ai raté l'avion !* exceeds the usual title-length budget and needs an in-context layout
 check.
+
+## German (`de-DE`)
+
+The `de-DE` locale files in this repository are an **AI-generated draft**. They have not
+yet been reviewed by a native German translator and should not be treated as final copy
+until that review is complete.
+
+### Scope and method
+
+- `63/de-DE.json`, `packs.63.pt/de-DE.json` and `emails/de-DE.json` were translated
+  directly from the current `en-GB` sources, using informal singular address (*du*).
+- `general_packs/de-DE.json` contains 185 translations of English General cards. It has no
+  replacement cards or Germany-specific additions; 45 cards without one confident,
+  playable German title were dropped and recorded in
+  [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
+- General descriptions retain the English fact or joke wherever it survives naturally.
+  The kickers were omitted only for *Onkel Ben* (the outdated rice-brand joke),
+  *Doppelgänger* and *Schadenfreude* (English explanations of German words). *Nichts*
+  intentionally keeps the source card's empty description, and *Déjà-vu* intentionally
+  repeats its sentence.
+- A source-based spot check confirmed key German release and character names, including
+  *Kevin – Allein zu Haus*, *Der gestiefelte Kater* and *Und täglich grüßt das Murmeltier*.
+- IDs, points and KIDS flags are unchanged on every retained General card.
+
+### German terminology
+
+The draft consistently uses these equivalents:
+
+| English | German |
+| --- | --- |
+| card | Karte |
+| title | Titel |
+| description | Beschreibung |
+| pack | Pack |
+| deck | Stapel |
+| round | Runde |
+| turn | Zug |
+| team | Team |
+| points | Punkte |
+| score | Punktestand |
+| clue | Hinweis |
+| guess | erraten |
+| skip a card | auslassen |
+| skip a screen | überspringen |
+| penalty | Strafe |
+| game mode | Spielmodus |
+| community pack | Community-Pack |
+
+### Point changes
+
+No point values were changed in the German draft.
+
+### App label and review notes
+
+Register `de-DE` in the app as **Deutsch** with **🇩🇪**.
+
+Native review should pay particular attention to compact mobile labels, compounds and
+hyphenation, official German titles for films, television programmes, toys and games, and
+the mix of established English loanwords with German equivalents in the General deck. The
+pack import flow, collaboration permissions, community submission states, email subject
+lengths and accessibility tooltips should be checked in context.

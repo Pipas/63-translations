@@ -434,3 +434,73 @@ translations of English cards.
 | Jimmy Fallon's Laugh |
 | Mr. Worldwide |
 | Super Bowl Halftime Show |
+
+## `de-DE`
+
+**45 of the 230 English cards have no German counterpart.** The remaining 185 are direct
+translations of English cards.
+
+### English-specific idiom, wordplay or slang
+
+| Card |
+| --- |
+| 9 to 5 |
+| A Butt Dial |
+| A Dad Joke |
+| Brain Freeze |
+| Double Dipping |
+| Mary Jane |
+| One-Trick Pony |
+
+### No single, recognisable German title
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| A Bucket List |
+| A Guilty Pleasure |
+| A Hot Dog Eating Contest |
+| A Pinky Promise |
+| A Pool Noodle |
+| A Spork |
+| A Staring Contest |
+| A Tupperware Lid That Doesn't Match |
+| A Tumbleweed |
+| A Unibrow |
+| Calling the Teacher "Mum" |
+| Doctor's Handwriting |
+| First World Problems |
+| Leg Day |
+| Netflix and Chill |
+| Pushing a Pull Door |
+| Rock, Paper, Scissors |
+| The Conga Line |
+| The Friendzone |
+| The Friends from Friends |
+| The Poo Emoji |
+| Toe Socks |
+
+### Official title or edition wording is not stable
+
+| Card |
+| --- |
+| Aurora Borealis |
+| Colonel Mustard |
+| Go Directly to Jail |
+| Hungry Hungry Hippos |
+| Jabba the Hutt |
+| The 5 Second Rule |
+| The Ghost of Christmas Past |
+| The Heimlich Maneuver |
+| The Uno Reverse Card |
+
+### Reference would not play well in Germany
+
+| Card |
+| --- |
+| 6-7 |
+| A Participation Trophy |
+| Jimmy Fallon's Laugh |
+| Mr. Worldwide |
+| Super Bowl Halftime Show |
+| The 1% |

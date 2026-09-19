@@ -1,0 +1,385 @@
+{
+  "common": {
+    "game_mode": "Spielmodus",
+    "teams": "Teams",
+    "team": "Team",
+    "add_team": "Team hinzufügen",
+    "skipping": "Auslassen",
+    "skipping_tooltip": "Erlaubt das Auslassen per Taste oder Wisch nach links.",
+    "penalty": "Strafe",
+    "penalty_tooltip": "So viele Sekunden werden bei jeder ausgelassenen Karte von der Zugzeit abgezogen.",
+    "seconds": "Sekunden",
+    "options": "Optionen",
+    "rounds": "Runden",
+    "rounds_tooltip": "So viele Runden hat das Spiel.\n\nDu kannst eigene Runden erstellen, zum Beispiel:\n• Karten zeichnen\n• Arme hinter dem Sofa\n• Nur der Kopf hinter dem Sofa\n• Pantomime unter einem Bettlaken\n• Ausdruckstanz",
+    "time": "Zeit",
+    "time_tooltip": "So lange dauert der Zug jedes Spielers, in Sekunden.",
+    "loop_skipped_cards": "Ausgelassene erneut ziehen",
+    "loop_skipped_cards_tooltip": "Zieht ausgelassene Karten im selben Zug erneut.",
+    "preview_score": "Punktestand-Vorschau",
+    "preview_score_tooltip": "Zeigt den aktuellen Punktestand nach jedem Zug.\nIst die Option aus, wird er erst am Spielende aufgedeckt.",
+    "hide_descriptions": "Beschreibungen ausblenden",
+    "hide_descriptions_tooltip": "Blendet Kartenbeschreibungen im Spiel aus.",
+    "deck": "Stapel",
+    "size": "Größe",
+    "packs": "Packs",
+    "new_badge": "NEU",
+    "cards": "Karten",
+    "short_game": "Kurzes Spiel",
+    "regular_game": "Normales Spiel",
+    "long_game": "Langes Spiel",
+    "settings": "Einstellungen",
+    "language": "Sprache",
+    "about": "Über 63",
+    "credits": "Mitwirkende",
+    "legal_stuff": "Rechtliches",
+    "privacy_policy": "Datenschutz",
+    "terms_and_conditions": "Nutzungsbedingungen",
+    "licences": "Lizenzen",
+    "ad_privacy": "Werbedatenschutz",
+    "contact_us": "Kontakt",
+    "sound": "Ton",
+    "sound_tooltip": "Spielt Soundeffekte ab.",
+    "show_rule_tooltips": "Regeln anzeigen",
+    "show_rule_tooltips_tooltip": "Blendet beim Spielen kurze Regelhinweise ein.",
+    "accessibility": "Barrierefreiheit",
+    "app_size": "App-Größe",
+    "app_size_tooltip": "Vergrößert Text und Schaltflächen in der gesamten App.",
+    "card_text_size": "Kartentextgröße",
+    "card_text_size_tooltip": "Vergrößert Titel und Beschreibung auf den Karten während eines Spiels.",
+    "high_contrast": "Hoher Kontrast",
+    "high_contrast_tooltip": "Macht blassen Text dunkler und verwendet auf Pack- und Teamfarben stets die am besten lesbare Textfarbe.",
+    "legible_font": "Gut lesbare Schrift",
+    "legible_font_tooltip": "Ersetzt die App-Schrift durch Atkinson Hyperlegible, damit ähnlich aussehende Buchstaben und Zahlen leicht unterscheidbar bleiben.",
+    "leave": "Verlassen",
+    "rules": "Regeln",
+    "resume": "Fortsetzen",
+    "confirm": "Bestätigen",
+    "cancel": "Abbrechen",
+    "round": "Runde",
+    "start_turn": "Zug starten",
+    "skip": "Auslassen",
+    "game_paused": "Spiel pausiert",
+    "leave_game": "Spiel verlassen",
+    "leave_game_tooltip": "Möchtest du das Spiel wirklich verlassen? Der Spielfortschritt geht verloren.",
+    "end_turn": "Zug beenden",
+    "end_round": "Runde beenden",
+    "end_game": "Spiel beenden",
+    "game_over": "Spiel vorbei",
+    "its_a_tie": "Unentschieden!",
+    "times_up": "Zeit ist um!",
+    "no_more_cards": "Keine Karten mehr!",
+    "exit": "Beenden",
+    "play": "Spielen",
+    "start_game": "Spiel starten",
+    "continue": "Weiter",
+    "support_button": "Unterstützen",
+    "rate_title": "Gefällt dir 63?",
+    "rate_subtitle": "Mit deiner Bewertung erreichen wir mehr Spieler",
+    "back": "Zurück",
+    "ok": "OK",
+    "recover_game_title": "Spiel fortsetzen",
+    "recover_game_description": "Dein letztes Spiel wurde nicht beendet. Möchtest du es fortsetzen?",
+    "recover_game_resume": "Fortsetzen",
+    "recover_game_ignore": "Verwerfen",
+    "cards_left": "Noch {count} Karten",
+    "see_more": "Mehr anzeigen",
+    "see_less": "Weniger anzeigen"
+  },
+  "mode": {
+    "classic": {
+      "title": "Klassisch",
+      "description": "Die Standardregeln von 63. Drei Runden, zwei Teams und ein Sieger!"
+    },
+    "chill": {
+      "title": "Entspannt",
+      "description": "Keine Punkte, keine Strafen und alle spielen zusammen!"
+    },
+    "competitive": {
+      "title": "Wettkampf",
+      "description": "Für alle, die Wettbewerb lieben.\nAuslassen wird bestraft."
+    },
+    "blitz": {
+      "title": "Blitz",
+      "description": "Weniger Karten, weniger Zeit und kein Auslassen!"
+    },
+    "custom": {
+      "title": "Eigener",
+      "description": "Mach deine eigenen Regeln.\nErstelle deinen Modus."
+    }
+  },
+  "rules": {
+    "skip": "Überspringen",
+    "start": "Start",
+    "next": "Weiter",
+    "lets_go": "Los geht’s!",
+    "know_more": "Mehr erfahren …",
+    "home": {
+      "call_to_action": "Willkommen bei"
+    },
+    "deck": {
+      "title": "Bei 63 geht es darum, Karten zu erraten",
+      "text": "Die Teams kämpfen um die meisten Punkte.",
+      "info": "Jedes Spiel erzeugt einen völlig neuen Stapel mit Karten aus verschiedenen Packs."
+    },
+    "example_card": {
+      "title": "Eine Beispielkarte",
+      "description": "Nur ein Beispiel. Echte Karten zeigen Personen, Filme und Dinge, die erraten werden sollen. Meist haben sie eine zweite Zeile mit einem spannenden Fakt oder einem kleinen Witz."
+    },
+    "example_card_2": {
+      "title": "Ein Wisch auf dem Bildschirm",
+      "description": "Schon weg, bevor du es lesen konntest, oder? Schrecklich! Ich hätte schwören können, da stand etwas."
+    },
+    "example_card_3": {
+      "title": "Noch eine Beispielkarte",
+      "description": "Das solltest du gar nicht lesen. Aber jetzt, wo du es getan hast: Wie fandest du es?"
+    },
+    "example_card_4": {
+      "title": "Hast du das gesehen?",
+      "description": "Nein? Es war ein bisschen zu schnell. Was war es? Niemand weiß es, aber vielleicht war es wichtig."
+    },
+    "example_card_5": {
+      "title": "Eine lustige Karte",
+      "description": "Die lustigste Karte aller Zeiten, doch niemand liest sie, weil sie so schnell vorbeifliegt. Ironisch, oder?"
+    },
+    "cards": {
+      "title": "Jede Karte steht für einen Begriff",
+      "text": "Von historischen Personen bis zu Referenzen aus der Popkultur",
+      "points": "Punkte",
+      "card_title": "Titel",
+      "card_description": "Beschreibung",
+      "info": "Eine Karte zählt nur bei vollständigem Titel in richtiger Reihenfolge.",
+      "more_info": "Jede Karte hat eine kurze Beschreibung, falls du den Begriff nicht kennst. Nutze sie als Ausgangspunkt für deine Hinweise, aber lies sie nicht einfach vor.\n\nEs ist euer Spiel – legt die Regeln so streng oder locker aus, wie ihr möchtet."
+    },
+    "default_card": {
+      "title": "Kevin – Allein zu Haus",
+      "description": "Eine Komödie von 1990 mit Macaulay Culkin über ein vergessenes Kind, das Einbrecher vom Wohnsitz seiner Familie fernhält."
+    },
+    "teams": {
+      "title": "Zwei Teams erraten abwechselnd Karten",
+      "text": "Eine Person gibt Hinweise, während ihr Team versucht, den Titel der Karte zu erraten",
+      "info": "Alle geben einmal Hinweise, bevor jemand erneut dran ist."
+    },
+    "turn": {
+      "title": "Jeder Zug dauert 63 Sekunden",
+      "text": "Während eines **Zugs** errät das aktive Team so viele Karten wie möglich",
+      "info": "Die Person, die Hinweise gibt, hält das Handy."
+    },
+    "rounds": {
+      "title": "Das Spiel hat 3 Runden",
+      "text": "Jede **Runde** besteht aus mehreren **Zügen** und endet, sobald alle Karten im Stapel erraten wurden",
+      "current_round": "Aktuelle\nRunde",
+      "info": "Alle drei Runden werden mit demselben Stapel gespielt.",
+      "more_info": "Zu Beginn jeder Runde wird der Stapel gemischt und erneut gespielt.\n\nPass bei den Zügen der anderen Teams gut auf, denn deren erratene Karten kommen in späteren Runden zurück."
+    },
+    "round1": {
+      "title": "Runde 1",
+      "subtitle": "Verbotene Wörter",
+      "text": "Beschreibe die Karte, wie du möchtest, aber verwende kein Wort aus ihrem Titel",
+      "clue1": "Weihnachtsfilm über vergessenen Jungen und Einbrecher",
+      "clue2": "Mit Macaulay Culkin!",
+      "info": "Tabu sind „Kevin“, „allein“ und „Haus“.",
+      "more_info": "Präpositionen zählen nicht als verbotene Wörter.\n\nFällt ein verbotenes Wort und wird die Karte erraten, kann das andere Team Einspruch erheben. Die Karte wird am Ende des Zugs als falsch gewertet.",
+      "note": "Verbotene Wörter",
+      "note_description": "Keine Wörter aus dem Kartentitel"
+    },
+    "round2": {
+      "title": "Runde 2",
+      "subtitle": "Nur ein Wort",
+      "text": "Nur ein Wort als Hinweis – keine Geräusche oder Gesten",
+      "clue": "Aftershave!",
+      "info": "Denk daran: Alle Karten wurden bereits in Runde 1 aufgedeckt.",
+      "more_info": "Runde 2 beginnt erst, wenn alle Karten in Runde 1 erraten wurden.\n\nDie Karten bleiben gleich, doch das Hinweisen wird mit jeder Runde schwieriger!",
+      "note": "Ein Wort",
+      "note_description": "Nur Hinweise aus einem Wort."
+    },
+    "round3": {
+      "title": "Runde 3",
+      "subtitle": "Pantomime",
+      "text": "Keine Wörter, nur Gesten und Geräusche!",
+      "clue": "😱",
+      "note": "Pantomime",
+      "note_description": "Keine Wörter, nur Gesten und Geräusche!"
+    },
+    "controls": {
+      "guess_text": "Wenn dein Team die Karte errät, drücke die Schaltfläche **CHECK_ICON**",
+      "skip_text": "Keine Idee oder Lust auf eine neue Karte? Drücke **Auslassen**",
+      "info": "Markiere Karten auch durch Wischen als erraten oder ausgelassen.",
+      "more_info": "Wische nach rechts für erraten, nach links zum Auslassen. Ausgelassene Karten bleiben im Stapel und kommen in derselben Runde zurück.\n\nIm klassischen Modus ist das kostenlos – schau also nicht bloß der Uhr zu!"
+    },
+    "post_turn": {
+      "summary_text": "Nach deinem **Zug** siehst du eine Übersicht aller erratenen und ausgelassenen Karten",
+      "controls_text": "Ändere hier das Ergebnis einer Karte, wenn eine Regel gebrochen oder ein Fehler gemacht wurde",
+      "note": "Zugübersicht",
+      "note_description": "Ändere hier Kartenergebnisse nach einem Fehler oder Regelverstoß."
+    },
+    "end_turn": {
+      "end_turn_text": "Drücke **Zug beenden**, lass das nächste Team spielen und gib das Handy weiter.",
+      "round_text": "Die **aktuelle Runde** und ihre Regeln gelten weiter, bis alle Karten im Stapel erraten wurden.",
+      "info": "Beende deinen Zug, bevor du das Handy weitergibst!",
+      "more_info": "Sonst sieht die nächste Person womöglich Karten, die in dieser Runde ausgelassen wurden und noch im Spiel sind."
+    },
+    "end_game": {
+      "title": "Das Spiel endet nach Runde 3",
+      "subtitle": "Das Team mit den meisten Punkten gewinnt – aber das wusstest du schon!"
+    }
+  },
+  "support": {
+    "title": "Werbung weg, 63 unterstützen!",
+    "description": "63 ist ein unabhängiges Projekt. Dein Beitrag hilft bei der Pflege und Weiterentwicklung.",
+    "select_option": "Option wählen",
+    "standard": {
+      "title": "Standard",
+      "description": "Entfernt dauerhaft sämtliche Werbung."
+    },
+    "fan": {
+      "title": "63-Fan",
+      "description": "Entfernt dauerhaft Werbung und unterstützt das Projekt."
+    },
+    "contribute": "Beitragen",
+    "thank_you": {
+      "card_title": "Danke",
+      "card_description": "63 ist ein unabhängiges Nebenprojekt, das vollständig in meiner Freizeit entstanden ist. Ich habe viel Sorgfalt und Aufmerksamkeit investiert, um dieses Spiel so gut wie möglich zu machen. Herzlichen Dank – ich hoffe, du hast beim Spielen von 63 genauso viel Freude wie ich bei der Entwicklung!",
+      "author": "Paulo Correia"
+    },
+    "no_internet": {
+      "title": "Kein Internet",
+      "description": "Bitte überprüfe deine Internetverbindung"
+    },
+    "error": {
+      "title": "Etwas ist schiefgelaufen",
+      "description": "Optionen konnten nicht geladen werden. Versuche es erneut",
+      "retry": "Erneut versuchen"
+    },
+    "restore_purchases": "Käufe wiederherstellen",
+    "restore_purchases_error": "Fehler bei Kaufwiederherstellung"
+  },
+  "credits": {
+    "created_by": "Erstellt von",
+    "sound": "Ton",
+    "cards": "Karten",
+    "localisation": "Lokalisierung",
+    "design_help": "Designhilfe",
+    "special_thanks": "Besonderer Dank",
+    "everyone_who_believed": "sowie allen, die an\nmich geglaubt haben",
+    "font": "Schriftart",
+    "by": "von",
+    "developed_with": "Entwickelt mit",
+    "made_in": "Hergestellt in",
+    "portugal": "Portugal 🇵🇹",
+    "and_thank_you": "… und danke dir,",
+    "for_playing": "dass du spielst"
+  },
+  "deck": {
+    "use_only_unplayed": "Nur ungespielte Karten",
+    "use_only_unplayed_tooltip": "Es werden nur Karten verwendet, die in keinem früheren Spiel vorkamen. Gibt es nicht genug, beginnt das Spiel mit weniger Karten.",
+    "kids_mode": "KIDS-Modus",
+    "kids_mode_label": "{kids}-Modus",
+    "kids_mode_tooltip": "Blendet Karten und Community-Packs aus, die nicht für Kinder geeignet sind. Private Packs werden immer angezeigt.",
+    "distribution": "Kartenverteilung",
+    "not_enough_cards": "Der Stapel enthält nur {count} Karten",
+    "no_cards_available": "Keine Karten für einen Stapel verfügbar",
+    "all_cards_played": "Alle Karten gespielt",
+    "only_n_available": "Nur {count} verfügbar",
+    "unassigned": "Nicht zugewiesen: {count}",
+    "reset": "Zurücksetzen"
+  },
+  "packs": {
+    "add_packs": "Packs hinzufügen",
+    "create_packs_title": "Erstelle deine eigenen Packs",
+    "create_packs_description": "Schreibe Karten, arbeite mit Freunden zusammen und teile deine Packs mit der Welt!",
+    "featured_title": "Empfohlen",
+    "community_title": "Community",
+    "community_empty": "Noch keine Packs – reiche als Erstes eines ein!",
+    "filter_popular": "Beliebt",
+    "filter_new": "Neu",
+    "filter_language": "Sprache",
+    "language_picker_title": "Sprache",
+    "language_any": "Beliebige Sprache",
+    "by_author": "von {name}",
+    "by_author_plus": "von {name} +{count}",
+    "code_input_placeholder": "Hast du einen Pack-Code?",
+    "details_title": "Details",
+    "pack_not_found": "Dieses Pack ist nicht mehr verfügbar.",
+    "featured_pill": "Empfohlen",
+    "official_pill": "Offiziell",
+    "info_language": "Sprache",
+    "info_cards": "Karten",
+    "info_likes": "Likes",
+    "about_section": "Über dieses Pack",
+    "contributors_section": "Mitwirkende",
+    "sample_cards_title": "Beispielkarten",
+    "all_cards_title": "Alle Karten",
+    "sample_cards_count": "{shown} von {total}",
+    "spoiler_warning_title": "Achtung, mögliche Spoiler",
+    "spoiler_warning_body": "Du kannst vor dem Hinzufügen einige Karten ansehen, nimmst dir damit aber die Überraschung im Spiel.",
+    "spoiler_reveal": "Trotzdem anzeigen",
+    "see_all_cards": "Alle {count} Karten anzeigen",
+    "reveal_all_title": "Alle Karten aufdecken?",
+    "reveal_all_body": "Du siehst alle {count} Karten in diesem Pack. Das hilft bei der Auswahl, verdirbt aber die Überraschung, wenn du spielen möchtest.",
+    "reveal_all_confirm": "Aufdecken",
+    "announcement_title": "Erstelle deine eigenen Packs!",
+    "announcement_body": "Du kannst jetzt Packs mit eigenen Karten erstellen, mit Freunden zusammenarbeiten und sie mit der Welt teilen!\n\nBeginne auf {link}.",
+    "code_hint": "ABC123",
+    "add_pack_button": "Pack hinzufügen",
+    "already_added": "Bereits in der Sammlung",
+    "pack_added_hidden_kids": "{name} hinzugefügt. Im KIDS-Modus ausgeblendet.",
+    "watch_ad_title": "Zeit für eine Werbepause",
+    "watch_ad_body": "Kostenlose Konten müssen vor dem Hinzufügen eines neuen Packs eine kurze Werbung ansehen. So bleibt 63 für alle kostenlos.",
+    "watch_ad_button": "Werbung ansehen",
+    "watch_ad_remove_cta": "Werbung entfernen",
+    "pack_added": "{name} hinzugefügt!",
+    "error_empty_code": "Pack-Code eingeben",
+    "error_not_found": "Pack nicht gefunden. Prüfe den Code erneut.",
+    "error_network": "Netzwerkfehler. Bitte überprüfe deine Verbindung.",
+    "load_error": "Community-Packs nicht geladen.",
+    "load_retry": "Erneut versuchen",
+    "load_more": "Mehr laden",
+    "updated": "Aktualisiert",
+    "played_count": "{played}/{total} gespielt",
+    "delete_pack_button": "Löschen",
+    "delete_pack_description": "Du kannst es später wieder hinzufügen.",
+    "pack_deleted": "{name} gelöscht",
+    "report_pack_title": "Dieses Pack melden",
+    "report_pack_description": "Sag uns, was nicht stimmt, damit wir es prüfen können.",
+    "report_reason_inappropriate": "Unangemessene Inhalte",
+    "report_reason_spam": "Spam",
+    "report_reason_copyright": "Urheberrechtsverletzung",
+    "report_reason_other": "Sonstiges",
+    "report_note_hint": "Notiz hinzufügen (optional)",
+    "report_submit": "Senden",
+    "report_submitted": "Pack gemeldet",
+    "report_already_submitted": "Du hast dieses Pack bereits gemeldet",
+    "report_failed": "Meldung fehlgeschlagen. Versuche es erneut."
+  },
+  "post_game": {
+    "liked_packs_title": "Diese Packs gefallen dir?",
+    "leave_a_like": "Gib ihnen ein Like, damit mehr Menschen sie finden",
+    "stats_title": "Spielstatistik",
+    "game_time": "Spielzeit",
+    "turns": "Gespielte Züge",
+    "cards_title": "Karten",
+    "col_guesses": "Erraten",
+    "col_skips": "Ausgelassen",
+    "points_per_round_title": "Punkte pro Runde",
+    "round_short": "R{round}",
+    "total": "Gesamt",
+    "best_turn": "Bester Zug",
+    "worst_turn": "Schlechtester Zug",
+    "cards_unit": "Karten",
+    "skips_unit": "Auslassungen",
+    "points_unit": "Punkte",
+    "in_round": "in R{round}",
+    "toughest_card": "Schwierigste Karte",
+    "easiest_card": "Leichteste Karte",
+    "skipped_n_times": "{count}× ausgelassen",
+    "easiest_subtitle": "{skips}× ausgelassen · Ø {avg} s"
+  },
+  "translations": {
+    "ai_notice": "Diese Übersetzung stammt von einer KI. Fehler gefunden oder Lust, sie zu verbessern?",
+    "contact_us": "Kontakt",
+    "missing_language": "Deine Sprache fehlt?",
+    "help_translate": "Hilf, 63 zu übersetzen",
+    "help_description": "Hast du einen Übersetzungsfehler gefunden oder möchtest du 63 in deiner Sprache spielen? Melde dich, wenn du helfen möchtest."
+  }
+}

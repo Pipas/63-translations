@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "Freigegeben: „{{packName}}“",
+    "preheader": "Dein Pack „{{packName}}“ wurde freigegeben.",
+    "heading": "Freigegeben!",
+    "intro": "<strong>{{packName}}</strong> wurde freigegeben und ist jetzt für alle in 63 verfügbar.",
+    "cta": "Community-Pack ansehen",
+    "reviewerNote": "Anmerkung der prüfenden Person:",
+    "caption": "Spieler finden es im Community-Bereich der App.",
+    "text": "Freigegeben!\n\n„{{packName}}“ wurde freigegeben und ist jetzt für alle in 63 verfügbar.\n\nAnsehen: {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "Jetzt empfohlen: „{{packName}}“",
+    "preheader": "Wir haben „{{packName}}“ als empfohlenes Community-Pack ausgewählt.",
+    "heading": "Jetzt empfohlen!",
+    "intro": "Wir haben <strong>{{packName}}</strong> als empfohlenes Community-Pack ausgewählt.",
+    "cta": "Empfohlenes Pack ansehen",
+    "caption": "Empfohlene Packs werden im Community-Bereich ganz oben angezeigt.",
+    "text": "Wir haben „{{packName}}“ als empfohlenes Community-Pack ausgewählt.\n\nAnsehen: {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "Update nicht freigegeben: „{{packName}}“",
+      "new": "Neuigkeiten zu „{{packName}}“"
+    },
+    "preheader": {
+      "update": "Dein Update für „{{packName}}“ wurde nicht freigegeben – die vorherige Version bleibt verfügbar.",
+      "new": "Dein Pack „{{packName}}“ wurde dieses Mal nicht freigegeben."
+    },
+    "heading": "Neuigkeiten zu deiner Einreichung",
+    "intro": {
+      "update": "Wir haben dein Update für <strong>{{packName}}</strong> geprüft und nicht freigegeben. Hier ist die Anmerkung der prüfenden Person:",
+      "new": "Wir haben <strong>{{packName}}</strong> geprüft und dieses Mal nicht freigegeben. Hier ist die Anmerkung der prüfenden Person:"
+    },
+    "stillLive": "Gute Nachricht: Die zuvor freigegebene Version bleibt in der Community-Bibliothek verfügbar – nichts wurde entfernt.",
+    "cta": "Bearbeiten und neu einreichen",
+    "text": {
+      "opener": {
+        "update": "Wir haben dein Update für „{{packName}}“ geprüft und nicht freigegeben. Die zuvor freigegebene Version bleibt in der Community-Bibliothek verfügbar – nichts wurde entfernt.",
+        "new": "Wir haben „{{packName}}“ geprüft und dieses Mal nicht freigegeben."
+      },
+      "reviewerNote": "Anmerkung der prüfenden Person:",
+      "invite": "Du kannst das Pack bearbeiten und erneut einreichen, sobald du bereit bist."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "Entfernt: „{{packName}}“",
+    "preheader": "Dein Pack „{{packName}}“ wurde von der Moderation entfernt.",
+    "heading": "Pack entfernt",
+    "intro": {
+      "withoutReason": "Wir haben <strong>{{packName}}</strong> aus der Community-Bibliothek entfernt.",
+      "withReason": "Wir haben <strong>{{packName}}</strong> aus der Community-Bibliothek entfernt. Hier ist der Grund:"
+    },
+    "cta": "Pack öffnen",
+    "caption": "Du kannst dein Pack bearbeiten und erneut einreichen, sobald du bereit bist.",
+    "text": {
+      "withoutReason": "Wir haben „{{packName}}“ aus der Community-Bibliothek entfernt.\n\nDu kannst dein Pack bearbeiten und erneut einreichen, sobald du bereit bist.\n{{url}}\n",
+      "withReason": "Wir haben „{{packName}}“ aus der Community-Bibliothek entfernt.\n\nGrund:\n{{reason}}\n\nDu kannst dein Pack bearbeiten und erneut einreichen, sobald du bereit bist.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "Zur Prüfung: „{{packName}}“",
+    "preheader": "Wir haben dein Community-Pack zur Prüfung erhalten.",
+    "heading": "Einreichung erhalten",
+    "intro": "Wir haben deine Einreichung von <strong>{{packName}}</strong> zur Community-Prüfung erhalten.",
+    "cta": "Pack ansehen",
+    "caption": "Wir benachrichtigen dich per E-Mail, sobald es Neuigkeiten gibt.",
+    "text": "Wir haben deine Einreichung von „{{packName}}“ zur Community-Prüfung erhalten. Wir benachrichtigen dich per E-Mail, sobald es Neuigkeiten gibt.\n\nPack ansehen: {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "Passwort für packs.63.pt zurücksetzen",
+    "preheader": "Tippe auf die Schaltfläche, um ein neues Passwort zu wählen.",
+    "heading": "Passwort zurücksetzen",
+    "intro": "Wir haben eine Anfrage zum Zurücksetzen des Passworts für dein Konto bei packs.63.pt erhalten. Tippe unten auf die Schaltfläche, um ein neues zu wählen.",
+    "cta": "Passwort zurücksetzen",
+    "caption": "Falls du das nicht angefordert hast, kannst du diese E-Mail einfach ignorieren – dein Passwort wird nicht geändert.",
+    "text": "Passwort zurücksetzen\n\nWir haben eine Anfrage zum Zurücksetzen des Passworts für dein Konto bei packs.63.pt erhalten. Öffne diesen Link, um ein neues zu wählen:\n\n{{url}}\n\nFalls du das nicht angefordert hast, kannst du diese E-Mail einfach ignorieren – dein Passwort wird nicht geändert.\n"
+  }
+}

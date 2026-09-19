@@ -1,0 +1,1139 @@
+{
+  "name": "Allgemein",
+  "cards": [
+    {
+      "description": "Eine langwierige Hauterkrankung, von der ein großer Teil der Jugendlichen betroffen ist. Bis ins 20. Jahrhundert galt Selbstbefriedigung fälschlich als eine mögliche Ursache.",
+      "id": "b15166bdb3a88482",
+      "title": "Akne",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Eine japanische Kunstfigur in Form einer weißen Katze ohne Mund, die eine rote Schleife trägt. Seit ihrer Erfindung 1974 wurde die Figur zu einer der größten Medienmarken der Welt.",
+      "id": "d5b0dc39299f12d9",
+      "title": "Hello Kitty",
+      "points": 1
+    },
+    {
+      "description": "Die höchstmögliche Pokerhand aus Ass, König, Dame, Bube und Zehn derselben Farbe. Die Chance auf diese Kombination beträgt 1 zu 649.739 und ist damit nur wenig höher als die eines Blitzschlags.",
+      "id": "26a85346d84e5d84",
+      "title": "Royal Flush",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Eine weltweite Jugendorganisation mit Sitz in der Schweiz, die christliche Werte fördern will. Noch bekannter ist vermutlich das gleichnamige Lied der Village People aus dem Jahr 1978.",
+      "id": "ab9ada8e35619dc9",
+      "title": "YMCA",
+      "points": 1
+    },
+    {
+      "description": "Eine sehr kurze Frisur, bei der das Kopfhaar mit einer Maschine fast vollständig abrasiert wird. Bei Rekruten sollte dieser Schnitt ursprünglich Kopfläuse verhindern; heute sorgt er vor allem für Einheitlichkeit.",
+      "id": "6d84e5d84ee4fd2b",
+      "title": "Buzz Cut",
+      "points": 1
+    },
+    {
+      "description": "Nach Einsteins Relativitätstheorie kann sich nichts schneller fortbewegen. Im Vakuum beträgt der genaue Wert 299.792.458 Meter pro Sekunde – nicht blinzeln!",
+      "id": "4e5d84ee4fd2b865",
+      "title": "Lichtgeschwindigkeit",
+      "points": 2
+    },
+    {
+      "description": "Das ständig getragene Accessoire des U2-Sängers. Viele hielten es für eine Rockstar-Marotte, doch es hilft ihm bei Sehproblemen durch ein Glaukom.",
+      "id": "4a02d6ad5b0dc392",
+      "title": "Bonos Sonnenbrille",
+      "points": 2
+    },
+    {
+      "description": "Die bekannte Personifikation der Vereinigten Staaten mit Zylinder und ausgestrecktem Zeigefinger. Am bekanntesten ist die Figur vom US-Armeeplakat „I WANT YOU“ aus dem Jahr 1917.",
+      "id": "85346d84e5d84ee4",
+      "title": "Onkel Sam",
+      "points": 1
+    },
+    {
+      "description": "Eine britische Zeichentrickserie über einen Handwerker und seine sprechenden Arbeitsfahrzeuge. Können wir das schaffen? Ja, wir schaffen das!",
+      "id": "b68a945311fc0874",
+      "title": "Bob der Baumeister",
+      "points": 2
+    },
+    {
+      "description": "Eine Phase veränderter Identität und Selbstsicherheit bei Menschen in der Lebensmitte. Auslöser sind oft Gedanken an das Älterwerden, die eigene Sterblichkeit oder unerreichte Ziele.",
+      "id": "a38b15166bdb3a88",
+      "title": "Midlife-Crisis",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Das Spiel, das du gerade spielst!",
+      "id": "2b6371df91904ba6",
+      "title": "63",
+      "points": 1
+    },
+    {
+      "description": "Eine Redewendung für ein offensichtliches, wichtiges Problem, über das niemand sprechen möchte. Der Ausdruck geht auf eine Fabel zurück, in der ein Museumsbesucher viele Kleinigkeiten bemerkt, aber ein riesiges Rüsseltier übersieht.",
+      "id": "d84ee4fd2b8656cd",
+      "title": "Der Elefant im Raum",
+      "points": 2
+    },
+    {
+      "description": "Ein weltweiter Latin-Pop-Hit von Luis Fonsi und Daddy Yankee aus dem Jahr 2017. Ein Remix mit Justin Bieber machte den Song zum viralen Phänomen und zeitweise meistgesehenen YouTube-Video.",
+      "id": "71df91904ba61d67",
+      "title": "Despacito",
+      "points": 1
+    },
+    {
+      "description": "Die häufigste Verletzungsquelle für Zeichentrickfiguren. Das Opfer taucht meist mit einer riesigen Beule und schwarz-weißen Tasten statt Zähnen aus den Trümmern auf.",
+      "id": "bdb3a884826a8534",
+      "title": "Ein fallendes Klavier",
+      "points": 2
+    },
+    {
+      "description": "Ein meist von Kindern verwendeter Behälter für Münzen, der früher zum Leeren zerbrochen werden musste. Nur so gelangte man an den Inhalt.",
+      "id": "4ee4fd2b8656cda7",
+      "title": "Sparschwein",
+      "points": 1
+    },
+    {
+      "description": "Eine schlaue Märchenfigur, die ihrem Besitzer mit List zu Reichtum und Ansehen verhilft. Durch das „Shrek“-Universum wurde die Märchenfigur in jüngerer Zeit noch bekannter.",
+      "id": "ad5b0dc39299f12d",
+      "title": "Der gestiefelte Kater",
+      "points": 1
+    },
+    {
+      "description": "Ein Körperteil, von dem sich der niederländische Maler selbst ein Stück abschnitt. Trotz seines enormen Einflusses auf die westliche Kunst verkaufte er zu Lebzeiten nur ein einziges Gemälde.",
+      "id": "311fc0874d0a38b1",
+      "title": "Van Goghs Ohr",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "",
+      "id": "346d84e5d84ee4fd",
+      "title": "Nichts",
+      "points": 1
+    },
+    {
+      "description": "Eine Störung, bei der Menschen im Zustand verminderten Bewusstseins Tätigkeiten wie im Wachzustand ausführen. Weil die Handlungen ohne bewusste Absicht geschehen, wurden sie bereits als juristische Verteidigung angeführt.",
+      "id": "c4a02d6ad5b0dc39",
+      "title": "Schlafwandeln",
+      "points": 1
+    },
+    {
+      "description": "Eines von vier bunten Wesen mit einem Bildschirm am Bauch aus einer britischen Kinderserie. Die vier heißen Tinky Winky, Dipsy, Laa-Laa und … Po!",
+      "id": "99f12d9bb68a9453",
+      "title": "Ein Teletubby",
+      "points": 1
+    },
+    {
+      "description": "Eine im 19. Jahrhundert auf Italiens größter Insel entstandene Vereinigung der organisierten Kriminalität. Noch heute sollen rund 70 Prozent der Unternehmen dort Schutzgeld zahlen.",
+      "id": "a945311fc0874d0a",
+      "title": "Die sizilianische Mafia",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Die Geste, mit der einer der zwölf Jünger Jesus laut Bibel an seine Verfolger verriet. Die Bezeichnung steht heute für eine nur vorgetäuschte freundliche Geste.",
+      "id": "0dc39299f12d9bb6",
+      "title": "Judaskuss",
+      "points": 1
+    },
+    {
+      "description": "Die berühmte Vorstellung des von Ian Fleming erfundenen britischen Geheimagenten.",
+      "id": "1d67f4bab9ada8e3",
+      "title": "Bond, James Bond",
+      "points": 2
+    },
+    {
+      "description": "Digitale Effekte zur Personalisierung von Bildern in einer App mit Geisterlogo. Zu den beliebtesten gehören Blumenkränze, Regenbogen-Erbrechen und Hundeohren samt Nase.",
+      "id": "fc0874d0a38b1516",
+      "title": "Snapchat-Filter",
+      "points": 2
+    },
+    {
+      "description": "Eine Zeichentrickfigur, die als Maskottchen einer Filmreihe um Inspektor Clouseau entstand. Die Figur schleicht stets zu ihrer sofort erkennbaren Titelmelodie herum.",
+      "id": "1904ba61d67f4bab",
+      "title": "Der rosarote Panther",
+      "points": 1
+    },
+    {
+      "description": "Ein Symbol für die Verbindung von Arbeiterschaft und Bauernschaft während der Russischen Revolution. Das Zeichen wurde zur Kurzform für den Kommunismus und prangte prominent auf der Flagge der Sowjetunion.",
+      "id": "84826a85346d84e5",
+      "title": "Hammer und Sichel",
+      "points": 3
+    },
+    {
+      "description": "Ein Fernsehheld, der mit Wissen, Einfallsreichtum und Alltagsgegenständen aus gefährlichen Situationen entkommt. Sein Name steht inzwischen für eine einfache, aber elegante Improvisationslösung.",
+      "id": "948632cc4a02d6ad",
+      "title": "MacGyver",
+      "points": 2
+    },
+    {
+      "description": "Ein weibliches Elternteil des eigenen Ehepartners.",
+      "id": "8a945311fc0874d0",
+      "title": "Eine Schwiegermutter",
+      "points": 1
+    },
+    {
+      "description": "Die peinliche Situation, in der der Reißverschluss im Schritt nicht geschlossen ist.",
+      "id": "8b15166bdb3a8848",
+      "title": "Ein offener Hosenstall",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Ein auffälliges Merkmal des 47. Präsidenten der Vereinigten Staaten. Berühmt ist die Frisur für ihre künstlich wirkende Farbe und ungewöhnliche Form.",
+      "id": "1df91904ba61d67f",
+      "title": "Trumps Haare",
+      "points": 2
+    },
+    {
+      "description": "Ein streng geheimer Luftwaffenstützpunkt in Nevada, den manche mit außerirdischem Leben verbinden. 2019 rief eine scherzhafte Facebook-Veranstaltung dazu auf, das Gelände zu stürmen und seine Geheimnisse aufzudecken.",
+      "id": "a8e35619dc9c3948",
+      "title": "Area 51",
+      "points": 2
+    },
+    {
+      "description": "Eine Wintersportart, bei der zwei Teams abwechselnd Gegenstände über Eis auf eine Zielzone gleiten lassen. Mit Besen verändern die Spielenden deren Geschwindigkeit und Richtung.",
+      "id": "f4bab9ada8e35619",
+      "title": "Curling",
+      "points": 2
+    },
+    {
+      "description": "Die rothaarige, sommersprossige Heldin der Kinderbücher von Astrid Lindgren. Die Bücher wurden in 77 Sprachen übersetzt und mehrfach für Film und Fernsehen adaptiert.",
+      "id": "19dc9c3948632cc4",
+      "title": "Pippi Langstrumpf",
+      "points": 3
+    },
+    {
+      "description": "Eine Spielzeugreihe von Hasbro über bunte Fantasiepferde, aus der mehrere Zeichentrickserien entstanden. Trotz der jungen weiblichen Zielgruppe entwickelte die Serie eine Kultgefolgschaft unter erwachsenen Männern.",
+      "id": "1fc0874d0a38b151",
+      "title": "My Little Pony",
+      "points": 1
+    },
+    {
+      "description": "Ein virales Kinderlied über eine Familie großer Meeresfische mit einer äußerst eingängigen Melodie. Seinen Reiz verdankt es dem simplen Ohrwurmtext: „doo doo doo doo doo doo“.",
+      "id": "2d6ad5b0dc39299f",
+      "title": "Baby Shark",
+      "points": 2
+    },
+    {
+      "description": "Ein kurzes Oberteil, das den Bauch frei lässt. Seit Mitte der 2010er-Jahre sind auch Varianten für Männer wieder beliebter geworden.",
+      "id": "874d0a38b15166bd",
+      "title": "Ein Crop-Top",
+      "points": 2
+    },
+    {
+      "description": "Der verstorbene Verwandte von Peter Parker, dessen Schicksal ihn zu Spider-Man werden lässt.",
+      "id": "61d67f4bab9ada8e",
+      "title": "Onkel Ben",
+      "points": 2
+    },
+    {
+      "description": "Der dritte Animationsfilm über Po, der seine leibliche Familie wiederfindet und die Kraft des Chi erlernt.",
+      "id": "4bab9ada8e35619d",
+      "title": "Kung Fu Panda 3",
+      "points": 2
+    },
+    {
+      "description": "Ein illegales Geschäftsmodell, bei dem Einnahmen vor allem durch das Anwerben neuer Mitglieder entstehen. Weil das Modell vielerorts verboten ist, wird es oft hinter Bezeichnungen wie Multi-Level-Marketing versteckt.",
+      "id": "0a38b15166bdb3a8",
+      "title": "Ein Schneeballsystem",
+      "points": 2
+    },
+    {
+      "description": "Der treue Knappe von Don Quijote in Miguel de Cervantes’ berühmtem Roman. Bekannt ist er für trockenen Humor, Schlagfertigkeit und die nach ihm benannten spanischen Sprichwörter.",
+      "id": "9f12d9bb68a94531",
+      "title": "Sancho Panza",
+      "points": 3
+    },
+    {
+      "description": "Ein lebendiges Stück Inneneinrichtung aus einem Disney-Film, das seine Passagiere durch die Luft trägt. Die Figur gehörte zu den ersten computeranimierten Charakteren in einem abendfüllenden Film.",
+      "id": "82b6371df91904ba",
+      "title": "Aladdins fliegender Teppich",
+      "points": 1
+    },
+    {
+      "description": "Eine Person, die andere täuscht, um Geld, Ruhm oder andere Vorteile zu erlangen. Ein berühmtes Beispiel ist ein Arzt, der mineralölbasiertes „Schlangenöl“ als Allheilmittel verkaufte.",
+      "id": "2d9bb68a945311fc",
+      "title": "Ein Scharlatan",
+      "points": 3
+    },
+    {
+      "description": "Ein klassischer Bühnentrick, bei dem ein Tier scheinbar aus einer Kopfbedeckung hervorgeholt wird. Der Ausdruck bezeichnet auch eine überraschende oder scheinbar unmögliche Lösung.",
+      "id": "d67f4bab9ada8e35",
+      "title": "Ein Kaninchen aus dem Hut zaubern",
+      "points": 1
+    },
+    {
+      "description": "Eine französische Bauernstochter, die im Mittelalter überzeugt war, von Gott zur Führung der Truppen gegen England berufen zu sein. Nach einem bedeutenden französischen Sieg wurde sie gefangen genommen und auf dem Scheiterhaufen verbrannt.",
+      "id": "8632cc4a02d6ad5b",
+      "title": "Jeanne d’Arc",
+      "points": 2
+    },
+    {
+      "description": "Ein Partyspiel, bei dem man entweder eine Frage ehrlich beantwortet oder eine gestellte Aufgabe erfüllt. Belege reichen bis 1712 zurück, als das Spiel „Questions and Commands“ hieß.",
+      "id": "619dc9c3948632cc",
+      "title": "Wahrheit oder Pflicht",
+      "points": 1
+    },
+    {
+      "description": "Ein Kürzel für die Aufforderung, das Leben voll auszukosten, oft kurz vor einer unvernünftigen Aktion verwendet. Trotz des existenziellen Gedankens fällt der Spruch meist kurz vor unnötig riskantem Verhalten.",
+      "id": "904ba61d67f4bab9",
+      "title": "YOLO (You Only Live Once)",
+      "points": 2
+    },
+    {
+      "description": "Eine nicht definierte mathematische Operation. NaN!",
+      "id": "12d9bb68a945311f",
+      "title": "Durch null teilen",
+      "points": 2
+    },
+    {
+      "description": "Eine Redewendung für ein ungewöhnliches oder verrufenes Mitglied einer Gruppe oder Familie. In der Natur entsteht die dunkle Färbung durch ein rezessives Gen, ähnlich wie menschliche Haarfarben.",
+      "id": "35619dc9c3948632",
+      "title": "Ein schwarzes Schaf",
+      "points": 2
+    },
+    {
+      "description": "Eine laute Kunststofftröte, die bei der Fußball-Weltmeisterschaft 2010 weltbekannt wurde. Fernsehsender setzten während der WM 2010 Audiotechnik ein, um das eintönige Dröhnen zu dämpfen.",
+      "id": "74d0a38b15166bdb",
+      "title": "Vuvuzela",
+      "points": 2
+    },
+    {
+      "description": "Ein Song von Bryan Adams aus dem Jahr 1985 über jugendliche Träume und Erinnerungen. Adams erklärte später, der Text handle in Wahrheit von Sex zu dieser Jahreszeit – passend zur Doppeldeutigkeit.",
+      "id": "9ada8e35619dc9c3",
+      "title": "Summer of '69",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Eine computeranimierte Amphibie, die 2005 mit einer Neuauflage von „Axel F“ berühmt wurde. Die Figur warb vor allem für Klingeltöne und sorgte wegen sichtbarer Genitalien in Werbespots für Streit.",
+      "id": "632cc4a02d6ad5b0",
+      "title": "Crazy Frog",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Ein freundlicher Faun aus der Fantasiewelt Narnia von C. S. Lewis. Er ist der erste Bewohner, dem man in dieser Fantasiewelt begegnet, und hat laut Buch „ein seltsames, aber nettes kleines Gesicht“.",
+      "id": "39299f12d9bb68a9",
+      "title": "Herr Tumnus",
+      "points": 3
+    },
+    {
+      "description": "Eine hölzerne Attrappe, in der sich griechische Soldaten versteckten, um in eine belagerte Stadt zu gelangen. In der Informatik bezeichnet der Ausdruck Schadsoftware, die ihre eigentliche Absicht verbirgt.",
+      "id": "5346d84e5d84ee4f",
+      "title": "Trojanisches Pferd",
+      "points": 1
+    },
+    {
+      "description": "Der große gelbe Vogel aus der Sesamstraße. Die nach vorn gerichteten Augen würden bei einem echten Riesenvogel eigentlich auf ein Raubtier hindeuten.",
+      "id": "9dc9c3948632cc4a",
+      "title": "Bibo",
+      "points": 1
+    },
+    {
+      "description": "Der Schulleiter von Hogwarts in der Harry-Potter-Reihe. In seinem Büro lebt sein Phönix Fawkes.",
+      "id": "9c3948632cc4a02d",
+      "title": "Albus Dumbledore",
+      "points": 2
+    },
+    {
+      "description": "Ein Handyspiel, in dem ein fliegendes Tier zwischen grünen Röhren hindurchgesteuert wird. Nach dem Erfolg 2014 entfernte der Schöpfer es aus den App-Stores, weil er seine Suchtwirkung fürchtete.",
+      "id": "b6371df91904ba61",
+      "title": "Flappy Bird",
+      "points": 2
+    },
+    {
+      "description": "Eine Realityshow, in der Menschen abgeschottet von der Außenwelt gemeinsam in einem Haus leben. Der Name stammt aus George Orwells Roman „1984“ über erdrückende Überwachung.",
+      "id": "45311fc0874d0a38",
+      "title": "Big Brother",
+      "points": 2
+    },
+    {
+      "description": "Eine Delikatesse aus gesalzenen Fischeiern, die als besonders luxuriös gilt. Weil Silber den Geschmack beeinflussen soll, empfehlen Kenner Löffel aus Perlmutt.",
+      "id": "d0a38b15166bdb3a",
+      "title": "Kaviar",
+      "points": 2
+    },
+    {
+      "description": "Ein umstrittenes Kostümdetail in den Filmen von Joel Schumacher aus den Jahren 1995 und 1997. Als Begründung hieß es, der Anzug sei antiken griechischen Statuen nachempfunden.",
+      "id": "5619dc9c3948632c",
+      "title": "Batmans Brustwarzen",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Ein altägyptischer Pharao, dessen Grab jahrhundertelang als verschollen galt. Bei der Wiederentdeckung 1922 fanden sich über 5.000 Kostbarkeiten, darunter ein Sarg aus massivem Gold und mehrere Trompeten.",
+      "id": "dc9c3948632cc4a0",
+      "title": "Tutanchamun",
+      "points": 2
+    },
+    {
+      "description": "Ein Spruch aus dem Swahili für sorgenfreies Leben, bekannt geworden durch Disneys „Der König der Löwen“. Disneys US-Markenrecht auf den Spruch löste 2018 in Ostafrika eine Kontroverse aus.",
+      "id": "b0dc39299f12d9bb",
+      "title": "Hakuna Matata",
+      "points": 1
+    },
+    {
+      "description": "Eine Internet-berühmte Katze mit dauerhaft mürrischem Gesichtsausdruck. 2014 bekam das Tier sogar einen eigenen Weihnachtsfilm mit der Stimme von Aubrey Plaza.",
+      "id": "68a945311fc0874d",
+      "title": "Grumpy Cat",
+      "points": 2
+    },
+    {
+      "description": "Eine kurze Ruhephase, die meist tagsüber eingelegt wird. In Madrid fand einst sogar ein spanienweiter Siesta-Wettbewerb statt.",
+      "id": "5166bdb3a884826a",
+      "title": "Ein Nickerchen",
+      "points": 1
+    },
+    {
+      "description": "Ein Gerät, das anhand körperlicher Reaktionen erkennen soll, ob eine Person die Wahrheit sagt. Die wissenschaftliche Fachwelt bezweifelt allerdings die Zuverlässigkeit des Geräts.",
+      "id": "84ee4fd2b8656cda",
+      "title": "Ein Lügendetektor",
+      "points": 2
+    },
+    {
+      "description": "Ein übernatürliches Wesen, das als heilig und allmächtig verehrt wird. In monotheistischen Religionen gilt es als Schöpfer der Welt.",
+      "id": "df91904ba61d67f4",
+      "title": "Gott",
+      "points": 1
+    },
+    {
+      "description": "Eine umstrittene Modekombination aus warmer Fußbekleidung und sommerlichen offenen Schuhen. Die Macher dieses Spiels billigen diese Praxis ausdrücklich nicht.",
+      "id": "6371df91904ba61d",
+      "title": "Socken in Sandalen",
+      "points": 2
+    },
+    {
+      "description": "Eine reißerische Überschrift, die Menschen zum Öffnen eines Onlinebeitrags verleiten soll. Was als Nächstes geschieht, wird dich überraschen!",
+      "id": "db3a884826a85346",
+      "title": "Clickbait",
+      "points": 2
+    },
+    {
+      "description": "Ein großer Block gefrorenen Wassers, der 1912 den berühmten Passagierdampfer zum Untergang brachte. Ironischerweise galt das Schiff als eines der sichersten seiner Zeit und weithin als unsinkbar.",
+      "id": "682b6371df91904b",
+      "title": "Der Eisberg, der die Titanic versenkte",
+      "points": 2
+    },
+    {
+      "description": "Die charakteristische Waffe des abenteuerlustigen Archäologieprofessors aus der Filmreihe von George Lucas. Eine beim Dreh verwendete Nachbildung wurde 2014 für 140.000 Dollar versteigert.",
+      "id": "c39299f12d9bb68a",
+      "title": "Indiana Jones’ Peitsche",
+      "points": 2
+    },
+    {
+      "description": "Ein maskierter Kämpfer, der die Bevölkerung Kaliforniens gegen Tyrannen verteidigt und ein Z als Zeichen hinterlässt. Der Akrobat und Fechtkünstler ritzt besiegten Gegnern mit seinem Degen den eigenen Anfangsbuchstaben ein.",
+      "id": "dc39299f12d9bb68",
+      "title": "Zorro",
+      "points": 1
+    },
+    {
+      "description": "Der belgische Ermittler aus Agatha Christies Kriminalgeschichten. Viele Schauspieler verkörperten ihn, doch sein markanter Schnurrbart blieb immer dabei.",
+      "id": "ba61d67f4bab9ada",
+      "title": "Hercule Poirot",
+      "points": 2
+    },
+    {
+      "description": "Ein Buch von Antoine de Saint-Exupéry über einen gestrandeten Piloten und einen ungewöhnlichen Jungen. Das Werk wurde zahllos adaptiert und gehört zu den meistübersetzten Büchern überhaupt.",
+      "id": "32cc4a02d6ad5b0d",
+      "title": "Der kleine Prinz",
+      "points": 1
+    },
+    {
+      "description": "Eine kurze rechteckige Gesichtsbehaarung, die der deutsche Diktator berüchtigt machte. Auch Charlie Chaplin trug diesen Stil berühmt zur Schau!",
+      "id": "91904ba61d67f4ba",
+      "title": "Ein Hitlerbart",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Ein digitales Haustier aus Japan, das in den 1990er-Jahren zu einem weltweiten Spielzeugtrend wurde. Manche Kinder hingen so sehr an ihren digitalen Begleitern, dass Jugendliche verstorbene Exemplare sogar beerdigt haben sollen.",
+      "id": "d84e5d84ee4fd2b8",
+      "title": "Tamagotchi",
+      "points": 3
+    },
+    {
+      "description": "Eine satirische Filmfigur von Sacha Baron Cohen, die sich als kasachischer Reporter ausgibt. Viele Beteiligte fühlten sich getäuscht und verklagten Sacha Baron Cohen sowie die Produktionsfirma.",
+      "id": "ada8e35619dc9c39",
+      "title": "Borat",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Die hindisprachige Filmindustrie Indiens mit Sitz in Mumbai. Besonders beliebt sind Masala-Filme, die Action, Komödie, Romantik, Drama und Musiknummern frei mischen.",
+      "id": "11fc0874d0a38b15",
+      "title": "Bollywood",
+      "points": 2
+    },
+    {
+      "description": "Der Gründer des Mongolischen Reichs, das unter seinen Nachfolgern zum größten zusammenhängenden Landreich wurde. Eine Studie von 2003 schätzte, dass etwa jeder zweihundertste Mann direkt von ihm abstammt.",
+      "id": "c0874d0a38b15166",
+      "title": "Dschingis Khan",
+      "points": 3
+    },
+    {
+      "description": "Ein Film von 1996, in dem Michael Jordan gemeinsam mit den Looney Tunes Basketball spielt.",
+      "id": "cc4a02d6ad5b0dc3",
+      "title": "Space Jam",
+      "points": 1
+    },
+    {
+      "description": "Eine historische Region in Rumänien, die durch Geschichten über Dracula berühmt wurde. Die Gegend wurde zum Sinnbild des Genres und diente bereits mehr als 40 Vampirfilmen als Schauplatz.",
+      "id": "5311fc0874d0a38b",
+      "title": "Transsilvanien",
+      "points": 2
+    },
+    {
+      "description": "Ein außerirdisches Mineral, das Superman seine Kräfte nimmt. Obwohl das Mineral meist grün dargestellt wird, war es bei seinem ersten Comicauftritt rot.",
+      "id": "3a884826a85346d8",
+      "title": "Kryptonit",
+      "points": 2
+    },
+    {
+      "description": "Der exzentrische Pirat aus der Filmreihe „Fluch der Karibik“, gespielt von Johnny Depp. Die Darstellung verbindet Einflüsse von Keith Richards und der Looney-Tunes-Figur Pepé le Pew.",
+      "id": "d6ad5b0dc39299f1",
+      "title": "Captain Jack Sparrow",
+      "points": 1
+    },
+    {
+      "description": "Ein Senior mit freiem Oberkörper, häufig auf Balkonen und in Parks anzutreffen. Fotos solcher Herren tauchen in sozialen Netzwerken auch gern als flapsige Antwort auf politische Debatten auf.",
+      "id": "38b15166bdb3a884",
+      "title": "Ein alter Mann ohne Hemd",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Eine Tanzpose, bei der ein Arm angewinkelt vor das Gesicht und der andere seitlich ausgestreckt wird. In Saudi-Arabien wurde die Pose verboten, weil sie als Anspielung auf Cannabis und andere Drogen galt.",
+      "id": "b9ada8e35619dc9c",
+      "title": "Der Dab",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Eine Region zwischen Mars und Jupiter, in der zahlreiche kleine Himmelskörper die Sonne umkreisen. Trotz der Darstellung in Filmen wäre ein Zusammenstoß beim Durchflug mit einem Raumschiff äußerst unwahrscheinlich.",
+      "id": "884826a85346d84e",
+      "title": "Der Asteroidengürtel",
+      "points": 2
+    },
+    {
+      "description": "Eine Dating-App, bei der Profile durch Wischen nach links oder rechts bewertet werden. Die App machte das Wischen als Bedienmethode populär, das heute viele andere Anwendungen nutzen – auch diese hier.",
+      "id": "d9bb68a945311fc0",
+      "title": "Tinder",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Eine kosmetische Behandlung, bei der nahezu sämtliche Schambehaarung mit warmem Harz entfernt wird. Die Bezeichnung geht auf einen 1987 eröffneten Salon in Manhattan zurück, den Schwestern aus Südamerika gründeten.",
+      "id": "a884826a85346d84",
+      "title": "Brazilian Waxing",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Supermans zivile Tarnidentität, wenn ihr einziges Verkleidungsstück fehlt.",
+      "id": "02d6ad5b0dc39299",
+      "title": "Clark Kent ohne Brille",
+      "points": 3
+    },
+    {
+      "description": "Eine Komödie von 1990 über ein vergessenes Kind, das Einbrecher vom Wohnsitz seiner Familie fernhält. Für viele gehört der Film fest zum Weihnachtsprogramm.",
+      "id": "a61d67f4bab9ada8",
+      "title": "Kevin – Allein zu Haus",
+      "points": 1
+    },
+    {
+      "description": "Die widerlegte Behauptung, unser Planet sei keine Kugel, sondern eine Scheibe. Ein amerikanischer Draufgänger wollte die Behauptung mit einer selbstgebauten Rakete prüfen und kam dabei ums Leben.",
+      "id": "4d0a38b15166bdb3",
+      "title": "Die Flache-Erde-Theorie",
+      "points": 2
+    },
+    {
+      "description": "Ein Comic-Superheld, der unter Wasser atmen und mit Meereslebewesen kommunizieren kann. Trotz seiner Bekanntheit wird die Figur wegen ihrer vermeintlich schwachen Fähigkeiten oft verspottet.",
+      "id": "bb68a945311fc087",
+      "title": "Aquaman",
+      "points": 1
+    },
+    {
+      "description": "Eine Spielzeugmarke für kleine Modellautos und die dazugehörigen orangefarbenen Rennstrecken. Inzwischen wurden mehr als sechs Milliarden Fahrzeuge in rund 20.000 Varianten produziert – überbiete das mal!",
+      "id": "945311fc0874d0a3",
+      "title": "Hot Wheels",
+      "points": 2
+    },
+    {
+      "description": "Eine australische Echse, die häufig als Haustier gehalten wird. Bei Stress kann sich ihre stachelige Kehle dunkel färben und aufstellen.",
+      "id": "04ba61d67f4bab9a",
+      "title": "Eine Bartagame",
+      "points": 2
+    },
+    {
+      "description": "Ein Musical von Andrew Lloyd Webber über eine Gruppe von Samtpfoten, die sich zu einem jährlichen Ball trifft. Die Kinoadaption von 2019 wurde von Kritik und Publikum gleichermaßen verrissen.",
+      "id": "2cc4a02d6ad5b0dc",
+      "title": "Cats",
+      "points": 1
+    },
+    {
+      "description": "Eine Person, die behauptet, zukünftige Ereignisse oder verborgene Informationen wahrnehmen zu können. Viele Menschen glauben daran, wissenschaftliche Belege für solche Fähigkeiten gibt es jedoch nicht.",
+      "id": "67f4bab9ada8e356",
+      "title": "Ein Hellseher",
+      "points": 1
+    },
+    {
+      "description": "Zwei gallische Comic-Helden, die mithilfe eines Zaubertranks gegen die Römer kämpfen. Der Kleinere trinkt einen Zaubertrank für Stärke; der Größere fiel schon als Baby in den Kessel.",
+      "id": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+      "title": "Asterix und Obelix",
+      "points": 2
+    },
+    {
+      "description": "Ein ehemaliger Webbrowser von Microsoft, der für seine Langsamkeit verspottet wurde. Am Ende bestand sein bekanntester Nutzen darin, alternative Browser herunterzuladen.",
+      "id": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+      "title": "Internet Explorer",
+      "points": 2
+    },
+    {
+      "description": "Ein kantiger elektrischer Pick-up von Tesla mit einer Karosserie aus Edelstahl. Bei der Präsentation 2019 zerbrachen während einer Vorführung zur angeblichen Robustheit live gleich zwei Scheiben.",
+      "id": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+      "title": "Cybertruck",
+      "points": 2
+    },
+    {
+      "description": "Ein berühmtes Filmzitat, das verlangt, über die geheime Prügelgemeinschaft nicht zu sprechen. Verdächtigerweise klingt diese Anweisung fast genauso wie die zweite!",
+      "id": "1226b2cb-facb-4ea2-ab2a-474011445d67",
+      "title": "Die erste Regel des Fight Club",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Eine Komödie, in der ein Wettermoderator denselben Kalendertag immer wieder erlebt. Regisseur Harold Ramis schätzte, dass der Held subjektiv etwa zehn Jahre in der Zeitschleife verbringt.",
+      "id": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+      "title": "Und täglich grüßt das Murmeltier",
+      "points": 2
+    },
+    {
+      "description": "Ein riesiges japanisches Filmmonster, das häufig Städte verwüstet und durch Atomtests geweckt wurde. Mit 38 Filmen ist die Figur das langlebigste Franchise rund um ein einzelnes Ungetüm.",
+      "id": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+      "title": "Godzilla",
+      "points": 1
+    },
+    {
+      "description": "Ein Märchen über Geschwister, die Häuser aus Stroh, Holz und Stein bauen und von einem Wolf bedroht werden. Die Geschichte existiert in zahllosen Varianten, doch der Spruch des Wolfs blieb überall berühmt.",
+      "id": "69337803-074d-4e31-8418-747bd7da56a2",
+      "title": "Die drei kleinen Schweinchen",
+      "points": 1
+    },
+    {
+      "description": "Ein speziell geschütztes Fahrzeug, in dem das Oberhaupt der katholischen Kirche bei öffentlichen Auftritten fährt. Nach dem Attentat auf Johannes Paul II. im Jahr 1981 wurde das Gefährt mit Panzerglas neu gestaltet.",
+      "id": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+      "title": "Papamobil",
+      "points": 1
+    },
+    {
+      "description": "Das erste Säugetier, das aus einer erwachsenen Körperzelle geklont wurde. Namenspatin war eine berühmte amerikanische Country-Sängerin, weil die verwendete Zelle aus einer Milchdrüse stammte.",
+      "id": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
+      "title": "Dolly, das Schaf",
+      "points": 1
+    },
+    {
+      "description": "Ein Gedankenexperiment über die moralische Entscheidung, wenige Menschen zu opfern, um mehrere andere zu retten. Im Lauf der Zeit entstanden Varianten mit immer absurderen Szenarien.",
+      "id": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
+      "title": "Das Trolley-Problem",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Ein tägliches Online-Rätsel, bei dem ein Begriff mit fünf Buchstaben in sechs Versuchen gefunden werden muss. Die New York Times kaufte das Rätsel 2022 für einen niedrigen siebenstelligen Betrag.",
+      "id": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+      "title": "Wordle",
+      "points": 1
+    },
+    {
+      "description": "Die Vorstellung, dass eine winzige Veränderung langfristig enorme und unvorhersehbare Folgen haben kann. Meteorologe Edward Lorenz prägte den Begriff 1972, nachdem kleinste Änderungen seine Wettermodelle völlig anders verlaufen ließen.",
+      "id": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+      "title": "Der Schmetterlingseffekt",
+      "points": 2
+    },
+    {
+      "description": "Die verbreitete, aber unnötige Angewohnheit, eine Sofortaufnahme zur schnelleren Entwicklung hin und her zu bewegen. Der Hersteller bittet ausdrücklich darum, damit aufzuhören, weil die Bewegung die Entwicklung sogar beschädigen kann.",
+      "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
+      "title": "Ein Polaroidfoto schütteln",
+      "points": 2
+    },
+    {
+      "description": "Ein kleines Handspielzeug mit Kugellager, das zwischen den Fingern gedreht wird. Studien fanden keine Belege dafür, dass das Spielzeug Aufmerksamkeit verbessert oder Angst reduziert.",
+      "id": "7b27a365-2f05-403a-baba-d6c151585293",
+      "title": "Ein Fidget Spinner",
+      "points": 1
+    },
+    {
+      "description": "Eine bekannte Werbeaussage, die nahelegt, fast alle Fachleute für Mundgesundheit würden eine bestimmte Paste empfehlen. Was wohl die letzte Person dazu sagt …",
+      "id": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef",
+      "title": "9 von 10 Zahnärzten",
+      "points": 2
+    },
+    {
+      "description": "Der soziale Einfluss Gleichaltriger, der eine Person zu angepasstem Verhalten bewegen kann. Studien zeigen, dass selbst Erwachsene einer offensichtlich falschen Mehrheitsmeinung zustimmen, nur um dazuzugehören.",
+      "id": "4d8dae45-828a-4242-a217-0c0227c4789a",
+      "title": "Gruppenzwang",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Eine Onlineprüfung, die Menschen von automatisierten Programmen unterscheiden soll, etwa durch das Erkennen von Ampeln. Miterfunden wurde die Prüfung von derselben Person, die später Duolingo entwickelte.",
+      "id": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+      "title": "Ein CAPTCHA",
+      "points": 2
+    },
+    {
+      "description": "Ein berühmtes Gedankenexperiment der Quantenphysik mit einem Tier in einer Kiste und einem Giftmechanismus. Bis zum Öffnen gilt das Lebewesen gleichzeitig als lebendig und tot.",
+      "id": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+      "title": "Schrödingers Katze",
+      "points": 3
+    },
+    {
+      "description": "Ein drehbares dreidimensionales Puzzle mit sechs Farben und mehr als 43 Trillionen möglichen Stellungen. Der aktuelle Lösungsrekord liegt unter drei Sekunden und wird von einem Kind gehalten.",
+      "id": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+      "title": "Der Zauberwürfel",
+      "points": 1
+    },
+    {
+      "description": "Schädliche traditionelle Rollenbilder, die Härte, Dominanz und Gefühllosigkeit verlangen. Typische Zeichen sind die Weigerung, bei Beerdigungen zu weinen, oder die Behauptung, Rosa sei nur für Mädchen.",
+      "id": "902799b4-18f2-48c9-92f4-78547c02520f",
+      "title": "Toxische Männlichkeit",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Ein großer Himmelskörper, dessen Einschlag vor etwa 66 Millionen Jahren ein massenhaftes Artensterben verursachte. Der etwa 180 Kilometer breite Einschlagkrater liegt unter der mexikanischen Halbinsel Yucatán.",
+      "id": "bf10ceba-8762-4244-8023-457eb20adb1d",
+      "title": "Der Asteroid, der die Dinosaurier auslöschte",
+      "points": 3
+    },
+    {
+      "description": "Eine Süßigkeit mit Pistaziencreme und knusprigen Teigfäden, die durch soziale Medien zum Trend wurde. Der plötzliche Hype verursachte weltweit Pistazienknappheit und ließ die Preise für Bäckereien steigen.",
+      "id": "c62de87f-30ec-4909-a35c-104375f280cb",
+      "title": "Dubai-Schokolade",
+      "points": 1
+    },
+    {
+      "description": "Ein Verpackungsmaterial mit kleinen gasgefüllten Bläschen, die viele Menschen gern zerdrücken. Das Material war 1957 ursprünglich als strukturierte Tapete gedacht.",
+      "id": "c8161658-fa59-4488-b151-50d8bfe969f1",
+      "title": "Luftpolsterfolie",
+      "points": 2
+    },
+    {
+      "description": "Eine informelle Schriftart von Microsoft, die wegen ihres häufig unpassenden Einsatzes verspottet wird. Trotz allen Spotts kann die Schrift Menschen mit Legasthenie das Lesen erleichtern.",
+      "id": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+      "title": "Comic Sans",
+      "points": 2
+    },
+    {
+      "description": "Das absichtliche oder zufällige Auftauchen im Hintergrund einer fremden Aufnahme. Das Phänomen prägte die 2010er-Jahre so sehr, dass der Begriff 2014 ins Oxford Dictionary aufgenommen wurde.",
+      "id": "5097406e-7daa-43a3-90f0-b3e6a78592a0",
+      "title": "Photobombing",
+      "points": 1
+    },
+    {
+      "description": "Die würzige, cremige Zutat auf dem bekannten Burger von McDonald’s. 2012 veröffentlichte ein ehemaliger Mitarbeiter das vermeintliche Rezept auf Reddit, und das Unternehmen bestätigte es praktisch.",
+      "id": "85361ccc086534df",
+      "title": "Big Macs Spezialsoße",
+      "points": 3
+    },
+    {
+      "description": "Eine fremde Person, die jemandem verblüffend ähnlich sieht.",
+      "id": "83b89a12daab64be",
+      "title": "Ein Doppelgänger",
+      "points": 1
+    },
+    {
+      "description": "Ein Botenstoff im Gehirn, der unter anderem Motivation, Belohnung und Bewegung beeinflusst. Genau davon bekommst du etwas, wenn du diese Karte endlich errätst!",
+      "id": "69d83b89a12daab6",
+      "title": "Dopamin",
+      "points": 2
+    },
+    {
+      "description": "Eine klassische kindliche Angst vor einem Wesen, das nachts im geschlossenen Möbelstück des Schlafzimmers lauert. Das Motiv erscheint weltweit in Erzählungen und deutet auf eine universelle Angst vor dunklen, engen Räumen hin.",
+      "id": "b64bea85361ccc08",
+      "title": "Das Monster im Kleiderschrank",
+      "points": 3
+    },
+    {
+      "description": "Ein unterirdischer Schutzraum mit Vorräten für Katastrophen oder den Zusammenbruch der Zivilisation. Mehrere Milliardäre aus dem Silicon Valley sollen befestigte Zufluchtsorte in Neuseeland gekauft haben.",
+      "id": "fff1669d83b89a12",
+      "title": "Ein Weltuntergangsbunker",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Kleine Ansammlungen aus Textilfasern, Hautzellen und Staub in der Körpermitte. Ein australischer Forscher untersuchte sogar, warum die Ansammlung fast immer blau ist.",
+      "id": "4bea85361ccc0865",
+      "title": "Bauchnabelfussel",
+      "points": 2
+    },
+    {
+      "description": "Eine Verhörmethode, bei der eine freundliche und eine einschüchternde Person gegensätzliche Rollen spielen. Die eine Person bietet eine Zigarette, die andere lebenslange Haft – erstaunlich oft funktioniert es.",
+      "id": "a7f9e5afff1669d8",
+      "title": "Guter Bulle, böser Bulle",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Ein Fantasy-Rollenspiel, bei dem Würfel, Charakterbögen und die Erzählung einer Spielleitung gemeinsame Abenteuer formen. Das Spiel inspirierte direkt die Schöpfer von „Baldur’s Gate“, „World of Warcraft“ und zahllosen weiteren Videospielen.",
+      "id": "cda7f9e5afff1669",
+      "title": "Dungeons & Dragons",
+      "points": 1
+    },
+    {
+      "description": "Eine reichweitenstarke Person, die auf einer Foto-App Inhalte und oft auch bezahlte Produkte präsentiert. Die Branche ist inzwischen mehr als 20 Milliarden Dollar wert; Spitzenverdiener verlangen Tausende pro Werbebeitrag.",
+      "id": "7f9e5afff1669d83",
+      "title": "Ein Instagram-Influencer",
+      "points": 2
+    },
+    {
+      "description": "Ein viraler K-Pop-Hit von Psy aus dem Jahr 2012 mit einem Tanz, der an Reiten erinnert. Es war das erste YouTube-Video mit einer Milliarde Aufrufen und sprengte vorübergehend sogar den Zähler der Plattform.",
+      "id": "602973b2-e044-4261-b6ca-367ea000e503",
+      "title": "Gangnam Style",
+      "points": 1
+    },
+    {
+      "description": "Eine Spielzeugfigur, deren Gesichtsteile und Zubehör beliebig in einen knollenförmigen Körper gesteckt werden. 1952 war die Figur das erste Spielzeug, für das im amerikanischen Fernsehen geworben wurde.",
+      "id": "cb4759da-ce62-4506-8293-0f00cc47a145",
+      "title": "Mr. Potato Head",
+      "points": 2
+    },
+    {
+      "description": "Ein Gebiet im Nordatlantik, in dem Schiffe und Flugzeuge angeblich auf rätselhafte Weise verschwinden. Forschungen zeigen jedoch, dass dieses Seegebiet nicht gefährlicher ist als andere.",
+      "id": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+      "title": "Das Bermudadreieck",
+      "points": 2
+    },
+    {
+      "description": "Unaufdringliche Hintergrundklänge in Aufzügen, Kaufhäusern und Wartebereichen. Das Genre heißt offiziell „Muzak“, nach dem Unternehmen, das es ab den 1930ern in öffentliche Räume leitete.",
+      "id": "a0030c6e-d024-489e-ae71-047c8022a094",
+      "title": "Fahrstuhlmusik",
+      "points": 1
+    },
+    {
+      "description": "Eine wortlose Aufbauhilfe für Möbel, die fast ausschließlich aus Zeichnungen besteht. Die Marke verwendet absichtlich nur Bilder, damit dieselbe Hilfe weltweit funktioniert.",
+      "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
+      "title": "IKEA-Anleitung",
+      "points": 2
+    },
+    {
+      "description": "Der weithin unbeliebte Beginn der Arbeitswoche nach dem Wochenende. Studien zeigen zu diesem Zeitpunkt den stärksten Anstieg von Herzinfarkten innerhalb der Woche.",
+      "id": "64a54249-b462-448d-9d50-280588737740",
+      "title": "Montagmorgen",
+      "points": 1
+    },
+    {
+      "description": "Eine Frisur, die vorne und an den Seiten kurz, hinten jedoch lang getragen wird. Besonders beliebt war der Stil in den 1980er-Jahren.",
+      "id": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6",
+      "title": "Ein Vokuhila",
+      "points": 1
+    },
+    {
+      "description": "Das Vergnügen über das Missgeschick oder Unglück eines anderen Menschen.",
+      "id": "2dfbec4e-8dac-43c4-939b-0b98e3525c4b",
+      "title": "Schadenfreude",
+      "points": 2
+    },
+    {
+      "description": "Ein unnötiges Arbeitstreffen, dessen gesamte Information sich leicht schriftlich mitteilen ließe. Umfragen zufolge verbringen Büroangestellte rund ein Drittel ihrer Arbeitswoche in solchen Zusammenkünften.",
+      "id": "908f592a-5281-44cc-aa69-794a92979c15",
+      "title": "Eine Besprechung, die eine E-Mail hätte sein können",
+      "points": 3
+    },
+    {
+      "description": "Ein Latin-Pop-Hit der 1990er-Jahre mit einer weltweit bekannten Abfolge von Armbewegungen. Die bekannte Remixversion stand in den USA 14 Wochen in Folge auf Platz eins.",
+      "id": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+      "title": "Macarena",
+      "points": 1
+    },
+    {
+      "description": "Ein sagenhaftes Wesen, das in einem großen schottischen See leben soll. Das berühmteste Foto von 1934 entpuppte sich später als Schwindel mit einem Spielzeug-U-Boot.",
+      "id": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+      "title": "Das Ungeheuer von Loch Ness",
+      "points": 1
+    },
+    {
+      "description": "Ein psychologisches Phänomen, bei dem sich eine gegenwärtige Erfahrung so anfühlt, als sei sie schon einmal geschehen. Ein psychologisches Phänomen, bei dem sich eine gegenwärtige Erfahrung so anfühlt, als sei sie schon einmal geschehen.",
+      "id": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+      "title": "Déjà-vu",
+      "points": 1
+    },
+    {
+      "description": "Eine Sagengestalt, die nachts ein ausgefallenes Stück Milchgebiss unter dem Kopfkissen gegen Münzen eintauscht. In vielen Ländern Lateinamerikas und Europas übernimmt stattdessen eine kleine Maus diese Aufgabe.",
+      "id": "497380b0-3425-4201-bf27-7981d7b98c68",
+      "title": "Die Zahnfee",
+      "points": 1
+    },
+    {
+      "description": "Eine Tanzbewegung, bei der die Füße vorwärts arbeiten, während die Person scheinbar rückwärts gleitet. Michael Jackson machte die Bewegung 1983 bei einer Aufführung von „Billie Jean“ im Fernsehen berühmt.",
+      "id": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+      "title": "Der Moonwalk",
+      "points": 1
+    },
+    {
+      "description": "Eine Kopfbedeckung aus Metallfolie, die angeblich Gedanken vor geheimen Signalen schützen soll. Eine MIT-Studie von 2005 ergab, dass die Kopfbedeckung bestimmte Frequenzen sogar verstärkt, statt sie zu blockieren.",
+      "id": "d4a12b6e-4358-4150-8d5e-83ac197c8db5",
+      "title": "Ein Aluhut",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Ein Kinderspiel, bei dem niemand den Untergrund berühren darf und Möbel zu sicheren Inseln werden. Das Spiel hat nur eine Regel, braucht keine Ausrüstung und kann überall spontan ausbrechen.",
+      "id": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+      "title": "Der Boden ist Lava",
+      "points": 2
+    },
+    {
+      "description": "Eine Frisur, bei der langes Kopfhaar am Hinterkopf zu einem Knoten gebunden wird. Zu straff gebunden kann die dauernde Spannung laut Fachleuten Haarausfall verursachen.",
+      "id": "fb730839-9f97-4976-904f-cbd53cdfdfc7",
+      "title": "Ein Männerdutt",
+      "points": 2
+    },
+    {
+      "description": "Ein karibisches Partyspiel, bei dem man sich rückwärts unter einer immer tiefer liegenden Stange hindurchbewegt. Der Weltrekord liegt bei verblüffenden 21,59 Zentimetern über dem Boden.",
+      "id": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+      "title": "Limbo",
+      "points": 1
+    },
+    {
+      "description": "Ein philosophisches Rätsel darüber, welches von zwei voneinander abhängigen Dingen zuerst existierte. Aristoteles kam im antiken Griechenland zu dem bequemen Schluss, beide müssten schon immer gemeinsam existiert haben.",
+      "id": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+      "title": "Das Huhn oder das Ei",
+      "points": 1
+    },
+    {
+      "description": "Ein Stadionphänomen, bei dem Zuschauer nacheinander aufstehen, die Arme heben und sich wieder setzen. Weltweit bekannt wurde das Schauspiel bei der Fußball-WM 1986, deren Gastgeberland ihm praktischerweise den Namen gab.",
+      "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+      "title": "Die La-Ola-Welle",
+      "points": 2
+    },
+    {
+      "description": "Die schmerzhafte Erfahrung, barfuß auf einen kleinen Kunststoffbaustein zu steigen. Die Fußsohle besitzt besonders viele Nervenenden pro Quadratzentimeter, was den Schmerz erklärt.",
+      "id": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+      "title": "Auf Lego treten",
+      "points": 2
+    },
+    {
+      "description": "Das quälende Gefühl, wenn sich ein Nasenreflex aufbaut und kurz vor der Erlösung wieder verschwindet. Eine verlässliche Lösung fehlt; Hausmittel reichen vom Blick ins Licht bis zum Kitzeln des Gaumens.",
+      "id": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+      "title": "Ein Niesen, das nicht kommt",
+      "points": 3
+    },
+    {
+      "description": "Die Angewohnheit, der Besatzung nach dem sicheren Aufsetzen eines Flugzeugs zu applaudieren. Noch schlimmer ist so etwas nur im Kino – oder bei einer Beerdigung.",
+      "id": "6074accc-37a1-4ddd-8707-54807fa01406",
+      "title": "Klatschen nach der Landung",
+      "points": 3
+    },
+    {
+      "description": "Die angenehm kühle, nach dem Umdrehen noch unberührte Oberfläche eines Schlafpolsters. Leider ist dieser Zustand flüchtig und hält nie so lange wie gewünscht.",
+      "id": "6704a583-9897-485e-9945-1507734e5dd5",
+      "title": "Die kalte Seite des Kissens",
+      "points": 3
+    },
+    {
+      "description": "Der unbeliebteste Platz im Flugzeug oder auf der Rückbank eines Autos. Immer noch besser, als im Kofferraum mitzufahren.",
+      "id": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
+      "title": "Der Mittelsitz",
+      "points": 2
+    },
+    {
+      "description": "Der Moment, in dem ein Essgerät aus der Hand in eine Schüssel mit heißer Flüssigkeit rutscht. Zur Bergung muss meist ein Finger in die Brühe oder ein zweites Essgerät herhalten.",
+      "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+      "title": "Ein Löffel fällt in die Suppe",
+      "points": 3
+    },
+    {
+      "description": "Ein loser Einkaufsbeutel, der an einem stürmischen Tag scheinbar ziellos durch die Luft tanzt. Trotz der Verbindung zu Umweltverschmutzung wirkt der ziellose Tanz seltsam faszinierend.",
+      "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+      "title": "Eine Plastiktüte im Wind",
+      "points": 2
+    },
+    {
+      "description": "Das gesellschaftlich geächtete Erhitzen von Meereskost in einem gemeinsam genutzten Küchengerät. Der Geruch hält sich noch Stunden im Pausenraum, lange nachdem die schuldige Person geflohen ist.",
+      "id": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+      "title": "Fisch im Büro aufwärmen",
+      "points": 2
+    },
+    {
+      "description": "Eine britische Suchbuchreihe, in der eine gestreift gekleidete Figur in dicht bevölkerten Bildern gefunden werden muss. Die Idee zur versteckten Figur kam von einem Redakteur, nachdem der Zeichner den Auftrag für das Buch bereits erhalten hatte.",
+      "id": "bf9ec332-4873-4b6c-90d3-92f211c349f0",
+      "title": "Wo ist Walter?",
+      "points": 1
+    },
+    {
+      "description": "Eine Redewendung für den kleinen letzten Vorfall, durch den jemand endgültig die Geduld verliert. Andere Sprachen verwenden dafür eigene Bilder; im Englischen ist es ein Strohhalm auf einem Kamel.",
+      "id": "97d61403-9d62-4a94-af01-8113f18f408d",
+      "title": "Der Tropfen, der das Fass zum Überlaufen bringt",
+      "points": 1
+    },
+    {
+      "description": "Ein gebogenes Wurfgerät australischer Ureinwohner, das bei richtiger Technik zum Werfer zurückkehrt. Der Rekord für einen zurückkehrenden Wurf liegt bei 238 Metern, ungefähr zwei aneinandergereihten Fußballfeldern.",
+      "id": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+      "title": "Ein Bumerang",
+      "points": 1
+    },
+    {
+      "description": "Eine erfundene Begleitperson aus der Kindheit mit eigenem Namen und eigener Persönlichkeit. Psychologen halten solche Begleiter für gesund; betroffene Kinder zeigen oft mehr soziale Empathie und bessere Problemlösung.",
+      "id": "e1a303ac-4247-4f82-b443-e2e31daea751",
+      "title": "Ein imaginärer Freund",
+      "points": 2
+    },
+    {
+      "description": "Ein Erzählmittel, bei dem die Handlung an einem besonders spannenden Punkt abrupt endet. Der Trick ist so wirksam, dass selbst Nachrichtensendungen vor der Werbepause eine Variante davon einsetzen.",
+      "id": "7efae148-2cc5-463a-8d51-19d649131976",
+      "title": "Ein Cliffhanger",
+      "points": 1
+    },
+    {
+      "description": "Das weiße, aus Reifenringen bestehende Maskottchen eines französischen Herstellers. Das Unternehmen dahinter entscheidet außerdem, welche Restaurants die begehrtesten kulinarischen Sterne erhalten.",
+      "id": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc",
+      "title": "Das Michelin-Männchen",
+      "points": 2
+    },
+    {
+      "description": "Eine menschenähnliche Messfigur, die bei Fahrzeugkollisionen Belastungen auf den Körper erfasst. Frühe Exemplare waren umfunktionierte medizinische Skelette; moderne tragen mehr als hundert Sensoren.",
+      "id": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+      "title": "Ein Crashtest-Dummy",
+      "points": 1
+    },
+    {
+      "description": "Der verbleibende Anteil eines gemeinsam bestellten italienischen Gerichts, den niemand am Tisch zu nehmen wagt. Nur die mutige Frage „Will das noch jemand?“ kann die Pattsituation beenden.",
+      "id": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+      "title": "Das letzte Stück Pizza",
+      "points": 2
+    },
+    {
+      "description": "Ein unwillkürlicher Reflex, bei dem sich der Mund weit öffnet und tief eingeatmet wird. Er kann schon durch das Beobachten anderer ausgelöst werden. Selbst darüber zu lesen reicht bei vielen Menschen – entschuldige!",
+      "id": "312f14af-1fdb-4040-9b5c-85167a3889b4",
+      "title": "Ansteckendes Gähnen",
+      "points": 3
+    },
+    {
+      "description": "Eine Erzählfigur, die dem Helden äußerlich gleicht, aber einen finsteren Charakter besitzt. Wenn ich einen hätte, hieße er „36“.",
+      "id": "fb504832-5170-40be-900c-b19d0d53c2b4",
+      "title": "Ein böser Zwilling",
+      "points": 1
+    },
+    {
+      "description": "Unwillkürliche Krämpfe des Zwerchfells, die wiederholt ein kurzes, markantes Geräusch erzeugen. Ein amerikanischer Farmer litt 68 Jahre lang darunter – schätzungsweise 430 Millionen Krämpfe.",
+      "id": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+      "title": "Schluckauf",
+      "points": 1
+    },
+    {
+      "description": "Ein stummer Darsteller, der nur durch übertriebene Gesten und Gesichtsausdrücke kommuniziert. Häufig steckt diese Person in einem unsichtbaren Kasten fest.",
+      "id": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+      "title": "Ein Pantomime",
+      "points": 1
+    },
+    {
+      "description": "Eine Person, die nach einer Feier noch bleibt, obwohl längst alle anderen nach Hause gegangen sind. Scheitern demonstratives Gähnen und Abräumen, kann die Person, die eingeladen hat, noch das Licht ausschalten.",
+      "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
+      "title": "Der Partygast, der nicht gehen will",
+      "points": 3
+    },
+    {
+      "description": "Die bewusste Entscheidung, getönte Sehhilfen auch in geschlossenen Räumen nicht abzunehmen. Beliebt bei Menschen, die cool oder wichtig wirken wollen – oder schlicht keine Lust haben, das Accessoire abzunehmen.",
+      "id": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+      "title": "Drinnen eine Sonnenbrille tragen",
+      "points": 2
+    },
+    {
+      "description": "Eine geräuschlose Abgabe von Darmgasen, deren Anwesenheit nur durch den Geruch verraten wird. Vielleicht schlimmer als die laute Variante, die wenigstens so höflich ist, ihre Ankunft anzukündigen.",
+      "id": "e058babc-7311-4426-a552-cb87ea01158d",
+      "title": "Ein leiser Furz",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Ein untröstlicher Säugling an Bord, der für viele als unangenehmster Mitreisender gilt. Einige asiatische Airlines testeten Ruhezonen, um andere Passagiere zu verschonen.",
+      "id": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+      "title": "Ein weinendes Baby im Flugzeug",
+      "points": 2
+    },
+    {
+      "description": "Ein Kelch aus der christlichen Legende, der beim letzten Abendmahl verwendet worden sein soll. Ein 1910 entdeckter vermeintlicher Fund erwies sich laut Untersuchungen nur als besonders verzierte Öllampe.",
+      "id": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+      "title": "Der Heilige Gral",
+      "points": 1
+    },
+    {
+      "description": "Eine Lichtquelle aus orientalischen Erzählungen, aus der beim Reiben ein Wünsche erfüllender Geist erscheint. Weitere Wünsche sind streng verboten; mehr Exemplare davon zu verlangen klingt allerdings nach einer verdächtigen Lücke.",
+      "id": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+      "title": "Eine Wunderlampe",
+      "points": 1
+    },
+    {
+      "description": "Die führende wissenschaftliche Erklärung für den Ursprung des Universums vor etwa 13,8 Milliarden Jahren. Astronom Fred Hoyle prägte die Bezeichnung spöttisch, weil er eine konkurrierende Erklärung bevorzugte.",
+      "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+      "title": "Der Urknall",
+      "points": 1
+    },
+    {
+      "description": "Eine echte Geheimgesellschaft des 18. Jahrhunderts, aus der eine besonders langlebige Verschwörungstheorie entstand. Die 1776 in Bayern gegründete Gruppe wurde von der Regierung schon innerhalb eines Jahrzehnts aufgelöst.",
+      "id": "68c97440-7c83-43a3-9838-b5e967d01e38",
+      "title": "Die Illuminaten",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Eine Weckerfunktion, die den Alarm um einige Minuten verschiebt, bevor er erneut ertönt. Schlafforscher sagen, die zusätzlichen Minuten schadeten mehr als sie nützten und machten oft noch benommener.",
+      "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+      "title": "Die Schlummertaste",
+      "points": 1
+    },
+    {
+      "description": "Ein Bild für die innere Stimme, die zu Unfug und schlechten Entscheidungen verleitet. In Zeichentrickfilmen steht gegenüber stets ein Engel, der widersprüchliche moralische Ratschläge erteilt.",
+      "id": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
+      "title": "Der Teufel auf deiner Schulter",
+      "points": 3
+    },
+    {
+      "description": "Ein Wettbewerb, bei dem Teilnehmende auf rollbaren Sitzmöbeln eine Strecke zurücklegen. In Kyoto dauert ein solcher Wettkampf zwei Stunden; der Sieger erhält 90 Kilogramm Reis.",
+      "id": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+      "title": "Ein Bürostuhlrennen",
+      "points": 3
+    },
+    {
+      "description": "Drei motivierende Wörter, die häufig auf dekorativen Wandschildern in Wohnungen und Küchen stehen. Varianten finden sich auf Postern, Aufklebern, Kissen, Tassen, Bettwäsche, Schmuck und sogar Särgen.",
+      "id": "568eae83-05d3-47c1-bc31-e3ddfd7d6fdc",
+      "title": "Lebe, liebe, lache",
+      "points": 2
+    },
+    {
+      "description": "Eine Menge von Regeln, mit denen soziale Netzwerke bestimmen, welche Inhalte einzelne Personen sehen. Bester Freund und schlimmster Feind von Influencern auf der ganzen Welt.",
+      "id": "85eabdcd250a7a4e",
+      "title": "Der Algorithmus",
+      "points": 1
+    },
+    {
+      "description": "Das gemeinsame Essen Jesu Christi mit den zwölf Aposteln kurz vor seiner Kreuzigung. Da Vincis berühmtes Gemälde davon überstand im Zweiten Weltkrieg nur knapp einen Bombenangriff.",
+      "id": "980cb9f08ba2166e",
+      "title": "Das letzte Abendmahl",
+      "points": 2
+    },
+    {
+      "description": "Ein Kinderspiel, bei dem eine Person mit geschlossenen Augen zählt, während alle anderen einen verborgenen Ort suchen. In einer verlassenen Geisterstadt Norditaliens fand sogar einmal eine Weltmeisterschaft für Erwachsene statt.",
+      "id": "4607ef0f3ce0830c",
+      "title": "Verstecken",
+      "points": 1
+    },
+    {
+      "description": "Ein kleines gelbes Badespielzeug in Form eines Wasservogels. 1992 fielen Tausende Exemplare von einem Frachter in den Pazifik; Forschende nutzen ihre Reise seither zur Untersuchung von Meeresströmungen.",
+      "id": "514087352f094b1a",
+      "title": "Eine Gummiente",
+      "points": 1
+    },
+    {
+      "description": "Eine absichtlich schwer auszusprechende Wortfolge, bei der man besonders bei hohem Tempo leicht stolpert. Guinness erklärte einst „the sixth sick sheikh’s sixth sheep’s sick“ zum schwierigsten englischen Beispiel.",
+      "id": "87f40d1838be97a1",
+      "title": "Ein Zungenbrecher",
+      "points": 2
+    }
+  ]
+}
