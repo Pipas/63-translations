@@ -15,7 +15,7 @@
       "points": 1
     },
     {
-      "description": "Um mito que afirma haver uma janela de tempo aceitável para pegar e comer algo após ter caído no chão. Vários estudos foram feitos sobre a veracidade desta hipótese, mas nenhum consenso foi alcançado.",
+      "description": "Um mito que afirma haver uma janela de tempo aceitável para pegar e comer algo após ter caído no chão. O prazo estica mais se a comida for mesmo boa.",
       "id": "66bdb3a884826a85",
       "title": "A regra dos 5 segundos",
       "points": 2
@@ -896,7 +896,7 @@
       "points": 2
     },
     {
-      "description": "Uma técnica de primeiros socorros que desobstrui as vias respiratórias com compressões bruscas para cima no abdômen. O médico que a inventou só precisou usá-la em alguém quando já tinha 96 anos.",
+      "description": "Uma técnica de primeiros socorros que desobstrui as vias respiratórias com compressões bruscas para cima no abdômen. Aos 96 anos, o médico que a inventou usou-a para salvar outro morador da sua casa de repouso.",
       "id": "a2737d5c-387e-485c-8891-333278cef79d",
       "title": "A manobra de Heimlich",
       "points": 3
@@ -1059,7 +1059,7 @@
       "points": 2
     },
     {
-      "description": "A teoria que explica o nascimento do universo numa expansão violenta, há cerca de 13,8 bilhões de anos. Curiosamente, o nome foi cunhado em tom de piada por um cientista que não acreditava na ideia.",
+      "description": "A teoria que explica o nascimento do universo numa expansão violenta, há cerca de 13,8 bilhões de anos. Curiosamente, o nome foi cunhado por um cientista que não acreditava na ideia.",
       "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
       "title": "O Big Bang",
       "points": 1

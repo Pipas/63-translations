@@ -15,7 +15,7 @@
       "points": 1
     },
     {
-      "description": "Mythe alimentaire selon lequel il existe un court laps de temps pendant lequel on peut ramasser et manger ce qui est tombé par terre.",
+      "description": "Mythe alimentaire selon lequel il existe un court laps de temps pendant lequel on peut ramasser et manger ce qui est tombé par terre. Le délai s'allonge considérablement si c'était vraiment bon.",
       "id": "66bdb3a884826a85",
       "title": "La règle des 5 secondes",
       "points": 2
@@ -904,7 +904,7 @@
       "points": 2
     },
     {
-      "description": "Geste de premiers secours qui débloque les voies respiratoires par des compressions sèches sous les côtes.",
+      "description": "Geste de premiers secours qui débloque les voies respiratoires par des compressions sèches sous les côtes. À 96 ans, son inventeur s'en est servi pour sauver un résident de sa maison de retraite.",
       "id": "a2737d5c-387e-485c-8891-333278cef79d",
       "title": "La manœuvre de Heimlich",
       "points": 3
@@ -1097,7 +1097,7 @@
       "points": 1
     },
     {
-      "description": "La théorie scientifique dominante sur l'origine de l'univers, il y a environ 13,8 milliards d'années. Le nom a été lancé par moquerie par l'astronome Fred Hoyle, qui défendait une théorie concurrente.",
+      "description": "La théorie scientifique dominante sur l'origine de l'univers, il y a environ 13,8 milliards d'années. Le nom a été lancé par l'astronome Fred Hoyle, qui défendait pourtant une théorie concurrente.",
       "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
       "title": "Le Big Bang",
       "points": 1
@@ -1116,7 +1116,7 @@
       "points": 2
     },
     {
-      "description": "La fonction du réveil qui repousse la sonnerie de quelques minutes avant qu'elle ne recommence.",
+      "description": "La fonction du réveil qui repousse la sonnerie de quelques minutes avant qu'elle ne recommence. Presque personne ne s'arrête à une seule fois.",
       "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
       "title": "Le bouton snooze",
       "points": 1
