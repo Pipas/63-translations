@@ -1,0 +1,389 @@
+{
+  "common": {
+    "game_mode": "Spillmodus",
+    "teams": "Lag",
+    "team": "Lag",
+    "add_team": "Legg til lag",
+    "skipping": "Pass",
+    "skipping_tooltip": "Når dette er slått på, kan spillere passe kort med knappen eller sveipe mot venstre.",
+    "penalty": "Straffetid",
+    "penalty_tooltip": "Antall sekunder som trekkes fra tiden hver gang et kort blir passet.",
+    "seconds": "Sekunder",
+    "options": "Alternativer",
+    "rounds": "Runder",
+    "rounds_tooltip": "Hvor mange runder spillet har.\n\nDu kan lage egne runder, for eksempel:\n• Tegne kortene\n• Bare armer bak sofaen\n• Bare hodet bak sofaen\n• Mime under et laken\n• Tolkende dans",
+    "time": "Tid",
+    "time_tooltip": "Hvor lenge hver spillers tur varer, i sekunder.",
+    "loop_skipped_cards": "Trekk passede kort igjen",
+    "loop_skipped_cards_tooltip": "Når dette er slått på, kan passede kort trekkes igjen senere på samme spillers tur.",
+    "preview_score": "Vis poengsum",
+    "preview_score_tooltip": "Når dette er slått på, vises den gjeldende poengsummen etter hver tur.\nNår det er slått av, vises poengsummen først når spillet er slutt.",
+    "hide_descriptions": "Skjul beskrivelser",
+    "hide_descriptions_tooltip": "Når dette er slått på, skjules beskrivelsene på kortene under spillet.",
+    "carry_over_time": "Ta tiden med videre",
+    "carry_over_time_tooltip": "Når dette er slått på, beholder et lag klokken hvis det går tomt for kort med mer enn 10 sekunder igjen, og starter neste runde med tiden som var igjen.\nUnder 10 sekunder tas ikke med videre.",
+    "time_carried_over": "s tatt med videre",
+    "time_carried_over_description": "Den samme spilleren fortsetter denne runden.",
+    "deck": "Kortstokk",
+    "size": "Størrelse",
+    "packs": "Pakker",
+    "new_badge": "NY",
+    "cards": "Kort",
+    "short_game": "Kort spill",
+    "regular_game": "Vanlig spill",
+    "long_game": "Langt spill",
+    "settings": "Innstillinger",
+    "language": "Språk",
+    "about": "Om",
+    "credits": "Medvirkende",
+    "legal_stuff": "Juridisk",
+    "privacy_policy": "Personvernerklæring",
+    "terms_and_conditions": "Vilkår og betingelser",
+    "licences": "Lisenser",
+    "ad_privacy": "Annonsepersonvern",
+    "contact_us": "Kontakt oss",
+    "sound": "Lyd",
+    "sound_tooltip": "Når dette er slått på, brukes lydeffekter.",
+    "show_rule_tooltips": "Vis regler",
+    "show_rule_tooltips_tooltip": "Når dette er slått på, vises reglene som små påminnelser under spillet.",
+    "accessibility": "Tilgjengelighet",
+    "app_size": "Appstørrelse",
+    "app_size_tooltip": "Gjør tekst og knapper større i hele appen.",
+    "card_text_size": "Tekststørrelse på kort",
+    "card_text_size_tooltip": "Gjør tittelen og beskrivelsen på kortene større under et spill.",
+    "high_contrast": "Høy kontrast",
+    "high_contrast_tooltip": "Gjør svak tekst mørkere og sørger for at pakke- og lagfarger bruker tekstfargen som er lettest å lese oppå dem.",
+    "legible_font": "Lettlest skrifttype",
+    "legible_font_tooltip": "Bytter teksten i appen til Atkinson Hyperlegible, en skrifttype laget for at bokstaver og tall som ligner på hverandre, skal være enkle å skille.",
+    "leave": "Forlat",
+    "rules": "Regler",
+    "resume": "Fortsett",
+    "confirm": "Bekreft",
+    "cancel": "Avbryt",
+    "round": "Runde",
+    "start_turn": "Start tur",
+    "skip": "Pass",
+    "game_paused": "Spillet er pauset",
+    "leave_game": "Forlat spillet",
+    "leave_game_tooltip": "Er du sikker på at du vil forlate spillet? Fremdriften går tapt.",
+    "end_turn": "Avslutt tur",
+    "end_round": "Avslutt runde",
+    "end_game": "Avslutt spillet",
+    "game_over": "Spillet er slutt",
+    "its_a_tie": "Det ble uavgjort!",
+    "times_up": "Tiden er ute!",
+    "no_more_cards": "Ingen flere kort!",
+    "exit": "Avslutt",
+    "play": "Spill",
+    "start_game": "Start spillet",
+    "continue": "Fortsett",
+    "support_button": "Støtt oss",
+    "rate_title": "Liker du 63?",
+    "rate_subtitle": "Vurder spillet og hjelp oss med å nå flere",
+    "back": "Tilbake",
+    "ok": "OK",
+    "recover_game_title": "Fortsett spillet",
+    "recover_game_description": "Det forrige spillet ditt ble ikke fullført. Vil du fortsette?",
+    "recover_game_resume": "Fortsett",
+    "recover_game_ignore": "Ignorer",
+    "cards_left": "{count} kort igjen",
+    "see_more": "Vis mer",
+    "see_less": "Vis mindre"
+  },
+  "mode": {
+    "classic": {
+      "title": "Klassisk",
+      "description": "Standardreglene i 63. Tre runder, to lag og én vinner!"
+    },
+    "chill": {
+      "title": "Avslappet",
+      "description": "Ingen poeng, ingen straffetid og alle spiller sammen!"
+    },
+    "competitive": {
+      "title": "Konkurranse",
+      "description": "For dem som liker konkurranse.\nDet gir straffetid å passe."
+    },
+    "blitz": {
+      "title": "Lyn",
+      "description": "Færre kort, mindre tid og du kan ikke passe!"
+    },
+    "custom": {
+      "title": "Tilpasset",
+      "description": "Hvorfor spille etter våre regler?\nLag din egen modus."
+    }
+  },
+  "rules": {
+    "skip": "Hopp over",
+    "start": "Start",
+    "next": "Neste",
+    "lets_go": "Sett i gang!",
+    "know_more": "Les mer ...",
+    "home": {
+      "call_to_action": "Velkommen til"
+    },
+    "deck": {
+      "title": "63 handler om å gjette kort",
+      "text": "Lagene konkurrerer om å få flest poeng.",
+      "info": "Hvert spill lager en helt ny kortstokk med kort fra flere pakker."
+    },
+    "example_card": {
+      "title": "Et eksempelkort",
+      "description": "Bare et eksempel. Ekte kort er personer, filmer og ting som skal gjettes. Og de har vanligvis en ekstra beskrivelseslinje med et morsomt faktum eller en liten vits."
+    },
+    "example_card_2": {
+      "title": "Noe uklart på skjermen",
+      "description": "Borte før du rakk å lese det, ikke sant? Jeg hater når det skjer. Jeg kunne sverget på at det sto noe der!"
+    },
+    "example_card_3": {
+      "title": "Enda et eksempelkort",
+      "description": "Det var ikke meningen at du skulle lese dette. Men siden du gjorde det, kan du jo si hva du syntes."
+    },
+    "example_card_4": {
+      "title": "Fikk du med deg det?",
+      "description": "Nei? Det gikk litt for fort. Hva var det? Ingen vet, men kanskje det var viktig."
+    },
+    "example_card_5": {
+      "title": "Et morsomt kort",
+      "description": "Det morsomste kortet som noen gang er skrevet, men ingen får lest det fordi det flyr forbi. Ironisk, ikke sant?"
+    },
+    "cards": {
+      "title": "Hvert kort står for et begrep",
+      "text": "Det kan være alt fra historiske personer til populærkulturelle referanser",
+      "points": "Poeng",
+      "card_title": "Tittel",
+      "card_description": "Beskrivelse",
+      "info": "Et kort teller bare hvis hele tittelen blir sagt i riktig rekkefølge.",
+      "more_info": "Hvert kort har en kort beskrivelse som hjelper hvis du ikke kjenner begrepet. Bruk den som utgangspunkt for hintene dine, men ikke bare les den opp.\n\nDet er ditt spill, så følg reglene så strengt eller løst du vil."
+    },
+    "default_card": {
+      "title": "Alene hjemme",
+      "description": "En komediefilm fra 1990 med Macaulay Culkin om et barn som blir etterlatt og må forsvare huset mot innbruddstyver."
+    },
+    "teams": {
+      "title": "To lag bytter på å gjette kort",
+      "text": "Én spiller gir hint mens laget prøver å gjette tittelen på kortet",
+      "info": "Alle må ha gitt hint én gang før noen får gjøre det igjen."
+    },
+    "turn": {
+      "title": "Hver tur varer i 63 sekunder",
+      "text": "Under en **tur** gjetter laget så mange kort som mulig",
+      "info": "Spilleren som gir hint, holder telefonen."
+    },
+    "rounds": {
+      "title": "Spillet har 3 runder",
+      "text": "Hver **runde** består av flere **turer** og slutter når alle kortene i kortstokken er gjettet",
+      "current_round": "Gjeldende\nrunde",
+      "info": "Den samme kortstokken brukes i alle tre rundene.",
+      "more_info": "I starten av hver runde stokkes kortstokken og spilles på nytt.\n\nFølg med når motstanderne spiller, for kortene de gjetter, kommer tilbake i senere runder."
+    },
+    "round1": {
+      "title": "Runde 1",
+      "subtitle": "Forbudte ord",
+      "text": "Beskriv kortet som du vil, men du kan ikke si noen av ordene i tittelen",
+      "clue1": "Julefilm om en gutt som blir etterlatt i huset",
+      "clue2": "Med Macaulay Culkin!",
+      "info": "For «Alene hjemme» kan du ikke si «alene» eller «hjemme».",
+      "more_info": "Preposisjoner regnes ikke som forbudte ord.\n\nHvis noen sier et forbudt ord og kortet blir gjettet, kan det andre laget protestere, og kortet markeres som feil etter turen.",
+      "note": "Forbudte ord",
+      "note_description": "Du kan ikke bruke ord fra tittelen på kortet"
+    },
+    "round2": {
+      "title": "Runde 2",
+      "subtitle": "Bare ett ord",
+      "text": "Du kan bare gi ett enkelt ord som hint, uten lyder eller bevegelser",
+      "clue": "Kevin!",
+      "info": "Husk: Alle kortene ble allerede vist i runde 1.",
+      "more_info": "For å komme til runde 2 må alle kortene ha blitt gjettet i runde 1.\n\nKortene er de samme, men det blir vanskeligere å gi hint for hver runde!",
+      "note": "Ett ord",
+      "note_description": "Du kan bare gi hint på ett ord."
+    },
+    "round3": {
+      "title": "Runde 3",
+      "subtitle": "Mimelek",
+      "text": "Ingen ord, bare bevegelser og lyder!",
+      "clue": "😱",
+      "note": "Mimelek",
+      "note_description": "Ord er forbudt, bruk bare bevegelser og lyder!"
+    },
+    "controls": {
+      "guess_text": "Hvis laget ditt gjetter kortet, trykker du på gjetteknappen **CHECK_ICON**",
+      "skip_text": "Ingen hint, eller vil du ha et nytt kort? Trykk på **Pass**",
+      "info": "Du kan også sveipe for å markere kort som gjettet eller passet.",
+      "more_info": "Sveip mot høyre for å markere kortet som gjettet, og mot venstre for å passe. Passede kort blir i kortstokken og kommer tilbake senere i samme runde, så du får en ny sjanse.\n\nI Klassisk modus er det gratis å passe, så ikke bare se på at tiden går!"
+    },
+    "post_turn": {
+      "summary_text": "Etter **turen** ser du en oppsummering av alle kortene du gjettet og passet",
+      "controls_text": "Her kan du endre resultatet for et kort hvis en regel ble brutt eller noen gjorde en feil under spillet",
+      "note": "Turoppsummering",
+      "note_description": "Her kan du endre resultatet for kortene hvis du gjorde en feil eller brøt en regel under spillet."
+    },
+    "end_turn": {
+      "end_turn_text": "Trykk på **Avslutt tur** for å gi turen til neste lag, og gi deretter telefonen videre.",
+      "round_text": "Den **gjeldende runden**, med sine regler, fortsetter til alle kortene i kortstokken er gjettet.",
+      "info": "Ikke glem å avslutte turen før du gir telefonen videre!",
+      "more_info": "Hvis du ikke gjør det, kan den neste spilleren få se kort som ble passet denne runden og fortsatt er med i spillet."
+    },
+    "end_game": {
+      "title": "Spillet slutter etter runde 3",
+      "subtitle": "Laget med flest poeng vinner, men det visste du allerede!"
+    }
+  },
+  "support": {
+    "title": "Fjern annonser og støtt 63!",
+    "description": "63 er et uavhengig prosjekt, og bidraget ditt hjelper oss med å vedlikeholde og videreutvikle det.",
+    "select_option": "Velg alternativ",
+    "standard": {
+      "title": "Standard",
+      "description": "Fjerner alle annonser fra spillet for alltid."
+    },
+    "fan": {
+      "title": "63-fan",
+      "description": "Fjerner alle annonser for alltid og viser at du setter pris på prosjektet."
+    },
+    "contribute": "Bidra",
+    "thank_you": {
+      "card_title": "Takk",
+      "card_description": "63 er et uavhengig sideprosjekt som jeg har laget utelukkende på fritiden. Jeg har lagt mye omtanke og innsats i å gjøre spillet til en best mulig opplevelse. Hjertelig takk, og jeg håper du liker å spille 63 like godt som jeg likte å lage det!",
+      "author": "Paulo Correia"
+    },
+    "no_internet": {
+      "title": "Uten nett",
+      "description": "Kontroller internettforbindelsen din"
+    },
+    "error": {
+      "title": "Noe gikk galt",
+      "description": "Vi kunne ikke laste inn støttealternativene. Prøv igjen",
+      "retry": "Prøv igjen"
+    },
+    "restore_purchases": "Gjenopprett kjøp",
+    "restore_purchases_error": "Kunne ikke gjenopprette kjøp"
+  },
+  "credits": {
+    "created_by": "Laget av",
+    "sound": "Lyd",
+    "cards": "Kort",
+    "localisation": "Oversettelse",
+    "design_help": "Designhjelp",
+    "special_thanks": "En spesiell takk til",
+    "everyone_who_believed": "og alle som\ntrodde på meg",
+    "font": "Skrifttype",
+    "by": "av",
+    "developed_with": "Utviklet med",
+    "made_in": "Laget i",
+    "portugal": "Portugal 🇵🇹",
+    "and_thank_you": "... og takk til deg",
+    "for_playing": "for at du spiller"
+  },
+  "deck": {
+    "use_only_unplayed": "Bare uspilte kort",
+    "use_only_unplayed_tooltip": "Bare kort som ikke har vært med i tidligere spill, blir brukt. Hvis det ikke er nok, starter spillet med færre kort.",
+    "kids_mode": "KIDS-modus",
+    "kids_mode_label": "{kids}-modus",
+    "kids_mode_tooltip": "Skjuler kort og fellesskapspakker som ikke passer for barn. Private pakker vises alltid.",
+    "distribution": "Kortfordeling",
+    "not_enough_cards": "Kortstokken vil bare ha {count} kort",
+    "no_cards_available": "Ingen tilgjengelige kort til kortstokken",
+    "all_cards_played": "Alle kort er spilt",
+    "only_n_available": "Bare {count} kort igjen",
+    "unassigned": "Ikke fordelt: {count}",
+    "reset": "Tilbakestill"
+  },
+  "packs": {
+    "add_packs": "Legg til pakker",
+    "create_packs_title": "Lag dine egne pakker",
+    "create_packs_description": "Skriv kort, samarbeid med venner og del pakkene dine med hele verden!",
+    "featured_title": "Fremhevet",
+    "community_title": "Fellesskapet",
+    "community_empty": "Ingen pakker ennå. Bli den første som sender inn!",
+    "filter_popular": "Populære",
+    "filter_new": "Nye",
+    "filter_language": "Språk",
+    "language_picker_title": "Språk",
+    "language_any": "Alle språk",
+    "by_author": "av {name}",
+    "by_author_plus": "av {name} +{count}",
+    "code_input_placeholder": "Har du en pakkekode?",
+    "details_title": "Detaljer",
+    "pack_not_found": "Denne pakken er ikke lenger tilgjengelig.",
+    "featured_pill": "Fremhevet",
+    "official_pill": "Offisiell",
+    "info_language": "Språk",
+    "info_cards": "Kort",
+    "info_likes": "Likes",
+    "about_section": "Om denne pakken",
+    "contributors_section": "Bidragsytere",
+    "sample_cards_title": "Eksempelkort",
+    "all_cards_title": "Alle kort",
+    "sample_cards_count": "{shown} av {total}",
+    "spoiler_warning_title": "Obs, disse kan avsløre innhold",
+    "spoiler_warning_body": "Du kan se noen kort før du legger til pakken, men da mister du overraskelsen under spillet.",
+    "spoiler_reveal": "Vis likevel",
+    "see_all_cards": "Vis alle {count} kort",
+    "reveal_all_title": "Vil du vise alle kortene?",
+    "reveal_all_body": "Du får se hele pakken med {count} kort. Det er nyttig når du skal velge en pakke, men ødelegger overraskelsen hvis du skal spille.",
+    "reveal_all_confirm": "Vis",
+    "announcement_title": "Lag dine egne pakker!",
+    "announcement_body": "Nå kan du lage pakker med dine egne kort, samarbeide med venner og dele dem med hele verden!\n\nGå til {link} for å begynne.",
+    "code_hint": "ABC123",
+    "add_pack_button": "Legg til pakke",
+    "already_added": "Allerede i samlingen",
+    "pack_added_hidden_kids": "{name} er lagt til, men skjult i KIDS-modus.",
+    "watch_ad_title": "Tid for en reklamepause",
+    "watch_ad_body": "Gratiskontoer må se en kort annonse før de legger til en ny pakke. Det bidrar til at 63 kan fortsette å være gratis for alle.",
+    "watch_ad_button": "Se annonse",
+    "watch_ad_remove_cta": "Fjern annonser",
+    "pack_added": "{name} er lagt til!",
+    "error_empty_code": "Skriv inn en pakkekode",
+    "error_not_found": "Fant ikke pakken. Kontroller koden og prøv igjen.",
+    "error_network": "Nettverksfeil. Kontroller forbindelsen.",
+    "load_error": "Kunne ikke laste fellesskapspakker.",
+    "load_retry": "Prøv igjen",
+    "load_more": "Last inn flere",
+    "updated": "Oppdatert",
+    "played_count": "{played}/{total} spilt",
+    "delete_pack_button": "Slett",
+    "delete_pack_description": "Du kan legge den til igjen senere.",
+    "pack_deleted": "{name} er slettet",
+    "report_pack_title": "Rapporter denne pakken",
+    "report_pack_description": "Fortell oss hva som er galt, så ser vi nærmere på det.",
+    "report_reason_inappropriate": "Upassende innhold",
+    "report_reason_spam": "Spam",
+    "report_reason_copyright": "Brudd på opphavsretten",
+    "report_reason_other": "Annet",
+    "report_note_hint": "Merknad (valgfritt)",
+    "report_submit": "Send inn",
+    "report_submitted": "Pakken er rapportert",
+    "report_already_submitted": "Du har allerede rapportert denne pakken",
+    "report_failed": "Kunne ikke sende inn rapporten. Prøv igjen."
+  },
+  "post_game": {
+    "liked_packs_title": "Likte du disse pakkene?",
+    "leave_a_like": "Gi dem en like, så flere kan finne dem",
+    "stats_title": "Spillstatistikk",
+    "game_time": "Spilletid",
+    "turns": "Turer spilt",
+    "cards_title": "Kort",
+    "col_guesses": "Gjettet",
+    "col_skips": "Passet",
+    "points_per_round_title": "Poeng per runde",
+    "round_short": "R{round}",
+    "total": "Totalt",
+    "best_turn": "Beste tur",
+    "worst_turn": "Svakeste tur",
+    "cards_unit": "kort",
+    "skips_unit": "pass",
+    "points_unit": "poeng",
+    "in_round": "i R{round}",
+    "toughest_card": "Vanskeligste kort",
+    "easiest_card": "Enkleste kort",
+    "skipped_n_times": "Passet {count}×",
+    "easiest_subtitle": "Passet {skips}× · {avg}s i snitt"
+  },
+  "translations": {
+    "ai_notice": "Denne oversettelsen er laget med KI. Har du funnet en feil eller lyst til å gjøre den bedre?",
+    "contact_us": "Kontakt oss",
+    "missing_language": "Finner du ikke språket ditt?",
+    "help_translate": "Hjelp med å oversette 63",
+    "help_description": "Har du funnet en feil i en oversettelse, eller vil du spille 63 på ditt språk? Ta kontakt hvis du vil hjelpe."
+  }
+}

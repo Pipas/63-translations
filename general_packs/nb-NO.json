@@ -1,0 +1,1266 @@
+{
+  "name": "Generelt",
+  "cards": [
+    {
+      "description": "En langvarig hudsykdom som rammer rundt 80 % av tenåringer i den vestlige verden. Frem til 1900-tallet trodde mange feilaktig at onani var en årsak.",
+      "id": "b15166bdb3a88482",
+      "title": "Akne",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "En japansk figur fra 1974: en hvit katt uten munn og med rød sløyfe. Hun ble raskt et verdensomspennende fenomen og inngår i en av klodens største medieserier.",
+      "id": "d5b0dc39299f12d9",
+      "title": "Hello Kitty",
+      "points": 1
+    },
+    {
+      "description": "En matmyte som sier at noe som faller på gulvet, kan spises hvis det plukkes opp raskt nok. Mange studier har undersøkt påstanden uten å nå noen enighet.",
+      "id": "66bdb3a884826a85",
+      "title": "Femsekundersregelen",
+      "points": 2
+    },
+    {
+      "description": "En pokerhånd med ess, konge, dame, knekt og tier i samme farge. Sjansen for denne kombinasjonen er 1 av 649 739, bare litt større enn å bli truffet av lynet.",
+      "id": "26a85346d84e5d84",
+      "title": "Royal flush",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "En verdensomspennende ungdomsorganisasjon med hovedsete i Sveits og kristne verdier. Den er kanskje bedre kjent fra Village Peoples sang fra 1978.",
+      "id": "ab9ada8e35619dc9",
+      "title": "YMCA",
+      "points": 1
+    },
+    {
+      "description": "Ifølge Einsteins relativitetsteori er dette den høyeste farten en partikkel kan ha. I vakuum er den nøyaktig 299 792 458 m/s.",
+      "id": "4e5d84ee4fd2b865",
+      "title": "Lysets hastighet",
+      "points": 2
+    },
+    {
+      "description": "Tilbehøret som U2-vokalisten nesten alltid har på seg. Han har fortalt at det hjelper mot synsproblemer knyttet til grønn stær.",
+      "id": "4a02d6ad5b0dc392",
+      "title": "Bonos solbriller",
+      "points": 2
+    },
+    {
+      "description": "En nasjonal personifisering av USAs regjering og landet som helhet. Figuren er særlig kjent fra hærens plakat fra 1917 med teksten «I WANT YOU».",
+      "id": "85346d84e5d84ee4",
+      "title": "Onkel Sam",
+      "points": 1
+    },
+    {
+      "description": "En britisk animasjonsserie for barn fra 1998 om en håndverker og de levende arbeidsmaskinene hans.",
+      "id": "b68a945311fc0874",
+      "title": "Byggmester Bob",
+      "points": 2
+    },
+    {
+      "description": "En periode med endret identitet og selvtillit som kan oppstå i voksen alder. Den utløses ofte av tanker om dødelighet eller mål man ikke har nådd.",
+      "id": "a38b15166bdb3a88",
+      "title": "Midtlivskrise",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "En situasjon der den ene i et platonisk forhold ønsker romantikk, mens den andre ikke gjør det.",
+      "id": "6bdb3a884826a853",
+      "title": "Friendzone",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Spillet du spiller akkurat nå!",
+      "id": "2b6371df91904ba6",
+      "title": "63",
+      "points": 1
+    },
+    {
+      "description": "Et uttrykk for en åpenbar og viktig sak som ingen vil snakke om. Det stammer fra en fabel der en mann legger merke til alle småtingene på et museum, men overser et enormt dyr.",
+      "id": "d84ee4fd2b8656cd",
+      "title": "Elefanten i rommet",
+      "points": 2
+    },
+    {
+      "description": "En latinpop-hit av Luis Fonsi og Daddy Yankee fra 2017. En remiks med Justin Bieber bidro til at låten ble et verdensfenomen.",
+      "id": "71df91904ba61d67",
+      "title": "Despacito",
+      "points": 1
+    },
+    {
+      "description": "Tegnefilmenes fremste årsak til skader på dyr. Offeret kommer gjerne ut av ruinene med en stor kul i hodet og svarte og hvite tangenter i munnen.",
+      "id": "bdb3a884826a8534",
+      "title": "Et fallende piano",
+      "points": 2
+    },
+    {
+      "description": "Det gigantiske, sneglelignende romvesenet som holdt Han Solo fanget i den tredje Star Wars-filmen. Figuren var planlagt i den første filmen, men scenen ble klippet bort.",
+      "id": "a02d6ad5b0dc3929",
+      "title": "Jabba the Hutt",
+      "points": 2
+    },
+    {
+      "description": "En beholder for mynter som ofte brukes av barn. Tradisjonelt måtte den knuses for at eieren skulle få ut pengene.",
+      "id": "4ee4fd2b8656cda7",
+      "title": "Sparegris",
+      "points": 1
+    },
+    {
+      "description": "En menneskelignende katt fra et italiensk eventyr som bruker list for å hjelpe eieren sin. Figuren ble enda mer populær gjennom Shrek-filmene.",
+      "id": "ad5b0dc39299f12d",
+      "title": "Pus med støvler",
+      "points": 1
+    },
+    {
+      "description": "Kroppsdelen som den nederlandske postimpresjonisten skar av seg. Til tross for sin enorme innflytelse på kunsten solgte han bare ett maleri mens han levde.",
+      "id": "311fc0874d0a38b1",
+      "title": "Van Goghs øre",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "",
+      "id": "346d84e5d84ee4fd",
+      "title": "Ingenting",
+      "points": 1
+    },
+    {
+      "description": "En tilstand der en person med lav bevissthet utfører handlinger som om vedkommende var våken. Siden dette skjer ufrivillig, har det vært brukt som forsvar i retten.",
+      "id": "c4a02d6ad5b0dc39",
+      "title": "Søvngjengeri",
+      "points": 1
+    },
+    {
+      "description": "En av fire lodne skapninger med TV-skjermer på magen fra BBC-serien som startet i 1997. De heter Tinky Winky, Dipsy, Laa-Laa ... Po!",
+      "id": "99f12d9bb68a9453",
+      "title": "En Teletubby",
+      "points": 1
+    },
+    {
+      "description": "En italiensk organisasjon for kriminalitet med opphav på landets største øy på 1800-tallet. Det antas at mange av virksomhetene der fortsatt betaler beskyttelsespenger.",
+      "id": "a945311fc0874d0a",
+      "title": "Den sicilianske mafiaen",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "Handlingen som lot menneskemengden identifisere Jesus før arrestasjonen. Uttrykket brukes nå om en falsk vennlig gest.",
+      "id": "0dc39299f12d9bb6",
+      "title": "Judaskysset",
+      "points": 1
+    },
+    {
+      "description": "Svaret du sannsynligvis får hvis du spør Ian Flemings britiske agent hva han heter.",
+      "id": "1d67f4bab9ada8e3",
+      "title": "Bond, James Bond",
+      "points": 2
+    },
+    {
+      "description": "En måte å endre bilder på i den populære sosiale appen med spøkelseslogo. Blomsterkrone, regnbueoppkast og hundeører er blant klassikerne.",
+      "id": "fc0874d0a38b1516",
+      "title": "Snapchat-filtre",
+      "points": 2
+    },
+    {
+      "description": "Den ikoniske, knallfargede katten som ble maskot for filmene om den klønete franske inspektøren Jacques Clouseau. Den sniker seg rundt til en umiddelbart gjenkjennelig melodi.",
+      "id": "1904ba61d67f4bab",
+      "title": "Den rosa panteren",
+      "points": 1
+    },
+    {
+      "description": "Et symbol fra den russiske revolusjonen for samhold mellom bønder og industriarbeidere. Det forbindes særlig med kommunismen og var godt synlig på Sovjetunionens flagg.",
+      "id": "84826a85346d84e5",
+      "title": "Hammer og sigd",
+      "points": 3
+    },
+    {
+      "description": "Hovedpersonen i en TV-serie som bruker intelligens og tekniske ferdigheter til å komme seg ut av vanskelige situasjoner. Navnet er blitt et uttrykk for å finne en enkel og elegant løsning.",
+      "id": "948632cc4a02d6ad",
+      "title": "MacGyver",
+      "points": 2
+    },
+    {
+      "description": "Moren til ektefellen din.",
+      "id": "8a945311fc0874d0",
+      "title": "Svigermor",
+      "points": 1
+    },
+    {
+      "description": "Den pinlige situasjonen der glidelåsen foran på plagget ikke er lukket.",
+      "id": "8b15166bdb3a8848",
+      "title": "Åpen buksesmekk",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Et av de mest særegne kjennetegnene ved USAs 47. president. Sveisen er kjent for sin kunstige farge og uvanlige form.",
+      "id": "1df91904ba61d67f",
+      "title": "Trumps hår",
+      "points": 2
+    },
+    {
+      "description": "Et strengt hemmelig amerikansk militæranlegg i Nevada der noen mener at bevis på UFO-er skjules. I 2019 førte et spøkefullt Facebook-arrangement til planer om å storme basen.",
+      "id": "a8e35619dc9c3948",
+      "title": "Area 51",
+      "points": 2
+    },
+    {
+      "description": "En vintersport der to lag bytter på å sende steiner mot et mål. Spillerne feier isen foran dem for å påvirke fart og retning.",
+      "id": "f4bab9ada8e35619",
+      "title": "Curling",
+      "points": 2
+    },
+    {
+      "description": "Den rødhårede og fregnete hovedpersonen i Astrid Lindgrens barnebøker. Historiene er oversatt til 77 språk og filmatisert flere ganger.",
+      "id": "19dc9c3948632cc4",
+      "title": "Pippi Langstrømpe",
+      "points": 2
+    },
+    {
+      "description": "Hasbros serie med fantasifulle hesteleker som fikk sin egen animasjonsserie. Selv om målgruppen var unge jenter, fikk serien en stor kulttilhengerskare blant voksne menn.",
+      "id": "1fc0874d0a38b151",
+      "title": "My Little Pony",
+      "points": 1
+    },
+    {
+      "description": "En barnesang om en familie av store havfisker på jakt. Den gikk viralt og har fått over 13 milliarder visninger på YouTube. Doo doo doo doo doo doo!",
+      "id": "2d6ad5b0dc39299f",
+      "title": "Baby Shark",
+      "points": 2
+    },
+    {
+      "description": "Et kort plagg for overkroppen som viser midjen, og som ble allment akseptert fra slutten av 1960-årene. Varianter for menn fikk et oppsving på 2010-tallet.",
+      "id": "874d0a38b15166bd",
+      "title": "Magetopp",
+      "points": 2
+    },
+    {
+      "description": "Peter Parkers avdøde slektning, som motiverte ham til å bli Spider-Man.",
+      "id": "61d67f4bab9ada8e",
+      "title": "Onkel Ben",
+      "points": 2
+    },
+    {
+      "description": "Den tredje DreamWorks-filmen om Po, bjørnen med stemmen til Jack Black. Han må gjenforenes med sin biologiske familie for å lære kraften i chi.",
+      "id": "4bab9ada8e35619d",
+      "title": "Kung Fu Panda 3",
+      "points": 2
+    },
+    {
+      "description": "En forretningsmodell der medlemmer loves betaling for å verve nye deltakere. Siden ordningen er ulovlig mange steder, skjules den ofte bak navn som nettverksmarkedsføring.",
+      "id": "0a38b15166bdb3a8",
+      "title": "Pyramidespill",
+      "points": 2
+    },
+    {
+      "description": "Den fiktive væpneren til hovedpersonen i Miguel de Cervantes' Don Quijote fra 1605. Han er kjent for tørr humor, kløkt og tallrike spanske ordtak.",
+      "id": "9f12d9bb68a94531",
+      "title": "Sancho Panza",
+      "points": 3
+    },
+    {
+      "description": "En levende interiørgjenstand i Disneys animasjonsfilm fra Midtøsten. Figuren var blant de første dataanimerte rollefigurene i en spillefilm.",
+      "id": "82b6371df91904ba",
+      "title": "Aladdins magiske teppe",
+      "points": 1
+    },
+    {
+      "description": "En person som lurer andre for å skaffe seg penger, berømmelse eller andre fordeler. Et kjent eksempel solgte mineralolje som en universalkur.",
+      "id": "2d9bb68a945311fc",
+      "title": "En sjarlatan",
+      "points": 3
+    },
+    {
+      "description": "Et slanguttrykk om å se film fra en kjent strømmetjeneste, ofte brukt som en omskriving for sex. Selskapet har siden brukt frasen i reklame.",
+      "id": "c3948632cc4a02d6",
+      "title": "Netflix and chill",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Et klassisk trylletriks der artisten får et dyr til å dukke opp fra et hodeplagg. Uttrykket brukes også om en overraskende eller tilsynelatende umulig løsning.",
+      "id": "d67f4bab9ada8e35",
+      "title": "Trekke en kanin opp av hatten",
+      "points": 1
+    },
+    {
+      "description": "En bondejente fra middelalderens Frankrike som mente Gud hadde valgt henne til å lede franske styrker mot England. Etter en stor seier ble hun fanget og brent på bålet.",
+      "id": "8632cc4a02d6ad5b",
+      "title": "Jeanne d'Arc",
+      "points": 2
+    },
+    {
+      "description": "En forkortelse for et kjent uttrykk som oppfordrer deg til å leve livet fullt ut. Til tross for det eksistensielle budskapet brukes det ofte før noen gjør noe unødvendig dumdristig.",
+      "id": "904ba61d67f4bab9",
+      "title": "YOLO (You Only Live Once)",
+      "points": 2
+    },
+    {
+      "description": "En umulig matematisk operasjon. NaN!",
+      "id": "12d9bb68a945311f",
+      "title": "Dele på null",
+      "points": 2
+    },
+    {
+      "description": "Et uttrykk for et avvikende eller lite ansett medlem av en gruppe, særlig blant slektninger. Hos dyret oppstår den mørke fargen på grunn av et recessivt gen.",
+      "id": "35619dc9c3948632",
+      "title": "Familiens sorte får",
+      "points": 2
+    },
+    {
+      "description": "Et plasthorn som ble verdenskjent under fotball-VM i 2010 og lager en høy, monoton lyd. TV-selskaper brukte lydfiltre for å dempe den under kampene.",
+      "id": "74d0a38b15166bdb",
+      "title": "Vuvuzela",
+      "points": 2
+    },
+    {
+      "description": "En Bryan Adams-låt fra 1985 om en ung mann som prøver å bli rockestjerne. Artisten avslørte senere at teksten egentlig handler om sex på den tiden av året.",
+      "id": "9ada8e35619dc9c3",
+      "title": "Summer of '69",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "En dataanimert amfibie som ble berømt med en remiks av «Axel F» i 2005. Figuren ble særlig brukt til å selge ringetoner.",
+      "id": "632cc4a02d6ad5b0",
+      "title": "Crazy Frog",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "En fiktiv faun i Narnias fantasiverden, skapt av C. S. Lewis i 1950. Han er den første innbyggeren der som leseren møter.",
+      "id": "39299f12d9bb68a9",
+      "title": "Herr Tumnus",
+      "points": 3
+    },
+    {
+      "description": "En enorm trekonstruksjon formet som et dyr, brukt av greske soldater til å snike seg inn i en beleiret by. Begrepet brukes også om skadevare som skjuler sin egentlige hensikt.",
+      "id": "5346d84e5d84ee4f",
+      "title": "Den trojanske hesten",
+      "points": 1
+    },
+    {
+      "description": "Rektoren ved Galtvort, den fiktive skolen i J.K. Rowlings fantasybøker. Han bor på kontoret sitt sammen med føniksen Vulcan.",
+      "id": "9c3948632cc4a02d",
+      "title": "Albus Humlesnurr",
+      "points": 2
+    },
+    {
+      "description": "Et mobilspill der spilleren hjelper et flygende dyr forbi grønne rør. Skaperen fjernet det fra appbutikkene i 2014 fordi han var bekymret for at det var for avhengighetsskapende.",
+      "id": "b6371df91904ba61",
+      "title": "Flappy Bird",
+      "points": 2
+    },
+    {
+      "description": "Et spill der to personer samtidig lager én av tre figurer med hendene. Varianter legger til former som brønn, Spock og øgle, og én utgave har hele 101 valg.",
+      "id": "e5d84ee4fd2b8656",
+      "title": "Stein, saks, papir",
+      "points": 1
+    },
+    {
+      "description": "Et realityprogram fra Nederland der deltakerne bor sammen i et hus isolert fra omverdenen. Navnet kommer fra George Orwells roman 1984 om undertrykkende overvåkning.",
+      "id": "45311fc0874d0a38",
+      "title": "Big Brother",
+      "points": 2
+    },
+    {
+      "description": "Saltede fiskeegg som regnes blant verdens mest luksuriøse matvarer. Sølvbestikk skal påvirke smaken, så skjeer av perlemor anbefales.",
+      "id": "d0a38b15166bdb3a",
+      "title": "Kaviar",
+      "points": 2
+    },
+    {
+      "description": "En tvilsom detalj på drakten til den kappekledde helten i Joel Schumachers filmer fra 1995 og 1997. Valget ble forklart med inspirasjon fra antikke greske statuer.",
+      "id": "5619dc9c3948632c",
+      "title": "Batmans brystvorter",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "En egyptisk farao fra oldtiden hvis grav ble gjenoppdaget i 1922. Den inneholdt over 5000 kostbare gjenstander, blant annet en kiste av massivt gull og flere trompeter.",
+      "id": "dc9c3948632cc4a0",
+      "title": "Tutankhamon",
+      "points": 2
+    },
+    {
+      "description": "Et swahiliuttrykk som betyr «ingen bekymringer», kjent fra Disneys Løvenes konge fra 1994. Selskapets amerikanske varemerke på frasen skapte strid i Øst-Afrika.",
+      "id": "b0dc39299f12d9bb",
+      "title": "Hakuna Matata",
+      "points": 1
+    },
+    {
+      "description": "En internettberømt katt med et ansikt som alltid så surt ut, og over åtte millioner følgere. I 2014 fikk hun sin egen julefilm med stemmen til Aubrey Plaza.",
+      "id": "68a945311fc0874d",
+      "title": "Grumpy Cat",
+      "points": 2
+    },
+    {
+      "description": "En kort periode med søvn på dagtid. I varme land som Spania er dette en tradisjon, og Madrid har til og med arrangert et nasjonalt mesterskap i det.",
+      "id": "5166bdb3a884826a",
+      "title": "En lur",
+      "points": 1
+    },
+    {
+      "description": "Et naturlig lysfenomen på himmelen nær polarsirkelen. Inuitter trodde det var åndene til forfedrene som lekte med en hvalrosskalle som ball.",
+      "id": "166bdb3a884826a8",
+      "title": "Nordlyset",
+      "points": 2
+    },
+    {
+      "description": "Et apparat som forsøker å avgjøre om noen snakker sant ved å måle flere fysiologiske tegn under et avhør. Forskere er uenige om hvor godt det virker.",
+      "id": "84ee4fd2b8656cda",
+      "title": "Løgndetektor",
+      "points": 2
+    },
+    {
+      "description": "En overnaturlig guddom som regnes som hellig. I monoteistiske religioner anses denne skikkelsen som verdens skaper.",
+      "id": "df91904ba61d67f4",
+      "title": "Gud",
+      "points": 1
+    },
+    {
+      "description": "En omstridt kleskombinasjon med varme fotplagg og åpent sommerskotøy. Skaperne av dette spillet støtter ikke praksisen.",
+      "id": "6371df91904ba61d",
+      "title": "Sokker i sandaler",
+      "points": 2
+    },
+    {
+      "description": "En taktikk der nettsteder lokker lesere med overdrevne eller villedende påstander om innholdet. Det som skjer videre, vil overraske deg!",
+      "id": "db3a884826a85346",
+      "title": "Clickbait",
+      "points": 2
+    },
+    {
+      "description": "Den store blokken av frossent vann som i 1912 dømte et av datidens største passasjerskip til undergang. Fartøyet ble ironisk nok regnet som svært trygt og nærmest usenkelig.",
+      "id": "682b6371df91904b",
+      "title": "Isfjellet som senket Titanic",
+      "points": 2
+    },
+    {
+      "description": "Det ikoniske våpenet til hovedpersonen i George Lucas' filmserie fra 1981 om en arkeologiprofessors eventyr. En rekvisitt fra innspillingen ble solgt for 140 000 dollar i 2014.",
+      "id": "c39299f12d9bb68a",
+      "title": "Indiana Jones' pisk",
+      "points": 2
+    },
+    {
+      "description": "En maskert helt fra 1919 som forsvarer Californias folk mot tyranner. Han er akrobat og fekter og risser inn forbokstaven sin på beseirede fiender.",
+      "id": "dc39299f12d9bb68",
+      "title": "Zorro",
+      "points": 1
+    },
+    {
+      "description": "Agatha Christies fiktive belgiske detektiv og hovedperson i mange av kriminalfortellingene hennes. Rollen er spilt av flere skuespillere, alltid med den karakteristiske barten.",
+      "id": "ba61d67f4bab9ada",
+      "title": "Hercule Poirot",
+      "points": 2
+    },
+    {
+      "description": "Antoine de Saint-Exupérys bok fra 1943 om en strandet pilot som møter en underlig ung gutt. Verket er et av de mest oversatte gjennom tidene.",
+      "id": "32cc4a02d6ad5b0d",
+      "title": "Den lille prinsen",
+      "points": 1
+    },
+    {
+      "description": "Ansiktsfrisyren som ble beryktet gjennom Nazi-Tysklands leder under andre verdenskrig. Charlie Chaplin bar den også på film.",
+      "id": "91904ba61d67f4ba",
+      "title": "Hitlerbart",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Et håndholdt digitalt kjæledyr fra 1990-årenes Japan og en av tidens største leketrender. Enkelte barn ble så knyttet til skapningene at de begravde dem når de døde.",
+      "id": "d84e5d84ee4fd2b8",
+      "title": "Tamagotchi",
+      "points": 3
+    },
+    {
+      "description": "En fiktiv kasakhstansk journalist spilt av Sacha Baron Cohen i filmen fra 2006. Produksjonen var svært omstridt, og flere deltakere gikk til sak.",
+      "id": "ada8e35619dc9c39",
+      "title": "Borat",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Betegnelsen på den hindispråklige filmindustrien i Mumbai. Den mest populære sjangeren blander gjerne action, komedie, romantikk, drama og store musikknumre.",
+      "id": "11fc0874d0a38b15",
+      "title": "Bollywood",
+      "points": 2
+    },
+    {
+      "description": "Grunnleggeren og den første keiseren av Mongolriket, som oppsto i 1206 og ble historiens største sammenhengende imperium. Omtrent én av 200 menn skal være direkte etterkommere.",
+      "id": "c0874d0a38b15166",
+      "title": "Djengis Khan",
+      "points": 3
+    },
+    {
+      "description": "En sportskomedie fra 1996 der Looney Tunes-figurene og Michael Jordan møtes i en intergalaktisk basketballkamp.",
+      "id": "cc4a02d6ad5b0dc3",
+      "title": "Space Jam",
+      "points": 1
+    },
+    {
+      "description": "En historisk region midt i Romania, kjent som åstedet for Bram Stokers gotiske roman Dracula fra 1897. Området er blitt sterkt forbundet med vampyrer.",
+      "id": "5311fc0874d0a38b",
+      "title": "Transilvania",
+      "points": 2
+    },
+    {
+      "description": "Det mystiske mineralet som er Supermans eneste svakhet, og et uttrykk for det som gjør noen sårbar. Stoffet fremstilles vanligvis som grønt, men var rødt i sin første tegneserieopptreden.",
+      "id": "3a884826a85346d8",
+      "title": "Kryptonitt",
+      "points": 2
+    },
+    {
+      "description": "Den fiktive sjørøveren Johnny Depp spiller i Pirates of the Caribbean. Skikkelsen er basert på en blanding av Keith Richards og Looney Tunes-figuren Pepé Le Pew.",
+      "id": "d6ad5b0dc39299f1",
+      "title": "Kaptein Jack Sparrow",
+      "points": 1
+    },
+    {
+      "description": "En eldre herre som på grunn av varme eller et ønske om oppmerksomhet lar overkroppen være utildekket. Bilder av slike herrer brukes også som tøysete svar i politiske diskusjoner på nettet.",
+      "id": "38b15166bdb3a884",
+      "title": "En gammel mann uten skjorte",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "En enkel dansebevegelse der en person senker hodet mot den bøyde armen og løfter den andre. Saudi-Arabia forbød gesten fordi den ble koblet til ulovlige rusmidler.",
+      "id": "b9ada8e35619dc9c",
+      "title": "Dab",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "💩",
+      "id": "c9c3948632cc4a02",
+      "title": "Bæsj-emojien",
+      "points": 2
+    },
+    {
+      "description": "Et område i solsystemet mellom Mars og Jupiter som er fylt med romsteiner i ulike størrelser. Avstandene er så store at et romskip sannsynligvis kunne passert uten sammenstøt.",
+      "id": "884826a85346d84e",
+      "title": "Asteroidebeltet",
+      "points": 2
+    },
+    {
+      "description": "En datingapp der brukere anonymt sveiper for å like eller avvise andre profiler. Den gjorde grensesnittet vanlig i både datingsider og apper som denne.",
+      "id": "d9bb68a945311fc0",
+      "title": "Tinder",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Fullstendig fjerning av kjønnshår fra underlivet. Navnet kommer fra en salong på Manhattan som ble grunnlagt i 1987 av søstre fra Sør-Amerika.",
+      "id": "a884826a85346d84",
+      "title": "Brasiliansk voksing",
+      "points": 3,
+      "notForKids": true
+    },
+    {
+      "description": "En helt vanlig mann som ligner mistenkelig mye på Superman.",
+      "id": "02d6ad5b0dc39299",
+      "title": "Clark Kent uten briller",
+      "points": 3
+    },
+    {
+      "description": "En komediefilm fra 1990 med Macaulay Culkin om en etterlatt gutt som må forsvare huset mot innbruddstyver. For mange er den fast juletradisjon.",
+      "id": "a61d67f4bab9ada8",
+      "title": "Alene hjemme",
+      "points": 1
+    },
+    {
+      "description": "En hypotese om at planeten vår er formet som en skive i stedet for en kule. En amerikansk våghals døde da han skjøt seg opp i en hjemmelaget rakett for å undersøke saken.",
+      "id": "4d0a38b15166bdb3",
+      "title": "Teorien om en flat jord",
+      "points": 2
+    },
+    {
+      "description": "En undervanns-superhelt fra DC Comics' Justice League som bærer trefork og kan styre sjødyr. Han blir ofte ertet for evner som virker lite nyttige på land.",
+      "id": "bb68a945311fc087",
+      "title": "Aquaman",
+      "points": 1
+    },
+    {
+      "description": "Mattels merke med små lekebiler, lansert i 1968. Over seks milliarder biler i 20 000 varianter er produsert.",
+      "id": "945311fc0874d0a3",
+      "title": "Hot Wheels",
+      "points": 2
+    },
+    {
+      "description": "En øgle i slekten Pogona som ofte holdes som kjæledyr. Undersiden av halsen kan bli svart når dyret er stresset.",
+      "id": "04ba61d67f4bab9a",
+      "title": "Skjeggagam",
+      "points": 2
+    },
+    {
+      "description": "Andrew Lloyd Webbers musikal fra 1981 om en flokk Jellicle-katter. Filmversjonen fra 2019 ble slaktet av både kritikere og publikum.",
+      "id": "2cc4a02d6ad5b0dc",
+      "title": "Cats",
+      "points": 1
+    },
+    {
+      "description": "Noen som hevder å kunne bruke paranormale evner til å gjøre ting naturlovene ikke kan forklare, ofte ved å kommunisere med døde. Det finnes ingen vitenskapelige bevis for slike krefter.",
+      "id": "67f4bab9ada8e356",
+      "title": "En synsk person",
+      "points": 1
+    },
+    {
+      "description": "To ikoniske galliske helter fra en fransk tegneserie som foregår i romertiden. Den lille drikker styrkedrikk, mens den store falt i gryten som barn.",
+      "id": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
+      "title": "Asterix og Obelix",
+      "points": 2
+    },
+    {
+      "description": "Microsofts første nettleser med stor utbredelse, beryktet for å være treg og utdatert. Mot slutten ble den mest brukt til å laste ned alternativer.",
+      "id": "32cbbad2-19cf-4465-a86a-678d8993f70a",
+      "title": "Internet Explorer",
+      "points": 2
+    },
+    {
+      "description": "Teslas kantete elektriske pickup i rustfritt stål. Under avdukingen i 2019 skulle en styrkedemonstrasjon vise hvor solid den var, men endte med to knuste vinduer på scenen.",
+      "id": "fe71f09b-b6fa-4cd0-8a3d-5d649e62f9c7",
+      "title": "Cybertruck",
+      "points": 2
+    },
+    {
+      "description": "En kjent replikk fra kultfilmen med Brad Pitt og Edward Norton fra 1999, basert på en roman av Chuck Palahniuk. Instruksen ligner mistenkelig på nummer to!",
+      "id": "1226b2cb-facb-4ea2-ab2a-474011445d67",
+      "title": "Fight Clubs første regel",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "En Bill Murray-film fra 1993 der en gretten værmelder opplever de samme 24 timene om og om igjen. Regissøren mente at hovedpersonen satt fast i omtrent ti år.",
+      "id": "dcc862d2-743b-426b-b309-a7dbc62c797d",
+      "title": "En ny dag truer",
+      "points": 2
+    },
+    {
+      "description": "Et forhistorisk sjømonster som vekkes av atomprøvesprengninger og først dukket opp på japansk kino i 1954. Figuren har vært med i 38 filmer.",
+      "id": "13fb1833-ea19-4d05-8433-dd042c4b3a3a",
+      "title": "Godzilla",
+      "points": 1
+    },
+    {
+      "description": "Et meningsløst slagord fra en raplåt fra 2024 som ble uunngåelig skolegårdsslang. Opprinnelig viste det til høyden på en basketballspiller i fot og tommer.",
+      "id": "d1a72910-2258-4d3f-80d4-9be8ee86e8ce",
+      "title": "6-7",
+      "points": 1
+    },
+    {
+      "description": "Et klassisk eventyr der en søskenflokk bygger hus av ulike materialer for å unnslippe en sulten ulv. Historien finnes i utallige varianter, men trusselen om å blåse bygningene ned består.",
+      "id": "69337803-074d-4e31-8418-747bd7da56a2",
+      "title": "De tre små grisene",
+      "points": 1
+    },
+    {
+      "description": "Det skuddsikre kjøretøyet som lederen for den katolske kirken bruker til å hilse på folkemengder. Det fikk panserglass etter attentatet mot Johannes Paul II i 1981.",
+      "id": "182942e7-a2f2-495f-ae19-fc09ce2439fc",
+      "title": "Pavebilen",
+      "points": 1
+    },
+    {
+      "description": "Det første pattedyret som ble klonet fra en voksen kroppscelle, født ved et skotsk forskningsinstitutt i 1996. Navnet viser til en countrysanger fordi cellen kom fra en melkekjertel.",
+      "id": "110a4f0b-71f9-4609-ba88-3b7ee5ab4c30",
+      "title": "Sauen Dolly",
+      "points": 1
+    },
+    {
+      "description": "Et klassisk etisk dilemma der du må velge om et løpsk kjøretøy skal ledes bort og drepe én person i stedet for fem. Det finnes stadig mer absurde varianter.",
+      "id": "76880b3a-fca8-4820-b8c7-decf28e54aaa",
+      "title": "Sporvognsproblemet",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Et daglig nettspill der man får seks forsøk på å finne en skjult løsning med fem bokstaver. The New York Times kjøpte det i 2022 for et sjusifret beløp.",
+      "id": "a770f7a8-2755-42ab-a2a6-156e75a206f7",
+      "title": "Wordle",
+      "points": 1
+    },
+    {
+      "description": "Ideen fra kaosteorien om at en bitte liten hendelse kan få enorme følger langt unna. Meteorologen Edward Lorenz skapte uttrykket i 1972 etter å ha sett små endringer gi store utslag i værmodeller.",
+      "id": "7ad1c4fc-27ef-4df2-a39a-3636c220c717",
+      "title": "Sommerfugleffekten",
+      "points": 2
+    },
+    {
+      "description": "Instinktet til å vifte et nyfremkalt øyeblikksfoto gjennom luften, kjent fra en OutKast-låt. Produsenten ber folk la være fordi bevegelsen kan skade bildet.",
+      "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
+      "title": "Riste et polaroidbilde",
+      "points": 2
+    },
+    {
+      "description": "En håndholdt leke med kulelagre som ble en verdensomspennende farsott i 2017 og ble markedsført som stressdempende. Studier fant ingen tegn til bedre konsentrasjon eller mindre uro.",
+      "id": "7b27a365-2f05-403a-baba-d6c151585293",
+      "title": "Fidget spinner",
+      "points": 1
+    },
+    {
+      "description": "En kjent reklamepåstand som antyder at nesten alle fagfolk innen munnhelse anbefaler et bestemt produkt til daglig pussing. Hva mener den siste, mon tro?",
+      "id": "206cd1fd-e81f-495f-9f9e-7fd04ff4c6ef",
+      "title": "9 av 10 tannleger",
+      "points": 2
+    },
+    {
+      "description": "Den sosiale kraften som får unge til å prøve en sigarett, en frisyre eller en tvilsom trend for å passe inn. Selv voksne kan si seg enige i andres åpenbart gale svar.",
+      "id": "4d8dae45-828a-4242-a217-0c0227c4789a",
+      "title": "Gruppepress",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Den lille nettesten der du må finne trafikklys eller busser for å bevise at du er et menneske. En av oppfinnerne skapte senere Duolingo.",
+      "id": "fe5f96a7-1b60-485b-b232-ad649c927d87",
+      "title": "CAPTCHA",
+      "points": 2
+    },
+    {
+      "description": "Et kjent tankeeksperiment i fysikken med et dyr i en boks sammen med gift. Før esken åpnes, regnes det som både levende og dødt.",
+      "id": "d91c5e50-8b25-43f9-b63e-e07f26494489",
+      "title": "Schrödingers katt",
+      "points": 3
+    },
+    {
+      "description": "Et tredimensjonalt kombinasjonspuslespill laget av en ungarsk billedhugger og arkitekturprofessor i 1974. Verdensrekorden i løsning er under tre sekunder og holdes av et barn.",
+      "id": "4dbe92cf-83da-4530-9f10-73c3285021b5",
+      "title": "Rubiks kube",
+      "points": 1
+    },
+    {
+      "description": "Et kulturelt begrep for skadelig tradisjonell mannlig atferd, som å undertrykke følelser eller dominere aggressivt. Tegn kan være å nekte å gråte eller hevde at rosa bare er for jenter.",
+      "id": "902799b4-18f2-48c9-92f4-78547c02520f",
+      "title": "Toksisk maskulinitet",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "Den enorme romsteinen som traff jorden for rundt 66 millioner år siden og avsluttet krittiden. Krateret under Yucatán-halvøya er omtrent 180 kilometer bredt.",
+      "id": "bf10ceba-8762-4244-8023-457eb20adb1d",
+      "title": "Asteroiden som utryddet dinosaurene",
+      "points": 3
+    },
+    {
+      "description": "En viral søtsak fra De forente arabiske emirater med pistasjkrem og sprø kataifideig. Populariteten førte til global mangel på pistasjnøtter og høyere priser.",
+      "id": "c62de87f-30ec-4909-a35c-104375f280cb",
+      "title": "Dubai-sjokolade",
+      "points": 1
+    },
+    {
+      "description": "Et emballasjemateriale fra 1957 som opprinnelig var tenkt som tapet med struktur. Den tilfredsstillende lyden når luftlommene sprekker, har gitt utallige timer med stressmestring.",
+      "id": "c8161658-fa59-4488-b151-50d8bfe969f1",
+      "title": "Bobleplast",
+      "points": 2
+    },
+    {
+      "description": "En avslappet og avrundet skrifttype fra 1994, laget for en tegnet hundeassistent i Microsoft-programvare. Til tross for alt hatet kan den gjøre lesing enklere for personer med dysleksi.",
+      "id": "dce9159f-8c96-4935-9e15-1cf348aec5a7",
+      "title": "Comic Sans",
+      "points": 2
+    },
+    {
+      "description": "Å hoppe inn i en annens bilde idet det blir tatt, gjerne for å ødelegge motivet. Fenomenet ble et kjennetegn ved 2010-årene og kom inn i Oxford Dictionary i 2014.",
+      "id": "5097406e-7daa-43a3-90f0-b3e6a78592a0",
+      "title": "Fotobombing",
+      "points": 1
+    },
+    {
+      "description": "En treningsøkt som bare er viet underkroppen, med øvelser som knebøy, utfall og tåhev. Statistisk sett er dette den økten folk oftest dropper.",
+      "id": "61ccc086534df11f",
+      "title": "Leg day",
+      "points": 1
+    },
+    {
+      "description": "Et eget tilbehør på en kjent hurtigmathamburger og mye av grunnen til den særegne smaken. En tidligere ansatt la ut oppskriften på Reddit i 2012, og selskapet bekreftet den i praksis.",
+      "id": "85361ccc086534df",
+      "title": "Big Macs hemmelige saus",
+      "points": 3
+    },
+    {
+      "description": "Et uttrykk for bagatellmessige problemer som først og fremst rammer folk i rike samfunn. Det viser avstanden mellom ekte nød og små moderne irritasjoner.",
+      "id": "4fd2b8656cda7f9e",
+      "title": "I-landsproblemer",
+      "points": 2
+    },
+    {
+      "description": "En person som ligner slående på et ubeslektet menneske uten å dele genene deres. Uttrykket stammer fra tysk og ble historisk regnet som et dårlig varsel.",
+      "id": "83b89a12daab64be",
+      "title": "En dobbeltgjenger",
+      "points": 1
+    },
+    {
+      "description": "Et signalstoff i hjernen med en viktig rolle i glede, belønning og motivasjon. Det er det du får når du endelig gjetter dette kortet!",
+      "id": "69d83b89a12daab6",
+      "title": "Dopamin",
+      "points": 2
+    },
+    {
+      "description": "En klassisk frykt fra barndommen om et skremmende vesen som skjuler seg der klærne henger og venter til lyset slukkes. Forestillingen finnes i folketro verden over.",
+      "id": "b64bea85361ccc08",
+      "title": "Monsteret i skapet",
+      "points": 3
+    },
+    {
+      "description": "Et underjordisk tilfluktssted som beskytter beboerne mot katastrofer som atomkrig eller sivilisasjonens sammenbrudd. Flere milliardærer skal ha kjøpt forsterkede retretter på New Zealand.",
+      "id": "fff1669d83b89a12",
+      "title": "Dommedagsbunker",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "En myk ansamling av tekstilfibre som samler seg i fordypningen midt på magen. En australsk forsker undersøkte hvorfor den nesten alltid er blå.",
+      "id": "4bea85361ccc0865",
+      "title": "Navlelo",
+      "points": 2
+    },
+    {
+      "description": "Et fantasyrollespill på bord, utgitt i 1974, der spillerne lager figurer og drar på eventyr sammen. Det inspirerte blant annet Baldur's Gate og World of Warcraft.",
+      "id": "cda7f9e5afff1669",
+      "title": "Dungeons & Dragons",
+      "points": 1
+    },
+    {
+      "description": "En person med mange følgere i sosiale medier som tjener penger på å markedsføre varer til publikumet sitt. Bransjen er verdt over 20 milliarder dollar globalt.",
+      "id": "7f9e5afff1669d83",
+      "title": "En Instagram-influenser",
+      "points": 2
+    },
+    {
+      "description": "En K-pop-låt av den sørkoreanske artisten PSY fra 2012, med en ikonisk ridende dansebevegelse. Den ble den første YouTube-videoen med én milliard visninger.",
+      "id": "602973b2-e044-4261-b6ca-367ea000e503",
+      "title": "Gangnam Style",
+      "points": 1
+    },
+    {
+      "description": "En utmerkelse som gis til alle i en konkurranse uansett prestasjon. Kritikere mener den svekker mestringsfølelsen, mens tilhengere sier den får unge til å møte opp.",
+      "id": "d2057c81-2f1f-4f38-8186-317e609f5eb4",
+      "title": "Deltakerpremie",
+      "points": 1
+    },
+    {
+      "description": "Et klassisk amerikansk leketøy med en grønnsakskropp i plast og utskiftbare ansiktstrekk og tilbehør. Figuren var den første leken som ble reklamert for på amerikansk TV, i 1952.",
+      "id": "cb4759da-ce62-4506-8293-0f00cc47a145",
+      "title": "Herr Potethode",
+      "points": 2
+    },
+    {
+      "description": "En kort, skarp hodepine som oppstår når man spiser eller drikker noe svært kaldt for fort. Smerten er en refleks som beskytter blodårene i ganen mot nedkjøling.",
+      "id": "6aa1a744-ca02-4d49-ba46-e534b97f8a77",
+      "title": "Hjernefrys",
+      "points": 1
+    },
+    {
+      "description": "Et løst definert område i Nord-Atlanteren der skip og fly angivelig har forsvunnet uforklarlig. Forskning viser at stedet ikke er farligere enn andre deler av havet.",
+      "id": "2d75e2e3-eb45-4ec2-a142-f4e3c07166c4",
+      "title": "Bermudatriangelet",
+      "points": 2
+    },
+    {
+      "description": "Generisk og ufarlig bakgrunnslyd under turen mellom etasjer og i venterom. Sjangeren heter formelt «Muzak» etter selskapet som begynte å sende den ut i offentlige rom på 1930-tallet.",
+      "id": "a0030c6e-d024-489e-ae71-047c8022a094",
+      "title": "Heismusikk",
+      "points": 1
+    },
+    {
+      "description": "Et kort og ordspillbasert påfunn som gjerne fortelles av en far. Tilhørerne svarer som regel med et kollektivt stønn.",
+      "id": "a27438ca-5e4c-46df-8343-4f5a5b59af89",
+      "title": "En pappavits",
+      "points": 1
+    },
+    {
+      "description": "De berømte, forvirrende monteringsguidene til svenske flatpakkede møbler, med tegninger og ingen ord. Bare illustrasjoner gjør at samme guide virker i hele verden.",
+      "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
+      "title": "IKEA-bruksanvisning",
+      "points": 2
+    },
+    {
+      "description": "Den første arbeidsperioden i uken, fryktet når helgen går mot slutten. Studier viser at flere hjerteinfarkt skjer da enn på noe annet tidspunkt i uken.",
+      "id": "64a54249-b462-448d-9d50-280588737740",
+      "title": "Mandag morgen",
+      "points": 1
+    },
+    {
+      "description": "En frisyre som er kort foran og på sidene, men lang bak. Den beskrives ofte som «jobb foran, fest bak» og var særlig populær på 1980-tallet.",
+      "id": "0c9417fd-b8ed-4441-a1f4-16d8ea67d7d6",
+      "title": "Hockeysveis",
+      "points": 1
+    },
+    {
+      "description": "Gleden man føler når andre opplever motgang. Det norske uttrykket er en direkte oversettelse fra tysk.",
+      "id": "2dfbec4e-8dac-43c4-939b-0b98e3525c4b",
+      "title": "Skadefryd",
+      "points": 2
+    },
+    {
+      "description": "Et plagg med én lomme for hver del ytterst på foten, omtrent som en hanske har for fingrene. Tilhengere blant langdistanseløpere mener det forebygger gnagsår.",
+      "id": "fd73e068-af0c-4f73-bec6-6792139fe927",
+      "title": "Tåsokker",
+      "points": 2
+    },
+    {
+      "description": "En unødvendig samling på jobben der all relevant informasjon like gjerne deles skriftlig. Kontoransatte skal bruke rundt en tredel av arbeidsuken på slike sammenkomster.",
+      "id": "908f592a-5281-44cc-aa69-794a92979c15",
+      "title": "Et møte som kunne vært en e-post",
+      "points": 3
+    },
+    {
+      "description": "En kjent latinpop-låt fra midten av 1990-årene med en ikonisk dans. Den populære remiksen lå på førsteplass i USA i 14 uker på rad.",
+      "id": "af0b206e-1057-495f-a4cf-b6d084c437d9",
+      "title": "Macarena",
+      "points": 1
+    },
+    {
+      "description": "Et legendarisk vesen som skal bo i en stor innsjø i det skotske høylandet. Det berømte bildet fra 1934 viste seg å være en bløff med en lekeubåt.",
+      "id": "88dcf628-dd9c-40bf-80b6-1a8f61c5e8c1",
+      "title": "Loch Ness-monsteret",
+      "points": 1
+    },
+    {
+      "description": "Et psykologisk fenomen der en opplevelse føles som om den har skjedd før. Et psykologisk fenomen der en opplevelse føles som om den har skjedd før.",
+      "id": "33aac4ba-3d26-405d-b537-6ed071ea83da",
+      "title": "Déjà vu",
+      "points": 1
+    },
+    {
+      "description": "En skikkelse fra folketroen som henter det barn mister fra munnen og legger mynter under puten. I mange land har en liten mus samme rolle.",
+      "id": "497380b0-3425-4201-bf27-7981d7b98c68",
+      "title": "Tannfeen",
+      "points": 1
+    },
+    {
+      "description": "Et karakteristisk dansetrinn der utøveren ser ut til å gli bakover mens føttene beveger seg fremover. Michael Jackson gjorde det berømt under «Billie Jean» på TV i 1983.",
+      "id": "5448aca9-c3c6-4f01-bfa7-dea1cd0a4f15",
+      "title": "Moonwalk",
+      "points": 1
+    },
+    {
+      "description": "Konspirasjonsteoretikerens klassiske hodeplagg av metallark, som angivelig stanser myndighetenes tankelesing. En MIT-studie fant at det faktisk forsterker enkelte frekvenser.",
+      "id": "d4a12b6e-4358-4150-8d5e-83ac197c8db5",
+      "title": "Foliehatt",
+      "points": 2,
+      "notForKids": true
+    },
+    {
+      "description": "En populær barnelek der spillerne må unngå å berøre bakken og late som den er glødende stein. Den krever ikke noe utstyr og kan begynne hvor som helst.",
+      "id": "2f0ef991-b342-47fb-ac6e-5c13a88c3dcd",
+      "title": "Gulvet er lava",
+      "points": 2
+    },
+    {
+      "description": "En frisyre der langt hår samles i en knute bak på hodet, ofte forbundet med hipstere. Stylister advarer om at for stram bruk kan føre til hårtap.",
+      "id": "fb730839-9f97-4976-904f-cbd53cdfdfc7",
+      "title": "Man bun",
+      "points": 2
+    },
+    {
+      "description": "Et ansiktstrekk der hårene over begge øyne møtes i midten og danner én sammenhengende stripe. Frida Kahlo gjorde sitt til et symbol på naturlig skjønnhet og meksikansk identitet.",
+      "id": "7fb16c34-2dbe-4309-8b65-814920d138fb",
+      "title": "Monobryn",
+      "points": 1
+    },
+    {
+      "description": "En karibisk selskapslek der deltakerne passerer under en vannrett stang som senkes gradvis, uten å falle. Verdensrekorden er svimlende 21,59 centimeter over bakken.",
+      "id": "6af7c52d-bb69-4400-bfe9-0f04027a35d9",
+      "title": "Limbo",
+      "points": 1
+    },
+    {
+      "description": "Et klassisk filosofisk paradoks om hvilken av to gjensidig avhengige ting som kom først. Aristoteles konkluderte med at begge alltid må ha eksistert og unngikk dermed hele debatten.",
+      "id": "ce2f8431-b0c2-4301-808d-4681a542c71f",
+      "title": "Høna eller egget",
+      "points": 1
+    },
+    {
+      "description": "Et fenomen på idrettsarenaer der publikum reiser seg, løfter armene og setter seg i rekkefølge. Det ble verdenskjent under fotball-VM i vertslandet i 1986.",
+      "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
+      "title": "Den meksikanske bølgen",
+      "points": 2
+    },
+    {
+      "description": "En førstehjelpsteknikk som åpner blokkerte luftveier med skarpe, oppadgående trykk mot magen. Legen som fant den opp, brukte den ikke på et menneske før han var 96 år.",
+      "id": "a2737d5c-387e-485c-8891-333278cef79d",
+      "title": "Heimlich-manøveren",
+      "points": 3
+    },
+    {
+      "description": "Den universelt fryktede opplevelsen av å sette en bar fot på en liten byggekloss av plast. Fotsålen har flere nerveender per kvadratcentimeter enn nesten alle andre kroppsdeler.",
+      "id": "bcae31cd-72d0-4d47-a49b-6b9d828811a1",
+      "title": "Tråkke på Lego",
+      "points": 2
+    },
+    {
+      "description": "Den frustrerende følelsen når en neserefleks bygger seg opp, men nekter å utløses. Ingen sikker kur finnes, men noen ser mot lys eller kiler ganen.",
+      "id": "30714b4b-d80a-471f-895c-f1448fc5cce7",
+      "title": "Et nys som ikke kommer",
+      "points": 3
+    },
+    {
+      "description": "Skikken med å applaudere piloten etter at et rutefly har satt hjulene trygt på rullebanen. Det eneste som er verre, er å gjøre det på kino eller i en begravelse.",
+      "id": "6074accc-37a1-4ddd-8707-54807fa01406",
+      "title": "Klappe når flyet lander",
+      "points": 3
+    },
+    {
+      "description": "Den velkjente kjøkkenfrustrasjonen ved å tvinge et deksel på en beholder det aldri var ment for. Jeg kunne sverget på at dette var riktig ...",
+      "id": "7a495018-9642-4d79-b88b-4ec138b229b6",
+      "title": "Et Tupperware-lokk som ikke passer",
+      "points": 3
+    },
+    {
+      "description": "Den kjølige, urørte overflaten du finner når du snur det som ligger under hodet om natten. En kortvarig tilstand som aldri varer så lenge som ønsket.",
+      "id": "6704a583-9897-485e-9945-1507734e5dd5",
+      "title": "Den kalde siden av puten",
+      "points": 3
+    },
+    {
+      "description": "Den minst ønskelige plassen i et fly eller i baksetet på en bil. Fortsatt bedre enn å sitte i bagasjerommet.",
+      "id": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
+      "title": "Midtsetet",
+      "points": 2
+    },
+    {
+      "description": "Øyeblikket et bestikk glipper fra hånden og ned i en bolle med varm væske. For å få det opp må du dyppe en finger i kraften eller fiske med et annet redskap.",
+      "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
+      "title": "En skje som faller i suppen",
+      "points": 3
+    },
+    {
+      "description": "En løs bærepose som virvler gjennom luften på en ruskeværsdag, ofte over parkeringsplasser. Selv om den er et symbol på forurensning, er den formålsløse dansen merkelig fascinerende.",
+      "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
+      "title": "En plastpose i vinden",
+      "points": 2
+    },
+    {
+      "description": "Å gjenopphete sjømat i et felles apparat på kontoret, allment regnet som en sosial forbrytelse. Lukten henger i pauserommet lenge etter at den skyldige har flyktet.",
+      "id": "d97d6aef-a83e-447c-b6c4-385dbe10228d",
+      "title": "Varme fisk i mikroen på jobb",
+      "points": 2
+    },
+    {
+      "description": "En personlig oversikt over opplevelser eller mål man vil rekke før man dør. Det engelske navnet kommer fra et uttrykk for å dø.",
+      "id": "e7306cba-643c-4065-9a6f-755f705736ea",
+      "title": "Bucket list",
+      "points": 2
+    },
+    {
+      "description": "En britisk bokserie der leseren skal finne en brillekledd skikkelse i rød- og hvitstripete klær blant tettpakkede illustrasjoner. Ideen om den skjulte figuren kom etter at tegneren fikk oppdraget.",
+      "id": "bf9ec332-4873-4b6c-90d3-92f211c349f0",
+      "title": "Hvor er Willy?",
+      "points": 1
+    },
+    {
+      "description": "Et uttrykk for den lille, siste hendelsen som får noen til å miste tålmodigheten. Bildet handler om en beholder som til slutt blir så full at væsken flyter over.",
+      "id": "97d61403-9d62-4a94-af01-8113f18f408d",
+      "title": "Dråpen som får begeret til å renne over",
+      "points": 1
+    },
+    {
+      "description": "Et buet kasteredskap utviklet av Australias urfolk og laget for å vende tilbake ved riktig teknikk. Verdensrekorden for et returnerende kast er 238 meter.",
+      "id": "20833986-fe5e-4a66-9ff4-fa58a88838b0",
+      "title": "En bumerang",
+      "points": 1
+    },
+    {
+      "description": "En oppdiktet følgesvenn fra barndommen, med navn og personlighet, som bare skaperen kan se. Psykologer regner fenomenet som sunt og knytter det til empati og problemløsning.",
+      "id": "e1a303ac-4247-4f82-b443-e2e31daea751",
+      "title": "En fantasivenn",
+      "points": 2
+    },
+    {
+      "description": "Et fortellergrep der handlingen stopper brått på et spennende høydepunkt og etterlater publikum i uvisshet. Selv nyhetssendinger bruker en variant før reklamepausen.",
+      "id": "7efae148-2cc5-463a-8d51-19d649131976",
+      "title": "En cliffhanger",
+      "points": 1
+    },
+    {
+      "description": "Noe man i hemmelighet liker, samtidig som man skammer seg litt over det. Nå passer det like godt som ellers å fortelle vennene dine hva ditt er!",
+      "id": "ac5bdc92-5ad7-42c3-a698-c566686be822",
+      "title": "Guilty pleasure",
+      "points": 1
+    },
+    {
+      "description": "Den hvite, polstrede maskoten til en kjent fransk dekkprodusent, gjenkjennelig siden 1898. Selskapet avgjør også hvilke restauranter som fortjener ettertraktede stjerner.",
+      "id": "c8fcac1c-d1e2-4e1e-9239-27fbfa8b65cc",
+      "title": "Michelin-mannen",
+      "points": 2
+    },
+    {
+      "description": "En menneskelignende figur som måler kreftene på en kropp ved en bilkollisjon. Moderne utgaver er utstyrt med over hundre sensorer.",
+      "id": "6e600a4a-ccfd-4600-bb98-0e536af49647",
+      "title": "En krasjtestdukke",
+      "points": 1
+    },
+    {
+      "description": "Den avsluttende trekanten av en delt italiensk rett som ingen rundt bordet tør å ta. Bare en modig sjel som spør «skal noen ha den?» kan bryte stillstanden.",
+      "id": "d320bf06-e8ab-4a6c-b8f6-0094d578b396",
+      "title": "Det siste pizzastykket",
+      "points": 2
+    },
+    {
+      "description": "En ufrivillig og overførbar refleks der synet av noen som trekker pusten dypt med åpen munn, utløser samme reaksjon hos andre. Bare det å lese om den kan være nok. Beklager.",
+      "id": "312f14af-1fdb-4040-9b5c-85167a3889b4",
+      "title": "Et smittsomt gjesp",
+      "points": 3
+    },
+    {
+      "description": "Et fortellergrep der hovedpersonen møter en identisk, men ondsinnet motpart. Hvis jeg hadde en, ville den hett «36».",
+      "id": "fb504832-5170-40be-900c-b19d0d53c2b4",
+      "title": "En ond tvilling",
+      "points": 1
+    },
+    {
+      "description": "Ufrivillige kramper i mellomgulvet som gir plutselige innpust og en skarp, gjentatt lyd. En amerikansk bonde hadde dem i 68 år, anslagsvis 430 millioner ganger.",
+      "id": "f22f1cba-1e46-4f58-b0c5-d3c3b69ce4d8",
+      "title": "Hikke",
+      "points": 1
+    },
+    {
+      "description": "En taus utøver på scenen som kommuniserer med overdrevne bevegelser og ansiktsuttrykk. Blir ofte observert fanget i en usynlig boks.",
+      "id": "ea1b6f1a-8a4d-4b74-b4f8-f956e4605232",
+      "title": "En mimekunstner",
+      "points": 1
+    },
+    {
+      "description": "Personen som blir igjen på sammenkomsten lenge etter at alle andre har reist. Hvis gjesping og rydding ikke virker, kan verten prøve å slukke lyset.",
+      "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
+      "title": "Gjesten som aldri går hjem",
+      "points": 3
+    },
+    {
+      "description": "En vanlig forsnakkelse der et skolebarn tiltaler pedagogen med et foreldreord. Søtt på barneskolen, dypt urovekkende på universitetet.",
+      "id": "c0aacaf3-d288-4ca6-a682-42319b7f01fa",
+      "title": "Kalle læreren mamma",
+      "points": 2
+    },
+    {
+      "description": "Det bevisste stilvalget å beholde mørke glass foran øynene i et lukket rom. Brukes gjerne av dem som vil virke kule eller viktige, eller ikke orker å ta dem av.",
+      "id": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
+      "title": "Solbriller innendørs",
+      "points": 2
+    },
+    {
+      "description": "Den universelle opplevelsen av å bruke kraft i feil retning på en inngang som krever motsatt bevegelse. Eksperter mener dette skyldes dårlig design, ikke brukeren.",
+      "id": "84bcd85a-4bfe-4e8b-98c3-da2a115fecf0",
+      "title": "Dytte på en dør som skal trekkes",
+      "points": 2
+    },
+    {
+      "description": "Et utslipp av tarmgass som bare lukten avslører. Kanskje verre enn den bråkete slektningen, som i det minste varsler at den kommer.",
+      "id": "e058babc-7311-4426-a552-cb87ea01158d",
+      "title": "En lydløs fis",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Et urolig spedbarn om bord i et fly, ofte regnet som den mest fryktede medpassasjeren. Noen asiatiske flyselskaper har prøvd stille soner for å skjerme andre.",
+      "id": "0492031b-272f-494e-8a04-7c673f1e2ad7",
+      "title": "En gråtende baby på flyet",
+      "points": 2
+    },
+    {
+      "description": "Et legendarisk beger fra kristen tradisjon, antatt å være kalken Jesus brukte ved sitt siste måltid. En gjenstand funnet i 1910 viste seg bare å være en svært pyntet oljelampe.",
+      "id": "7642767e-e36d-402a-bb6c-71d7be72b06c",
+      "title": "Den hellige gral",
+      "points": 1
+    },
+    {
+      "description": "En oljebrennende lyskilde fra arabisk folketro som slipper ut en mektig ånd når den gnis. Det er forbudt å be om flere ønsker, men flere slike virker som et mistenkelig smutthull.",
+      "id": "0244a3cd-29d2-451c-804b-3aa44d38b2e8",
+      "title": "En magisk lampe",
+      "points": 1
+    },
+    {
+      "description": "Den ledende vitenskapelige teorien om universets opprinnelse for rundt 13,8 milliarder år siden. Navnet ble hånlig laget av astronomen Fred Hoyle, som foretrakk en konkurrerende forklaring.",
+      "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
+      "title": "Big Bang",
+      "points": 1
+    },
+    {
+      "description": "Et ekte hemmelig selskap fra 1700-tallet som utviklet seg til en av moderne kulturs mest seiglivede konspirasjonsteorier. Den opprinnelige gruppen ble grunnlagt i Bayern i 1776 og forbudt innen ti år.",
+      "id": "68c97440-7c83-43a3-9838-b5e967d01e38",
+      "title": "Illuminati",
+      "points": 1,
+      "notForKids": true
+    },
+    {
+      "description": "Den notorisk uleselige håndskriften fra helsepersonell som pasienter og apotek sliter med å tyde. En utdøende kunst etter overgangen til digitale resepter.",
+      "id": "65d293cc-08a2-4947-9192-44c46c7b69df",
+      "title": "Legeskrift",
+      "points": 2
+    },
+    {
+      "description": "En funksjon på vekkerklokker som utsetter alarmen noen minutter. Søvneksperter sier at ekstraminuttene gjør mer skade enn nytte og ofte gjør folk enda trøttere.",
+      "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
+      "title": "Slumreknappen",
+      "points": 1
+    },
+    {
+      "description": "En duell der to personer holder øyekontakt uten å blunke til én ser bort. Verdensrekorder nærmer seg en hel time med ubrutt blikk.",
+      "id": "5474f906-59a9-4cb8-b999-3efe8b86985c",
+      "title": "En stirrekonkurranse",
+      "points": 2
+    },
+    {
+      "description": "Et bilde på den indre stemmen som frister noen til ugagn, dårlige valg eller moralske snarveier. I tegnefilmer står en engel gjerne på motsatt side og gir motsatt råd.",
+      "id": "9a6a8200-d2cc-495f-af5e-2250ea254ed8",
+      "title": "Djevelen på skulderen",
+      "points": 3
+    },
+    {
+      "description": "En uhøytidelig konkurranse der deltakerne triller over et flatt underlag sittende på møbler med hjul. I Kyoto finnes et to timers utholdenhetsløp med 90 kilo ris i premie.",
+      "id": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
+      "title": "Kontorstolkappløp",
+      "points": 3
+    },
+    {
+      "description": "Tre motivasjonsord som ofte trykkes på veggpynt i hjem og kjøkken. Varianter finnes på plakater, puter, krus, sengetøy, smykker og til og med kister.",
+      "id": "568eae83-05d3-47c1-bc31-e3ddfd7d6fdc",
+      "title": "Live, Laugh, Love",
+      "points": 2
+    },
+    {
+      "description": "Et kappløp der deltakerne sluker flest mulig porsjoner grillmat i brød på fast tid. Rekordholderen Joey Chestnut har fortært over 75 på ti minutter.",
+      "id": "ebadbed1-8a05-4e22-95e1-ba166e66e490",
+      "title": "Konkurranse i pølsespising",
+      "points": 2
+    },
+    {
+      "description": "Et kort i et populært familiespill som snur spilleretningen. Det er kanskje den eneste regelen som er lik i de tusenvis av variantene folk bruker.",
+      "id": "722617cd-07d6-454f-918a-3469e6167a19",
+      "title": "Uno-reverskortet",
+      "points": 2
+    },
+    {
+      "description": "Reglene sosiale medier bruker for å bestemme hvilket innhold hver bruker får se. Den beste vennen og verste fienden til influensere over hele verden.",
+      "id": "85eabdcd250a7a4e",
+      "title": "Algoritmen",
+      "points": 1
+    },
+    {
+      "description": "Måltidet Jesus delte med de tolv apostlene kvelden før korsfestelsen. Leonardo da Vincis maleri av hendelsen overlevde så vidt et bombeangrep under andre verdenskrig.",
+      "id": "980cb9f08ba2166e",
+      "title": "Nattverden",
+      "points": 2
+    },
+    {
+      "description": "En barnelek der én person teller med lukkede øyne mens alle andre finner et sted ute av syne. Det har eksistert et verdensmesterskap for voksne i en forlatt italiensk spøkelsesby.",
+      "id": "4607ef0f3ce0830c",
+      "title": "Gjemsel",
+      "points": 1
+    },
+    {
+      "description": "Et lite gult leketøy som brukes i karet, formet som en vannfugl. I 1992 falt tusenvis fra et lasteskip i Stillehavet, og forskere har siden brukt reisen deres til å studere havstrømmer.",
+      "id": "514087352f094b1a",
+      "title": "En badeand",
+      "points": 1
+    },
+    {
+      "description": "En frase laget for å være vanskelig å si høyt og raskt uten å snuble i lydene. Guinness kåret en gang en setning om en syk sjeiks sau til den vanskeligste på engelsk.",
+      "id": "87f40d1838be97a1",
+      "title": "En tungekrøll",
+      "points": 2
+    }
+  ]
+}

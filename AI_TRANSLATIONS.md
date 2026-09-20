@@ -342,3 +342,70 @@ between established English loanwords and Dutch wording in the General deck. The
 newer cards, accessibility tooltips, KIDS-mode text, pack import flow, collaboration
 permissions, community submission states and email subject lengths should be checked in
 context.
+
+## Norwegian Bokmål (`nb-NO`)
+
+The `nb-NO` locale files in this repository are an **AI-generated draft**. They have not
+yet been reviewed by a native Norwegian translator and should not be treated as final copy
+until that review is complete.
+
+### Scope and method
+
+- All four locale files were translated directly from the current `en-GB` sources, using
+  informal singular address (*du*). The human-reviewed `pt-PT` files were used as the main
+  reference for tone and product conventions, never as the translation source.
+- `63/nb-NO.json`, `packs.63.pt/nb-NO.json` and `emails/nb-NO.json` preserve the English
+  key order, placeholders, markup, plural pairs and line breaks. Norwegian Bokmål uses the
+  same noun form after cardinal numbers in the pack editor, so several `_one` and `_other`
+  values are intentionally identical.
+- `general_packs/nb-NO.json` contains 206 translations of English General cards and no
+  replacement cards or Norway-specific additions. The 24 cards without one confident,
+  playable Norwegian title are recorded in
+  [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
+- The tutorial and General deck use *Alene hjemme*, the established Norwegian title of
+  *Home Alone*. *Ingenting* keeps the source card's empty description, and *Déjà vu*
+  intentionally repeats its sentence.
+- Norwegian guillemets («…») are used consistently for quoted titles and text.
+
+### Norwegian Bokmål terminology
+
+The draft uses these equivalents consistently:
+
+| English | Norwegian Bokmål |
+| --- | --- |
+| card | kort |
+| title | tittel |
+| description | beskrivelse |
+| pack | pakke |
+| deck | kortstokk |
+| round | runde |
+| turn | tur |
+| team | lag |
+| points | poeng |
+| score | poengsum |
+| clue | hint |
+| guess | gjette |
+| skip a card | passe |
+| skip a screen | hoppe over |
+| penalty | straffetid |
+| game mode | spillmodus |
+| community pack | fellesskapspakke |
+
+### Point changes
+
+- *Aurora Borealis* changes from 3 points to 2 as *Nordlyset*, because the everyday
+  Norwegian title is substantially easier to clue than the Latin English title.
+- *Pippi Longstocking* changes from 3 points to 2 as *Pippi Langstrømpe*, because the
+  character is especially familiar to Norwegian players.
+
+### App label and review notes
+
+Register `nb-NO` in the app as **Norsk bokmål** with **🇳🇴**.
+
+Native review should pay particular attention to compact mobile and website labels,
+official Norwegian titles for films, television, toys and games, and the balance between
+established English loanwords and Norwegian wording in the General deck. The KIDS-mode
+text, accessibility tooltips, pack import flow, collaboration permissions, community
+submission states and email subject lengths should also be checked in context. Cards with
+competing or uncertain exact titles were dropped rather than shipped with wording that
+could cost a team its turn.

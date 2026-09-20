@@ -9,5 +9,6 @@
   "fr-FR": { "name": "French (France)", "reviewed": false, "translators": [] },
   "de-DE": { "name": "German (Germany)", "reviewed": false, "translators": [] },
   "it-IT": { "name": "Italian (Italy)", "reviewed": false, "translators": [] },
-  "nl-NL": { "name": "Dutch (Netherlands)", "reviewed": false, "translators": [] }
+  "nl-NL": { "name": "Dutch (Netherlands)", "reviewed": false, "translators": [] },
+  "nb-NO": { "name": "Norwegian Bokmål (Norway)", "reviewed": false, "translators": [] }
 }

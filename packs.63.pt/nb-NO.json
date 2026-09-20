@@ -1,0 +1,614 @@
+{
+  "common": {
+    "cancel": "Avbryt",
+    "confirm": "Bekreft",
+    "close": "Lukk",
+    "delete": "Slett",
+    "or": "eller",
+    "loading": "Laster ..."
+  },
+  "auth": {
+    "email": "E-post",
+    "password": "Passord",
+    "confirmPassword": "Bekreft passord",
+    "username": "Brukernavn",
+    "login": {
+      "title": "Logg inn",
+      "action": "Logg inn"
+    },
+    "register": {
+      "title": "Registrer deg",
+      "action": "Registrer deg"
+    },
+    "continueWithGoogle": "Fortsett med Google",
+    "continueWithEmail": "Fortsett med e-post",
+    "continueWithoutAccount": "Fortsett uten konto",
+    "dontHaveAccount": "Har du ingen konto?",
+    "alreadyHaveAccount": "Har du allerede en konto?",
+    "createAccount": {
+      "title": "Opprett konto",
+      "action": "Opprett konto"
+    },
+    "placeholder": {
+      "email": "du@eksempel.no",
+      "password": "••••••••",
+      "confirmPassword": "Gjenta passordet",
+      "username": "Navnet ditt"
+    },
+    "forgotPassword": "Glemt passordet?",
+    "resetPassword": {
+      "title": "Tilbakestill passord",
+      "action": "Tilbakestill passord"
+    },
+    "newPassword": "Nytt passord",
+    "sendResetEmail": "Send tilbakestilling",
+    "resetEmailSent": "Sjekk e-posten din",
+    "resetEmailSentDescription": "Vi har sendt en lenke for tilbakestilling av passordet til {{email}}. Åpne innboksen og følg lenken for å velge et nytt passord.",
+    "resetPasswordSuccess": "Passordet er tilbakestilt. Du kan nå logge inn med det nye passordet.",
+    "backToLogin": "Tilbake",
+    "errors": {
+      "userNotFound": "Fant ingen konto med denne e-postadressen.",
+      "wrongPassword": "Feil passord.",
+      "invalidEmail": "Ugyldig e-postadresse.",
+      "networkError": "Nettverksfeil. Kontroller forbindelsen.",
+      "invalidCredential": "Ugyldig e-postadresse eller passord.",
+      "popupCancelled": "Innloggingen ble avbrutt.",
+      "accountExists": "Det finnes allerede en konto med samme e-postadresse.",
+      "loginFailed": "Innloggingen mislyktes. Prøv igjen.",
+      "emailInUse": "Det finnes allerede en konto med denne e-postadressen.",
+      "weakPassword": "Passordet er for svakt.",
+      "registrationFailed": "Registreringen mislyktes. Prøv igjen.",
+      "credentialInUse": "Denne innloggingsmetoden er allerede knyttet til en annen konto.",
+      "providerAlreadyLinked": "Denne kontoen er allerede knyttet til en leverandør.",
+      "upgradeFailed": "Kunne ikke oppgradere kontoen. Prøv igjen.",
+      "continueFailed": "Kunne ikke fortsette. Prøv igjen.",
+      "expiredActionCode": "Denne tilbakestillingslenken er utløpt. Be om en ny.",
+      "invalidActionCode": "Denne tilbakestillingslenken er ugyldig eller allerede brukt.",
+      "resetFailed": "Kunne ikke tilbakestille passordet. Prøv igjen.",
+      "userDisabled": "Denne kontoen er deaktivert."
+    }
+  },
+  "validation": {
+    "required": {
+      "email": "E-postadresse er påkrevd",
+      "password": "Passord er påkrevd",
+      "username": "Brukernavn er påkrevd",
+      "name": "Navn er påkrevd",
+      "packName": "Pakken må ha et navn",
+      "confirmPassword": "Bekreft passordet"
+    },
+    "invalidEmail": "Ugyldig e-postadresse",
+    "passwordMinLength": "Passordet må ha minst 6 tegn",
+    "usernameMinLength": "Brukernavnet må ha minst 2 tegn",
+    "usernameMaxLength": "Brukernavnet må ha færre enn 50 tegn",
+    "nameMinLength": "Navnet må ha minst 2 tegn",
+    "nameMaxLength": "Navnet må ha færre enn 50 tegn",
+    "passwordsDoNotMatch": "Passordene er ikke like",
+    "contrastError": "Aksentfargen har ikke nok kontrast mot hovedfargen"
+  },
+  "home": {
+    "packs": "Pakker",
+    "myPacks": "Mine pakker",
+    "newPack": "Ny pakke",
+    "newPackSubtitle": "Lag en ny pakke",
+    "invitedPacks": "Delt med meg",
+    "emptyInvited": "Ingen delte pakker ennå. Bli med via en invitasjon!",
+    "emptyNoAccount": "Ingen pakker ennå. Bli med i en via en invitasjonslenke, eller opprett en konto for å lage din egen!",
+    "packAuthor": "av {{name}}",
+    "deployed": "Publisert i fellesskapet"
+  },
+  "pack": {
+    "cards": "Kort",
+    "publish": "Publiser",
+    "collaboration": "Samarbeid",
+    "editPack": "Rediger pakke",
+    "loadingPack": "Laster pakken ...",
+    "kickedMessage": "Du samarbeider ikke lenger om «{{name}}»",
+    "canOnlyEditOwnCards": "Du kan bare redigere dine egne kort",
+    "lockedForReview": "Pakken er til vurdering og kan ikke redigeres",
+    "newPack": "Ny pakke",
+    "createPack": "Opprett pakke",
+    "savePack": "Lagre pakke",
+    "details": {
+      "name": "Navn",
+      "description": "Beskrivelse",
+      "lookAndFeel": "Utseende"
+    },
+    "appearance": {
+      "back": "Bakside",
+      "front": "Forside",
+      "swap": "Bytt for- og bakside",
+      "flip": "Snu",
+      "resetAll": "Tilbakestill alt",
+      "randomize": "Tilfeldig utseende",
+      "color": "Pakkefarge",
+      "accent": "Tekstfarge",
+      "shuffleEmojis": "Bland emojier",
+      "shuffleAll": "Bland emojier og farger",
+      "undo": "Angre siste endring",
+      "editPackCover": "Rediger pakkeomslag",
+      "editPackColours": "Rediger pakkefarger",
+      "packCover": "Omslag",
+      "packColours": "Farger"
+    },
+    "transfer": {
+      "title": "Importer og eksporter",
+      "description": "Lagre kortene dine i en fil, eller importer kort fra en fil.",
+      "exportPack": {
+        "title": "Eksporter pakke",
+        "subtitle": "Last ned pakken og kortene som en .json-fil."
+      },
+      "exportCards": {
+        "title": "Eksporter kort",
+        "subtitle": "Last ned kortene som en .csv-fil du kan åpne i et regneark."
+      },
+      "importCards": {
+        "title": "Importer kort",
+        "subtitle": "Legg til kort fra en .csv- eller .json-fil."
+      },
+      "import": {
+        "title": "Importer kort",
+        "intro": "Velg en .csv- eller .json-fil.",
+        "importing": "Importerer kort ...",
+        "templateHint": "Usikker på hvordan filen skal se ut? Last ned en <csv>.csv-mal</csv> eller en <json>.json-mal</json>.",
+        "template": {
+          "packName": "Pakkenavn",
+          "packDescription": "Hva pakken handler om",
+          "cardTitle": "Kort {{number}}",
+          "cardDescription": "Beskrivelse {{number}}"
+        },
+        "chooseFile": "Velg en fil",
+        "chooseAnother": "Velg en annen",
+        "found_one": "{{count}} kort i denne filen",
+        "found_other": "{{count}} kort i denne filen",
+        "cardsOnlyNote": "Bare kortene importeres. Denne pakken beholder sitt eget navn og utseende.",
+        "detailsOwnerOnlyNote": "Bare eieren kan endre pakkens navn og utseende, så bare kortene importeres.",
+        "previewSection": "Kort som skal importeres",
+        "duplicateBadge": "Allerede i pakken",
+        "andMore_one": "og {{count}} til",
+        "andMore_other": "og {{count}} til",
+        "skippedSection_one": "{{count}} kort hoppet over",
+        "skippedSection_other": "{{count}} kort hoppet over",
+        "untitledRow": "Uten tittel",
+        "rowNumber": "Rad {{row}}",
+        "skipReason": {
+          "missingTitle": "Dette kortet mangler tittel.",
+          "invalidPoints": "Poeng må være 1, 2 eller 3.",
+          "titleTooLong": "Denne tittelen er lengre enn {{max}} tegn.",
+          "descriptionTooLong": "Denne beskrivelsen er lengre enn {{max}} tegn."
+        },
+        "optionsSection": "Importalternativer",
+        "modeSection": "Importmåte",
+        "modeAdd": "Legg til i pakken",
+        "modeAddDescription_one": "Behold kortet som allerede er i pakken",
+        "modeAddDescription_other": "Behold de {{count}} kortene som allerede er i pakken",
+        "modeReplace": "Erstatt alle kort",
+        "modeReplaceDescription_one": "Slett kortet som allerede er i pakken først",
+        "modeReplaceDescription_other": "Slett de {{count}} kortene som allerede er i pakken først",
+        "skipDuplicates_one": "Hopp over {{count}} kort som allerede er i pakken",
+        "skipDuplicates_other": "Hopp over {{count}} kort som allerede er i pakken",
+        "applyDetails": "Bruk også navnet og utseendet fra denne filen",
+        "confirm_one": "Importer {{count}} kort",
+        "confirm_other": "Importer {{count}} kort",
+        "confirmDetailsOnly": "Bruk navn og utseende"
+      },
+      "error": {
+        "empty": "Det er ingen kort i denne filen.",
+        "invalidJson": "Denne filen er ikke gyldig JSON.",
+        "notAPackFile": "Dette ser ikke ut som en pakkefil for 63.",
+        "unsupportedVersion": "Filen kommer fra en nyere versjon av nettstedet. Last inn siden på nytt og prøv igjen.",
+        "unsupportedFile": "Bare .csv- og .json-filer kan importeres.",
+        "unreadable": "Filen kunne ikke leses.",
+        "tooManyCards": "Det ville gitt {{total}} kort. En pakke kan inneholde {{max}}.",
+        "tooLarge": "Denne importen er for stor. Del den opp i mindre filer, eller forkort beskrivelsene."
+      }
+    },
+    "dangerZone": "Faresone",
+    "dangerDescription": "Sletting av denne pakken er permanent og kan ikke angres.",
+    "deletePack": "Slett pakke",
+    "summary": {
+      "author": "av {{name}}",
+      "cardCount_one": "{{count}} kort",
+      "cardCount_other": "{{count}} kort",
+      "hint": "Be pakkens eier om en redigeringslenke for å samarbeide om pakken."
+    }
+  },
+  "publish": {
+    "addTo63Section": {
+      "title": "Legg til i 63"
+    },
+    "openInApp": {
+      "title": "Åpne i appen",
+      "subtitle": "Legg denne pakken til i samlingen din."
+    },
+    "shareLink": {
+      "title": "Del lenke",
+      "subtitle": "Send en lenke til en venn.",
+      "byAuthor": "av {{author}}",
+      "tagline": "En pakke til spillet 63"
+    },
+    "copyCode": {
+      "title": "Kopier kode",
+      "subtitle": "Lim den inn manuelt i 63."
+    },
+    "communitySection": {
+      "title": "Fellesskap"
+    },
+    "submit": {
+      "title": "Send inn pakken din!",
+      "subtitle": "Del den med 63-fellesskapet.",
+      "cta": "Send inn",
+      "minCards": "Legg til minst {{required}} kort for å sende inn denne pakken. Du har {{current}} nå."
+    },
+    "community": {
+      "pending": {
+        "title": "Innsending til vurdering",
+        "meta": "Sendt inn {{date}}",
+        "body": "En moderator vurderer pakken din innen 1–3 dager.",
+        "withdraw": "Trekk innsendingen"
+      },
+      "approved": {
+        "title": "Godkjent og publisert",
+        "meta": "Godkjent {{date}}",
+        "reviewerNote": "Merknad fra moderatoren:",
+        "stats": {
+          "likes": "Likes",
+          "plays": "Spill"
+        },
+        "withdraw": "Trekk fra fellesskapet",
+        "moreActions": "Flere handlinger"
+      },
+      "update": {
+        "title": "Publisert, men utdatert",
+        "meta_one": "{{count}} endring siden godkjenning",
+        "meta_other": "{{count}} endringer siden godkjenning",
+        "body": "Du har redigert pakken siden den ble godkjent. Send den inn på nytt for å publisere den nye versjonen.",
+        "cta": "Send inn på nytt"
+      },
+      "rejected": {
+        "title": "Innsendingen ble ikke godkjent",
+        "meta": "Vurdert {{date}}",
+        "cta": "Send inn på nytt"
+      },
+      "updateRejected": {
+        "title": "Oppdateringen ble ikke godkjent",
+        "meta": "Vurdert {{date}}",
+        "body": "De siste endringene dine ble ikke godkjent, men den forrige godkjente versjonen er fortsatt publisert blant fellesskapspakkene.",
+        "liveSince": "Publisert siden {{date}}",
+        "cta": "Rediger og send inn på nytt"
+      },
+      "diff": {
+        "viewChanges": "Vis endringer",
+        "title": "Endringer siden sist godkjente versjon",
+        "loading": "Laster publisert versjon ...",
+        "unavailable": "Kunne ikke laste den forrige godkjente versjonen.",
+        "noChanges": "Ingen kort er endret siden sist godkjente versjon.",
+        "newSection_one": "{{count}} nytt kort",
+        "newSection_other": "{{count}} nye kort",
+        "modifiedSection_one": "{{count}} endret kort",
+        "modifiedSection_other": "{{count}} endrede kort",
+        "removedSection_one": "{{count}} fjernet kort",
+        "removedSection_other": "{{count}} fjernede kort",
+        "previously": "Tidligere",
+        "field": {
+          "title": "Tittel",
+          "description": "Beskrivelse",
+          "points": "Poeng"
+        },
+        "empty": "(tomt)"
+      },
+      "removed": {
+        "title": "Fjernet fra fellesskapet",
+        "meta": "Fjernet {{date}}",
+        "body": "En moderator fjernet denne pakken fra fellesskapspakkene. Du kan redigere den og sende den inn på nytt når du er klar.",
+        "cta": "Send inn på nytt"
+      },
+      "withdrawn": {
+        "title": "Trukket fra fellesskapet",
+        "meta": "Trukket {{date}}",
+        "body": "Du trakk denne pakken fra fellesskapspakkene. Du kan sende den inn på nytt når som helst.",
+        "cta": "Send inn på nytt"
+      },
+      "withdrawConfirm": {
+        "title": "Trekke pakken fra fellesskapet?",
+        "description": "«{{name}}» fjernes fra fellesskapspakkene og slettes hos alle som har installert den neste gang de åpner 63. Du kan sende den inn igjen senere.",
+        "confirm": "Trekk tilbake"
+      },
+      "toast": {
+        "withdrawn": "Innsendingen er trukket",
+        "withdrawFailed": "Kunne ikke trekke innsendingen",
+        "withdrawnApproved": "Pakken er trukket fra fellesskapet",
+        "withdrawApprovedFailed": "Kunne ikke trekke pakken"
+      }
+    }
+  },
+  "submit": {
+    "title": "Send inn til fellesskapet",
+    "titleResubmit": "Send inn til fellesskapet på nytt",
+    "infoBanner": "Når pakken er godkjent, kan den finnes blant fellesskapspakkene i 63. Send den inn på nytt når som helst for å publisere endringer.",
+    "language": {
+      "title": "Pakkens språk",
+      "subtitle": "Språket de fleste kortene er skrevet på.",
+      "placeholder": "Velg et språk"
+    },
+    "kids": {
+      "title": "KIDS-modus",
+      "subtitle": "KIDS-modus i appen viser bare pakker som passer for barn. En moderator kontrollerer svaret ditt.",
+      "checkbox": "Denne pakken passer for barn"
+    },
+    "agreement": "Jeg bekrefter at pakken følger <guidelines>retningslinjene for 63-fellesskapet</guidelines> og ikke inneholder hatefulle ytringer, deling av privatpersoners personopplysninger eller opphavsrettsbeskyttet korttekst.",
+    "cta": {
+      "submit": "Send til vurdering",
+      "resubmit": "Send til ny vurdering"
+    },
+    "toast": {
+      "submitted": "Pakken er sendt til vurdering!",
+      "failed": "Kunne ikke sende inn pakken"
+    }
+  },
+  "share": {
+    "dontHaveApp": "Har du ikke 63 ennå?",
+    "appStore": "App Store",
+    "googlePlay": "Google Play",
+    "notFound": "Fant ikke pakken",
+    "notFoundDescription": "Denne pakken finnes ikke eller er ikke lenger tilgjengelig."
+  },
+  "community": {
+    "notFound": "Fant ikke fellesskapspakken",
+    "notFoundDescription": "Denne fellesskapspakken finnes ikke eller er ikke lenger tilgjengelig."
+  },
+  "card": {
+    "newCard": "Nytt kort",
+    "editCard": "Rediger kort",
+    "viewCard": "Kortdetaljer",
+    "saveCard": "Lagre kort",
+    "addCard": "Legg til kort",
+    "title": "Tittel",
+    "description": "Beskrivelse",
+    "noCards": "Ingen kort ennå",
+    "importFromFile": "Importer fra en fil",
+    "points_one": "poeng",
+    "points_other": "poeng",
+    "difficulty": {
+      "easy": "lett",
+      "medium": "middels",
+      "hard": "vanskelig"
+    },
+    "authorCards": "Kort fra {{name}}",
+    "viewAllCards": "Vis alle kort",
+    "viewDrafts": "Vis utkast",
+    "totals": {
+      "cards": "Kort per forfatter",
+      "drafts": "Utkast per forfatter",
+      "total": "Totalt"
+    },
+    "sort": {
+      "alphaAsc": "Alfabetisk (A → Å)",
+      "alphaDesc": "Alfabetisk (Å → A)",
+      "pointsDesc": "Poeng (høyest → lavest)",
+      "pointsAsc": "Poeng (lavest → høyest)",
+      "dateDesc": "Nyeste først",
+      "dateAsc": "Eldste først",
+      "sortOptions": "Sorteringsalternativer",
+      "label": "Sorter",
+      "sortBy": "Sorter etter"
+    },
+    "draft": "Utkast",
+    "info": "Kortinformasjon",
+    "createdAt": "Opprettet",
+    "filter": {
+      "myCards": "Mine kort",
+      "allCards": "Alle kort",
+      "myDrafts": "Mine utkast",
+      "allDrafts": "Alle utkast",
+      "label": "Filtre",
+      "missingDescription": "Kort uten beskrivelse",
+      "noMissingDescriptions": "Alle kort har en beskrivelse.",
+      "description": "Beskrivelse",
+      "difficulty": "Vanskelighetsgrad",
+      "author": "Forfatter",
+      "clearAll": "Fjern alle",
+      "noResults": "Ingen kort samsvarer med disse filtrene."
+    },
+    "groupBy": {
+      "label": "Grupper etter",
+      "none": "Ingen",
+      "author": "Forfatter",
+      "points": "Poeng"
+    },
+    "pointsGroup_one": "{{count}} poeng",
+    "pointsGroup_other": "{{count}} poeng",
+    "search": {
+      "label": "Søk",
+      "placeholder": "Søk i kort",
+      "clear": "Tøm søket",
+      "noResults": "Ingen kort samsvarer med «{{query}}»."
+    },
+    "selection": {
+      "label": "Velg kort",
+      "count_one": "{{count}} kort valgt",
+      "count_other": "{{count}} kort valgt",
+      "empty": "Velg kortene du vil endre",
+      "selectAll": "Velg alle",
+      "deselectAll": "Fjern alle valg",
+      "setPoints": "Angi poeng",
+      "delete": "Slett valgte kort",
+      "cancel": "Avbryt valg"
+    }
+  },
+  "collaboration": {
+    "accessMode": "Redigeringsmodus",
+    "whoCanEdit": "Hvem kan redigere denne pakken?",
+    "private": "Privat",
+    "privateDescription": "Bare du kan redigere",
+    "collaborative": "Samarbeid",
+    "collaborativeDescription": "Andre med lenken kan redigere",
+    "inviteDescription": "Del denne lenken, slik at andre kan bli med og samarbeide om pakken.",
+    "copyEditLink": "Kopier redigeringslenke",
+    "permissions": "Samarbeidspartnernes tillatelser",
+    "whatCanDo": "Hva kan samarbeidspartnere gjøre?",
+    "addCards": "Legge til kort",
+    "addCardsDescription": "Kan bare legge til kort og se eller redigere sine egne",
+    "fullAccess": "Full tilgang",
+    "fullAccessDescription": "Kan legge til og redigere alle kort og endre pakkeinnstillinger",
+    "collaborators": "Samarbeidspartnere",
+    "noCollaborators": "Ingen samarbeidspartnere ennå. Del redigeringslenken for å invitere noen.",
+    "noOtherCollaborators": "Ingen andre samarbeidspartnere.",
+    "leavePack": "Forlat pakken",
+    "leaveDescription": "Du vil ikke lenger kunne redigere denne pakken.",
+    "loadingSettings": "Laster innstillinger ...",
+    "joined": "Ble med {{date}}",
+    "ownerRole": "Eier",
+    "created": "Opprettet {{date}}"
+  },
+  "dialog": {
+    "deleteCard": {
+      "title": "Slett kort",
+      "description": "Er du sikker på at du vil slette dette kortet? Handlingen kan ikke angres."
+    },
+    "deleteCards": {
+      "title_one": "Slett kort",
+      "title_other": "Slett {{count}} kort",
+      "description_one": "Er du sikker på at du vil slette dette kortet? Handlingen kan ikke angres.",
+      "description_other": "Er du sikker på at du vil slette disse {{count}} kortene? Handlingen kan ikke angres."
+    },
+    "deletePack": {
+      "title": "Slett pakke",
+      "description": "Er du sikker på at du vil slette «{{name}}»? Handlingen kan ikke angres, og alle kort går tapt."
+    },
+    "leavePack": {
+      "title": "Forlat pakken",
+      "description": "Er du sikker på at du vil forlate «{{name}}»? Du vil ikke lenger kunne redigere den.",
+      "confirm": "Forlat"
+    },
+    "removeCollaborator": {
+      "title": "Fjern samarbeidspartner",
+      "description": "Er du sikker på at du vil fjerne {{name}} fra denne pakken? Personen vil ikke lenger kunne redigere den.",
+      "confirm": "Fjern"
+    },
+    "disableCollaboration": {
+      "title": "Slå av samarbeid",
+      "description": "Dette fjerner alle samarbeidspartnere fra pakken og tilbakestiller samarbeidsinnstillingene.",
+      "confirm": "Slå av"
+    },
+    "similarCard": {
+      "title": "Fant et lignende kort",
+      "description": "Det finnes allerede et lignende kort:",
+      "confirm": "Er du sikker på at du vil legge det til?",
+      "addAnyway": "Legg til likevel"
+    },
+    "unsavedChanges": {
+      "title": "Ulagrede endringer",
+      "description": "Du har ulagrede endringer. Er du sikker på at du vil forlate siden? Endringene går tapt.",
+      "confirm": "Forlat"
+    },
+    "deleteAccount": {
+      "title": "Slett konto",
+      "description": "Er du sikker på at du vil slette kontoen din? Handlingen kan ikke angres."
+    }
+  },
+  "toast": {
+    "packSaved": "Pakken er lagret!",
+    "failedToUpdatePack": "Kunne ikke oppdatere pakken",
+    "packDeleted": "«{{name}}» er slettet",
+    "failedToDeletePack": "Kunne ikke slette pakken",
+    "failedToAddCard": "Kunne ikke legge til kortet",
+    "failedToUpdateCard": "Kunne ikke oppdatere kortet",
+    "failedToDeleteCard": "Kunne ikke slette kortet",
+    "failedToUpdateCards": "Kunne ikke oppdatere kortene",
+    "failedToDeleteCards": "Kunne ikke slette kortene",
+    "collaboratorRemoved": "Samarbeidspartneren er fjernet",
+    "failedToRemoveCollaborator": "Kunne ikke fjerne samarbeidspartneren",
+    "failedToUpdateSettings": "Kunne ikke oppdatere innstillingene",
+    "editLinkCopied": "Redigeringslenken er kopiert!",
+    "linkCopied": "Lenken er kopiert!",
+    "failedToCopyLink": "Kunne ikke kopiere lenken",
+    "appNotInstalled": "63 er ikke installert på denne enheten",
+    "codeCopied": "Koden er kopiert!",
+    "failedToCopyCode": "Kunne ikke kopiere koden",
+    "joinedPack": "Du er med i pakken!",
+    "failedToJoinPack": "Kunne ikke bli med i pakken",
+    "leftPack": "Du har forlatt «{{name}}»",
+    "failedToLeavePack": "Kunne ikke forlate pakken",
+    "usernameUpdated": "Brukernavnet er oppdatert!",
+    "failedToUpdateUsername": "Kunne ikke oppdatere brukernavnet",
+    "accountDeleted": "Kontoen er slettet",
+    "failedToDeleteAccount": "Kunne ikke slette kontoen",
+    "nameUpdatedInPack": "Navnet ditt er oppdatert i denne pakken",
+    "cardsImported_one": "{{count}} kort importert",
+    "cardsImported_other": "{{count}} kort importert",
+    "packUpdatedFromFile": "Pakken er oppdatert fra filen",
+    "failedToImportCards": "Kunne ikke importere kortene"
+  },
+  "join": {
+    "joinPack": "Bli med i pakken",
+    "packNotFound": "Fant ikke pakken",
+    "packNotFoundDescription": "Denne pakken finnes ikke, eller lenken er ugyldig.",
+    "goToMyPacks": "Gå til mine pakker",
+    "joiningPack": "Blir med i pakken ...",
+    "invited": "Du er invitert til å samarbeide om denne pakken.",
+    "yourName": "Navnet ditt",
+    "enterYourName": "Skriv inn navnet ditt",
+    "noAccountNote": "Du kan opprette en konto senere. Ingenting går tapt."
+  },
+  "upgrade": {
+    "heading": "Opprett konto",
+    "continueWithoutAccount": "Fortsett uten konto"
+  },
+  "banner": {
+    "noAccountMessage": "Du har ingen konto ennå. Registrer deg for å lage dine egne pakker.",
+    "createAccount": "Opprett konto"
+  },
+  "password": {
+    "show": "Vis passord",
+    "hide": "Skjul passord"
+  },
+  "emoji": {
+    "loading": "Laster ...",
+    "empty": "Fant ingen emojier."
+  },
+  "changelog": {
+    "title": "Endringslogg"
+  },
+  "licences": {
+    "title": "Lisenser",
+    "intro": "63 Packs er bygget med programvare med åpen kildekode og bruker emojier og ikoner fra tredjeparter. Vi er takknemlige overfor alle som har gjort dem tilgjengelige.",
+    "attributions": "Emojier og ikoner",
+    "openSource": "Programvare med åpen kildekode",
+    "viewLicence": "Vis lisens"
+  },
+  "guidelines": {
+    "title": "Retningslinjer for fellesskapet"
+  },
+  "legal": {
+    "title": "Juridisk",
+    "guidelinesDescription": "Det vi liker, og det vi ikke tillater.",
+    "licencesDescription": "Programvaren med åpen kildekode og emojiene vi bruker."
+  },
+  "menu": {
+    "legal": "Juridisk",
+    "feedback": "Tilbakemelding"
+  },
+  "cookies": {
+    "ariaLable": "Informasjonskapsler",
+    "message": "Vi bruker informasjonskapsler for å forbedre 63.",
+    "accept": "OK",
+    "decline": "Nei takk"
+  },
+  "account": {
+    "title": "Konto",
+    "username": "Brukernavn",
+    "usernameNote": "Navnet ditt oppdateres bare når du åpner pakkene. Gamle pakker beholder det forrige navnet til du åpner dem.",
+    "changeUsername": "Lagre brukernavn",
+    "language": "Språk",
+    "english": "Engelsk",
+    "portuguese": "Portugisisk",
+    "spanish": "Spansk",
+    "turkish": "Tyrkisk",
+    "french": "Fransk",
+    "dangerZone": "Faresone",
+    "dangerDescription": "Sletting av kontoen er permanent og kan ikke angres.",
+    "deleteAccount": "Slett konto",
+    "logout": "Logg ut"
+  }
+}

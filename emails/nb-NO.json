@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "«{{packName}}» er publisert i fellesskapet",
+    "preheader": "Pakken «{{packName}}» er godkjent.",
+    "heading": "Godkjent!",
+    "intro": "<strong>{{packName}}</strong> er godkjent og nå tilgjengelig for alle i 63.",
+    "cta": "Vis fellesskapspakken",
+    "reviewerNote": "Merknad fra moderatoren:",
+    "caption": "Spillere finner den blant fellesskapspakkene i appen.",
+    "text": "Godkjent!\n\n«{{packName}}» er godkjent og nå tilgjengelig for alle i 63.\n\nVis: {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "«{{packName}}» er nå fremhevet",
+    "preheader": "Vi valgte «{{packName}}» som en fremhevet fellesskapspakke.",
+    "heading": "Nå fremhevet!",
+    "intro": "Vi valgte <strong>{{packName}}</strong> som en fremhevet fellesskapspakke.",
+    "cta": "Vis fremhevet pakke",
+    "caption": "Fremhevede pakker vises øverst i fellesskapsdelen.",
+    "text": "Vi valgte «{{packName}}» som en fremhevet fellesskapspakke.\n\nVis: {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "Oppdateringen av «{{packName}}» ble ikke godkjent",
+      "new": "Oppdatering om «{{packName}}»"
+    },
+    "preheader": {
+      "update": "Oppdateringen av «{{packName}}» ble ikke godkjent – den forrige versjonen er fortsatt publisert.",
+      "new": "Pakken «{{packName}}» ble ikke godkjent denne gangen."
+    },
+    "heading": "Nytt om innsendingen din",
+    "intro": {
+      "update": "Vi vurderte oppdateringen av <strong>{{packName}}</strong>, men den ble ikke godkjent. Her er moderatorens merknad:",
+      "new": "Vi vurderte <strong>{{packName}}</strong>, men pakken ble ikke godkjent denne gangen. Her er moderatorens merknad:"
+    },
+    "stillLive": "Den gode nyheten er at den forrige godkjente versjonen fortsatt finnes i fellesskapsbiblioteket – ingenting er fjernet.",
+    "cta": "Rediger og send inn på nytt",
+    "text": {
+      "opener": {
+        "update": "Vi vurderte oppdateringen av «{{packName}}», men den ble ikke godkjent. Den forrige godkjente versjonen finnes fortsatt i fellesskapsbiblioteket – ingenting er fjernet.",
+        "new": "Vi vurderte «{{packName}}», men pakken ble ikke godkjent denne gangen."
+      },
+      "reviewerNote": "Merknad fra moderatoren:",
+      "invite": "Du kan redigere pakken og sende den inn på nytt når du er klar."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "«{{packName}}» er fjernet fra fellesskapet",
+    "preheader": "En moderator har tatt ned pakken «{{packName}}».",
+    "heading": "Pakken er fjernet",
+    "intro": {
+      "withoutReason": "Vi har fjernet <strong>{{packName}}</strong> fra fellesskapsbiblioteket.",
+      "withReason": "Vi har fjernet <strong>{{packName}}</strong> fra fellesskapsbiblioteket. Her er begrunnelsen:"
+    },
+    "cta": "Åpne pakken",
+    "caption": "Du kan redigere pakken og sende den inn på nytt når du er klar.",
+    "text": {
+      "withoutReason": "Vi har fjernet «{{packName}}» fra fellesskapsbiblioteket.\n\nDu kan redigere pakken og sende den inn på nytt når du er klar.\n{{url}}\n",
+      "withReason": "Vi har fjernet «{{packName}}» fra fellesskapsbiblioteket.\n\nBegrunnelse:\n{{reason}}\n\nDu kan redigere pakken og sende den inn på nytt når du er klar.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "«{{packName}}» er sendt til vurdering",
+    "preheader": "Vi har mottatt fellesskapspakken din.",
+    "heading": "Innsendingen er mottatt",
+    "intro": "Vi har mottatt <strong>{{packName}}</strong> til vurdering for fellesskapet.",
+    "cta": "Vis pakken",
+    "caption": "Vi sender deg en e-post så snart det kommer en oppdatering.",
+    "text": "Vi har mottatt «{{packName}}» til vurdering for fellesskapet. Vi sender deg en e-post når det kommer en oppdatering.\n\nVis pakken: {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "Tilbakestill passordet på packs.63.pt",
+    "preheader": "Trykk på knappen for å velge et nytt passord.",
+    "heading": "Tilbakestill passordet",
+    "intro": "Vi har mottatt en forespørsel om å tilbakestille passordet for kontoen din på packs.63.pt. Trykk på knappen nedenfor for å velge et nytt.",
+    "cta": "Tilbakestill passord",
+    "caption": "Hvis du ikke ba om dette, kan du trygt ignorere e-posten – passordet ditt blir ikke endret.",
+    "text": "Tilbakestill passordet\n\nVi har mottatt en forespørsel om å tilbakestille passordet for kontoen din på packs.63.pt. Åpne denne lenken for å velge et nytt:\n\n{{url}}\n\nHvis du ikke ba om dette, kan du trygt ignorere e-posten – passordet ditt blir ikke endret.\n"
+  }
+}

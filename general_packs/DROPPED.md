@@ -501,6 +501,55 @@ character rather than a translation of the same card.
 | --- |
 | Big Bird |
 
+## `nb-NO`
+
+**24 of the 230 English cards have no Norwegian Bokmål counterpart.** The remaining 206
+are direct translations of English cards.
+
+### English-specific expression or meaning
+
+| Card |
+| --- |
+| 9 to 5 |
+| A Butt Dial |
+| Double Dipping |
+| Mary Jane |
+| One-Trick Pony |
+
+### Official or edition wording is not stable
+
+| Card |
+| --- |
+| Go Directly to Jail |
+
+### No single, recognisable Norwegian title
+
+| Card |
+| --- |
+| A Pinky Promise |
+| A Pool Noodle |
+| A Spork |
+| A Tumbleweed |
+| Buzz Cut |
+| Colonel Mustard |
+| Good Cop, Bad Cop |
+| Hungry Hungry Hippos |
+| The 1% |
+| The Conga Line |
+| The Friends from Friends |
+| The Ghost of Christmas Past |
+| Truth or Dare |
+
+### Reference would not play well in Norway
+
+| Card |
+| --- |
+| 3 Kids in a Trenchcoat |
+| Big Bird |
+| Jimmy Fallon's Laugh |
+| Mr. Worldwide |
+| Super Bowl Halftime Show |
+
 ## `de-DE`
 
 **45 of the 230 English cards have no German counterpart.** The remaining 185 are direct
