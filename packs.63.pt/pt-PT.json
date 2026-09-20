@@ -84,7 +84,7 @@
     "nameMinLength": "O nome deve ter pelo menos 2 caracteres",
     "nameMaxLength": "O nome deve ter menos de 50 caracteres",
     "passwordsDoNotMatch": "As passwords não coincidem",
-    "contrastError": "A cor de destaque não tem contraste suficiente com a cor principal"
+    "contrastError": "A cor do texto não tem contraste suficiente com a cor do pack"
   },
   "home": {
     "packs": "Packs",

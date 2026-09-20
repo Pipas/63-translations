@@ -11,12 +11,13 @@ cards that don't make the trip. So the decks overlap heavily, but not perfectly,
 overlap only runs one way: cards in a translated deck come from English, while some English
 cards have no counterpart in a given language.
 
-Right now, the English deck has 230 cards. The translated decks have 185 Portuguese cards,
-176 Turkish cards, 201 Spanish (Spain) cards, 197 Latin American Spanish cards, 192 French
-cards, 185 German cards, 181 Italian cards, 197 Dutch cards and 206 Norwegian Bokmål cards.
-Every retained card is a translation of an English card: 45 were dropped from Portuguese,
-54 from Turkish, 29 from Spanish (Spain), 33 from Latin American Spanish, 38 from French,
-45 from German, 49 from Italian, 33 from Dutch and 24 from Norwegian Bokmål.
+Right now, the English deck has 230 cards. The translated decks have 185 European Portuguese
+cards, 186 Brazilian Portuguese cards, 175 Turkish cards, 198 Spanish (Spain) cards, 193
+Latin American Spanish cards, 190 French cards, 184 German cards, 179 Italian cards, 195
+Dutch cards and 204 Norwegian Bokmål cards. Every retained card is a translation of an
+English card: 45 were dropped from European Portuguese, 44 from Brazilian Portuguese,
+55 from Turkish, 32 from Spanish (Spain), 37 from Latin American Spanish, 40 from French,
+46 from German, 51 from Italian, 35 from Dutch and 26 from Norwegian Bokmål.
 
 Cards get dropped when:
 

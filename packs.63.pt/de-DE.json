@@ -84,7 +84,7 @@
     "nameMinLength": "Der Name muss mindestens 2 Zeichen lang sein",
     "nameMaxLength": "Der Name muss kürzer als 50 Zeichen sein",
     "passwordsDoNotMatch": "Die Passwörter stimmen nicht überein",
-    "contrastError": "Die Akzentfarbe hat nicht genug Kontrast zur Hauptfarbe"
+    "contrastError": "Die Textfarbe hat nicht genug Kontrast zur Pack-Farbe"
   },
   "home": {
     "packs": "Packs",
@@ -238,7 +238,7 @@
       "title": "Reiche dein Pack ein!",
       "subtitle": "Teile es mit der 63-Community.",
       "cta": "Einreichen",
-      "minCards": "Füge mindestens {{required}} Karten hinzu, um dieses Pack einzureichen. Derzeit sind es {{current}}."
+      "minCards": "Zum Einreichen muss dieses Pack mindestens {{required}} Karten enthalten. Derzeit sind es {{current}}."
     },
     "community": {
       "pending": {
@@ -407,7 +407,7 @@
       "description": "Beschreibung",
       "difficulty": "Schwierigkeit",
       "author": "Autor",
-      "clearAll": "Alle löschen",
+      "clearAll": "Filter zurücksetzen",
       "noResults": "Keine Karte entspricht diesen Filtern."
     },
     "groupBy": {

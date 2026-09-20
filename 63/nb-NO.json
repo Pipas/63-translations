@@ -21,7 +21,7 @@
     "hide_descriptions": "Skjul beskrivelser",
     "hide_descriptions_tooltip": "Når dette er slått på, skjules beskrivelsene på kortene under spillet.",
     "carry_over_time": "Ta tiden med videre",
-    "carry_over_time_tooltip": "Når dette er slått på, beholder et lag klokken hvis det går tomt for kort med mer enn 10 sekunder igjen, og starter neste runde med tiden som var igjen.\nUnder 10 sekunder tas ikke med videre.",
+    "carry_over_time_tooltip": "Når dette er slått på, tar et lag med seg tiden til neste runde hvis alle kortene er gjettet med mer enn 10 sekunder igjen.\nUnder 10 sekunder tas ikke med videre.",
     "time_carried_over": "s tatt med videre",
     "time_carried_over_description": "Den samme spilleren fortsetter denne runden.",
     "deck": "Kortstokk",
@@ -52,7 +52,7 @@
     "card_text_size": "Tekststørrelse på kort",
     "card_text_size_tooltip": "Gjør tittelen og beskrivelsen på kortene større under et spill.",
     "high_contrast": "Høy kontrast",
-    "high_contrast_tooltip": "Gjør svak tekst mørkere og sørger for at pakke- og lagfarger bruker tekstfargen som er lettest å lese oppå dem.",
+    "high_contrast_tooltip": "Gjør svak tekst mørkere og velger tekstfargen som er lettest å lese mot bakgrunnsfargene til pakker og lag.",
     "legible_font": "Lettlest skrifttype",
     "legible_font_tooltip": "Bytter teksten i appen til Atkinson Hyperlegible, en skrifttype laget for at bokstaver og tall som ligner på hverandre, skal være enkle å skille.",
     "leave": "Forlat",
@@ -206,7 +206,7 @@
       "note_description": "Ord er forbudt, bruk bare bevegelser og lyder!"
     },
     "controls": {
-      "guess_text": "Hvis laget ditt gjetter kortet, trykker du på gjetteknappen **CHECK_ICON**",
+      "guess_text": "Hvis laget ditt gjetter kortet, trykker du på knappen **CHECK_ICON**",
       "skip_text": "Ingen hint, eller vil du ha et nytt kort? Trykk på **Pass**",
       "info": "Du kan også sveipe for å markere kort som gjettet eller passet.",
       "more_info": "Sveip mot høyre for å markere kortet som gjettet, og mot venstre for å passe. Passede kort blir i kortstokken og kommer tilbake senere i samme runde, så du får en ny sjanse.\n\nI Klassisk modus er det gratis å passe, så ikke bare se på at tiden går!"
@@ -322,8 +322,6 @@
     "reveal_all_title": "Vil du vise alle kortene?",
     "reveal_all_body": "Du får se hele pakken med {count} kort. Det er nyttig når du skal velge en pakke, men ødelegger overraskelsen hvis du skal spille.",
     "reveal_all_confirm": "Vis",
-    "announcement_title": "Lag dine egne pakker!",
-    "announcement_body": "Nå kan du lage pakker med dine egne kort, samarbeide med venner og dele dem med hele verden!\n\nGå til {link} for å begynne.",
     "code_hint": "ABC123",
     "add_pack_button": "Legg til pakke",
     "already_added": "Allerede i samlingen",

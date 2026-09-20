@@ -322,8 +322,6 @@
     "reveal_all_title": "Reveal every card?",
     "reveal_all_body": "You'll see all {count} cards in this pack. Handy for picking a pack, but it spoils the surprise if you're going to play.",
     "reveal_all_confirm": "Reveal",
-    "announcement_title": "Create your own packs!",
-    "announcement_body": "You can now build packs with your own cards, collaborate with friends and share them with the world!\n\nHead to {link} to start creating.",
     "code_hint": "ABC123",
     "add_pack_button": "Add pack",
     "already_added": "Already in collection",

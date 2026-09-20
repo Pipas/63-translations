@@ -15,7 +15,7 @@
       "points": 1
     },
     {
-      "description": "Mythe alimentaire selon lequel il existe un court laps de temps pendant lequel on peut ramasser et manger ce qui est tombé par terre. Beaucoup d'études, aucun consensus.",
+      "description": "Mythe alimentaire selon lequel il existe un court laps de temps pendant lequel on peut ramasser et manger ce qui est tombé par terre.",
       "id": "66bdb3a884826a85",
       "title": "La règle des 5 secondes",
       "points": 2
@@ -34,19 +34,13 @@
       "points": 1
     },
     {
-      "description": "Coupe très courte, réalisée à la tondeuse au ras du crâne. Dans beaucoup d'armées, elle est imposée aux recrues : autrefois contre les poux, aujourd'hui surtout par uniformité.",
-      "id": "6d84e5d84ee4fd2b",
-      "title": "La boule à zéro",
-      "points": 1
-    },
-    {
       "description": "Selon la théorie de la relativité d'Einstein, aucune particule ne peut dépasser cette limite. Dans le vide, elle vaut exactement 299 792 458 m/s. Ne cligne pas des yeux.",
       "id": "4e5d84ee4fd2b865",
       "title": "La vitesse de la lumière",
       "points": 2
     },
     {
-      "description": "L'accessoire fétiche du chanteur de U2. Beaucoup y voyaient une pose de rockstar, mais il a révélé en interview qu'elles soulagent un problème de vue lié au glaucome.",
+      "description": "L'accessoire fétiche du chanteur de U2. Beaucoup y voyaient une pose de rockstar, mais il a révélé en interview que cela soulage un problème de vue lié au glaucome.",
       "id": "4a02d6ad5b0dc392",
       "title": "Les lunettes de Bono",
       "points": 2
@@ -71,7 +65,7 @@
       "notForKids": true
     },
     {
-      "description": "La situation où l'un des deux membres d'un duo platonique voudrait plus, romantiquement ou sexuellement, et l'autre non. On y entre facilement, on en sort rarement.",
+      "description": "La situation où une personne voudrait une relation amoureuse ou sexuelle avec quelqu'un qui ne souhaite que de l'amitié.",
       "id": "6bdb3a884826a853",
       "title": "La friendzone",
       "points": 2,
@@ -102,7 +96,7 @@
       "points": 2
     },
     {
-      "description": "Petit récipient à pièces, surtout entre les mains des enfants. Autrefois, il fallait la casser pour récupérer ses économies.",
+      "description": "Petit récipient à pièces, surtout utilisé par les enfants. Les modèles traditionnels se cassent pour récupérer les économies.",
       "id": "4ee4fd2b8656cda7",
       "title": "La tirelire",
       "points": 1
@@ -219,7 +213,7 @@
       "points": 3
     },
     {
-      "description": "Gamme de jouets à l'effigie d'équidés fantastiques, créée par l'américain Hasbro, devenue une série animée. Elle visait les fillettes, mais a récolté un culte en ligne chez les hommes adultes.",
+      "description": "Gamme de jouets à l'effigie d'équidés fantastiques, créée par Hasbro, devenue une série animée. Destinée aux fillettes, la série a aussi conquis une communauté de fans adultes masculins.",
       "id": "1fc0874d0a38b151",
       "title": "My Little Pony",
       "points": 1
@@ -514,7 +508,7 @@
     {
       "description": "Un monsieur âgé qui, à cause de la chaleur ou par pur exhibitionnisme, a renoncé à couvrir le haut de son corps. Sa photo sert aussi de réponse moqueuse dans les débats politiques en ligne.",
       "id": "38b15166bdb3a884",
-      "title": "Un vieux en torse nu",
+      "title": "Un vieux torse nu",
       "points": 3,
       "notForKids": true
     },
@@ -542,13 +536,6 @@
       "id": "d9bb68a945311fc0",
       "title": "Tinder",
       "points": 1,
-      "notForKids": true
-    },
-    {
-      "description": "Le retrait complet des poils du pubis et de tout ce qui l'entoure. Le nom vient d'un salon de Manhattan fondé en 1987 par un groupe de sœurs venues d'Amérique du Sud.",
-      "id": "a884826a85346d84",
-      "title": "L'épilation brésilienne",
-      "points": 3,
       "notForKids": true
     },
     {
@@ -911,13 +898,13 @@
       "points": 1
     },
     {
-      "description": "Phénomène de foule dans les stades : les spectateurs se lèvent les uns après les autres, bras en l'air, puis se rassoient. Popularisée pendant la Coupe du monde 1986 au Mexique, d'où son nom espagnol.",
+      "description": "Phénomène de foule dans les stades : les spectateurs se lèvent les uns après les autres, bras en l'air, puis se rassoient. La Coupe du monde de 1986 au Mexique l'a popularisé dans le monde entier.",
       "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
       "title": "La ola",
       "points": 2
     },
     {
-      "description": "Geste de premiers secours qui débloque les voies respiratoires par des compressions sèches sous les côtes. Le médecin qui l'a inventée n'a eu à s'en servir sur quelqu'un qu'à 96 ans.",
+      "description": "Geste de premiers secours qui débloque les voies respiratoires par des compressions sèches sous les côtes.",
       "id": "a2737d5c-387e-485c-8891-333278cef79d",
       "title": "La manœuvre de Heimlich",
       "points": 3
@@ -947,7 +934,7 @@
       "points": 3
     },
     {
-      "description": "La frustration universelle de la cuisine : forcer une fermeture sur une boîte qui n'a jamais été prévue pour elle. J'aurais juré que c'était la bonne...",
+      "description": "La frustration de vouloir fermer une boîte avec une pièce qui n'est pas de la bonne taille. J'aurais juré que c'était la bonne...",
       "id": "7a495018-9642-4d79-b88b-4ec138b229b6",
       "title": "Un couvercle Tupperware qui ne va pas",
       "points": 3
@@ -1129,7 +1116,7 @@
       "points": 2
     },
     {
-      "description": "La fonction du réveil qui repousse la sonnerie de quelques minutes avant qu'elle ne recommence. Les spécialistes du sommeil disent que ces minutes font plus de mal que de bien : on se lève encore plus vaseux.",
+      "description": "La fonction du réveil qui repousse la sonnerie de quelques minutes avant qu'elle ne recommence.",
       "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
       "title": "Le bouton snooze",
       "points": 1

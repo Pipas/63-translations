@@ -27,7 +27,7 @@
       "points": 2
     },
     {
-      "description": "U2'nun solistinin taktığı ünlü aksesuar. Bir rock yıldızı gösterişi sanılsa da kendisi bunun glokom kaynaklı görme sorununa yardımcı olduğunu açıkladı.",
+      "description": "U2'nun solistinin taktığı ünlü aksesuar. Bir rock yıldızının gösteriş merakı sanılsa da kendisi bunun glokom kaynaklı görme sorununa yardımcı olduğunu açıkladı.",
       "id": "4a02d6ad5b0dc392",
       "title": "Bono'nun Güneş Gözlüğü",
       "points": 2
@@ -39,7 +39,7 @@
       "points": 1
     },
     {
-      "description": "Keith Chapman'ın yarattığı, 1998-2008 arasında yayımlanan ve bir inşaat işçisiyle insan özellikleri taşıyan çalışma araçlarını konu alan çocuk dizisi. Halledebilir miyiz!?",
+      "description": "Keith Chapman'ın yarattığı, 1998-2008 arasında yayımlanan ve bir inşaat işçisiyle insan özellikleri taşıyan iş makinelerini konu alan çocuk dizisi.",
       "id": "b68a945311fc0874",
       "title": "Bob Usta",
       "points": 2
@@ -144,7 +144,7 @@
       "points": 1
     },
     {
-      "description": "Rus Devrimi sırasında köylülerle işçi sınıfının dayanışmasını temsil etmek üzere benimsenen simge. En çok komünizmin kısaltması olarak bilinir ve Sovyetler Birliği bayrağında belirgin biçimde yer alır.",
+      "description": "Rus Devrimi sırasında köylülerle işçi sınıfının dayanışmasını temsil etmek üzere benimsenen simge. Komünizmle özdeşleşmiştir ve Sovyetler Birliği bayrağında belirgin biçimde yer alır.",
       "id": "84826a85346d84e5",
       "title": "Orak ve Çekiç",
       "points": 3
@@ -211,7 +211,7 @@
       "points": 2
     },
     {
-      "description": "Peter Parker'ın ölümünün ardından Örümcek Adam olmasına ilham veren akrabası. Ona büyük güçle birlikte büyük sorumluluk geldiğini öğretti.",
+      "description": "Peter Parker'a büyük güçle birlikte büyük sorumluluk geldiğini öğreten ve ölümüyle onun Örümcek Adam olma yolculuğunu etkileyen akrabası.",
       "id": "61d67f4bab9ada8e",
       "title": "Ben Amca",
       "points": 2
@@ -369,7 +369,7 @@
       "points": 2
     },
     {
-      "description": "Bir kişinin soruları yanıtlarken çeşitli fizyolojik göstergelerini ölçerek doğru söyleyip söylemediğini anlamaya çalışan cihaz. Bilim dünyası ne kadar etkili olduğu konusunda hâlâ şüpheli.",
+      "description": "Bir kişinin soruları yanıtlarken çeşitli fizyolojik göstergelerini ölçerek doğru söyleyip söylemediğini anlamaya çalışan cihaz. Bilim dünyası ne kadar etkili olduğuna şüpheyle yaklaşıyor.",
       "id": "84ee4fd2b8656cda",
       "title": "Yalan Makinesi",
       "points": 2
@@ -473,7 +473,7 @@
       "points": 1
     },
     {
-      "description": "Sıcak hava ya da teşhir hevesi yüzünden gövdesini örtmekten vazgeçmiş ileri çağdaki beyefendi. Böyle kişilerin fotoğrafları sosyal medyada siyasi tartışmalara umursamaz bir cevap olarak da paylaşılır.",
+      "description": "Sıcaktan ya da gösteriş merakından gövdesini örtmekten vazgeçmiş ihtiyar. Böyle kişilerin fotoğrafları sosyal medyada siyasi tartışmalara umursamaz bir cevap olarak da paylaşılır.",
       "id": "38b15166bdb3a884",
       "title": "Üstsüz Yaşlı Adam",
       "points": 3,
@@ -799,7 +799,7 @@
       "points": 1
     },
     {
-      "description": "Çocukların dökülen süt azılarını toplayıp yerine yastık altında bozuk para bırakan folklor figürü. Birçok Latin Amerika ve Avrupa ülkesinde aynı işi küçük bir fare yapar.",
+      "description": "Geceleri çocukların yastıklarının altına bozuk para bırakan masal figürü. Birçok Latin Amerika ve Avrupa ülkesinde aynı işi küçük bir fare yapar.",
       "id": "497380b0-3425-4201-bf27-7981d7b98c68",
       "title": "Diş Perisi",
       "points": 1
@@ -841,7 +841,7 @@
       "points": 2
     },
     {
-      "description": "Karnın üst bölümüne sert ve yukarı doğru basınç uygulayarak tıkanmış solunum yolunu açan acil ilk yardım tekniği. Yöntemi bulan doktor bunu bir insan üzerinde ilk kez 96 yaşındayken kullanmak zorunda kaldı.",
+      "description": "Karnın üst bölümüne sert ve yukarı doğru basınç uygulayarak tıkanmış solunum yolunu açan acil ilk yardım tekniği.",
       "id": "a2737d5c-387e-485c-8891-333278cef79d",
       "title": "Heimlich Manevrası",
       "points": 3
@@ -865,7 +865,7 @@
       "points": 3
     },
     {
-      "description": "Yanlış örtüyü ait olmadığı saklama kabına zorla geçirmeye çalışmanın evrensel mutfak sıkıntısı. Bunun doğru parça olduğuna yemin edebilirdim...",
+      "description": "Bir parçayı ait olmadığı saklama kabına zorla takmaya çalışmanın yarattığı mutfak sıkıntısı. Doğrusunun bu olduğuna yemin edebilirdim...",
       "id": "7a495018-9642-4d79-b88b-4ec138b229b6",
       "title": "Uymayan Tupperware Kapağı",
       "points": 3
@@ -901,7 +901,7 @@
       "points": 2
     },
     {
-      "description": "Sabrı tüketen küçük ama nihai olayı anlatan deyim. Dolu bir kaba tek su tanesi daha eklenmesi görüntüsünden gelir.",
+      "description": "Sabrı tüketen küçük ama nihai olayı anlatan deyim.",
       "id": "97d61403-9d62-4a94-af01-8113f18f408d",
       "title": "Bardağı Taşıran Son Damla",
       "points": 1
@@ -917,12 +917,6 @@
       "id": "e1a303ac-4247-4f82-b443-e2e31daea751",
       "title": "Hayalî Arkadaş",
       "points": 2
-    },
-    {
-      "description": "Kişinin yaparken biraz utanmasına rağmen içten içe hoşlandığı şey. Seninkini arkadaşlarına açıklamak için bundan daha iyi zaman mı olur? Haydi!",
-      "id": "ac5bdc92-5ad7-42c3-a698-c566686be822",
-      "title": "Gizli Zevk",
-      "points": 1
     },
     {
       "description": "Bir araç kazasında insan bedenine binen kuvvetleri ölçmek için kullanılan insan biçimli figür. İlk örnekler yeniden kullanılan kaba tıbbi iskeletlerdi; günümüzdekilerde 100'den fazla sensör bulunur.",
@@ -1010,7 +1004,7 @@
       "points": 1
     },
     {
-      "description": "Evrenin yaklaşık 13,8 milyar yıl önceki kökenini açıklayan başlıca bilimsel kuram. Adı, rakip bir modeli savunan astronom Fred Hoyle tarafından alay amacıyla ortaya atıldı.",
+      "description": "Evrenin yaklaşık 13,8 milyar yıl önceki kökenini açıklayan başlıca bilimsel kuram.",
       "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
       "title": "Büyük Patlama",
       "points": 1
@@ -1029,7 +1023,7 @@
       "points": 2
     },
     {
-      "description": "Alarmı birkaç dakika geciktirip sonra yeniden çaldıran özellik. Uyku uzmanları bu fazladan dakikaların yarardan çok zarar verdiğini ve insanı daha sersem bıraktığını söylüyor.",
+      "description": "Alarmı birkaç dakika geciktirip sonra yeniden çaldıran özellik.",
       "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
       "title": "Erteleme Düğmesi",
       "points": 1

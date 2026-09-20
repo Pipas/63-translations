@@ -15,7 +15,7 @@
       "points": 1
     },
     {
-      "description": "Mito alimentario según el cual aún es seguro comer algo recién recogido del suelo. Numerosos estudios han probado la afirmación sin llegar a un consenso.",
+      "description": "Mito alimentario según el cual aún es seguro comer algo recién recogido del suelo.",
       "id": "66bdb3a884826a85",
       "title": "La regla de los cinco segundos",
       "points": 2
@@ -31,12 +31,6 @@
       "description": "Organización juvenil mundial con sede en Suiza que busca fomentar los principios cristianos. Quizá sea aún más conocida por el tema que Village People publicó en 1978.",
       "id": "ab9ada8e35619dc9",
       "title": "YMCA",
-      "points": 1
-    },
-    {
-      "description": "Peinado muy breve hecho con maquinilla. Antes se imponía a los reclutas para evitar piojos; hoy se usa sobre todo por uniformidad.",
-      "id": "6d84e5d84ee4fd2b",
-      "title": "Corte al cero",
       "points": 1
     },
     {
@@ -281,18 +275,6 @@
       "description": "Campesina de la Francia medieval que creyó ser elegida por Dios para dirigir tropas contra Inglaterra. Tras una gran victoria francesa sobre Inglaterra, fue capturada y quemada en la hoguera.",
       "id": "8632cc4a02d6ad5b",
       "title": "Juana de Arco",
-      "points": 2
-    },
-    {
-      "description": "Juego de fiesta en el que cada participante responde con sinceridad o cumple un desafío. Ya se documentaba en 1712, cuando se conocía como «Preguntas y órdenes».",
-      "id": "619dc9c3948632cc",
-      "title": "Verdad o reto",
-      "points": 1
-    },
-    {
-      "description": "Los seis protagonistas de la popular comedia estadounidense estrenada en 1994. La serie derivada Joey tuvo mucho menos éxito y fue cancelada a mitad de su segunda temporada.",
-      "id": "3948632cc4a02d6a",
-      "title": "Los amigos de Friends",
       "points": 2
     },
     {
@@ -617,7 +599,7 @@
       "points": 1
     },
     {
-      "description": "Persona que afirma usar poderes paranormales para comunicarse con los muertos, sin pruebas científicas. Tiene numerosos creyentes, pero ninguna investigación ha demostrado que esas facultades existan.",
+      "description": "Persona que afirma usar poderes paranormales para comunicarse con los muertos. Tiene numerosos creyentes, pero ninguna investigación ha demostrado que esas facultades existan.",
       "id": "67f4bab9ada8e356",
       "title": "Una médium",
       "points": 1
@@ -835,7 +817,7 @@
     {
       "description": "Juego de rol de mesa fantástico publicado en 1974, basado en personajes y aventuras colaborativas. Inspiró directamente videojuegos históricos como Baldur's Gate y World of Warcraft.",
       "id": "cda7f9e5afff1669",
-      "title": "Dragones y mazmorras",
+      "title": "Dungeons & Dragons",
       "points": 1
     },
     {
@@ -875,7 +857,7 @@
       "points": 1
     },
     {
-      "description": "Guías de montaje famosas por usar solo diagramas, de modo que funcionan en cualquier país. La marca prescinde deliberadamente de palabras para que una sola guía sirva en todo el mundo.",
+      "description": "Guías de montaje de muebles que suelen resultar difíciles de seguir. La marca usa dibujos en lugar de palabras para que sirvan en distintos países.",
       "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
       "title": "Las instrucciones de IKEA",
       "points": 2
@@ -972,7 +954,7 @@
       "points": 2
     },
     {
-      "description": "Técnica de primeros auxilios que despeja una vía respiratoria bloqueada mediante compresiones abdominales. El doctor que la inventó no tuvo que aplicarla a una persona hasta los 96 años.",
+      "description": "Técnica de primeros auxilios que despeja una vía respiratoria bloqueada mediante compresiones abdominales.",
       "id": "a2737d5c-387e-485c-8891-333278cef79d",
       "title": "La maniobra de Heimlich",
       "points": 3
@@ -990,7 +972,7 @@
       "points": 2
     },
     {
-      "description": "Sensación desesperante de que un reflejo nasal llega al máximo y se niega a dispararse. No hay remedio fiable, aunque se recomienda mirar una fuente luminosa o hacerse cosquillas en el paladar.",
+      "description": "Sensación desesperante de que un reflejo nasal llega al máximo y se niega a dispararse.",
       "id": "30714b4b-d80a-471f-895c-f1448fc5cce7",
       "title": "Un estornudo que no sale",
       "points": 3
@@ -1020,7 +1002,7 @@
       "points": 2
     },
     {
-      "description": "Momento en que un utensilio se escapa de la mano y termina dentro de un cuenco con líquido caliente. Recuperar el utensilio obliga a meter un dedo en el caldo o pescarlo con otro.",
+      "description": "Momento en que un utensilio se escapa de la mano y acaba en un recipiente con líquido caliente. Para recuperarlo, toca meter un dedo en el caldo o pescarlo con otro cubierto.",
       "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
       "title": "Una cuchara que cae en la sopa",
       "points": 3
@@ -1044,7 +1026,7 @@
       "points": 1
     },
     {
-      "description": "Expresión para el pequeño incidente definitivo que agota la paciencia de una persona. Alude a una cantidad mínima adicional que finalmente provoca el desbordamiento.",
+      "description": "Expresión para el pequeño incidente definitivo que acaba con la paciencia de una persona.",
       "id": "97d61403-9d62-4a94-af01-8113f18f408d",
       "title": "La gota que colma el vaso",
       "points": 1
@@ -1104,7 +1086,7 @@
       "points": 1
     },
     {
-      "description": "Persona sin conciencia social que permanece en una reunión mucho después de que todos vuelvan a su hogar. Si bostezar y recoger los platos no funciona, al anfitrión aún le queda apagar las luces.",
+      "description": "Persona que sigue en una reunión cuando los demás ya han vuelto a casa y no capta las indirectas del anfitrión. Si bostezar y recoger los platos no funciona, aún queda apagar las luces.",
       "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
       "title": "El invitado a la fiesta que no se va",
       "points": 3
@@ -1116,7 +1098,7 @@
       "points": 2
     },
     {
-      "description": "Elección deliberada de moda que consiste en mantener cristales oscuros dentro de un recinto cerrado. Suele hacerlo quien quiere parecer genial, importante o no se molesta en quitárselas.",
+      "description": "Costumbre de mantener los cristales oscuros ante los ojos incluso en un recinto cerrado. Suele hacerlo quien quiere parecer importante o simplemente no se molesta en quitárselos.",
       "id": "8e35145a-f226-44a3-94c7-9a811bfd6f22",
       "title": "Llevar gafas de sol en interiores",
       "points": 2
@@ -1178,7 +1160,7 @@
       "points": 2
     },
     {
-      "description": "Función de los despertadores que retrasa la alarma durante unos minutos antes de que vuelva a sonar. Los especialistas dicen que esos minutos extra hacen más daño que bien y dejan a la gente más aturdida.",
+      "description": "Función de los despertadores que retrasa la alarma durante unos minutos antes de que vuelva a sonar.",
       "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
       "title": "El botón de posponer",
       "points": 1

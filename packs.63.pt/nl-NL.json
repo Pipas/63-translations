@@ -238,7 +238,7 @@
       "title": "Dien je pack in!",
       "subtitle": "Deel het met de 63-community.",
       "cta": "Indienen",
-      "minCards": "Voeg minstens {{required}} kaarten toe om dit pack in te dienen. Je hebt er nu {{current}}."
+      "minCards": "Dit pack moet minstens {{required}} kaarten bevatten om het in te dienen. Het bevat er nu {{current}}."
     },
     "community": {
       "pending": {
@@ -336,7 +336,7 @@
       "subtitle": "In de KIDS-modus toont de app alleen packs die geschikt zijn voor kinderen. Een moderator controleert je antwoord.",
       "checkbox": "Dit pack is geschikt voor kinderen"
     },
-    "agreement": "Ik ga ermee akkoord dat dit pack de <guidelines>communityrichtlijnen van 63</guidelines> volgt en geen haatzaaien, doxing van privépersonen of auteursrechtelijk beschermde kaarttekst bevat.",
+    "agreement": "Ik bevestig dat dit pack voldoet aan de <guidelines>communityrichtlijnen van 63</guidelines> en geen haatzaaiende teksten, openbaarmaking van privégegevens of auteursrechtelijk beschermde kaartteksten bevat.",
     "cta": {
       "submit": "Ter beoordeling indienen",
       "resubmit": "Opnieuw ter beoordeling indienen"
@@ -448,9 +448,9 @@
     "permissions": "Rechten van bijdragers",
     "whatCanDo": "Wat mogen bijdragers doen?",
     "addCards": "Kaarten toevoegen",
-    "addCardsDescription": "Kan alleen kaarten toevoegen en eigen kaarten bekijken of bewerken",
+    "addCardsDescription": "Kunnen kaarten toevoegen en alleen hun eigen kaarten bekijken of bewerken",
     "fullAccess": "Volledige toegang",
-    "fullAccessDescription": "Kan kaarten toevoegen, alle kaarten bewerken en packinstellingen wijzigen",
+    "fullAccessDescription": "Kunnen kaarten toevoegen, alle kaarten bewerken en packinstellingen wijzigen",
     "collaborators": "Bijdragers",
     "noCollaborators": "Nog geen bijdragers. Deel de bewerkingslink om mensen uit te nodigen.",
     "noOtherCollaborators": "Geen andere bijdragers.",

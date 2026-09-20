@@ -89,13 +89,13 @@
       "points": 2
     },
     {
-      "description": "Ein meist von Kindern verwendeter Behälter für Münzen, der früher zum Leeren zerbrochen werden musste. Nur so gelangte man an den Inhalt.",
+      "description": "Ein meist von Kindern verwendeter Behälter für Münzen. Früher musste man ihn zerbrechen, um an den Inhalt zu gelangen.",
       "id": "4ee4fd2b8656cda7",
       "title": "Sparschwein",
       "points": 1
     },
     {
-      "description": "Eine schlaue Märchenfigur, die ihrem Besitzer mit List zu Reichtum und Ansehen verhilft. Durch das „Shrek“-Universum wurde die Märchenfigur in jüngerer Zeit noch bekannter.",
+      "description": "Eine schlaue Märchenfigur, die ihrem Besitzer mit List zu Reichtum und Ansehen verhilft. Durch das „Shrek“-Universum wurde sie in jüngerer Zeit noch bekannter.",
       "id": "ad5b0dc39299f12d",
       "title": "Der gestiefelte Kater",
       "points": 1
@@ -278,7 +278,7 @@
       "points": 1
     },
     {
-      "description": "Ein Kürzel für die Aufforderung, das Leben voll auszukosten, oft kurz vor einer unvernünftigen Aktion verwendet. Trotz des existenziellen Gedankens fällt der Spruch meist kurz vor unnötig riskantem Verhalten.",
+      "description": "Ein Kürzel für die Aufforderung, das Leben voll auszukosten, ähnlich wie „Carpe diem“. Trotz des existenziellen Gedankens fällt der Spruch meist kurz vor unnötig riskantem Verhalten.",
       "id": "904ba61d67f4bab9",
       "title": "YOLO (You Only Live Once)",
       "points": 2
@@ -425,7 +425,7 @@
       "points": 2
     },
     {
-      "description": "Ein maskierter Kämpfer, der die Bevölkerung Kaliforniens gegen Tyrannen verteidigt und ein Z als Zeichen hinterlässt. Der Akrobat und Fechtkünstler ritzt besiegten Gegnern mit seinem Degen den eigenen Anfangsbuchstaben ein.",
+      "description": "Ein maskierter Kämpfer, der die Bevölkerung Kaliforniens gegen Tyrannen verteidigt. Der Akrobat und Fechtkünstler ritzt besiegten Gegnern mit seinem Degen den eigenen Anfangsbuchstaben ein.",
       "id": "dc39299f12d9bb68",
       "title": "Zorro",
       "points": 1
@@ -443,7 +443,7 @@
       "points": 1
     },
     {
-      "description": "Eine kurze rechteckige Gesichtsbehaarung, die der deutsche Diktator berüchtigt machte. Auch Charlie Chaplin trug diesen Stil berühmt zur Schau!",
+      "description": "Eine kurze rechteckige Gesichtsbehaarung, die der deutsche Diktator berüchtigt machte. Auch Charlie Chaplin war für diesen Stil bekannt!",
       "id": "91904ba61d67f4ba",
       "title": "Ein Hitlerbart",
       "points": 1,
@@ -581,7 +581,7 @@
       "points": 1
     },
     {
-      "description": "Zwei gallische Comic-Helden, die mithilfe eines Zaubertranks gegen die Römer kämpfen. Der Kleinere trinkt einen Zaubertrank für Stärke; der Größere fiel schon als Baby in den Kessel.",
+      "description": "Zwei gallische Comic-Helden aus einer französischen Reihe, die zur Römerzeit spielt. Der Kleinere trinkt einen Zaubertrank für Stärke; der Größere fiel schon als Baby in den Kessel.",
       "id": "a4e79c22-a479-47d6-ae5a-7ea9ad808bd0",
       "title": "Asterix und Obelix",
       "points": 2
@@ -655,7 +655,7 @@
       "points": 2
     },
     {
-      "description": "Die verbreitete, aber unnötige Angewohnheit, eine Sofortaufnahme zur schnelleren Entwicklung hin und her zu bewegen. Der Hersteller bittet ausdrücklich darum, damit aufzuhören, weil die Bewegung die Entwicklung sogar beschädigen kann.",
+      "description": "Die verbreitete Angewohnheit, eine Sofortaufnahme hin und her zu bewegen. Der Hersteller rät davon ab, weil dadurch das entstehende Bild beschädigt werden kann.",
       "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
       "title": "Ein Polaroidfoto schütteln",
       "points": 2
@@ -815,7 +815,7 @@
       "points": 1
     },
     {
-      "description": "Eine wortlose Aufbauhilfe für Möbel, die fast ausschließlich aus Zeichnungen besteht. Die Marke verwendet absichtlich nur Bilder, damit dieselbe Hilfe weltweit funktioniert.",
+      "description": "Eine oft als verwirrend empfundene Aufbauhilfe für Möbel. Die Marke verwendet Bilder statt Worte, damit ein Heft in verschiedenen Ländern funktioniert.",
       "id": "8c1f4599-62f7-4b3e-8c8f-fbf093054363",
       "title": "IKEA-Anleitung",
       "points": 2
@@ -906,7 +906,7 @@
       "points": 1
     },
     {
-      "description": "Ein Stadionphänomen, bei dem Zuschauer nacheinander aufstehen, die Arme heben und sich wieder setzen. Weltweit bekannt wurde das Schauspiel bei der Fußball-WM 1986, deren Gastgeberland ihm praktischerweise den Namen gab.",
+      "description": "Ein Stadionphänomen, bei dem Zuschauer nacheinander aufstehen, die Arme heben und sich wieder setzen. Weltweit bekannt wurde das Schauspiel bei der Fußball-WM 1986 in Mexiko.",
       "id": "743320a5-a8a6-4ab7-b3bd-2c813bd60f73",
       "title": "Die La-Ola-Welle",
       "points": 2
@@ -948,7 +948,7 @@
       "points": 3
     },
     {
-      "description": "Ein loser Einkaufsbeutel, der an einem stürmischen Tag scheinbar ziellos durch die Luft tanzt. Trotz der Verbindung zu Umweltverschmutzung wirkt der ziellose Tanz seltsam faszinierend.",
+      "description": "Ein loser Einkaufsbeutel, der durch die Luft wirbelt und oft über Parkplätze treibt. Trotz der Verbindung zu Umweltverschmutzung wirkt sein zielloser Tanz seltsam faszinierend.",
       "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
       "title": "Eine Plastiktüte im Wind",
       "points": 2
@@ -1032,7 +1032,7 @@
       "points": 1
     },
     {
-      "description": "Eine Person, die nach einer Feier noch bleibt, obwohl längst alle anderen nach Hause gegangen sind. Scheitern demonstratives Gähnen und Abräumen, kann die Person, die eingeladen hat, noch das Licht ausschalten.",
+      "description": "Eine Person, die nach einer Feier noch bleibt, obwohl längst alle anderen zu Hause sind. Scheitern demonstratives Gähnen und Abräumen, hilft vielleicht noch das Ausschalten des Lichts.",
       "id": "d101142f-c63b-4225-a798-d207cb0e1c68",
       "title": "Der Partygast, der nicht gehen will",
       "points": 3
@@ -1069,7 +1069,7 @@
       "points": 1
     },
     {
-      "description": "Die führende wissenschaftliche Erklärung für den Ursprung des Universums vor etwa 13,8 Milliarden Jahren. Astronom Fred Hoyle prägte die Bezeichnung spöttisch, weil er eine konkurrierende Erklärung bevorzugte.",
+      "description": "Die führende wissenschaftliche Erklärung für den Ursprung des Universums vor etwa 13,8 Milliarden Jahren.",
       "id": "8632fbb8-97f8-40de-b7b2-f47f81fbc57e",
       "title": "Der Urknall",
       "points": 1
@@ -1082,7 +1082,7 @@
       "notForKids": true
     },
     {
-      "description": "Eine Weckerfunktion, die den Alarm um einige Minuten verschiebt, bevor er erneut ertönt. Schlafforscher sagen, die zusätzlichen Minuten schadeten mehr als sie nützten und machten oft noch benommener.",
+      "description": "Eine Weckerfunktion, die den Alarm um einige Minuten verschiebt, bevor er erneut ertönt.",
       "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
       "title": "Die Schlummertaste",
       "points": 1
@@ -1098,12 +1098,6 @@
       "id": "1eb66ccc-a565-479d-8f86-93be0e5d6e13",
       "title": "Ein Bürostuhlrennen",
       "points": 3
-    },
-    {
-      "description": "Drei motivierende Wörter, die häufig auf dekorativen Wandschildern in Wohnungen und Küchen stehen. Varianten finden sich auf Postern, Aufklebern, Kissen, Tassen, Bettwäsche, Schmuck und sogar Särgen.",
-      "id": "568eae83-05d3-47c1-bc31-e3ddfd7d6fdc",
-      "title": "Lebe, liebe, lache",
-      "points": 2
     },
     {
       "description": "Eine Menge von Regeln, mit denen soziale Netzwerke bestimmen, welche Inhalte einzelne Personen sehen. Bester Freund und schlimmster Feind von Influencern auf der ganzen Welt.",

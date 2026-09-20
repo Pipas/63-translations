@@ -238,7 +238,7 @@
       "title": "Propose ton pack !",
       "subtitle": "Partage-le avec la communauté de 63.",
       "cta": "Proposer",
-      "minCards": "Ajoute au moins {{required}} cartes pour proposer ce pack. Il en contient actuellement {{current}}."
+      "minCards": "Ce pack doit contenir au moins {{required}} cartes pour être proposé. Il en contient actuellement {{current}}."
     },
     "community": {
       "pending": {
@@ -259,7 +259,7 @@
         "moreActions": "Plus d'actions"
       },
       "update": {
-        "title": "En ligne, mais obsolète",
+        "title": "En ligne, mais pas à jour",
         "meta_one": "{{count}} modification depuis l'approbation",
         "meta_other": "{{count}} modifications depuis l'approbation",
         "body": "Tu as modifié ce pack depuis son approbation. Propose-le à nouveau pour publier la nouvelle version.",
@@ -311,7 +311,7 @@
       },
       "withdrawConfirm": {
         "title": "Retirer de la communauté ?",
-        "description": "« {{name}} » sera retiré des packs communautaires et supprimé chez tous ceux qui l'ont installé la prochaine fois qu'ils ouvriront 63. Tu pourras le proposer à nouveau plus tard.",
+        "description": "Le pack « {{name}} » sera retiré des packs communautaires et supprimé des collections à la prochaine ouverture de 63. Tu pourras le proposer à nouveau plus tard.",
         "confirm": "Retirer"
       },
       "toast": {
@@ -457,7 +457,7 @@
     "leavePack": "Quitter le pack",
     "leaveDescription": "Tu ne pourras plus modifier ce pack.",
     "loadingSettings": "Chargement des réglages...",
-    "joined": "A rejoint le {{date}}",
+    "joined": "Membre depuis le {{date}}",
     "ownerRole": "Propriétaire",
     "created": "Créé le {{date}}"
   },
@@ -510,7 +510,7 @@
   "toast": {
     "packSaved": "Pack enregistré !",
     "failedToUpdatePack": "Impossible de mettre à jour le pack",
-    "packDeleted": "« {{name}} » a été supprimé",
+    "packDeleted": "Le pack « {{name}} » a été supprimé",
     "failedToDeletePack": "Impossible de supprimer le pack",
     "failedToAddCard": "Impossible d'ajouter la carte",
     "failedToUpdateCard": "Impossible de mettre à jour la carte",

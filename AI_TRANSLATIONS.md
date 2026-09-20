@@ -19,7 +19,8 @@ until that review is complete.
   against Turkish publishers, rights holders, public institutions and established usage.
   It corrected *Curling*, *Aladdin'in Sihirli Halısı*, *Jan Dark* and *Orak ve Çekiç*. Four
   cards with several competing Turkish names were dropped, including *Clickbait*, where
-  *tık tuzağı* competes with the English word, leaving 176 cards pending native review.
+  *tık tuzağı* competes with the English word. The subsequent cross-locale review leaves
+  175 cards pending native review.
 - Automated checks confirm matching keys, placeholders, markup and line breaks in the app
   file, and unchanged IDs and KIDS flags on every retained General card. Points were lowered
   for *Kuzey Işıkları* and raised for *Papamobil*, *Çarpışma Testi Mankeni* and
@@ -69,8 +70,7 @@ be confirmed was dropped rather than shipped with an uncertain title. Those card
 in [`general_packs/DROPPED.md`](general_packs/DROPPED.md) with the question a native speaker
 needs to answer before adding each one back.
 
-Two details also need an in-context native check: confirm whether Bob Usta's Turkish-dub
-catchphrase is *Halledebilir miyiz?* or *Yapabilir miyiz?*, and check whether
+The unconfirmed Bob Usta catchphrase has been removed. Check whether
 `post_game.skips_unit` (*geçme*) reads naturally after a number on the stats screen.
 
 ## Spanish (`es-ES` and `es-419`)
@@ -112,8 +112,8 @@ until that review is complete.
 ### Scope and method
 
 - `63/fr-FR.json` was translated directly from the current `en-GB` source.
-- `general_packs/fr-FR.json` contains 192 translations of English General cards. It has no
-  replacement cards or France-specific additions; 38 cards without one confident,
+- `general_packs/fr-FR.json` contains 190 translations of English General cards. It has no
+  replacement cards or France-specific additions; 40 cards without one confident,
   playable French title were dropped and recorded in
   [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
 - General descriptions keep a useful definition and a separate fact or joke where the
@@ -172,12 +172,12 @@ until that review is complete.
 
 - `63/de-DE.json`, `packs.63.pt/de-DE.json` and `emails/de-DE.json` were translated
   directly from the current `en-GB` sources, using informal singular address (*du*).
-- `general_packs/de-DE.json` contains 185 translations of English General cards. It has no
-  replacement cards or Germany-specific additions; 45 cards without one confident,
+- `general_packs/de-DE.json` contains 184 translations of English General cards. It has no
+  replacement cards or Germany-specific additions; 46 cards without one confident,
   playable German title were dropped and recorded in
   [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
 - General descriptions retain the English fact or joke wherever it survives naturally.
-  The kickers were omitted only for *Onkel Ben* (the outdated rice-brand joke),
+  The initial draft omitted kickers for *Onkel Ben* (the outdated rice-brand joke),
   *Doppelgänger* and *Schadenfreude* (English explanations of German words). *Nichts*
   intentionally keeps the source card's empty description, and *Déjà-vu* intentionally
   repeats its sentence.
@@ -237,8 +237,8 @@ until that review is complete.
 - `63/it-IT.json`, `packs.63.pt/it-IT.json` and `emails/it-IT.json` preserve the English
   key order, placeholders, markup and line breaks. Italian singular and plural forms are
   kept in the pack editor wherever the English source defines a plural family.
-- `general_packs/it-IT.json` contains 181 translations of English General cards, with no
-  replacement cards or Italy-specific additions. The 49 cards without one confident,
+- `general_packs/it-IT.json` contains 179 translations of English General cards, with no
+  replacement cards or Italy-specific additions. The 51 cards without one confident,
   playable Italian title are dropped and recorded in
   [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
 - General descriptions retain a useful definition and a separate fact or joke wherever
@@ -297,8 +297,8 @@ until that review is complete.
 - All four files are translated from the current `en-GB` sources, using informal singular
   address (*je/jij*), with Portuguese as the reference for tone and conventions. They
   preserve every key, placeholder, markup tag, plural pair and line break.
-- `general_packs/nl-NL.json` has 197 cards, with no replacement cards or
-  Netherlands-specific additions. The 33 cards without a stable, playable Dutch title are
+- `general_packs/nl-NL.json` has 195 cards, with no replacement cards or
+  Netherlands-specific additions. The 35 cards without a stable, playable Dutch title are
   listed in [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
 - *Home Alone* keeps its English title, which is the title used in the Netherlands.
   *Niets* keeps its empty description and *Déjà vu* repeats its sentence on purpose.
@@ -355,11 +355,12 @@ until that review is complete.
   informal singular address (*du*). The human-reviewed `pt-PT` files were used as the main
   reference for tone and product conventions, never as the translation source.
 - `63/nb-NO.json`, `packs.63.pt/nb-NO.json` and `emails/nb-NO.json` preserve the English
-  key order, placeholders, markup, plural pairs and line breaks. Norwegian Bokmål uses the
-  same noun form after cardinal numbers in the pack editor, so several `_one` and `_other`
-  values are intentionally identical.
-- `general_packs/nb-NO.json` contains 206 translations of English General cards and no
-  replacement cards or Norway-specific additions. The 24 cards without one confident,
+  key order, placeholders, markup, plural pairs and line breaks. The nouns *kort* and
+  *poeng* have identical indefinite singular and plural forms, so
+  some `_one` and `_other` values are intentionally identical. Other nouns, such as
+  *endring/endringer*, and adjectives still need distinct plural forms.
+- `general_packs/nb-NO.json` contains 204 translations of English General cards and no
+  replacement cards or Norway-specific additions. The 26 cards without one confident,
   playable Norwegian title are recorded in
   [`general_packs/DROPPED.md`](general_packs/DROPPED.md).
 - The tutorial and General deck use *Alene hjemme*, the established Norwegian title of
@@ -409,3 +410,122 @@ text, accessibility tooltips, pack import flow, collaboration permissions, commu
 submission states and email subject lengths should also be checked in context. Cards with
 competing or uncertain exact titles were dropped rather than shipped with wording that
 could cost a team its turn.
+
+## Cross-locale AI review — 2026-09-20
+
+This pass reviewed every string in the eight AI draft locales across `63/`,
+`general_packs/`, `packs.63.pt/` and `emails/`: **6,464 app/editor/email values and
+1,535 existing card titles and descriptions**. Spanish regional differences were reviewed
+against each other as well as the English source. This is an additional AI editorial
+review, **not native-speaker approval**; the draft status is unchanged.
+
+The review changed 195 app/editor/email values and 120 retained cards, including typography,
+and removed 17 cards. No cards were added and no points or KIDS flags were changed.
+The pre-existing announcement-string removals and Portuguese support-label edit were
+preserved.
+
+| Locale | App/editor/email values changed | Retained cards edited | Additional cards dropped | Cards remaining |
+| --- | ---: | ---: | ---: | ---: |
+| `tr-TR` | 18 | 12 | 1 | 175 |
+| `es-ES` | 56 | 11 | 3 | 198 |
+| `es-419` | 61 | 24 | 4 | 193 |
+| `fr-FR` | 15 | 10 | 2 | 190 |
+| `de-DE` | 13 | 13 | 1 | 184 |
+| `it-IT` | 13 | 10 | 2 | 179 |
+| `nl-NL` | 12 | 19 | 2 | 195 |
+| `nb-NO` | 7 | 21 | 2 | 204 |
+
+### Main findings and changes
+
+- **Tutorial rules:** the Spain Spanish clue used *solo* and *casa*, both forbidden words
+  in *Solo en casa*. It now describes a Christmas film about a child confronting burglars.
+  German clue grammar and several instructions for marking and passing cards were repaired.
+- **Names and numbers inserted at runtime:** count labels replace plural-dependent phrases
+  in the app, which has no plural-key mechanism. French and Italian notifications now name
+  the pack explicitly where a participle could otherwise seem to agree with its arbitrary
+  title. Turkish avoids attaching pronunciation-dependent suffixes to names and numbers.
+- **Turkish:** corrected *Yoksay* to *Yok say*, replaced literal *Yorumlayıcı dans* with
+  *Serbest dans*, and made the Custom mode *Kendin yap* so it no longer shares *Özel* with
+  private content. The Uncle Ben description no longer accidentally suggests Peter Parker
+  is the deceased relative. The unconfirmed Bob Usta catchphrase was removed.
+- **Spanish:** shortened UI text without abbreviating official names, aligned Latin American
+  settings terminology around *configuración*, and used «…» consistently. The role-playing
+  game is now *Dungeons & Dragons* rather than the local title of its TV adaptation.
+- **French:** corrected *Un vieux en torse nu* to *Un vieux torse nu*, repaired pronoun
+  references, and replaced literal phrasing such as a series having “harvested a cult”.
+  The *ola* description no longer implies that its local name refers to Mexico.
+- **German:** replaced the incomplete mode label *Eigener* with *Individuell*, removed
+  *das Hinweisen*, and simplified repetitive or awkward card descriptions. Colour errors
+  now use the same field names as the editor.
+- **Italian:** clarified carrying time into the next round, corrected *disattivo*, and
+  improved collaboration dates and moderation emails. Removed title-root leaks such as
+  *dentisti/dentifricio* and *Photobombing/foto*.
+- **Dutch:** corrected gender, article and idiom problems, including *een geanimeerd
+  amfibie* and *het overgebleven punt*. “Unplayed” cards no longer read as “new” cards.
+  Removed leaks such as *Clickbait/klikken* and *Avondmaal/maaltijd*. Collaboration
+  permission descriptions now agree with their plural subject.
+- **Norwegian Bokmål:** clarified time carry-over and replaced literal UI wording.
+  Removed compounds and inflections that reveal title roots, including *Nordlyset/lysfenomen*,
+  *Svigermor/moren*, *Legeskrift/håndskriften* and *senket/usenkelig*.
+- **All editor locales:** where needed, minimum-card messages now specify the required
+  total, rather than seeming to demand that many additional cards. Descriptions of tooth
+  fairies use the pillow-and-coins motif without leaking the answer or implying that only
+  molars are collected.
+
+### Cultural fit and source checks
+
+The additional drops and individual reasons are recorded in
+[`general_packs/DROPPED.md`](general_packs/DROPPED.md). They include coined collective
+names for the Friends characters, conflicting exact answers across Latin American
+countries, *buzz cut* translations that instead suggest a shaved head, and expressions
+whose exact wording or recognition remains uncertain. These are conservative playability
+judgements, not claims that nobody in those regions uses the rejected wording.
+
+Specific-name spot checks used publishers or rights holders:
+[Wizards' Spanish D&D material](https://media.wizards.com/2021/wpn/marketing_materials/dnd_guides/SP_D%26D_Sales_Guide.pdf),
+[Disney's Spanish Aladdín page](https://www.disney.es/peliculas/aladdin-2019/todo-lo-que-sabemos-hasta-ahora),
+[Hasbro's Turkish Potato Head page](https://consumercare.hasbro.com/tr-tr/product/potato-head-mr-potato-head-classic-toy-for-kids-ages-2-and-up-includes-13-parts-and-pieces-to-create-funny-faces/C1D52A99-0713-431C-8018-EE82EE39AC2A)
+and [Marmalade's Italian Cluedo listing](https://apps.apple.com/it/app/cluedo/id6447306697?platform=tv).
+French waxing terminology was checked against
+[Yves Rocher's treatment list](https://www.yves-rocher.fr/magasins-instituts-de-beaute/romans/liste-des-soins/epilations/S-FRYROC186/CC-23494),
+which distinguishes *maillot brésilien* from *maillot intégral*.
+
+Some inherited kickers were omitted when they no longer made sense after translation or
+made an uncertain factual claim: German-word etymologies attached to translated words,
+the outdated Uncle Ben rice-brand joke, the five-second-rule research claim, the claim
+about Heimlich's first use of his technique, and the unqualified snooze-button health
+claim. [Rutgers' report of its food-transfer study](https://www.eurekalert.org/news-releases/579114)
+supports removing the suggestion that waiting five seconds is a reliable safety rule.
+This was a language and playability review with targeted source checks, not an exhaustive
+fact-check of every assertion inherited from English.
+
+### Validation and remaining context checks
+
+CSV export followed by dry-run import passed for every locale. Additional checks verified
+exact string-key order, placeholder multisets, markup, `CHECK_ICON`, bullets, bold markers,
+line-break counts and trailing email newlines. Retained card IDs, order, points and KIDS
+flags match the pre-review files; every missing English card appears exactly once in
+`DROPPED.md`, and the published counts agree. *Nothing* remains empty and *Déjà Vu* still
+repeats its sentence deliberately.
+
+The remaining CSV warnings were inspected:
+
+| Locale | Length warnings kept for an in-context layout check |
+| --- | --- |
+| `tr-TR` | Editor `collaboration.copyEditLink`, `toast.editLinkCopied` |
+| `es-ES`, `es-419` | App `common.ad_privacy`, `credits.special_thanks`; editor `auth.email` |
+| `fr-FR` | App `rules.default_card.title`; editor `auth.resetPassword.title`, `auth.resetPassword.action`, `validation.required.email`, `collaboration.copyEditLink`, `dialog.unsavedChanges.title`, `toast.failedToUpdateUsername` |
+| `de-DE` | App `rules.default_card.title` |
+| `it-IT` | App `common.privacy_policy`, `rules.default_card.title`, `packs.add_packs` |
+| `nl-NL`, `nb-NO` | None |
+
+There are also eight expected empty-description warnings for *Nothing*, and one harmless
+Italian title-word warning for *delle*, a permitted function word. The import tool labels
+unchanged cognates, brands and symbols as “left in English”; those values were inspected.
+It also reports absent deck cards as “untranslated” on this export/import path, even when
+`DROPPED.md` contains their reasons; the separate drop-record comparison covers them.
+
+No app rendering or real-device playtest was available in this translations-only repo.
+Check the listed labels, inserted long player/pack names and standalone statistic units
+in the actual layouts. The JSON-only app has no singular/plural keys for those units;
+if the UI concatenates them directly after a number, the app may need plural support.

@@ -86,7 +86,7 @@
     "recover_game_description": "Dein letztes Spiel wurde nicht beendet. Möchtest du es fortsetzen?",
     "recover_game_resume": "Fortsetzen",
     "recover_game_ignore": "Verwerfen",
-    "cards_left": "Noch {count} Karten",
+    "cards_left": "Karten übrig: {count}",
     "see_more": "Mehr anzeigen",
     "see_less": "Weniger anzeigen"
   },
@@ -108,7 +108,7 @@
       "description": "Weniger Karten, weniger Zeit und kein Auslassen!"
     },
     "custom": {
-      "title": "Eigener",
+      "title": "Individuell",
       "description": "Mach deine eigenen Regeln.\nErstelle deinen Modus."
     }
   },
@@ -180,7 +180,7 @@
       "title": "Runde 1",
       "subtitle": "Verbotene Wörter",
       "text": "Beschreibe die Karte, wie du möchtest, aber verwende kein Wort aus ihrem Titel",
-      "clue1": "Weihnachtsfilm über vergessenen Jungen und Einbrecher",
+      "clue1": "Weihnachtsfilm über einen Jungen, der Einbrecher abwehrt",
       "clue2": "Mit Macaulay Culkin!",
       "info": "Tabu sind „Kevin“, „allein“ und „Haus“.",
       "more_info": "Präpositionen zählen nicht als verbotene Wörter.\n\nFällt ein verbotenes Wort und wird die Karte erraten, kann das andere Team Einspruch erheben. Die Karte wird am Ende des Zugs als falsch gewertet.",
@@ -193,7 +193,7 @@
       "text": "Nur ein Wort als Hinweis – keine Geräusche oder Gesten",
       "clue": "Aftershave!",
       "info": "Denk daran: Alle Karten wurden bereits in Runde 1 aufgedeckt.",
-      "more_info": "Runde 2 beginnt erst, wenn alle Karten in Runde 1 erraten wurden.\n\nDie Karten bleiben gleich, doch das Hinweisen wird mit jeder Runde schwieriger!",
+      "more_info": "Runde 2 beginnt erst, wenn alle Karten in Runde 1 erraten wurden.\n\nDie Karten bleiben gleich, doch Hinweise zu geben wird mit jeder Runde schwieriger!",
       "note": "Ein Wort",
       "note_description": "Nur Hinweise aus einem Wort."
     },
@@ -281,7 +281,7 @@
     "kids_mode_label": "{kids}-Modus",
     "kids_mode_tooltip": "Blendet Karten und Community-Packs aus, die nicht für Kinder geeignet sind. Private Packs werden immer angezeigt.",
     "distribution": "Kartenverteilung",
-    "not_enough_cards": "Der Stapel enthält nur {count} Karten",
+    "not_enough_cards": "Karten im Stapel: nur {count}",
     "no_cards_available": "Keine Karten für einen Stapel verfügbar",
     "all_cards_played": "Alle Karten gespielt",
     "only_n_available": "Nur {count} verfügbar",
@@ -294,7 +294,7 @@
     "create_packs_description": "Schreibe Karten, arbeite mit Freunden zusammen und teile deine Packs mit der Welt!",
     "featured_title": "Empfohlen",
     "community_title": "Community",
-    "community_empty": "Noch keine Packs – reiche als Erstes eines ein!",
+    "community_empty": "Noch keine Packs – reiche das erste ein!",
     "filter_popular": "Beliebt",
     "filter_new": "Neu",
     "filter_language": "Sprache",
@@ -318,12 +318,10 @@
     "spoiler_warning_title": "Achtung, mögliche Spoiler",
     "spoiler_warning_body": "Du kannst vor dem Hinzufügen einige Karten ansehen, nimmst dir damit aber die Überraschung im Spiel.",
     "spoiler_reveal": "Trotzdem anzeigen",
-    "see_all_cards": "Alle {count} Karten anzeigen",
+    "see_all_cards": "Alle Karten ({count})",
     "reveal_all_title": "Alle Karten aufdecken?",
-    "reveal_all_body": "Du siehst alle {count} Karten in diesem Pack. Das hilft bei der Auswahl, verdirbt aber die Überraschung, wenn du spielen möchtest.",
+    "reveal_all_body": "Du siehst den gesamten Pack-Inhalt (Karten: {count}). Das hilft bei der Auswahl, verdirbt aber die Überraschung, wenn du spielen möchtest.",
     "reveal_all_confirm": "Aufdecken",
-    "announcement_title": "Erstelle deine eigenen Packs!",
-    "announcement_body": "Du kannst jetzt Packs mit eigenen Karten erstellen, mit Freunden zusammenarbeiten und sie mit der Welt teilen!\n\nBeginne auf {link}.",
     "code_hint": "ABC123",
     "add_pack_button": "Pack hinzufügen",
     "already_added": "Bereits in der Sammlung",

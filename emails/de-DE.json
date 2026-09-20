@@ -62,10 +62,10 @@
     "subject": "Zur Prüfung: „{{packName}}“",
     "preheader": "Wir haben dein Community-Pack zur Prüfung erhalten.",
     "heading": "Einreichung erhalten",
-    "intro": "Wir haben deine Einreichung von <strong>{{packName}}</strong> zur Community-Prüfung erhalten.",
+    "intro": "Wir haben dein Pack <strong>{{packName}}</strong> zur Prüfung für die Community erhalten.",
     "cta": "Pack ansehen",
     "caption": "Wir benachrichtigen dich per E-Mail, sobald es Neuigkeiten gibt.",
-    "text": "Wir haben deine Einreichung von „{{packName}}“ zur Community-Prüfung erhalten. Wir benachrichtigen dich per E-Mail, sobald es Neuigkeiten gibt.\n\nPack ansehen: {{url}}\n"
+    "text": "Wir haben dein Pack „{{packName}}“ zur Prüfung für die Community erhalten. Wir benachrichtigen dich per E-Mail, sobald es Neuigkeiten gibt.\n\nPack ansehen: {{url}}\n"
   },
   "passwordReset": {
     "subject": "Passwort für packs.63.pt zurücksetzen",

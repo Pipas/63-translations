@@ -84,7 +84,7 @@
     "nameMinLength": "El nombre debe tener al menos 2 caracteres",
     "nameMaxLength": "El nombre debe tener menos de 50 caracteres",
     "passwordsDoNotMatch": "Las contraseñas no coinciden",
-    "contrastError": "El color de acento no tiene suficiente contraste con el color principal"
+    "contrastError": "El color del texto no tiene suficiente contraste con el color del pack"
   },
   "home": {
     "packs": "Packs",
@@ -103,7 +103,7 @@
     "collaboration": "Colaboración",
     "editPack": "Editar pack",
     "loadingPack": "Cargando pack...",
-    "kickedMessage": "Ya no colaboras en \"{{name}}\"",
+    "kickedMessage": "Ya no colaboras en «{{name}}»",
     "canOnlyEditOwnCards": "Solo puedes editar tus propias cartas",
     "lockedForReview": "El pack está en revisión y no se puede editar",
     "newPack": "Nuevo pack",
@@ -238,7 +238,7 @@
       "title": "¡Envía tu pack!",
       "subtitle": "Compártelo con la comunidad de 63.",
       "cta": "Enviar",
-      "minCards": "Agrega al menos {{required}} cartas para enviar este pack. Ahora tienes {{current}}."
+      "minCards": "El pack necesita al menos {{required}} cartas para poder enviarlo. Ahora tiene {{current}}."
     },
     "community": {
       "pending": {
@@ -311,7 +311,7 @@
       },
       "withdrawConfirm": {
         "title": "¿Retirar de la comunidad?",
-        "description": "\"{{name}}\" se retirará de los packs de la comunidad y se eliminará para todos los que lo hayan instalado la próxima vez que abran 63. Podrás volver a enviarlo más adelante.",
+        "description": "«{{name}}» se retirará de los packs de la comunidad y se eliminará para todos los que lo hayan instalado la próxima vez que abran 63. Podrás volver a enviarlo más adelante.",
         "confirm": "Retirar"
       },
       "toast": {
@@ -394,7 +394,7 @@
       "sortBy": "Ordenar por"
     },
     "draft": "Borrador",
-    "info": "Información de la carta",
+    "info": "Detalles de la carta",
     "createdAt": "Fecha de creación",
     "filter": {
       "myCards": "Mis cartas",
@@ -422,7 +422,7 @@
       "label": "Buscar",
       "placeholder": "Buscar cartas",
       "clear": "Borrar búsqueda",
-      "noResults": "Ninguna carta coincide con \"{{query}}\"."
+      "noResults": "Ninguna carta coincide con «{{query}}»."
     },
     "selection": {
       "label": "Seleccionar cartas",
@@ -450,13 +450,13 @@
     "addCards": "Agregar cartas",
     "addCardsDescription": "Solo pueden agregar cartas y ver o editar las suyas",
     "fullAccess": "Acceso completo",
-    "fullAccessDescription": "Pueden agregar y editar todas las cartas, además de los ajustes del pack",
+    "fullAccessDescription": "Pueden agregar y editar todas las cartas, además de la configuración del pack",
     "collaborators": "Colaboradores",
     "noCollaborators": "Todavía no hay colaboradores. Comparte el enlace de edición para invitar a alguien.",
     "noOtherCollaborators": "No hay más colaboradores.",
     "leavePack": "Salir del pack",
     "leaveDescription": "Ya no podrás editar este pack.",
-    "loadingSettings": "Cargando ajustes...",
+    "loadingSettings": "Cargando configuración...",
     "joined": "Se unió el {{date}}",
     "ownerRole": "Propietario",
     "created": "Creado el {{date}}"
@@ -474,11 +474,11 @@
     },
     "deletePack": {
       "title": "Eliminar pack",
-      "description": "¿Seguro que quieres eliminar \"{{name}}\"? Esta acción no se puede deshacer y se perderán todas las cartas."
+      "description": "¿Seguro que quieres eliminar «{{name}}»? Esta acción no se puede deshacer y se perderán todas las cartas."
     },
     "leavePack": {
       "title": "Salir del pack",
-      "description": "¿Seguro que quieres salir de \"{{name}}\"? Ya no podrás editarlo.",
+      "description": "¿Seguro que quieres salir de «{{name}}»? Ya no podrás editarlo.",
       "confirm": "Salir"
     },
     "removeCollaborator": {
@@ -488,7 +488,7 @@
     },
     "disableCollaboration": {
       "title": "Desactivar colaboración",
-      "description": "Se eliminarán todos los colaboradores del pack y se restablecerán los ajustes de colaboración.",
+      "description": "Se eliminarán todos los colaboradores del pack y se restablecerá la configuración de colaboración.",
       "confirm": "Desactivar"
     },
     "similarCard": {
@@ -510,7 +510,7 @@
   "toast": {
     "packSaved": "¡Pack guardado!",
     "failedToUpdatePack": "No se pudo actualizar el pack",
-    "packDeleted": "Se eliminó \"{{name}}\"",
+    "packDeleted": "Se eliminó «{{name}}»",
     "failedToDeletePack": "No se pudo eliminar el pack",
     "failedToAddCard": "No se pudo agregar la carta",
     "failedToUpdateCard": "No se pudo actualizar la carta",
@@ -519,7 +519,7 @@
     "failedToDeleteCards": "No se pudieron eliminar las cartas",
     "collaboratorRemoved": "Colaborador eliminado",
     "failedToRemoveCollaborator": "No se pudo eliminar al colaborador",
-    "failedToUpdateSettings": "No se pudieron actualizar los ajustes",
+    "failedToUpdateSettings": "No se pudo actualizar la configuración",
     "editLinkCopied": "¡Enlace de edición copiado!",
     "linkCopied": "¡Enlace copiado!",
     "failedToCopyLink": "No se pudo copiar el enlace",
@@ -528,7 +528,7 @@
     "failedToCopyCode": "No se pudo copiar el código",
     "joinedPack": "¡Te uniste al pack!",
     "failedToJoinPack": "No pudiste unirte al pack",
-    "leftPack": "Saliste de \"{{name}}\"",
+    "leftPack": "Saliste de «{{name}}»",
     "failedToLeavePack": "No pudiste salir del pack",
     "usernameUpdated": "¡Nombre de usuario actualizado!",
     "failedToUpdateUsername": "No se pudo actualizar el nombre de usuario",

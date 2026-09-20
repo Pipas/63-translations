@@ -1,31 +1,31 @@
 {
   "communityPackApproved": {
-    "subject": "\"{{packName}}\" ya está en la comunidad",
-    "preheader": "Tu pack \"{{packName}}\" fue aprobado.",
+    "subject": "«{{packName}}» ya está en la comunidad",
+    "preheader": "Tu pack «{{packName}}» fue aprobado.",
     "heading": "¡Aprobado!",
-    "intro": "<strong>{{packName}}</strong> fue aprobado y ya está disponible para todo el mundo en 63.",
+    "intro": "El pack <strong>{{packName}}</strong> fue aprobado y ya está disponible para todo el mundo en 63.",
     "cta": "Ver pack de la comunidad",
     "reviewerNote": "Una nota del equipo de revisión:",
     "caption": "Los jugadores pueden encontrarlo en la sección de packs de la comunidad de la app.",
-    "text": "¡Aprobado!\n\n\"{{packName}}\" fue aprobado y ya está disponible para todo el mundo en 63.\n\nVer: {{url}}\n"
+    "text": "¡Aprobado!\n\nEl pack «{{packName}}» fue aprobado y ya está disponible para todo el mundo en 63.\n\nVer: {{url}}\n"
   },
   "communityPackFeatured": {
-    "subject": "\"{{packName}}\" ahora es destacado",
-    "preheader": "Elegimos \"{{packName}}\" como pack destacado de la comunidad.",
-    "heading": "¡Ahora es destacado!",
+    "subject": "Pack destacado: «{{packName}}»",
+    "preheader": "Elegimos «{{packName}}» como pack destacado de la comunidad.",
+    "heading": "¡Tu pack está destacado!",
     "intro": "Elegimos <strong>{{packName}}</strong> como pack destacado de la comunidad.",
     "cta": "Ver pack destacado",
     "caption": "Los packs destacados aparecen primero en la sección de la comunidad.",
-    "text": "Elegimos \"{{packName}}\" como pack destacado de la comunidad.\n\nVer: {{url}}\n"
+    "text": "Elegimos «{{packName}}» como pack destacado de la comunidad.\n\nVer: {{url}}\n"
   },
   "communityPackRejected": {
     "subject": {
-      "update": "La actualización de \"{{packName}}\" no se aprobó",
-      "new": "Novedades sobre \"{{packName}}\""
+      "update": "La actualización de «{{packName}}» no se aprobó",
+      "new": "Novedades sobre «{{packName}}»"
     },
     "preheader": {
-      "update": "La actualización de \"{{packName}}\" no se aprobó; la versión anterior sigue publicada.",
-      "new": "Esta vez no se aprobó tu pack \"{{packName}}\"."
+      "update": "La actualización de «{{packName}}» no se aprobó; la versión anterior sigue publicada.",
+      "new": "Esta vez no se aprobó tu pack «{{packName}}»."
     },
     "heading": "Novedades sobre tu envío",
     "intro": {
@@ -36,16 +36,16 @@
     "cta": "Editar y reenviar",
     "text": {
       "opener": {
-        "update": "Revisamos la actualización de \"{{packName}}\" y no se aprobó. La versión aprobada anteriormente sigue publicada en la biblioteca de la comunidad; no se retiró nada.",
-        "new": "Revisamos \"{{packName}}\" y esta vez no se aprobó."
+        "update": "Revisamos la actualización de «{{packName}}» y no se aprobó. La versión aprobada anteriormente sigue publicada en la biblioteca de la comunidad; no se retiró nada.",
+        "new": "Revisamos «{{packName}}» y esta vez no se aprobó."
       },
       "reviewerNote": "Nota del equipo de revisión:",
       "invite": "Puedes editar el pack y volver a enviarlo cuando quieras."
     }
   },
   "communityPackRemoved": {
-    "subject": "\"{{packName}}\" se retiró de la comunidad",
-    "preheader": "Un moderador retiró tu pack \"{{packName}}\".",
+    "subject": "«{{packName}}» se retiró de la comunidad",
+    "preheader": "Un moderador retiró tu pack «{{packName}}».",
     "heading": "Pack retirado",
     "intro": {
       "withoutReason": "Retiramos <strong>{{packName}}</strong> de la biblioteca de la comunidad.",
@@ -54,18 +54,18 @@
     "cta": "Abrir pack",
     "caption": "Puedes editar tu pack y volver a enviarlo cuando quieras.",
     "text": {
-      "withoutReason": "Retiramos \"{{packName}}\" de la biblioteca de la comunidad.\n\nPuedes editar tu pack y volver a enviarlo cuando quieras.\n{{url}}\n",
-      "withReason": "Retiramos \"{{packName}}\" de la biblioteca de la comunidad.\n\nMotivo:\n{{reason}}\n\nPuedes editar tu pack y volver a enviarlo cuando quieras.\n{{url}}\n"
+      "withoutReason": "Retiramos «{{packName}}» de la biblioteca de la comunidad.\n\nPuedes editar tu pack y volver a enviarlo cuando quieras.\n{{url}}\n",
+      "withReason": "Retiramos «{{packName}}» de la biblioteca de la comunidad.\n\nMotivo:\n{{reason}}\n\nPuedes editar tu pack y volver a enviarlo cuando quieras.\n{{url}}\n"
     }
   },
   "communityPackSubmittedAuthor": {
-    "subject": "\"{{packName}}\" se envió a revisión",
+    "subject": "«{{packName}}» se envió a revisión",
     "preheader": "Recibimos tu pack para la comunidad.",
     "heading": "Envío recibido",
     "intro": "Recibimos tu envío de <strong>{{packName}}</strong> para revisarlo antes de publicarlo en la comunidad.",
     "cta": "Ver pack",
     "caption": "Te enviaremos un correo en cuanto haya novedades.",
-    "text": "Recibimos tu envío de \"{{packName}}\" para revisarlo antes de publicarlo en la comunidad. Te enviaremos un correo cuando haya novedades.\n\nVer pack: {{url}}\n"
+    "text": "Recibimos tu envío de «{{packName}}» para revisarlo antes de publicarlo en la comunidad. Te enviaremos un correo cuando haya novedades.\n\nVer pack: {{url}}\n"
   },
   "passwordReset": {
     "subject": "Restablece tu contraseña de packs.63.pt",

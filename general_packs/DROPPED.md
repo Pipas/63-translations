@@ -151,7 +151,7 @@ IKEA has next to no presence in Brazil, so the card has nothing to hang on.
 
 ## `tr-TR`
 
-**54 of the 230 English cards have no Turkish counterpart.** The remaining 176 are
+**55 of the 230 English cards have no Turkish counterpart.** The remaining 175 are
 translated, which is the whole Turkish deck.
 
 ### English idiom or wordplay
@@ -264,9 +264,18 @@ Before adding one back, a native speaker should confirm:
 - **A Pool Noodle**: Is *havuz makarnası* dominant enough, or would players equally say *deniz makarnası*, *yüzme makarnası* or *sosis*?
 - **Clickbait** (*Clickbait* / *Tık Tuzağı*): Do players say the English word, or has *tık tuzağı* become the everyday term?
 
+### Competing everyday expressions
+
+The previous title, *Suçlu Zevk*, reads as a literal calque. Alternatives such as *gizli zevk* and *kaçamak* do not give one dependable exact answer.
+
+| Card |
+| --- |
+| A Guilty Pleasure |
+
+
 ## `es-ES`
 
-**29 of the 230 English cards have no Spanish (Spain) counterpart.** The remaining 201 are
+**32 of the 230 English cards have no Spanish (Spain) counterpart.** The remaining 198 are
 direct translations of English cards.
 
 ### English-specific idiom, wordplay or slang
@@ -318,10 +327,28 @@ direct translations of English cards.
 | Jimmy Fallon's Laugh |
 | Super Bowl Halftime Show |
 
+### Translation changes the subject
+
+*Corte al cero* suggests shaving the head, while the source describes short hair left in place.
+
+| Card |
+| --- |
+| Buzz Cut |
+
+### Exact answer is not stable
+
+The Friends ensemble has no single established collective title. *Verdad o reto* also competes with *verdad o atrevimiento* in Spain.
+
+| Card |
+| --- |
+| The Friends from Friends |
+| Truth or Dare |
+
+
 ## `es-419`
 
-**33 of the 230 English cards have no Latin American Spanish counterpart.** The remaining
-197 are derived from the `es-ES` translations, with regional vocabulary and locally used
+**37 of the 230 English cards have no Latin American Spanish counterpart.** The remaining
+193 are derived from the `es-ES` translations, with regional vocabulary and locally used
 titles.
 
 ### English-specific idiom, wordplay or slang
@@ -377,9 +404,28 @@ titles.
 | A Participation Trophy |
 | Jimmy Fallon's Laugh |
 
+### Translation changes the subject
+
+*Corte al cero* suggests shaving the head, while the source describes short hair left in place.
+
+| Card |
+| --- |
+| Buzz Cut |
+
+### Exact answer varies across countries
+
+The Friends ensemble has no stable collective title. Door signs use *jalar* or *tirar*, and the food in the eating contest has several regional names. A single exact answer would penalise otherwise natural guesses.
+
+| Card |
+| --- |
+| The Friends from Friends |
+| Pushing a Pull Door |
+| A Hot Dog Eating Contest |
+
+
 ## `fr-FR`
 
-**38 of the 230 English cards have no French counterpart.** The remaining 192 are direct
+**40 of the 230 English cards have no French counterpart.** The remaining 190 are direct
 translations of English cards.
 
 ### English-specific idiom, wordplay or slang
@@ -435,9 +481,19 @@ translations of English cards.
 | Mr. Worldwide |
 | Super Bowl Halftime Show |
 
+### Translation changes the subject
+
+*La boule à zéro* suggests a shaved head rather than the short cut in the source. *Le maillot brésilien* does not reliably describe the complete removal specified by the English card.
+
+| Card |
+| --- |
+| Buzz Cut |
+| Brazilian Wax |
+
+
 ## `nl-NL`
 
-**33 of the 230 English cards have no Dutch counterpart.** The remaining 197 are direct
+**35 of the 230 English cards have no Dutch counterpart.** The remaining 195 are direct
 translations of English cards.
 
 ### English-specific expression or meaning
@@ -501,9 +557,26 @@ character rather than a translation of the same card.
 | --- |
 | Big Bird |
 
+### Translation changes the object
+
+*Een deelnemersmedaille* is a medal, while the source card is a trophy.
+
+| Card |
+| --- |
+| A Participation Trophy |
+
+### Exact game-card wording is not stable
+
+*De UNO-omkeerkaart*, *keer-omkaart* and everyday descriptions compete. Leave the card out until one exact answer can be justified.
+
+| Card |
+| --- |
+| The Uno Reverse Card |
+
+
 ## `nb-NO`
 
-**24 of the 230 English cards have no Norwegian Bokmål counterpart.** The remaining 206
+**26 of the 230 English cards have no Norwegian Bokmål counterpart.** The remaining 204
 are direct translations of English cards.
 
 ### English-specific expression or meaning
@@ -550,9 +623,19 @@ are direct translations of English cards.
 | Mr. Worldwide |
 | Super Bowl Halftime Show |
 
+### Exact answer is not stable
+
+The UNO action can be named in several ways. *Stirrekonkurranse* also competes with *blunkekonkurranse* for the staring game.
+
+| Card |
+| --- |
+| The Uno Reverse Card |
+| A Staring Contest |
+
+
 ## `de-DE`
 
-**45 of the 230 English cards have no German counterpart.** The remaining 185 are direct
+**46 of the 230 English cards have no German counterpart.** The remaining 184 are direct
 translations of English cards.
 
 ### English-specific idiom, wordplay or slang
@@ -620,9 +703,18 @@ translations of English cards.
 | Super Bowl Halftime Show |
 | The 1% |
 
+### Exact slogan wording is not stable
+
+The English slogan and German versions with different word orders compete; the previous *Lebe, lache, liebe* is not a dependable single exact answer.
+
+| Card |
+| --- |
+| Live, Laugh, Love |
+
+
 ## `it-IT`
 
-**49 of the 230 English cards have no Italian counterpart.** The remaining 181 are direct
+**51 of the 230 English cards have no Italian counterpart.** The remaining 179 are direct
 translations of English cards.
 
 ### English-specific expression or no single Italian title
@@ -693,3 +785,12 @@ translations of English cards.
 | The Trolley Problem |
 | The Uno Reverse Card |
 | Toe Socks |
+
+### English expression lacks a dependable exact answer
+
+The previous drafts kept the English expressions, but their recognition and exact wording are not dependable enough for a general table. Literal alternatives do not solve that problem.
+
+| Card |
+| --- |
+| Netflix and Chill |
+| A Guilty Pleasure |

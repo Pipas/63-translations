@@ -84,7 +84,7 @@
     "nameMinLength": "El nombre debe tener al menos 2 caracteres",
     "nameMaxLength": "El nombre debe tener menos de 50 caracteres",
     "passwordsDoNotMatch": "Las contraseñas no coinciden",
-    "contrastError": "El color de acento no tiene suficiente contraste con el color principal"
+    "contrastError": "El color del texto no tiene suficiente contraste con el color del pack"
   },
   "home": {
     "packs": "Packs",
@@ -238,7 +238,7 @@
       "title": "¡Envía tu pack!",
       "subtitle": "Compártelo con la comunidad de 63.",
       "cta": "Enviar",
-      "minCards": "Añade al menos {{required}} cartas para enviar este pack. Ahora tienes {{current}}."
+      "minCards": "El pack necesita al menos {{required}} cartas para poder enviarlo. Ahora tiene {{current}}."
     },
     "community": {
       "pending": {
@@ -350,7 +350,7 @@
     "dontHaveApp": "¿Aún no tienes 63?",
     "appStore": "App Store",
     "googlePlay": "Google Play",
-    "notFound": "No se ha encontrado el pack",
+    "notFound": "Pack no encontrado",
     "notFoundDescription": "Este pack no existe o ya no está disponible."
   },
   "community": {
@@ -394,7 +394,7 @@
       "sortBy": "Ordenar por"
     },
     "draft": "Borrador",
-    "info": "Información de la carta",
+    "info": "Detalles de la carta",
     "createdAt": "Fecha de creación",
     "filter": {
       "myCards": "Mis cartas",
@@ -492,7 +492,7 @@
       "confirm": "Desactivar"
     },
     "similarCard": {
-      "title": "Se ha encontrado una carta similar",
+      "title": "Hay una carta similar",
       "description": "Ya existe una carta similar:",
       "confirm": "¿Seguro que quieres añadirla?",
       "addAnyway": "Añadir de todos modos"
@@ -531,7 +531,7 @@
     "leftPack": "Has salido de «{{name}}»",
     "failedToLeavePack": "No has podido salir del pack",
     "usernameUpdated": "¡Nombre de usuario actualizado!",
-    "failedToUpdateUsername": "No se ha podido actualizar el nombre de usuario",
+    "failedToUpdateUsername": "Error al actualizar el nombre de usuario",
     "accountDeleted": "Cuenta eliminada",
     "failedToDeleteAccount": "No se ha podido eliminar la cuenta",
     "nameUpdatedInPack": "Tu nombre se ha actualizado en este pack",
@@ -542,7 +542,7 @@
   },
   "join": {
     "joinPack": "Unirse al pack",
-    "packNotFound": "No se ha encontrado el pack",
+    "packNotFound": "Pack no encontrado",
     "packNotFoundDescription": "Este pack no existe o el enlace no es válido.",
     "goToMyPacks": "Ir a mis packs",
     "joiningPack": "Uniéndote al pack...",
@@ -565,7 +565,7 @@
   },
   "emoji": {
     "loading": "Cargando...",
-    "empty": "No se han encontrado emojis."
+    "empty": "No se encontraron emojis."
   },
   "changelog": {
     "title": "Registro de cambios"

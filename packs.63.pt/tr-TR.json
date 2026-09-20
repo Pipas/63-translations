@@ -238,7 +238,7 @@
       "title": "Paketini gönder!",
       "subtitle": "63 topluluğuyla paylaş.",
       "cta": "Gönder",
-      "minCards": "Bu paketi göndermek için en az {{required}} kart ekle. Şu anda {{current}} kart var."
+      "minCards": "Bu paketi göndermek için en az {{required}} kart olmalı. Şu anda {{current}} kart var."
     },
     "community": {
       "pending": {
@@ -311,7 +311,7 @@
       },
       "withdrawConfirm": {
         "title": "Topluluktan kaldırılsın mı?",
-        "description": "“{{name}}” adlı paket topluluk paketlerinden kaldırılacak. Paketi yükleyen herkes 63'ü bir sonraki açışında paketi cihazından da kaybedecek. Paketi daha sonra tekrar gönderebilirsin.",
+        "description": "“{{name}}” adlı paket topluluktan kaldırılacak ve paketi yükleyenlerin cihazlarından 63’ü bir sonraki açışlarında silinecek. Paketi daha sonra tekrar gönderebilirsin.",
         "confirm": "Kaldır"
       },
       "toast": {
@@ -336,7 +336,7 @@
       "subtitle": "Uygulamadaki KIDS modu yalnızca çocuklara uygun paketleri gösterir. Bir moderatör yanıtını kontrol edecek.",
       "checkbox": "Bu paket çocuklara uygundur"
     },
-    "agreement": "Bu paketin <guidelines>63 topluluk kurallarına</guidelines> uyduğunu ve nefret söylemi, özel kişilerin bilgilerinin ifşası veya telif hakkıyla korunan kart metinleri içermediğini kabul ediyorum.",
+    "agreement": "Bu paketin <guidelines>63 topluluk kurallarına</guidelines> uyduğunu ve nefret söylemi, kişilerin özel bilgilerinin ifşası veya telif hakkıyla korunan kart metinleri içermediğini kabul ediyorum.",
     "cta": {
       "submit": "İncelemeye gönder",
       "resubmit": "Tekrar incelemeye gönder"
@@ -459,7 +459,7 @@
     "loadingSettings": "Ayarlar yükleniyor...",
     "joined": "{{date}} tarihinde katıldı",
     "ownerRole": "Sahip",
-    "created": "{{date}} tarihinde oluşturuldu"
+    "created": "Oluşturulma: {{date}}"
   },
   "dialog": {
     "deleteCard": {

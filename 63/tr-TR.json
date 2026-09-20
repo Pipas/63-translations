@@ -11,7 +11,7 @@
     "seconds": "Saniye",
     "options": "Seçenekler",
     "rounds": "Turlar",
-    "rounds_tooltip": "Oyundaki tur sayısı.\n\nŞunlar gibi özel turlar oluşturabilirsin:\n• Kartları çizmek\n• Kanepenin arkasından yalnızca kollar\n• Kanepenin arkasından yalnızca kafa\n• Çarşaf altında sessiz sinema\n• Yorumlayıcı dans",
+    "rounds_tooltip": "Oyundaki tur sayısı.\n\nŞunlar gibi farklı turlar oluşturabilirsin:\n• Kartları çizmek\n• Kanepenin arkasından yalnızca kollar\n• Kanepenin arkasından yalnızca kafa\n• Çarşaf altında sessiz sinema\n• Serbest dans",
     "time": "Süre",
     "time_tooltip": "Her oyuncunun sırasının saniye cinsinden süresi.",
     "loop_skipped_cards": "Geçilenleri tekrar çek",
@@ -85,7 +85,7 @@
     "recover_game_title": "Oyuna devam et",
     "recover_game_description": "Son oyunun yarım kaldı. Devam etmek ister misin?",
     "recover_game_resume": "Devam et",
-    "recover_game_ignore": "Yoksay",
+    "recover_game_ignore": "Yok say",
     "cards_left": "{count} kart kaldı",
     "see_more": "Daha fazla",
     "see_less": "Daha az"
@@ -108,7 +108,7 @@
       "description": "Daha az kart, daha az süre; kart geçmek yok!"
     },
     "custom": {
-      "title": "Özel",
+      "title": "Kendin yap",
       "description": "Bizim kurallarımız şart mı?\nKendi modunu oluştur."
     }
   },
@@ -122,7 +122,7 @@
       "call_to_action": "Karşında"
     },
     "deck": {
-      "title": "63, kart bilme oyunudur",
+      "title": "63, kartları bilmeye çalıştığın bir oyun",
       "text": "Takımlar en çok puanı toplamak için yarışır.",
       "info": "Her oyunda çeşitli paketlerden kartlarla yepyeni bir deste oluşturulur."
     },
@@ -152,7 +152,7 @@
       "points": "Puan",
       "card_title": "Başlık",
       "card_description": "Açıklama",
-      "info": "Bir kartın sayılması için başlığının tamamı doğru dizilimle söylenmelidir.",
+      "info": "Bir kartın sayılması için başlığının tamamı doğru sırayla söylenmelidir.",
       "more_info": "Her kartta, kavramı bilmiyorsan yardımcı olacak kısa bir açıklama vardır. İpuçlarına başlarken bundan yararlan ama doğrudan okuma.\n\nBu senin oyunun; kuralları dilediğin kadar katı ya da esnek uygulayabilirsin."
     },
     "default_card": {
@@ -160,7 +160,7 @@
       "description": "Macaulay Culkin'in oynadığı, geride bırakılan bir çocuğun aile konutunu hırsızlardan korumasını anlatan 1990 yapımı komedi filmi."
     },
     "teams": {
-      "title": "İki takım dönüşümlü olarak kart bilmeye çalışır",
+      "title": "İki takım sırayla kart bilmeye çalışır",
       "text": "Bir oyuncu ipucu verirken takımı kartın başlığını bulmaya çalışır",
       "info": "Bir kişi ikinci kez ipucu vermeden önce herkes bir kez vermelidir."
     },
@@ -182,7 +182,7 @@
       "text": "Kartı istediğin gibi anlat ama başlığındaki hiçbir kelimeyi söyleme",
       "clue1": "Bir konutta yalnız kalan çocukla ilgili Noel filmi",
       "clue2": "Macaulay Culkin oynuyor!",
-      "info": "\"Evde Tek Başına\" için \"evde\", \"tek\" veya \"başına\" diyemezsin.",
+      "info": "“Evde Tek Başına” için “evde”, “tek”, “başına” diyemezsin.",
       "more_info": "Edatlar yasak kelime sayılmaz.\n\nYasak bir kelime söylenir ve kart bilinirse diğer takım itiraz edebilir; kart sıra sonunda yanlış işaretlenir.",
       "note": "Yasak kelimeler",
       "note_description": "Kart başlığındaki kelimeleri kullanamazsın"
@@ -195,7 +195,7 @@
       "info": "Unutma: tüm kartlar 1. turda zaten açıldı.",
       "more_info": "2. tura geçmek için tüm kartların 1. turda bilinmiş olması gerekir.\n\nKartlar aynı kalır ama ipucu verenin işi her turda zorlaşır!",
       "note": "Tek kelime",
-      "note_description": "Yalnızca tek kelimelik ipuçları verebilirsin."
+      "note_description": "İpuçların tek kelimeyle sınırlı."
     },
     "round3": {
       "title": "3. tur",
@@ -208,7 +208,7 @@
     "controls": {
       "guess_text": "Takımın kartı bilirse **CHECK_ICON** düğmesine bas",
       "skip_text": "İpucu bulamadın ya da yeni kart mı istiyorsun? **Geç**'e bas",
-      "info": "Kartları doğru ya da geçildi diye kaydırarak da işaretleyebilirsin.",
+      "info": "Kartı kaydırarak da bildiğini veya geçtiğini işaretleyebilirsin.",
       "more_info": "Doğru saymak için sağa, geçmek için sola kaydır. Geçilen kartlar destede kalır ve aynı turda daha sonra geri gelir; yani bir şansın daha olur.\n\nKlasik modda kart geçmenin cezası yok, öylece saatin işlemesini izleme!"
     },
     "post_turn": {
@@ -255,8 +255,8 @@
       "description": "Destek seçeneklerini yükleyemedik, lütfen tekrar dene",
       "retry": "Tekrar dene"
     },
-    "restore_purchases": "Alımları geri yükle",
-    "restore_purchases_error": "Alımlar geri yüklenemedi"
+    "restore_purchases": "Satın alımları geri yükle",
+    "restore_purchases_error": "Satın alımlar geri yüklenemedi"
   },
   "credits": {
     "created_by": "Oluşturan",
@@ -303,7 +303,7 @@
     "by_author": "{name} tarafından",
     "by_author_plus": "{name} +{count} tarafından",
     "code_input_placeholder": "Paket kodun var mı?",
-    "details_title": "Ayrıntı",
+    "details_title": "Ayrıntılar",
     "pack_not_found": "Bu paket artık mevcut değil.",
     "featured_pill": "Öne çıkan",
     "official_pill": "Resmî",
@@ -319,11 +319,9 @@
     "spoiler_warning_body": "Eklemeden önce birkaç karta bakabilirsin ama oyundaki sürprizi kaçırırsın.",
     "spoiler_reveal": "Yine de göster",
     "see_all_cards": "{count} kartın tümünü gör",
-    "reveal_all_title": "Tüm kartlar gösterilsin mi?",
+    "reveal_all_title": "Tüm kartlar açılsın mı?",
     "reveal_all_body": "Bu paketteki {count} kartın tümünü göreceksin. Paket seçerken işe yarar ama oynayacaksan sürprizi kaçırır.",
     "reveal_all_confirm": "Göster",
-    "announcement_title": "Kendi paketlerini oluştur!",
-    "announcement_body": "Kendi kartlarınla paketler oluşturabilir, arkadaşlarınla iş birliği yapıp dünyayla paylaşabilirsin!\n\nBaşlamak için {link} adresine git.",
     "code_hint": "ABC123",
     "add_pack_button": "Paketi ekle",
     "already_added": "Zaten koleksiyonda",
@@ -380,7 +378,7 @@
     "easiest_subtitle": "{skips}× geçildi · ort. {avg} sn"
   },
   "translations": {
-    "ai_notice": "Bu çeviri yapay zekâ ile yapıldı. Bir hata mı buldun, yoksa daha iyi olması için yardım etmek mi istiyorsun?",
+    "ai_notice": "Bu çeviri yapay zekâyla yapıldı. Hata mı buldun? İyileştirmeye yardım etmek ister misin?",
     "contact_us": "Bize ulaş",
     "missing_language": "Dilini bulamadın mı?",
     "help_translate": "63'ü çevirmeye yardım et",

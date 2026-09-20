@@ -3,11 +3,11 @@
     "subject": "«{{packName}}» è nella community",
     "preheader": "Il tuo pacchetto «{{packName}}» è stato approvato.",
     "heading": "Approvato!",
-    "intro": "<strong>{{packName}}</strong> è stato approvato ed è ora disponibile per tutti su 63.",
+    "intro": "Il pacchetto <strong>{{packName}}</strong> è stato approvato ed è ora disponibile per tutti su 63.",
     "cta": "Mostra nella community",
     "reviewerNote": "Nota del revisore:",
     "caption": "I giocatori possono trovarlo nella sezione dei pacchetti della community nell’app.",
-    "text": "Approvato!\n\n«{{packName}}» è stato approvato ed è ora disponibile per tutti su 63.\n\nMostra: {{url}}\n"
+    "text": "Approvato!\n\nIl pacchetto «{{packName}}» è stato approvato ed è ora disponibile per tutti su 63.\n\nMostra: {{url}}\n"
   },
   "communityPackFeatured": {
     "subject": "«{{packName}}» è ora in evidenza",
@@ -30,21 +30,21 @@
     "heading": "Novità sul tuo invio",
     "intro": {
       "update": "Abbiamo esaminato l’aggiornamento di <strong>{{packName}}</strong>, ma non è stato approvato. Ecco la nota del revisore:",
-      "new": "Abbiamo esaminato <strong>{{packName}}</strong>, ma questa volta non è stato approvato. Ecco la nota del revisore:"
+      "new": "Abbiamo esaminato il pacchetto <strong>{{packName}}</strong>, ma questa volta non è stato approvato. Ecco la nota del revisore:"
     },
     "stillLive": "Buone notizie: la versione approvata in precedenza è ancora disponibile nella community e non è stato rimosso nulla.",
     "cta": "Modifica e invia di nuovo",
     "text": {
       "opener": {
         "update": "Abbiamo esaminato l’aggiornamento di «{{packName}}», ma non è stato approvato. La versione approvata in precedenza è ancora disponibile nella community e non è stato rimosso nulla.",
-        "new": "Abbiamo esaminato «{{packName}}», ma questa volta non è stato approvato."
+        "new": "Abbiamo esaminato il pacchetto «{{packName}}», ma questa volta non è stato approvato."
       },
       "reviewerNote": "Nota del revisore:",
       "invite": "Puoi modificare il pacchetto e inviarlo di nuovo quando vuoi."
     }
   },
   "communityPackRemoved": {
-    "subject": "«{{packName}}» rimosso dalla community",
+    "subject": "Pacchetto «{{packName}}» rimosso dalla community",
     "preheader": "Un moderatore ha rimosso il tuo pacchetto «{{packName}}».",
     "heading": "Pacchetto rimosso",
     "intro": {
@@ -59,7 +59,7 @@
     }
   },
   "communityPackSubmittedAuthor": {
-    "subject": "«{{packName}}» inviato per la revisione",
+    "subject": "Pacchetto «{{packName}}» inviato per la revisione",
     "preheader": "Abbiamo ricevuto il tuo pacchetto per la community.",
     "heading": "Invio ricevuto",
     "intro": "Abbiamo ricevuto <strong>{{packName}}</strong>: lo esamineremo prima di pubblicarlo nella community.",

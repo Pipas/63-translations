@@ -19,7 +19,7 @@
     "preview_score": "Ver puntuación",
     "preview_score_tooltip": "Al activarlo, se muestra la puntuación actual al final de cada turno.\nAl desactivarlo, solo se revela al terminar la partida.",
     "hide_descriptions": "Ocultar descripciones",
-    "hide_descriptions_tooltip": "Al activarlo, las descripciones de las cartas se ocultan durante la partida.",
+    "hide_descriptions_tooltip": "Al activarlo, se ocultan las descripciones durante la partida.",
     "carry_over_time": "Conservar el tiempo",
     "carry_over_time_tooltip": "Al activarlo, el equipo que se queda sin cartas con más de 10 segundos de sobra conserva el tiempo y empieza la ronda siguiente con lo que le quedaba.\nPor debajo de 10 segundos no se conserva nada.",
     "time_carried_over": "s conservados",
@@ -45,7 +45,7 @@
     "sound": "Sonido",
     "sound_tooltip": "Al activarlo, el juego reproduce efectos de sonido.",
     "show_rule_tooltips": "Mostrar reglas",
-    "show_rule_tooltips_tooltip": "Al activarlo, las reglas aparecen como pequeños recordatorios durante la partida.",
+    "show_rule_tooltips_tooltip": "Al activarlo, verás recordatorios de las reglas durante la partida.",
     "accessibility": "Accesibilidad",
     "app_size": "Tamaño de la app",
     "app_size_tooltip": "Aumenta el tamaño del texto y los botones de toda la app.",
@@ -71,7 +71,7 @@
     "end_game": "Terminar",
     "game_over": "Fin de la partida",
     "its_a_tie": "¡Empate!",
-    "times_up": "¡Se acabó el tiempo!",
+    "times_up": "¡Tiempo agotado!",
     "no_more_cards": "¡No quedan cartas!",
     "exit": "Salir",
     "play": "Jugar",
@@ -79,14 +79,14 @@
     "continue": "Continuar",
     "support_button": "Apoyar",
     "rate_title": "¿Te gusta 63?",
-    "rate_subtitle": "Valora el juego para ayudarnos a llegar a más gente",
+    "rate_subtitle": "Califica el juego para que llegue a más gente",
     "back": "Atrás",
     "ok": "Aceptar",
     "recover_game_title": "Reanudar partida",
     "recover_game_description": "Tu última partida no terminó. ¿Quieres reanudarla?",
     "recover_game_resume": "Reanudar",
     "recover_game_ignore": "Ignorar",
-    "cards_left": "Quedan {count} cartas",
+    "cards_left": "Cartas restantes: {count}",
     "see_more": "Ver más",
     "see_less": "Ver menos"
   },
@@ -109,7 +109,7 @@
     },
     "custom": {
       "title": "Personalizado",
-      "description": "¿Por qué jugar con nuestras reglas?\nCrea tu propio modo."
+      "description": "¿No te van nuestras reglas?\nCrea tu propio modo."
     }
   },
   "rules": {
@@ -132,7 +132,7 @@
     },
     "example_card_2": {
       "title": "Una mancha en la pantalla",
-      "description": "Ha desaparecido antes de que pudieras leerla, ¿verdad? Odio cuando pasa eso. ¡Juraría que había algo ahí!"
+      "description": "Desapareció antes de que pudieras leerla, ¿verdad? Odio cuando pasa eso. ¡Juraría que había algo ahí!"
     },
     "example_card_3": {
       "title": "Otra carta de ejemplo",
@@ -148,7 +148,7 @@
     },
     "cards": {
       "title": "Cada carta representa un concepto",
-      "text": "Puede ser cualquier cosa, desde personajes históricos hasta referencias de la cultura popular",
+      "text": "Puede ser cualquier cosa: personajes históricos, referencias de la cultura popular…",
       "points": "Puntos",
       "card_title": "Título",
       "card_description": "Descripción",
@@ -166,8 +166,8 @@
     },
     "turn": {
       "title": "Cada turno dura 63 segundos",
-      "text": "Durante un **turno**, el equipo que juega adivina tantas cartas como pueda",
-      "info": "El jugador que da las pistas sostiene el teléfono."
+      "text": "Durante un **turno**, el equipo que juega intenta adivinar tantas cartas como pueda",
+      "info": "Quien da las pistas sostiene el teléfono."
     },
     "rounds": {
       "title": "La partida tiene 3 rondas",
@@ -180,9 +180,9 @@
       "title": "Ronda 1",
       "subtitle": "Palabras prohibidas",
       "text": "Describe la carta como quieras, pero no puedes decir ninguna palabra de su título",
-      "clue1": "Película navideña sobre un niño olvidado que defiende su hogar",
+      "clue1": "Película navideña de un niño que se enfrenta a ladrones",
       "clue2": "¡Con Macaulay Culkin!",
-      "info": "Para \"Mi pobre angelito\", no puedes decir \"pobre\" ni \"angelito\".",
+      "info": "En «Mi pobre angelito», no digas «pobre» ni «angelito».",
       "more_info": "Las preposiciones no cuentan como palabras prohibidas.\n\nSi se dice una palabra prohibida y se adivina la carta, el otro equipo puede impugnarla y se marcará como incorrecta al final del turno.",
       "note": "Palabras prohibidas",
       "note_description": "No puedes usar palabras del título de la carta"
@@ -208,8 +208,8 @@
     "controls": {
       "guess_text": "Si tu equipo adivina la carta, toca el botón de acierto **CHECK_ICON**",
       "skip_text": "¿No sabes qué decir o quieres otra carta? Toca **Pasar**",
-      "info": "También puedes marcar cartas como acertadas o pasadas deslizando el dedo.",
-      "more_info": "Desliza a la derecha para marcarla como acertada y a la izquierda para pasar. Las cartas pasadas permanecen en el mazo y vuelven más tarde en la misma ronda, así que tendrás otra oportunidad.\n\nEn el modo Clásico pasar no cuesta nada, ¡no te quedes mirando el reloj!"
+      "info": "También puedes deslizar para marcar aciertos o pasar cartas.",
+      "more_info": "Desliza a la derecha para marcar un acierto y a la izquierda para pasar. Las cartas pasadas vuelven más tarde en la misma ronda, así que tendrás otra oportunidad.\n\nEn el modo Clásico pasar es gratis, ¡no te quedes mirando el reloj!"
     },
     "post_turn": {
       "summary_text": "Después de tu **turno** verás un resumen de todas las cartas acertadas y pasadas",
@@ -234,7 +234,7 @@
     "select_option": "Elige una opción",
     "standard": {
       "title": "Estándar",
-      "description": "Elimina todos los anuncios del juego para siempre."
+      "description": "Elimina los anuncios del juego para siempre."
     },
     "fan": {
       "title": "Fan de 63",
@@ -281,8 +281,8 @@
     "kids_mode_label": "Modo {kids}",
     "kids_mode_tooltip": "Oculta cartas y packs de la comunidad que no son adecuados para niños. Los packs privados siempre aparecen.",
     "distribution": "Distribución de cartas",
-    "not_enough_cards": "El mazo solo tendrá {count} cartas",
-    "no_cards_available": "No hay cartas disponibles para crear un mazo",
+    "not_enough_cards": "Cartas para el mazo: solo {count}",
+    "no_cards_available": "No hay cartas para crear un mazo",
     "all_cards_played": "Todas las cartas jugadas",
     "only_n_available": "Solo hay {count} disponibles",
     "unassigned": "Sin asignar: {count}",
@@ -302,7 +302,7 @@
     "language_any": "Cualquier idioma",
     "by_author": "de {name}",
     "by_author_plus": "de {name} +{count}",
-    "code_input_placeholder": "¿Tienes un código de pack?",
+    "code_input_placeholder": "¿Tienes un código?",
     "details_title": "Detalles",
     "pack_not_found": "Este pack ya no está disponible.",
     "featured_pill": "Destacado",
@@ -318,37 +318,35 @@
     "spoiler_warning_title": "Atención: puede haber spoilers",
     "spoiler_warning_body": "Puedes echar un vistazo a algunas cartas antes de agregarlo, pero perderás la sorpresa durante la partida.",
     "spoiler_reveal": "Mostrar igualmente",
-    "see_all_cards": "Ver las {count} cartas",
+    "see_all_cards": "Ver cartas ({count})",
     "reveal_all_title": "¿Mostrar todas las cartas?",
-    "reveal_all_body": "Verás las {count} cartas de este pack. Resulta útil para elegir, pero estropea la sorpresa si vas a jugar.",
+    "reveal_all_body": "Verás todo el contenido de este pack (cartas: {count}). Es útil para elegir, pero arruina la sorpresa si vas a jugar.",
     "reveal_all_confirm": "Mostrar",
-    "announcement_title": "¡Crea tus propios packs!",
-    "announcement_body": "¡Ya puedes crear packs con tus propias cartas, colaborar con amigos y compartirlos con todo el mundo!\n\nVe a {link} para empezar.",
     "code_hint": "ABC123",
     "add_pack_button": "Agregar pack",
     "already_added": "Ya está en tu colección",
-    "pack_added_hidden_kids": "Se agregó {name}. Está oculto mientras el modo KIDS está activado.",
+    "pack_added_hidden_kids": "Pack agregado: {name}. Oculto en modo KIDS.",
     "watch_ad_title": "Pausa publicitaria",
-    "watch_ad_body": "Las cuentas gratuitas deben ver un anuncio breve antes de agregar un pack. Así ayudamos a que 63 siga funcionando y sea gratis para todos.",
+    "watch_ad_body": "Con una cuenta gratuita debes ver un anuncio breve antes de agregar un pack. Así 63 sigue funcionando y gratis para todos.",
     "watch_ad_button": "Ver anuncio",
     "watch_ad_remove_cta": "Quitar anuncios",
     "pack_added": "¡Se agregó {name}!",
     "error_empty_code": "Ingresa un código de pack",
-    "error_not_found": "No se encontró el pack. Revisa el código e inténtalo de nuevo.",
+    "error_not_found": "Pack no encontrado. Revisa el código y reintenta.",
     "error_network": "Error de red. Revisa tu conexión.",
-    "load_error": "No se pudieron cargar los packs de la comunidad.",
+    "load_error": "Error al cargar packs de la comunidad.",
     "load_retry": "Reintentar",
     "load_more": "Cargar más",
     "updated": "Actualizado",
     "played_count": "{played}/{total} jugadas",
     "delete_pack_button": "Eliminar",
-    "delete_pack_description": "Siempre puedes volver a agregarlo más tarde.",
+    "delete_pack_description": "Puedes volver a agregarlo más tarde.",
     "pack_deleted": "{name} eliminado",
     "report_pack_title": "Reportar este pack",
     "report_pack_description": "Cuéntanos qué ocurre para que podamos revisarlo.",
     "report_reason_inappropriate": "Contenido inapropiado",
     "report_reason_spam": "Spam",
-    "report_reason_copyright": "Infracción de derechos de autor",
+    "report_reason_copyright": "Infracción de copyright",
     "report_reason_other": "Otro",
     "report_note_hint": "Agrega una nota (opcional)",
     "report_submit": "Enviar",
@@ -358,7 +356,7 @@
   },
   "post_game": {
     "liked_packs_title": "¿Te gustaron estos packs?",
-    "leave_a_like": "Dales a Me gusta para que más gente pueda encontrarlos",
+    "leave_a_like": "Dales un «Me gusta» para que más gente los vea",
     "stats_title": "Estadísticas",
     "game_time": "Duración",
     "turns": "Turnos jugados",

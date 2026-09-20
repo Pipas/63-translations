@@ -44,7 +44,7 @@
     }
   },
   "communityPackRemoved": {
-    "subject": "« {{packName}} » retiré de la communauté",
+    "subject": "Pack « {{packName}} » retiré de la communauté",
     "preheader": "Un modérateur a retiré ton pack « {{packName}} ».",
     "heading": "Pack retiré",
     "intro": {
@@ -59,7 +59,7 @@
     }
   },
   "communityPackSubmittedAuthor": {
-    "subject": "« {{packName}} » proposé pour examen",
+    "subject": "Pack « {{packName}} » proposé pour examen",
     "preheader": "Nous avons reçu ta proposition de pack communautaire.",
     "heading": "Proposition reçue",
     "intro": "Nous avons reçu le pack <strong>{{packName}}</strong> pour examen avant sa publication dans la communauté.",

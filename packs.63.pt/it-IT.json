@@ -363,7 +363,7 @@
     "leavePack": "Lascia pacchetto",
     "leaveDescription": "Non potrai più modificare questo pacchetto.",
     "loadingSettings": "Caricamento impostazioni…",
-    "joined": "Ingresso: {{date}}",
+    "joined": "Collabora dal {{date}}",
     "ownerRole": "Proprietario",
     "created": "Creazione: {{date}}"
   },
@@ -386,7 +386,7 @@
   "toast": {
     "packSaved": "Pacchetto salvato!",
     "failedToUpdatePack": "Impossibile aggiornare il pacchetto",
-    "packDeleted": "«{{name}}» è stato eliminato",
+    "packDeleted": "Il pacchetto «{{name}}» è stato eliminato",
     "failedToDeletePack": "Impossibile eliminare il pacchetto",
     "failedToAddCard": "Impossibile aggiungere la carta",
     "failedToUpdateCard": "Impossibile aggiornare la carta",

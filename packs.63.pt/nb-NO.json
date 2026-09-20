@@ -41,7 +41,7 @@
       "action": "Tilbakestill passord"
     },
     "newPassword": "Nytt passord",
-    "sendResetEmail": "Send tilbakestilling",
+    "sendResetEmail": "Send tilbakestillingslenke",
     "resetEmailSent": "Sjekk e-posten din",
     "resetEmailSentDescription": "Vi har sendt en lenke for tilbakestilling av passordet til {{email}}. Åpne innboksen og følg lenken for å velge et nytt passord.",
     "resetPasswordSuccess": "Passordet er tilbakestilt. Du kan nå logge inn med det nye passordet.",
@@ -84,7 +84,7 @@
     "nameMinLength": "Navnet må ha minst 2 tegn",
     "nameMaxLength": "Navnet må ha færre enn 50 tegn",
     "passwordsDoNotMatch": "Passordene er ikke like",
-    "contrastError": "Aksentfargen har ikke nok kontrast mot hovedfargen"
+    "contrastError": "Tekstfargen har ikke nok kontrast mot pakkefargen"
   },
   "home": {
     "packs": "Pakker",
@@ -238,7 +238,7 @@
       "title": "Send inn pakken din!",
       "subtitle": "Del den med 63-fellesskapet.",
       "cta": "Send inn",
-      "minCards": "Legg til minst {{required}} kort for å sende inn denne pakken. Du har {{current}} nå."
+      "minCards": "Pakken må inneholde minst {{required}} kort for å kunne sendes inn. Den har {{current}} nå."
     },
     "community": {
       "pending": {
@@ -253,7 +253,7 @@
         "reviewerNote": "Merknad fra moderatoren:",
         "stats": {
           "likes": "Likes",
-          "plays": "Spill"
+          "plays": "Ganger spilt"
         },
         "withdraw": "Trekk fra fellesskapet",
         "moreActions": "Flere handlinger"

@@ -15,7 +15,7 @@
       "points": 1
     },
     {
-      "description": "En matmyte som sier at noe som faller på gulvet, kan spises hvis det plukkes opp raskt nok. Mange studier har undersøkt påstanden uten å nå noen enighet.",
+      "description": "En matmyte som sier at noe som faller på gulvet, kan spises hvis det plukkes opp raskt nok.",
       "id": "66bdb3a884826a85",
       "title": "Femsekundersregelen",
       "points": 2
@@ -182,7 +182,7 @@
       "points": 2
     },
     {
-      "description": "Moren til ektefellen din.",
+      "description": "Den kvinnelige forelderen til ektefellen din.",
       "id": "8a945311fc0874d0",
       "title": "Svigermor",
       "points": 1
@@ -261,7 +261,7 @@
       "points": 3
     },
     {
-      "description": "En levende interiørgjenstand i Disneys animasjonsfilm fra Midtøsten. Figuren var blant de første dataanimerte rollefigurene i en spillefilm.",
+      "description": "En levende interiørgjenstand i en Disney-film som foregår i Midtøsten. Figuren var blant de første dataanimerte rollefigurene i en spillefilm.",
       "id": "82b6371df91904ba",
       "title": "Aladdins magiske teppe",
       "points": 1
@@ -403,7 +403,7 @@
       "points": 1
     },
     {
-      "description": "Et naturlig lysfenomen på himmelen nær polarsirkelen. Inuitter trodde det var åndene til forfedrene som lekte med en hvalrosskalle som ball.",
+      "description": "Et naturlig fargespill på himmelen nær polarsirkelen. Inuitter trodde det var åndene til forfedrene som lekte med en hvalrosskalle som ball.",
       "id": "166bdb3a884826a8",
       "title": "Nordlyset",
       "points": 2
@@ -415,7 +415,7 @@
       "points": 2
     },
     {
-      "description": "En overnaturlig guddom som regnes som hellig. I monoteistiske religioner anses denne skikkelsen som verdens skaper.",
+      "description": "Et overnaturlig vesen som regnes som hellig. I monoteistiske religioner anses denne skikkelsen som verdens skaper.",
       "id": "df91904ba61d67f4",
       "title": "Gud",
       "points": 1
@@ -433,7 +433,7 @@
       "points": 2
     },
     {
-      "description": "Den store blokken av frossent vann som i 1912 dømte et av datidens største passasjerskip til undergang. Fartøyet ble ironisk nok regnet som svært trygt og nærmest usenkelig.",
+      "description": "Den store blokken av frossent vann som i 1912 dømte et av datidens største passasjerskip til undergang. Ironisk nok ble fartøyet regnet som et av de tryggeste i sin tid.",
       "id": "682b6371df91904b",
       "title": "Isfjellet som senket Titanic",
       "points": 2
@@ -644,7 +644,7 @@
       "points": 1
     },
     {
-      "description": "Et meningsløst slagord fra en raplåt fra 2024 som ble uunngåelig skolegårdsslang. Opprinnelig viste det til høyden på en basketballspiller i fot og tommer.",
+      "description": "Et meningsløst slagord fra en raplåt fra 2024 som ble uunngåelig skolegårdsslang.",
       "id": "d1a72910-2258-4d3f-80d4-9be8ee86e8ce",
       "title": "6-7",
       "points": 1
@@ -687,7 +687,7 @@
       "points": 2
     },
     {
-      "description": "Instinktet til å vifte et nyfremkalt øyeblikksfoto gjennom luften, kjent fra en OutKast-låt. Produsenten ber folk la være fordi bevegelsen kan skade bildet.",
+      "description": "Instinktet til å vifte et nyfremkalt øyeblikksfoto gjennom luften, kjent fra en OutKast-låt. Produsenten ber folk la være fordi bevegelsen kan ødelegge motivet.",
       "id": "763fa3b6-7427-434e-ad02-0563e73def0e",
       "title": "Riste et polaroidbilde",
       "points": 2
@@ -779,13 +779,13 @@
       "points": 3
     },
     {
-      "description": "Et uttrykk for bagatellmessige problemer som først og fremst rammer folk i rike samfunn. Det viser avstanden mellom ekte nød og små moderne irritasjoner.",
+      "description": "Et uttrykk for bagatellmessige bekymringer som først og fremst rammer folk i rike samfunn. Det viser avstanden mellom ekte nød og små moderne irritasjoner.",
       "id": "4fd2b8656cda7f9e",
       "title": "I-landsproblemer",
       "points": 2
     },
     {
-      "description": "En person som ligner slående på et ubeslektet menneske uten å dele genene deres. Uttrykket stammer fra tysk og ble historisk regnet som et dårlig varsel.",
+      "description": "En person som ligner slående på noen uten å være i slekt med dem. Et slikt møte ble historisk regnet som et dårlig varsel.",
       "id": "83b89a12daab64be",
       "title": "En dobbeltgjenger",
       "points": 1
@@ -816,7 +816,7 @@
       "points": 2
     },
     {
-      "description": "Et fantasyrollespill på bord, utgitt i 1974, der spillerne lager figurer og drar på eventyr sammen. Det inspirerte blant annet Baldur's Gate og World of Warcraft.",
+      "description": "Et bordrollespill i en fantasiverden, utgitt i 1974, der spillerne lager figurer og drar på eventyr sammen. Det inspirerte blant annet Baldur's Gate og World of Warcraft.",
       "id": "cda7f9e5afff1669",
       "title": "Dungeons & Dragons",
       "points": 1
@@ -979,7 +979,7 @@
       "points": 2
     },
     {
-      "description": "En førstehjelpsteknikk som åpner blokkerte luftveier med skarpe, oppadgående trykk mot magen. Legen som fant den opp, brukte den ikke på et menneske før han var 96 år.",
+      "description": "En førstehjelpsteknikk som åpner blokkerte luftveier med skarpe, oppadgående trykk mot magen.",
       "id": "a2737d5c-387e-485c-8891-333278cef79d",
       "title": "Heimlich-manøveren",
       "points": 3
@@ -997,7 +997,7 @@
       "points": 3
     },
     {
-      "description": "Skikken med å applaudere piloten etter at et rutefly har satt hjulene trygt på rullebanen. Det eneste som er verre, er å gjøre det på kino eller i en begravelse.",
+      "description": "Skikken med å applaudere piloten etter at maskinen har satt hjulene trygt på rullebanen. Det eneste som er verre, er å gjøre det på kino eller i en begravelse.",
       "id": "6074accc-37a1-4ddd-8707-54807fa01406",
       "title": "Klappe når flyet lander",
       "points": 3
@@ -1015,19 +1015,19 @@
       "points": 3
     },
     {
-      "description": "Den minst ønskelige plassen i et fly eller i baksetet på en bil. Fortsatt bedre enn å sitte i bagasjerommet.",
+      "description": "Den minst ønskelige plassen om bord eller bakerst i en bil. Fortsatt bedre enn å sitte i bagasjerommet.",
       "id": "66f87e72-5ff2-46c3-9791-2c7b8bc75e3b",
       "title": "Midtsetet",
       "points": 2
     },
     {
-      "description": "Øyeblikket et bestikk glipper fra hånden og ned i en bolle med varm væske. For å få det opp må du dyppe en finger i kraften eller fiske med et annet redskap.",
+      "description": "Øyeblikket et spiseredskap glipper fra hånden og havner i en bolle med varm væske. For å få det opp må du dyppe en finger i kraften eller fiske med et annet redskap.",
       "id": "7de7de1b-c3c7-45d8-bfdc-b8463ba5fcfa",
       "title": "En skje som faller i suppen",
       "points": 3
     },
     {
-      "description": "En løs bærepose som virvler gjennom luften på en ruskeværsdag, ofte over parkeringsplasser. Selv om den er et symbol på forurensning, er den formålsløse dansen merkelig fascinerende.",
+      "description": "Et løst handlenett som virvler gjennom luften på en ruskeværsdag, ofte over parkeringsplasser. Selv om det er et symbol på forurensning, er den formålsløse dansen merkelig fascinerende.",
       "id": "642503b4-f3cf-4ef7-86f9-d57af49b24a0",
       "title": "En plastpose i vinden",
       "points": 2
@@ -1051,7 +1051,7 @@
       "points": 1
     },
     {
-      "description": "Et uttrykk for den lille, siste hendelsen som får noen til å miste tålmodigheten. Bildet handler om en beholder som til slutt blir så full at væsken flyter over.",
+      "description": "Et uttrykk for den lille, siste hendelsen som får noen til å miste tålmodigheten.",
       "id": "97d61403-9d62-4a94-af01-8113f18f408d",
       "title": "Dråpen som får begeret til å renne over",
       "points": 1
@@ -1105,7 +1105,7 @@
       "points": 3
     },
     {
-      "description": "Et fortellergrep der hovedpersonen møter en identisk, men ondsinnet motpart. Hvis jeg hadde en, ville den hett «36».",
+      "description": "Et fortellergrep der hovedpersonen møter en identisk motpart med en mørk personlighet. Hvis jeg hadde en, ville den hett «36».",
       "id": "fb504832-5170-40be-900c-b19d0d53c2b4",
       "title": "En ond tvilling",
       "points": 1
@@ -1154,7 +1154,7 @@
       "notForKids": true
     },
     {
-      "description": "Et urolig spedbarn om bord i et fly, ofte regnet som den mest fryktede medpassasjeren. Noen asiatiske flyselskaper har prøvd stille soner for å skjerme andre.",
+      "description": "Et urolig spedbarn om bord, ofte regnet som den mest fryktede medpassasjeren. Noen asiatiske transportører har prøvd stille soner for å skjerme de andre.",
       "id": "0492031b-272f-494e-8a04-7c673f1e2ad7",
       "title": "En gråtende baby på flyet",
       "points": 2
@@ -1185,22 +1185,16 @@
       "notForKids": true
     },
     {
-      "description": "Den notorisk uleselige håndskriften fra helsepersonell som pasienter og apotek sliter med å tyde. En utdøende kunst etter overgangen til digitale resepter.",
+      "description": "De notorisk uleselige krusedullene på papirresepter, som pasienter og apotek sliter med å tyde. En utdøende kunst etter overgangen til digitale løsninger.",
       "id": "65d293cc-08a2-4947-9192-44c46c7b69df",
       "title": "Legeskrift",
       "points": 2
     },
     {
-      "description": "En funksjon på vekkerklokker som utsetter alarmen noen minutter. Søvneksperter sier at ekstraminuttene gjør mer skade enn nytte og ofte gjør folk enda trøttere.",
+      "description": "En funksjon på vekkerklokker som utsetter alarmen noen minutter.",
       "id": "8c26c3b6-6f16-47be-ad13-70d13ee738d4",
       "title": "Slumreknappen",
       "points": 1
-    },
-    {
-      "description": "En duell der to personer holder øyekontakt uten å blunke til én ser bort. Verdensrekorder nærmer seg en hel time med ubrutt blikk.",
-      "id": "5474f906-59a9-4cb8-b999-3efe8b86985c",
-      "title": "En stirrekonkurranse",
-      "points": 2
     },
     {
       "description": "Et bilde på den indre stemmen som frister noen til ugagn, dårlige valg eller moralske snarveier. I tegnefilmer står en engel gjerne på motsatt side og gir motsatt råd.",
@@ -1224,12 +1218,6 @@
       "description": "Et kappløp der deltakerne sluker flest mulig porsjoner grillmat i brød på fast tid. Rekordholderen Joey Chestnut har fortært over 75 på ti minutter.",
       "id": "ebadbed1-8a05-4e22-95e1-ba166e66e490",
       "title": "Konkurranse i pølsespising",
-      "points": 2
-    },
-    {
-      "description": "Et kort i et populært familiespill som snur spilleretningen. Det er kanskje den eneste regelen som er lik i de tusenvis av variantene folk bruker.",
-      "id": "722617cd-07d6-454f-918a-3469e6167a19",
-      "title": "Uno-reverskortet",
       "points": 2
     },
     {

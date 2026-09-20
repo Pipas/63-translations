@@ -233,7 +233,7 @@
     "description": "O 63 é um projecto independente e o teu apoio ajuda a sua manutenção e desenvolvimento.",
     "select_option": "Seleciona uma opção",
     "standard": {
-      "title": "Standard",
+      "title": "Base",
       "description": "Remove todos os anúncios do jogo, para sempre."
     },
     "fan": {
@@ -322,8 +322,6 @@
     "reveal_all_title": "Revelar todas as cartas?",
     "reveal_all_body": "Vais ver as {count} cartas deste pack. Útil para escolher um pack, mas estraga a surpresa se fores jogar.",
     "reveal_all_confirm": "Revelar",
-    "announcement_title": "Cria os teus próprios packs!",
-    "announcement_body": "Já podes criar packs com as tuas próprias cartas, colaborar com amigos e partilhá-los com o mundo!\n\nVai a {link} para começar.",
     "code_hint": "ABC123",
     "add_pack_button": "Adicionar pack",
     "already_added": "Já está na tua coleção",
