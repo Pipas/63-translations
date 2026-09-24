@@ -35,7 +35,7 @@ The 25 namespaces, largest first:
 | --- | --- | --- |
 | `pack` | 92 | The pack editor itself, including the cover and colour pickers, and importing and exporting cards. |
 | `publish` | 69 | Sharing a pack, and its status in the community browser. |
-| `card` | 63 | The card list: sorting, grouping, filtering, searching, selecting, drafts. |
+| `card` | 62 | The card list: sorting, grouping, filtering, searching, selecting, drafts. |
 | `auth` | 47 | Sign-in, registration, password reset, and their error messages. |
 | `toast` | 31 | Confirmations and failures, one line each. |
 | `dialog` | 26 | Confirmation dialogs. Titles are short, descriptions are prose. |
@@ -50,7 +50,8 @@ The 25 namespaces, largest first:
 | `share` | 5 | Share links and app-store fallbacks. |
 | `cookies` | 4 | The cookie banner. |
 | `legal` | 3 | The legal index page. |
-| `banner`, `community`, `emoji`, `menu`, `password`, `upgrade` | 2 each | Small, self-explanatory. |
+| `emoji` | 3 | The emoji picker on the pack cover. |
+| `banner`, `community`, `menu`, `password`, `upgrade` | 2 each | Small, self-explanatory. |
 | `changelog`, `guidelines` | 1 each | Page titles. |
 
 ## Placeholders

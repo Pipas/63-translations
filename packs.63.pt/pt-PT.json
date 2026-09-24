@@ -389,7 +389,6 @@
       "pointsAsc": "Pontos (baixo → alto)",
       "dateDesc": "Mais recentes",
       "dateAsc": "Mais antigos",
-      "sortOptions": "Opções de ordenação",
       "label": "Ordenar",
       "sortBy": "Ordenar por"
     },
@@ -565,7 +564,8 @@
   },
   "emoji": {
     "loading": "A carregar...",
-    "empty": "Nenhum emoji encontrado."
+    "empty": "Nenhum emoji encontrado.",
+    "search": "Procurar emojis"
   },
   "changelog": {
     "title": "Alterações"

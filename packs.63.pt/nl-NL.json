@@ -389,7 +389,6 @@
       "pointsAsc": "Punten (laag → hoog)",
       "dateDesc": "Nieuwste eerst",
       "dateAsc": "Oudste eerst",
-      "sortOptions": "Sorteeropties",
       "label": "Sorteren",
       "sortBy": "Sorteren op"
     },
@@ -565,7 +564,8 @@
   },
   "emoji": {
     "loading": "Laden…",
-    "empty": "Geen emoji gevonden."
+    "empty": "Geen emoji gevonden.",
+    "search": "Emoji zoeken"
   },
   "changelog": {
     "title": "Wijzigingslogboek"

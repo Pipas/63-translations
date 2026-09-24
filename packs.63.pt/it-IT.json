@@ -305,7 +305,6 @@
       "pointsAsc": "Punti (dal più basso)",
       "dateDesc": "Prima le più recenti",
       "dateAsc": "Prima le meno recenti",
-      "sortOptions": "Opzioni di ordinamento",
       "label": "Ordina",
       "sortBy": "Ordina per"
     },
@@ -430,7 +429,7 @@
   "upgrade": {"heading": "Crea account", "continueWithoutAccount": "Continua senza account"},
   "banner": {"noAccountMessage": "Non hai ancora un account. Registrati per creare i tuoi pacchetti.", "createAccount": "Crea account"},
   "password": {"show": "Mostra password", "hide": "Nascondi password"},
-  "emoji": {"loading": "Caricamento…", "empty": "Nessuna emoji trovata."},
+  "emoji": {"loading": "Caricamento…", "empty": "Nessuna emoji trovata.", "search": "Cerca emoji"},
   "changelog": {"title": "Registro modifiche"},
   "licences": {
     "title": "Licenze",

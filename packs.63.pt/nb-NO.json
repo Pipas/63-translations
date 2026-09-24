@@ -389,7 +389,6 @@
       "pointsAsc": "Poeng (lavest → høyest)",
       "dateDesc": "Nyeste først",
       "dateAsc": "Eldste først",
-      "sortOptions": "Sorteringsalternativer",
       "label": "Sorter",
       "sortBy": "Sorter etter"
     },
@@ -565,7 +564,8 @@
   },
   "emoji": {
     "loading": "Laster ...",
-    "empty": "Fant ingen emojier."
+    "empty": "Fant ingen emojier.",
+    "search": "Søk etter emojier"
   },
   "changelog": {
     "title": "Endringslogg"

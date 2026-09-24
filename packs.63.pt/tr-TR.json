@@ -389,7 +389,6 @@
       "pointsAsc": "Puan (düşük → yüksek)",
       "dateDesc": "Önce en yeniler",
       "dateAsc": "Önce en eskiler",
-      "sortOptions": "Sıralama seçenekleri",
       "label": "Sırala",
       "sortBy": "Sıralama ölçütü"
     },
@@ -565,7 +564,8 @@
   },
   "emoji": {
     "loading": "Yükleniyor...",
-    "empty": "Emoji bulunamadı."
+    "empty": "Emoji bulunamadı.",
+    "search": "Emoji ara"
   },
   "changelog": {
     "title": "Değişiklik günlüğü"

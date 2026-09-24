@@ -389,7 +389,6 @@
       "pointsAsc": "Points (croissants)",
       "dateDesc": "Plus récentes d'abord",
       "dateAsc": "Plus anciennes d'abord",
-      "sortOptions": "Options de tri",
       "label": "Trier",
       "sortBy": "Trier par"
     },
@@ -565,7 +564,8 @@
   },
   "emoji": {
     "loading": "Chargement...",
-    "empty": "Aucun émoji trouvé."
+    "empty": "Aucun émoji trouvé.",
+    "search": "Rechercher des émojis"
   },
   "changelog": {
     "title": "Notes de version"

@@ -1,0 +1,79 @@
+{
+  "communityPackApproved": {
+    "subject": "\"{{packName}}\" já está na comunidade",
+    "preheader": "Seu pack \"{{packName}}\" foi aprovado.",
+    "heading": "Aprovado!",
+    "intro": "<strong>{{packName}}</strong> foi aprovado e já está disponível para todo mundo no 63.",
+    "cta": "Ver pack na comunidade",
+    "reviewerNote": "Uma nota de quem revisou:",
+    "caption": "Os jogadores podem encontrá-lo na seção de packs da comunidade dentro do app.",
+    "text": "Aprovado!\n\n\"{{packName}}\" foi aprovado e já está disponível para todo mundo no 63.\n\nVer: {{url}}\n"
+  },
+  "communityPackFeatured": {
+    "subject": "\"{{packName}}\" agora está em destaque",
+    "preheader": "Escolhemos \"{{packName}}\" como pack em destaque na comunidade.",
+    "heading": "Em destaque!",
+    "intro": "Escolhemos <strong>{{packName}}</strong> como pack em destaque na comunidade.",
+    "cta": "Ver pack em destaque",
+    "caption": "Packs em destaque aparecem no topo da seção da comunidade.",
+    "text": "Escolhemos \"{{packName}}\" como pack em destaque na comunidade.\n\nVer: {{url}}\n"
+  },
+  "communityPackRejected": {
+    "subject": {
+      "update": "Atualização de \"{{packName}}\" não aprovada",
+      "new": "Novidades sobre \"{{packName}}\""
+    },
+    "preheader": {
+      "update": "Sua atualização de \"{{packName}}\" não foi aprovada — a versão anterior continua disponível.",
+      "new": "Seu pack \"{{packName}}\" não foi aprovado desta vez."
+    },
+    "heading": "Novidades sobre a sua submissão",
+    "intro": {
+      "update": "Revisamos sua atualização de <strong>{{packName}}</strong> e ela não foi aprovada. Esta é a nota do revisor:",
+      "new": "Revisamos <strong>{{packName}}</strong> e ele não foi aprovado desta vez. Esta é a nota do revisor:"
+    },
+    "stillLive": "Boa notícia: a versão aprovada anteriormente continua disponível na biblioteca da comunidade — nada foi removido.",
+    "cta": "Editar e submeter novamente",
+    "text": {
+      "opener": {
+        "update": "Revisamos sua atualização de \"{{packName}}\" e ela não foi aprovada. A versão aprovada anteriormente continua disponível na biblioteca da comunidade — nada foi removido.",
+        "new": "Revisamos \"{{packName}}\" e ele não foi aprovado desta vez."
+      },
+      "reviewerNote": "Nota do revisor:",
+      "invite": "Você pode editar o pack e submeter novamente quando estiver pronto."
+    }
+  },
+  "communityPackRemoved": {
+    "subject": "\"{{packName}}\" foi removido da comunidade",
+    "preheader": "Seu pack \"{{packName}}\" foi retirado por um moderador.",
+    "heading": "Pack removido",
+    "intro": {
+      "withoutReason": "Removemos <strong>{{packName}}</strong> da biblioteca da comunidade.",
+      "withReason": "Removemos <strong>{{packName}}</strong> da biblioteca da comunidade. Este é o motivo:"
+    },
+    "cta": "Abrir pack",
+    "caption": "Você pode editar seu pack e submeter novamente quando estiver pronto.",
+    "text": {
+      "withoutReason": "Removemos \"{{packName}}\" da biblioteca da comunidade.\n\nVocê pode editar seu pack e submeter novamente quando estiver pronto.\n{{url}}\n",
+      "withReason": "Removemos \"{{packName}}\" da biblioteca da comunidade.\n\nMotivo:\n{{reason}}\n\nVocê pode editar seu pack e submeter novamente quando estiver pronto.\n{{url}}\n"
+    }
+  },
+  "communityPackSubmittedAuthor": {
+    "subject": "\"{{packName}}\" submetido para revisão",
+    "preheader": "Recebemos a submissão do seu pack para a comunidade.",
+    "heading": "Submissão recebida",
+    "intro": "Recebemos sua submissão de <strong>{{packName}}</strong> para revisão da comunidade.",
+    "cta": "Ver pack",
+    "caption": "Vamos mandar um e-mail assim que tivermos novidades.",
+    "text": "Recebemos sua submissão de \"{{packName}}\" para revisão da comunidade. Vamos mandar um e-mail quando tivermos novidades.\n\nVer pack: {{url}}\n"
+  },
+  "passwordReset": {
+    "subject": "Redefina sua senha do packs.63.pt",
+    "preheader": "Clique no botão para escolher uma nova senha.",
+    "heading": "Redefina sua senha",
+    "intro": "Recebemos um pedido para redefinir a senha da sua conta no packs.63.pt. Clique no botão abaixo para escolher uma nova.",
+    "cta": "Redefinir senha",
+    "caption": "Se não foi você que pediu, pode ignorar este e-mail — sua senha não vai mudar.",
+    "text": "Redefina sua senha\n\nRecebemos um pedido para redefinir a senha da sua conta no packs.63.pt. Abra este link para escolher uma nova:\n\n{{url}}\n\nSe não foi você que pediu, pode ignorar este e-mail — sua senha não vai mudar.\n"
+  }
+}

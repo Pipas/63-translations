@@ -411,6 +411,52 @@ submission states and email subject lengths should also be checked in context. C
 competing or uncertain exact titles were dropped rather than shipped with wording that
 could cost a team its turn.
 
+## Brazilian Portuguese (`pt-BR`), website and emails only
+
+`63/pt-BR.json` and `general_packs/pt-BR.json` are human translations and are not covered
+here. `packs.63.pt/pt-BR.json` and `emails/pt-BR.json` were AI-generated from the game's
+translation and then reviewed by the maintainer.
+
+### Scope and method
+
+- Both files were translated from the current `en-GB` sources, with `pt-PT` as the
+  reference for tone and product conventions and the human-reviewed `63/pt-BR.json` as the
+  authority on Brazilian terminology.
+- The register is *você* with third-person imperatives (*Crie*, *Verifique*, *Tente
+  novamente*), matching the game.
+- Key order, placeholders, `<csv>`, `<json>` and `<guidelines>` tags, plural pairs and email
+  line breaks, including the trailing one in every `text` value, match the English.
+- Web vocabulary follows Brazilian usage rather than the European forms in `pt-PT`: *senha*
+  (not *password*), *e-mail*, *usuário*, *arquivo*, *baixar*, *salvar*, *planilha*,
+  *desfazer*, *configurações*, *compartilhar*, *excluir* and *curtidas*.
+- *Coisas legais* reads as "cool stuff" in Brazil, so the legal pages are *Informações
+  legais*, as in the game.
+
+### Brazilian Portuguese terminology
+
+Taken from `63/pt-BR.json` wherever the game already uses the term:
+
+| English | Brazilian Portuguese |
+| --- | --- |
+| card | carta |
+| pack | pack |
+| deck | baralho |
+| team | equipe |
+| round | rodada |
+| points | pontos |
+| skip a card | pular |
+| delete | excluir |
+| share | compartilhar |
+| settings | configurações |
+| likes | curtidas |
+| submit (a pack) | submeter |
+| community pack | pack da comunidade |
+
+### App label
+
+Register `pt-BR` in the app as **Português (Brasil)** with **🇧🇷**, and rename `pt-PT` to
+**Português (Portugal)** so the two can be told apart.
+
 ## Cross-locale AI review — 2026-09-20
 
 This pass reviewed every string in the eight AI draft locales across `63/`,
