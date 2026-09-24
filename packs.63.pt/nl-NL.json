@@ -514,6 +514,7 @@
     "failedToAddCard": "Kaart toevoegen mislukt",
     "failedToUpdateCard": "Kaart bijwerken mislukt",
     "failedToDeleteCard": "Kaart verwijderen mislukt",
+    "cardDeletedElsewhere": "Deze kaart is verwijderd",
     "failedToUpdateCards": "Kaarten bijwerken mislukt",
     "failedToDeleteCards": "Kaarten verwijderen mislukt",
     "collaboratorRemoved": "Bijdrager verwijderd",

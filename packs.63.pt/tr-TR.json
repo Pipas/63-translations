@@ -514,6 +514,7 @@
     "failedToAddCard": "Kart eklenemedi",
     "failedToUpdateCard": "Kart güncellenemedi",
     "failedToDeleteCard": "Kart silinemedi",
+    "cardDeletedElsewhere": "Bu kart silindi",
     "failedToUpdateCards": "Kartlar güncellenemedi",
     "failedToDeleteCards": "Kartlar silinemedi",
     "collaboratorRemoved": "Ortak çalışan kaldırıldı",

@@ -514,6 +514,7 @@
     "failedToAddCard": "Kunne ikke legge til kortet",
     "failedToUpdateCard": "Kunne ikke oppdatere kortet",
     "failedToDeleteCard": "Kunne ikke slette kortet",
+    "cardDeletedElsewhere": "Dette kortet er slettet",
     "failedToUpdateCards": "Kunne ikke oppdatere kortene",
     "failedToDeleteCards": "Kunne ikke slette kortene",
     "collaboratorRemoved": "Samarbeidspartneren er fjernet",

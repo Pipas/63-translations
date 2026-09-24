@@ -514,6 +514,7 @@
     "failedToAddCard": "Failed to add card",
     "failedToUpdateCard": "Failed to update card",
     "failedToDeleteCard": "Failed to delete card",
+    "cardDeletedElsewhere": "This card has been deleted",
     "failedToUpdateCards": "Failed to update cards",
     "failedToDeleteCards": "Failed to delete cards",
     "collaboratorRemoved": "Collaborator removed",

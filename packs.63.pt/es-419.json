@@ -514,6 +514,7 @@
     "failedToAddCard": "No se pudo agregar la carta",
     "failedToUpdateCard": "No se pudo actualizar la carta",
     "failedToDeleteCard": "No se pudo eliminar la carta",
+    "cardDeletedElsewhere": "Se eliminó esta carta",
     "failedToUpdateCards": "No se pudieron actualizar las cartas",
     "failedToDeleteCards": "No se pudieron eliminar las cartas",
     "collaboratorRemoved": "Colaborador eliminado",

@@ -390,6 +390,7 @@
     "failedToAddCard": "Impossibile aggiungere la carta",
     "failedToUpdateCard": "Impossibile aggiornare la carta",
     "failedToDeleteCard": "Impossibile eliminare la carta",
+    "cardDeletedElsewhere": "Questa carta è stata eliminata",
     "failedToUpdateCards": "Impossibile aggiornare le carte",
     "failedToDeleteCards": "Impossibile eliminare le carte",
     "collaboratorRemoved": "Collaboratore rimosso",

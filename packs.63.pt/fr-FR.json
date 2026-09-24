@@ -514,6 +514,7 @@
     "failedToAddCard": "Impossible d'ajouter la carte",
     "failedToUpdateCard": "Impossible de mettre à jour la carte",
     "failedToDeleteCard": "Impossible de supprimer la carte",
+    "cardDeletedElsewhere": "Cette carte a été supprimée",
     "failedToUpdateCards": "Impossible de mettre à jour les cartes",
     "failedToDeleteCards": "Impossible de supprimer les cartes",
     "collaboratorRemoved": "Collaborateur retiré",
